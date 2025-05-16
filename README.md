@@ -66,9 +66,14 @@ Developing agents capable of high-order recursive Theory of Mind and strategic s
 conda create -n tradecraft python=3.10
 conda activate tradecraft
 
+git clone git@github.com:TradeCraft-team/TradeCraft.git
+cd TradeCraft
+
 # Install dependencies
 pip install -r requirements.txt
 ```
+
+- download and install mongoDB server: https://www.mongodb.com/try/download/community
 
 ### Configuration
 
@@ -85,6 +90,7 @@ GEMINI_API_KEY=your_gemini_api_key
 
 ```bash
 # Start the game server
+# NOTE: mongoDB server is required to run the server, so please install it first
 # It will typically run on http://localhost:5000
 python tradeCraft/run_server.py
 ```
