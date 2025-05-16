@@ -44,8 +44,11 @@ Developing agents capable of high-order recursive Theory of Mind and strategic s
 *   TradeCraft provides a rigorous testbed for evaluating social intelligence in structured, long-term decision-making environments.
 *   Our comprehensive evaluation framework assesses multiple dimensions of agent performance (see Key Features).
 *   We have conducted extensive evaluations of current Large Language Models, providing insights into their social intelligence capabilities.
-*   For detailed benchmark results and analysis, please refer to our paper: `[Link to Paper/Placeholder for Paper Title]`
 
+<center>
+    <img src="figs/inter_models.png" alt="Evaluation" width="600">
+    <img src="figs/inner_models.png" alt="Evaluation" width="600">
+</center>
 
 
 💾 **Dataset & Game Rules**
@@ -73,7 +76,7 @@ cd TradeCraft
 pip install -r requirements.txt
 ```
 
-- download and install mongoDB server: https://www.mongodb.com/try/download/community
+- Download and install mongoDB server: https://www.mongodb.com/try/download/community
 
 ### Configuration
 
@@ -81,12 +84,12 @@ Create a `.env` file in the root directory for API configurations:
 
 ```
 OPENAI_API_KEY=your_openai_api_key
-CLAUDE_API_KEY=your_claude_api_key
-GEMINI_API_KEY=your_gemini_api_key
+ANTHROPIC_API_KEY=your_claude_api_key
+GOOGLE_API_KEY=your_gemini_api_key
 # Add other necessary API keys or configurations
 ```
 
-### Running the Server
+### Starting the Server
 
 ```bash
 # Start the game server
@@ -100,7 +103,11 @@ python run_server.py
 
 ### human vs. human
 
+After starting the game server, at least two users need to access the game server's URL and join the same room to play against each other.
+
 ### human vs. AI Agent
+
+After a user accesses the game server's URL and selects a room, the user needs to open a new terminal and run the following commands to start an AI agent.
 
 ```bash
 cd SocialImitationGame
@@ -118,26 +125,9 @@ python run_gym_agent_gemini.py
 2. run evaluation script
 
 ```bash
-cd SocialImitationGame
-python evaluate_agent.py
+cd TC_evaluation
+python ....
+
+# here is a real game log
+python rebuild_game.py
 ```
-
-🎮 **Usage**
-
-*   **Running the Game Server**:
-    *   Execute the command provided in the "Running the Server" section above.
-*   **Developing and Running Agents (via Gymnasium API)**:
-    *   Implement your agent logic to interact with the environment using the Gymnasium API.
-    *   Refer to the `SocialImitationGame/src/agent_proxy/` directory for base agent structures and the `tradeCraft/src/` for game-specific logic.
-    *   *(Consider adding an `examples/` directory with sample agent implementations and linking it here.)*
-*   **Playing as a Human (via GUI)**:
-    *   Once the server is running, open your web browser and navigate to `http://localhost:5000` (or the configured address).
-    *   Follow the on-screen instructions to join or observe games.
-
-📜 **License**
-
-This project is licensed under the terms of the [Specify License Name - e.g., MIT License]. Please see the `LICENSE` file for more details.
-
-
-🙏 **Acknowledgements**
-
