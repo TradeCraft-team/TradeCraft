@@ -1,0 +1,99 @@
+{% extends "base.html" %}
+
+
+{% block title %}
+TEST
+{% endblock %}
+
+{% block login %}
+<h1> TEST </h1>
+<br>
+<div class="container">
+    <div id="token"></div>
+    <!-- test () -->
+
+    <input type="text" id="event" style="width:80%" placeholder="Enter event" />
+    <br>
+    <!-- hello (msg) -->
+    <textarea type="text" id="msg" style="width:80%" placeholder="Enter Msg"></textarea>
+    <br>
+
+    <!-- on_test(msg) -->
+
+    <!-- test-response -->
+    <input type="text" id="response" style="width:80%" placeholder="Event expect to recieve" />
+    <button id="test" class="btn btn-primary">Send</button>
+    <button id="clear" class="btn btn-primary">Clear</button>
+    <div> Result:</div>
+    <div id="result" style="width:80%" class="overflow-auto"></div>
+</div>
+
+
+<script type="text/javascript">
+    const socket = io();
+    var is_first_player = true;
+    let myResources = {}; // Holds the user's resources
+    let oppoResources = {}; // Holds the opponent's resources
+    var username = "";
+    let oppoCraftingGoal = "";
+    var listen_list = {"login_success":"",
+    "game_over":"",
+    "phase_error":"",
+    "test_response":"",
+    "username_conflict":"",
+    "reconnection_history":"",
+    "player__respond_apply_last_recipe":"",
+    "unicast_private_target":"",
+    "private_start_info":"",
+    "start_proposal":"",
+    "proposal":"",
+    "proposal_sent":"",
+    "proposal_invalid":"",
+    "proposal_accpeted":"",
+    "proposal_rejected":"",
+    "proposal_reply_message":"",
+    "craft_recipe_validity":"",
+    "private_hand_change":"",
+    "player_craft_done":"",
+    "update_all_hands":"",
+    };
+    var registered_response = [];
+    var token = "";
+    var gamename = ""
+    for (event in listen_list){
+    ((evt)=>{
+    socket.on("server__"+evt, (msg)=>{
+    console.log(msg);
+    $("#result").append($("<div></div>").text("EVENT: server__"+evt));
+    $("#result").append($("<div></div>").text(JSON.stringify(msg)));
+    if ("token" in msg){
+    token = msg.token;
+    $("#token").text(token);
+    }
+    if ("gamename" in msg){
+    gamename = msg.gamename;
+    $("#token").append(gamename);
+    }
+    });
+    })(event);
+    }
+    $("#clear").click((e)=>{
+    $("#result").empty();
+    });
+    $("#test").click((e) => {
+    var msg = JSON.parse($("#msg").val());
+    if (token) msg.token = token;
+    if (gamename) msg.gamename = gamename;
+    socket.emit($("#event").val(), msg);
+
+    if ($("#response").val() in listen_list) {
+    } else {
+    listen_list[$("#response").val()] = "";
+    socket.on($("#response").val(), (msg)=>{
+    $("#result").append($("<div></div>").text("EVENT"));
+    $("#result").append($("<div></div>").text(JSON.stringify(msg)));
+          });
+      }
+  });
+</script>
+{% endblock %}
