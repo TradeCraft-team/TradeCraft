@@ -112,22 +112,9 @@ After a user accesses the game server's URL and selects a room, the user needs t
 ```bash
 cd SocialImitationGame
 # gpt-4o
-python run_gym_agent_4o.py # gpt-4o
-# claude-3-7-sonnet
+python run_gym_agent_4o.py
+# or claude-3-7-sonnet
 python run_gym_agent_claude.py 
-# gemini-1.5-pro
+# or gemini-1.5-pro
 python run_gym_agent_gemini.py 
-```
-
-## evaluation
-
-1. download data from local mongoDB
-2. run evaluation script
-
-```bash
-cd TC_evaluation
-python ....
-
-# here is a real game log
-python rebuild_game.py
 ```
