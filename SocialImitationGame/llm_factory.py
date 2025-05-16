@@ -15,7 +15,7 @@ class LLMFactory:
     def __new__(
         cls,
         model: str = 'gpt-4o-2024-08-06',
-        provider: Literal['azure_openai', 'openai'] = 'azure_openai',
+        provider: Literal['azure_openai', 'openai', 'gemini', 'claude', 'deepseek'] = 'azure_openai',
         api_key: Optional[str] = None,
         api_version: Optional[str] = None,
         azure_endpoint: Optional[str] = None,
@@ -64,7 +64,7 @@ class LLMFactory:
             return ChatGoogleGenerativeAI(
                 model=model,
                 temperature=temperature,
-                api_key="",
+                api_key=api_key,
                 streaming=False,
                 **kwargs
             )
@@ -72,7 +72,7 @@ class LLMFactory:
             return ChatAnthropic(
                 model=model,
                 temperature=temperature,
-                api_key="",
+                api_key=api_key,
                 streaming=False,
                 **kwargs
             )

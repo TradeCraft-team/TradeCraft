@@ -16,7 +16,7 @@ import time
 
 def prep_llm():
     model = 'gemini-1.5-pro'
-    llm = LLMFactory(model=model, provider='gemini')
+    llm = LLMFactory(model=model, provider='gemini', api_key=os.getenv('GOOGLE_API_KEY'))
     return llm
 
 BASIC_TC_GAME_CONFIG.username = f"gemini_undefine"

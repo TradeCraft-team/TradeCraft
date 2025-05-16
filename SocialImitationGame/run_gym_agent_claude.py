@@ -16,7 +16,7 @@ import os
 
 def prep_llm():
     model = 'claude-3-7-sonnet-20250219'
-    llm = LLMFactory(model=model, provider='claude')
+    llm = LLMFactory(model=model, provider='claude', api_key=os.getenv('ANTHROPIC_API_KEY'))
     return llm
 
 import time
