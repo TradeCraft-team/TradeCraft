@@ -92,7 +92,34 @@ GEMINI_API_KEY=your_gemini_api_key
 # Start the game server
 # NOTE: mongoDB server is required to run the server, so please install it first
 # It will typically run on http://localhost:5000
-python tradeCraft/run_server.py
+# ::: Checking MongoDB Connection to MongoDB:127.0.0.1: means failed to connect to the mongoDB server
+# after about 30 seconds, it will proceed
+cd tradeCraft
+python run_server.py
+```
+
+### human vs. human
+
+### human vs. AI Agent
+
+```bash
+cd SocialImitationGame
+# gpt-4o
+python run_gym_agent_4o.py # gpt-4o
+# claude-3-7-sonnet
+python run_gym_agent_claude.py 
+# gemini-1.5-pro
+python run_gym_agent_gemini.py 
+```
+
+## evaluation
+
+1. download data from local mongoDB
+2. run evaluation script
+
+```bash
+cd SocialImitationGame
+python evaluate_agent.py
 ```
 
 🎮 **Usage**

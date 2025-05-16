@@ -64,7 +64,7 @@ class LLMFactory:
             return ChatGoogleGenerativeAI(
                 model=model,
                 temperature=temperature,
-                api_key=“”,
+                api_key="",
                 streaming=False,
                 **kwargs
             )

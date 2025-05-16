@@ -1,5 +1,7 @@
 import json
 import os
+import math
+from fractions import Fraction
 
 
 
@@ -22,11 +24,41 @@ def get_target(message, username):
                 return msg['msg']['target']
     return None
 
+def to_fraction(p: list | dict | int | Fraction | str):
+    """
+    from pair to fraction
+    len(p)==2
+    """
+    match p:
+        case [int(n), int(d)]:
+            return Fraction(n, d)
+        case [float(n), float(d)] | [float(n), int(d)] | [int(n), float(d)]:
+            return Fraction(n).limit_denominator(10000) / Fraction(
+                d).limit_denominator(10000)
+        case {"n": n, "d": d}:
+            return Fraction(n, d)
+        case int(s):
+            return Fraction(s)
+        case float(s):
+            return Fraction(s).limit_denominator(10000)
+        case str(s):
+            try:
+                num = [float(x.strip()) for x in s.split("/")]
+                num = num[:2] if len(num) >= 2 else num[0]
+                return to_fraction(num)
+            except Exception as e:
+                print(e)
+            return -1
+        case _:
+            return p
 
 def parse_crafts(craft_dic):
     sentence = "["
 
     for key, value in craft_dic.items():
+        if isinstance(value, int):
+            value = {"n": value, "d": 1}
+        
         if value['n'] >= value['d']:
             num = value['n'] // value['d']
             

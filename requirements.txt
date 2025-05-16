@@ -27,6 +27,8 @@ pydantic
 # As of the 0.3 release, LangChain uses Pydantic 2 internally.
 langchain
 langchain-openai
+langchain_google_genai
+langchain_anthropic
 # langchain-openai
 langchainhub
 langsmith

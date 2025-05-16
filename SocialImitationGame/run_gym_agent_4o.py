@@ -16,7 +16,7 @@ import os
 def prep_llm():
 
     model = 'gpt-4o-2024-08-06'
-    llm = LLMFactory(model=model, provider='azure_openai')
+    llm = LLMFactory(model=model, provider='openai')
     return llm
 
 

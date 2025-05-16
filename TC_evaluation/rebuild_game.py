@@ -1,10 +1,11 @@
+from fractions import Fraction
 import json
 import os
 from utils_eval import *
 
 
 
-def rebuild_game_info(file_path = "data/recordings/TradeCraft.gongying1.json"):
+def rebuild_game_info(file_path = "../examples/game_logs/game/TradeCraft.Duo_An89RAek_S1_ge-coo+.json"):
     json_record = load_json(file_path)
     basic_info_dic = extract_basic_info_dic(json_record)
 

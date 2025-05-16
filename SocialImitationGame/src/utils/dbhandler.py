@@ -8,6 +8,7 @@ import random
 
 from pymongo import MongoClient
 from pymongo.collection import Collection
+from .str_print import print
 
 DB_NAME = "MongoDB"
 DB_HOST = "127.0.0.1"
