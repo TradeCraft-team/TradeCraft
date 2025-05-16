@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+{% block title %}
+Vanilla Trading
+{% endblock %}
+
+
+{% block js_and_css %}
+<link rel="stylesheet" href="/static/css/style.css">
+<link rel="stylesheet" href="/static/css/crafting.css">
+<link rel="stylesheet" href="/static/css/chat.css">
+<script src="/static/js/main.js"></script>
+<script src="/static/js/crafting.js"></script>
+<script src="/static/js/script.js"></script>
+{% endblock %}
+
+
+{% block login %}
+<h1>Human-Machine Trading</h1>
+<input type="text" id="username-input" placeholder="Enter your username">
+<button id="login-btn">Login</button>
+{% endblock %}
+
+
+{% block game_all %}
+<div class="left-col">
+    <div id="resources">
+        <div class="resource-list">
+            <h5>Your(Alex) Resources</h5>
+            <ul id="my-resources"></ul>
+            <h5>Your Goal</h5>
+            <p id="my-goal"></p>
+        </div>
+        <div class="resource-list">
+            <h5>Opponent's(Taylor) Resources</h5>
+            <ul id="oppo-resources"></ul>
+            <h5>Opponent's Goal</h5>
+            <p id="opponent-goal">???</p>
+        </div>
+    </div>
+    <h5>Game Turn</h5>
+    <p id="my-turn"></p>
+    <div class="crafting-table" id="crafting-table"></div>
+    <div class="chat-container">
+        <div id="chat-box"></div>
+        <div class="proposal-section">
+            <div class="proposal-input-row">
+                <div class="proposal-label">
+                    Request:
+                </div>
+                <div class="proposal-inputs">
+                    <input type="text" id="request-resource" placeholder="Resource">
+                    <input type="number" id="request-amount" placeholder="Amount">
+                    <button id="add-request-btn" class="btn btn-secondary">Add Request</button>
+                </div>
+            </div>
+            <div class="proposal-input-row">
+                <div class="proposal-label">
+                    Offer:
+                </div>
+                <div class="proposal-inputs">
+                    <input type="text" id="offer-resource" placeholder="Resource">
+                    <input type="number" id="offer-amount" placeholder="Amount">
+                    <button id="add-offer-btn" class="btn btn-secondary">Add Offer</button>
+                </div>
+            </div>
+        </div>
+        <input type="text" id="proposal-input" placeholder="Input your proposal by `Add Request` and `Add offer` btns ...">
+        <button id="send-proposal-btn" class="btn btn-primary">Send Proposal</button>
+        <button id="start-crafting-btn" class="btn btn-info">Start Crafting</button>
+        <button id="accept-proposal-btn" class="btn btn-success" disabled>Accept Proposal</button>
+        <button id="reject-proposal-btn" class="btn btn-dark" disabled>Reject Proposal</button>
+    </div>
+</div>
+
+<div id="right-col" class="right-col"></div>
+{% endblock %}
