@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:animal"
+        },
+        "Y": {
+            "item": "lalchemy2:tree"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:monkey"
+    },
+    "show_notification": true
+}

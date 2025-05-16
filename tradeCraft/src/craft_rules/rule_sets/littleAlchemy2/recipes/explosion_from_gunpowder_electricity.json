@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:gunpowder"
+        },
+        "Y": {
+            "item": "lalchemy2:electricity"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:explosion"
+    },
+    "show_notification": true
+}

@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:butterfly"
+        },
+        "Y": {
+            "item": "lalchemy2:net"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:butterfly_net"
+    },
+    "show_notification": true
+}

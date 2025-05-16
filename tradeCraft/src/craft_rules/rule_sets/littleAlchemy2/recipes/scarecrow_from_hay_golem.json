@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:hay"
+        },
+        "Y": {
+            "item": "lalchemy2:golem"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:scarecrow"
+    },
+    "show_notification": true
+}

@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:lava"
+        },
+        "Y": {
+            "item": "lalchemy2:water"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:obsidian"
+    },
+    "show_notification": true
+}

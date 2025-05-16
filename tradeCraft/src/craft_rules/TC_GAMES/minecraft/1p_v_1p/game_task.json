@@ -1,0 +1,188 @@
+[
+  {
+    "hands": [
+        {
+            "minecraft:cherry_planks": 1,
+            "minecraft:coal": 1,
+            "minecraft:iron_ingot": 1,
+            "minecraft:raw_copper": 1,
+            "minecraft:cobblestone": 1
+        },
+        {
+            "minecraft:oak_planks": 1,
+            "minecraft:raw_iron": 5,
+            "minecraft:cobblestone": 1,
+            "minecraft:raw_copper": 2
+        }
+    ],
+    "targets": [
+        {
+            "minecraft:shears": 1
+        },
+        {
+            "minecraft:torch": 1
+        }
+    ]
+  },
+  {
+    "hands": [
+        {
+            "minecraft:cherry_planks": 1,
+            "minecraft:coal": 1,
+            "minecraft:iron_ingot": 1,
+            "minecraft:raw_copper": 1,
+            "minecraft:cobblestone": 1
+        },
+        {
+            "minecraft:oak_planks": 1,
+            "minecraft:raw_iron": 5,
+            "minecraft:cobblestone": 1,
+            "minecraft:raw_copper": 2
+        }
+    ],
+    "targets": [
+        {
+            "minecraft:bucket": 1
+        },
+        {
+            "minecraft:stone_shovel": 1
+        }
+    ]
+  },
+  {
+    "hands": [
+        {
+            "minecraft:cherry_planks": 1,
+            "minecraft:coal": 1,
+            "minecraft:iron_ingot": 1,
+            "minecraft:raw_copper": 1,
+            "minecraft:cobblestone": 1
+        },
+        {
+            "minecraft:oak_planks": 1,
+            "minecraft:raw_iron": 5,
+            "minecraft:cobblestone": 1,
+            "minecraft:raw_copper": 2
+        }
+    ],
+    "targets": [
+        {
+            "minecraft:bucket": 1
+        },
+        {
+            "minecraft:lever": 1
+        }
+    ]
+  },
+  {
+    "hands": [
+        {
+            "minecraft:cherry_planks": 1,
+            "minecraft:coal": 1,
+            "minecraft:iron_ingot": 1,
+            "minecraft:raw_copper": 1,
+            "minecraft:cobblestone": 1
+        },
+        {
+            "minecraft:oak_planks": 1,
+            "minecraft:raw_iron": 5,
+            "minecraft:cobblestone": 1,
+            "minecraft:raw_copper": 2
+        }
+    ],
+    "targets": [
+        {
+            "minecraft:chain": 1
+        },
+        {
+            "minecraft:stone_shovel": 1
+        }
+    ]
+  },
+  {
+    "hands": [
+        {
+            "minecraft:cherry_planks": 1,
+            "minecraft:coal": 1,
+            "minecraft:iron_ingot": 1,
+            "minecraft:raw_copper": 1,
+            "minecraft:cobblestone": 1
+        },
+        {
+            "minecraft:oak_planks": 1,
+            "minecraft:raw_iron": 5,
+            "minecraft:cobblestone": 1,
+            "minecraft:raw_copper": 2
+        }
+    ],
+    "targets": [
+        {
+            "minecraft:chain": 1
+        },
+        {
+            "minecraft:lever": 1
+        }
+    ]
+  },
+  {
+    "hands": [
+      { "minecraft:string": 2, "minecraft:oak_planks": 5, "minecraft:iron_ore": 3, "minecraft:wheat":9, "minecraft:cobblestone": 2},
+      { "minecraft:coal": 3,  "minecraft:beetroot": 1,"minecraft:iron_ore": 3,"minecraft:brown_mushroom": 2,"minecraft:redstone_block": 1 }
+    ],
+    "targets": [
+      { "minecraft:detector_rail": 1 },
+      { "minecraft:target": 1 }
+    ]
+  },
+  {
+    "hands": [
+      { "minecraft:cobblestone": 6, "minecraft:redstone_block": 1, "minecraft:oak_planks": 2, "minecraft:mangrove_roots": 1 ,"minecraft:quartz": 1},
+      { "minecraft:iron_ore": 3, "minecraft:coal": 2,  "minecraft:apple": 1 ,"minecraft:redstone_block": 1,"minecraft:cobblestone":9}
+    ],
+    "targets": [
+      { "minecraft:dropper": 1 },
+      { "minecraft:observer": 1 }
+    ]
+  },
+  {
+    "hands": [
+      {
+        "minecraft:oak_planks": 12,
+        "minecraft:coal": 5,
+        "minecraft:cobblestone": 18,
+        "minecraft:redstone_block": 2,
+        "minecraft:quartz": 3
+      },
+      {
+        "minecraft:gold_ore": 12,
+        "minecraft:string": 9,
+        "minecraft:iron_ore": 6,
+        "minecraft:stick": 4,
+        "minecraft:redstone": 5
+      }
+    ],
+    "targets": [
+      { "minecraft:observer": 1 },
+      { "minecraft:powered_rail": 1 }
+    ]
+  },{
+    "hands": [
+      { "minecraft:oak_log": 3, "minecraft:iron_ore": 2, "minecraft:flint": 3, "minecraft:melon_seeds": 1 },
+      { "minecraft:oak_planks": 3, "minecraft:coal": 2, "minecraft:string": 1, "minecraft:flower_pot": 1 }
+    ],
+    "targets": [
+      { "minecraft:shield": 1 },
+      { "minecraft:arrow": 1 }
+    ]
+  },
+  {
+    "hands": [
+      { "minecraft:cobblestone": 2, "minecraft:coal": 4,"minecraft:redstone_block": 1,"minecraft:iron_ore": 1, "minecraft:quartz": 1},
+      { "minecraft:redstone_block": 1, "minecraft:cobblestone": 2, "minecraft:leather": 1, "minecraft:oak_planks": 3, "minecraft:kelp": 2 }
+    ],
+    "targets": [
+      { "minecraft:comparator": 1 },
+      { "minecraft:lantern": 1 }
+    ]
+  }
+]

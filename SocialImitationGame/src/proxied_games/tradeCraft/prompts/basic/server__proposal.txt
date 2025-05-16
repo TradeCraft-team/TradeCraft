@@ -1,0 +1,14 @@
+Player {{ proposal["self"] }} makes a proposal to you, he/she wants to exchange your:
+
+{% for item, values in proposal['request'].items() %}
+  - {{ item }}: {{ values['n'] // values['d'] }}
+{% endfor %}
+with 
+{% for item, values in proposal['offer'].items() %}
+  - {{ item }}: {{ values['n'] // values['d'] }}
+{% endfor %}
+
+{% if message | length > 0 %}
+  He/She also sent a message to you:
+  {{message}}
+{% endif %}

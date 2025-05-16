@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:mountain"
+        },
+        "Y": {
+            "item": "lalchemy2:continent"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:mountain_range"
+    },
+    "show_notification": true
+}

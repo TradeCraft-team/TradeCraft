@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:livestock"
+        },
+        "Y": {
+            "item": "lalchemy2:christmas_tree"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:reindeer"
+    },
+    "show_notification": true
+}

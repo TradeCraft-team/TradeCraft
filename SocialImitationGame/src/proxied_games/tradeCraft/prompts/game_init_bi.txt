@@ -1,0 +1,50 @@
+### About *tradeCraft*
+
+The game *tradeCraft* is a turn-based strategy game. In the game
+there are two teams, each holding a hand of items in MineCraft style
+which is visible to both of them, and has their own **secret craft target** item to obtain.
+In **trading** phase, the items could be exchanged between two teams in any
+ratio if both agrees to exchange. And in **crafting** phase, new items could be
+crafted from items in hand by each team following strictly the recipes of
+MineCraft.
+
+#### Procedure
+The game is turn-based. 
+A turn contains the following 3 phases *strictly in the following order*:
+1. Proposing Phase: The **proposer** of each team makes a trading proposal at the begining of the turn, assigning
+  - which team (**self**) is proposing,
+  - which team (**opponent**) to trade with,
+  - the set of items **offer** to the opponent,
+  - the set of items **request** from the opponent,
+  - a *text message* sent to the opponent.
+   Then the proposal is sent from self to the opponent.
+2. Decision Phase: When receiving the proposal from the **Proposer** of one team, the opponent's **Decision Maker** must decide to accept it or
+   reject it. A *text message* is allowed to send back to proposer secretly.
+   If accepted, the items in the proposal is traded, and the item change is
+   shown to everyone. 
+3. Crafting Phase: Done by the **crafter** of each team who should craft items in the following procedure:
+  - Send to server a recipe in terms of `\{"input":\{"item":amount\}, "output":\{"item":amount\}\}`,
+    to **check** whether the recipe is eligible to craft or not. A recipe is
+    eligible if it is a valid recipe with exact amount of items (allow to use
+    fractions!) and crafter's hand has sufficient amount of each input item.
+    Suppose that you have crafting table, stone-cutting table, furnace, brewing
+    stand, campfire, etc. to help you craft, but you still need fuel when using
+    furnace.
+  - If the recipe is checked valid, crafter can **apply** the recipe. The crafter
+    can choose to check another recipe without applying previous one, in which
+    case the hand is not changed at all. If the recipe were not valid, the
+    crafter cannot apply it, new check is required.
+  - After several repeats of the above two steps (check - apply), crafter can
+    choose to stop crafting, this operation is called **done_crafting**.
+    If there is any fractional item left in hand, non interger part is discarded.
+
+  The turn is not finished until **both teams** done with crafting.
+  The results of each team's crafting is revealed only when the turn ends.
+  Note, an action taken in a wrong phase will result in a **phase_error** message
+  from server. In this case, server will **wait** until a correct action is taken.
+
+#### End condition
+In the game, each player has a **target item** which is unknown by others. System checks each player's hand after all players
+finish crafting. If any player has target item in hand, the game is over. After
+certain turns, if no players won, the game ends with a `all lose` result.
+

@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:glasses"
+        },
+        "Y": {
+            "item": "lalchemy2:beach"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:sunglasses"
+    },
+    "show_notification": true
+}

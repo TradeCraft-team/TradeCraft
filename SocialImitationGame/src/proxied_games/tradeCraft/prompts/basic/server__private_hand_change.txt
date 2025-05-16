@@ -1,0 +1,4 @@
+Your hand crafts now are:
+{% for item, values in message['hand'].items() %}  
+    - {{ item }}: {{ values['n']}}{% if values.d > 1 %} / {{values.d}}{% endif %}
+{% endfor %}

@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:glass"
+        },
+        "Y": {
+            "item": "lalchemy2:christmas_stocking"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:snow_globe"
+    },
+    "show_notification": true
+}

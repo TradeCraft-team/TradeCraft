@@ -1,0 +1,11 @@
+"""
+Config.
+"""
+
+LOCAL_PORT = 8191
+LOCAL_PATH = f"127.0.0.1:{LOCAL_PORT}"
+
+REQUEST_LIMIT = 300  # per minute
+TOKEN_LIMIT = 300000  # per minute
+MINUTE = 60.0
+STEP_INTERVAL = 0.1

@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:knight"
+        },
+        "Y": {
+            "item": "lalchemy2:light_sword"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:force_knight"
+    },
+    "show_notification": true
+}

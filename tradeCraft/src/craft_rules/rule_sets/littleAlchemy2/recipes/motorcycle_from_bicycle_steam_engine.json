@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:bicycle"
+        },
+        "Y": {
+            "item": "lalchemy2:steam_engine"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:motorcycle"
+    },
+    "show_notification": true
+}

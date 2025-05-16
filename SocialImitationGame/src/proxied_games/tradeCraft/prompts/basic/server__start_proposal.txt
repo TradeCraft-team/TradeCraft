@@ -1,0 +1,4 @@
+### Turn {{turn_index}} of {{max_turn}} begins.
+#### Proposing Phase
+Now it's {{proposer}} turn for proposing.
+

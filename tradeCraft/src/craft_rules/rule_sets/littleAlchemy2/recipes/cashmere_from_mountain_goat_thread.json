@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:mountain_goat"
+        },
+        "Y": {
+            "item": "lalchemy2:thread"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:cashmere"
+    },
+    "show_notification": true
+}

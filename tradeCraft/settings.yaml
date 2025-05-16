@@ -1,0 +1,36 @@
+
+port: 5000
+
+
+# RULE:
+# 1. A new rule is made up of 2 parts:
+#    - Crafting graph written in MC-style json files
+#    - A prefix which is used in item specification, of length 9
+#        (to avoid some hard-coded len-10 string slices)
+# 2. craft_rule_choice: is the folder name containing crafting graph.
+#    - folder locates at path: /tradeCraft/src/craft_rules/rule_sets/
+#    - this folder contains 3 subdirs: item_icons, recipes, tags
+#    - recipes / tags are in Minecraft resource file style in JSON.
+#    - item_icons contains xxx.png or xxx.svg files, all figs are of same format
+#        filename of an icon does **NOT** contain prefix of the ruleset!
+# 3. craft_rule_prefix: is the prefix of items. Mainly used to identify
+#      items from different ruleset with the same name (even though they do not
+#      co-occur on the same server for now).
+# 4. craft_rule_base_path: relative to `/tradeCraft/src/`
+
+craft_rule_base_path: "craft_rules/rule_sets/"
+craft_rule_choice: minecraft
+# littleAlchemy2
+craft_rule_prefix: minecraft
+#   lalchemy2
+icon_format: png
+
+all_craft_rule_instances: minecraft littleAlchemy2
+all_craft_prefix: minecraft lalchemy2
+all_icon_format: png svg
+
+# TEMP_CONTROL RELATED
+
+reload_games_per_game: False
+
+use_game_id: 3

@@ -1,0 +1,26 @@
+Possible Issues:
+- check disconnect activities: disconnected but not deleted from room
+  - third user enters the same first room while the first two did not see new player. (login logic problem)
+
+
+[DONE] LOGIN logic:
+  login
+  uname_old (read from session)
+  username (read from webpage input)
+
+  - uname_old => player => active
+  - username => player => active
+         ==> username / session_id conflict
+  - username => player => not active
+         ==> reconnect
+  - others
+         ==> normal login
+
+
+- [DONE] game capacity problems: more than max persons?
+
+## Reconnections. [LATER]
+
+## Tag loading
+- [TODO] check auto tag-load behavior: whne loading, the coefficient may keep changing
+- Multiple extra visits and runnings (30x or more) of getting tags on webpage. Find reason. This could make things very slow.

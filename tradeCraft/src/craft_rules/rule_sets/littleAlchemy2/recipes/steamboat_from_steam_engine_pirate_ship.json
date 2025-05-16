@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:steam_engine"
+        },
+        "Y": {
+            "item": "lalchemy2:pirate_ship"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:steamboat"
+    },
+    "show_notification": true
+}

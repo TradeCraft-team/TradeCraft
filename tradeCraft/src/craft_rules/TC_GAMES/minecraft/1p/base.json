@@ -1,0 +1,9 @@
+{"hands":
+ [{
+     "minecraft:coal":1,
+     "minecraft:stick":1
+ }],
+ "targets":[
+     {"minecraft:torch":1}
+ ]
+}

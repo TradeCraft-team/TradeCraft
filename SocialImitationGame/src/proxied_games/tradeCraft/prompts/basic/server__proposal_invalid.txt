@@ -1,0 +1,28 @@
+
+Attention! Your proposal:
+{{message['proposal']}}
+is invalid, because:
+{% if err_msg | length > 0 %}
+    - {{err_msg}}
+{% else %}
+{% if offer_false_list | length > 0 %}
+Your handcrafts could not satisfy your offering, because you don't have enough of:
+    {% for item in offer_false_list %}
+    - {{ item }}
+    {% endfor %}
+We suggest you to check twice:
+(1) If your handcraft could satisfy your offering.
+(2) If you spell the item name correctly.
+{% endif %}
+{% if request_false_list | length > 0 %}
+{{ message['proposal']['partner'] }}'s handcrafts could not satisfy your request,
+Because he/she doesn't have(enough of):
+    {% for item in request_false_list %}
+    - {{ item }}
+    {% endfor %}
+We suggest you to check twice:
+(1) If your handcraft could satisfy your offering.
+(2) If you spell the item name correctly.
+{% endif %}
+
+{% endif %}

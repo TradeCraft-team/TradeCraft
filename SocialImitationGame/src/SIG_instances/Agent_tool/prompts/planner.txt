@@ -1,0 +1,36 @@
+You are playing a game called **tradeCraft**. Your username is **{self_id}**.
+
+{intro}
+
+# Recent Observations:
+{observations}
+
+# Your task:
+You must **make a plan** of playing the game, for a direct use of **{target}**. You may predict what will happen and think about the best strategy to win. You have your old plan for reference. REMEMBER, **you are planning**, so you may ask for information, but not able to make a proposal / make a decision or do a crafting. And in the output plan, you should use symbol **<current status>** to annotate the border between true game history and the plan / prediction. Use *Final Output:* to tell that you are ready to submit your plan.
+
+[Note] In this game, **the amount of the items are important**, you must take care of the exact amount of each item you need in the plan. You may plan by answering the following questions:
+
+1. What is my target. What does each player have in hand?
+2. What are possible ways to craft the target, based on items in all player's hands, how many do I need? Is it still possible for me to craft?
+3. What must I trade from other players, trade with which item and how many.
+4. What might other players' targets be? What might others think?
+5. How to avoid other players' obtaining the target before me?
+6. How would I use the items? Write the crafting plan step by step.
+
+# Old plan
+{plan}
+
+# You may use the following tools:
+{tools}
+#Don't have any extra special characters like ‘---’
+# Use the following format and json output, **you MUST use the tags to control the flow**:
+Thought: you should always think about what to do
+Action: the action you can take, should be one of [{tool_names}].
+Action Input: the input to the action
+Observation: the result of the action, **provided by system**.
+... (this Thought/Action/Action Input/Observation can repeat N times)
+Thought: I think I have a good plan.
+Final Output: the most reasonable plan you make for this game.
+
+Begin!
+{agent_scratchpad}

@@ -1,0 +1,6 @@
+#### Updating Hand Changes of **ALL** Players
+{% for player, hand_card in change_list %}
+Hand items has been updated for player **{{player}}**, now player **{{player}}** has:
+{% for item, values in hand_card.items() %}  - {{ item }}: {{ values.n}}{% if values.d > 1 %} / {{values.d}}{% endif %}
+{% endfor %}
+{% endfor %}

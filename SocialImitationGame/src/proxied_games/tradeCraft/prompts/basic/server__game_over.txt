@@ -1,0 +1,24 @@
+### Game Over
+{%- if message.get('reason') == 'win' %}
+    Game is over, we have a winner!!!
+    We offer our sincere congratulations to our winner(s) who successfully crafted their targets:
+    
+    {%- for winner, targets in winners.items() %}
+    - {{ winner }}, with targets:
+    {% for item, values in targets.items() %} 
+        - {{ item }}: {{ values['n'] // values['d'] }}
+    {% endfor %}
+    {% endfor %}
+
+    And sorry about the loser(s), who didn't manage to craft the targets:
+    {%- for loser, targets in losers.items() %}
+    - {{ loser }}, with targets:
+    {% for item, values in targets.items() %} 
+        - {{ item }}: {{ values['n'] // values['d'] }}
+    {% endfor %}
+    {% endfor %}
+
+{%- else %}
+    Game is over, there is a tie, nobody wins. 
+{%- endif %}
+

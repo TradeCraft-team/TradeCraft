@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:sap"
+        },
+        "Y": {
+            "item": "lalchemy2:sugar"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:maple_syrup"
+    },
+    "show_notification": true
+}

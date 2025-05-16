@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:house"
+        },
+        "Y": {
+            "item": "lalchemy2:babe_the_blue_ox"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:barn"
+    },
+    "show_notification": true
+}

@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:horse"
+        },
+        "Y": {
+            "item": "lalchemy2:double_rainbow"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:unicorn"
+    },
+    "show_notification": true
+}

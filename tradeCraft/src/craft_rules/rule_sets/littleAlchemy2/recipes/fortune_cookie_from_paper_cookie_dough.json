@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:paper"
+        },
+        "Y": {
+            "item": "lalchemy2:cookie_dough"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:fortune_cookie"
+    },
+    "show_notification": true
+}

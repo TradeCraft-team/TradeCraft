@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:chocolate"
+        },
+        "Y": {
+            "item": "lalchemy2:heat"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:hot_chocolate"
+    },
+    "show_notification": true
+}

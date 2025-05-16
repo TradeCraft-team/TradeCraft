@@ -1,0 +1,7 @@
+The TradeCraft game {{message['game_name']}}is about to begin!
+Your username is **{{message['username']}}**.
+
+## Goal
+    Attention! Your Final Goal is to get ***{{num}} {{item[10:]}}{% if num > 1 %}(s){% endif %}***.
+    Attention! Your Final Goal is to get ***{{num}} {{item[10:]}}{% if num > 1 %}(s){% endif %}***.
+    Attention! Your Final Goal is to get ***{{num}} {{item[10:]}}{% if num > 1 %}(s){% endif %}***.

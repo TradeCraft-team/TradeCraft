@@ -1,0 +1,12 @@
+{% if message['result'] %}
+    Great! Your recipe is **correct and feasible**!
+{% elif message['return_code'] == 1 %}
+    Sorry, there seems to be an issue with your recipe. Please check:
+    1. The recipe follows Minecraft game rules.
+    2. You have the required crafts in the necessary quantities.
+
+    You should use the "possible_recipes_from_hand" tool to see all available recipes at this stage.
+{% elif message['return_code'] == 2 %}
+    Sorry, your recipe follows the rules, but it’s still unfeasible with your current crafts.
+    You should use the "possible_recipes_from_hand" tool to see all available recipes at this stage.
+{% endif %}

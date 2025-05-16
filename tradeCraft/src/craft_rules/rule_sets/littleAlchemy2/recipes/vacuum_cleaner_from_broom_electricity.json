@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:broom"
+        },
+        "Y": {
+            "item": "lalchemy2:electricity"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:vacuum_cleaner"
+    },
+    "show_notification": true
+}

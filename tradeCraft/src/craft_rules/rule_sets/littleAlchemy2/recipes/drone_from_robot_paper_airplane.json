@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:robot"
+        },
+        "Y": {
+            "item": "lalchemy2:paper_airplane"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:drone"
+    },
+    "show_notification": true
+}

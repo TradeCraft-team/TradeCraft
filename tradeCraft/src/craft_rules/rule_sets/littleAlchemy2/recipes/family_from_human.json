@@ -1,0 +1,16 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:human"
+        }
+    },
+    "pattern": [
+        "XX"
+    ],
+    "result": {
+        "item": "lalchemy2:family"
+    },
+    "show_notification": true
+}

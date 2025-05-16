@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:rain"
+        },
+        "Y": {
+            "item": "lalchemy2:sickness"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:acid_rain"
+    },
+    "show_notification": true
+}

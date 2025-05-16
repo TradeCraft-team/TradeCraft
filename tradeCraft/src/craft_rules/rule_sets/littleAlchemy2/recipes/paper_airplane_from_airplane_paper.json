@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:airplane"
+        },
+        "Y": {
+            "item": "lalchemy2:paper"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:paper_airplane"
+    },
+    "show_notification": true
+}

@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:jackolantern"
+        },
+        "Y": {
+            "item": "lalchemy2:sack"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:scarecrow"
+    },
+    "show_notification": true
+}

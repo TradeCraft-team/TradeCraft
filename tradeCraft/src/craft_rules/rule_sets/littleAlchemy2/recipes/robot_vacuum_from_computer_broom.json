@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:computer"
+        },
+        "Y": {
+            "item": "lalchemy2:broom"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:robot_vacuum"
+    },
+    "show_notification": true
+}

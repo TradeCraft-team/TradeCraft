@@ -1,0 +1,5 @@
+Attention! A **Phase Error** occurred!
+You are not allowed to take the action: ***{{message['incoming_event'][8:]}}*** during the current phase.
+Here are some tips for you:
+    - Please adhere strictly to the game procedures!
+    - You can check the exact procedures in rule descriptions.

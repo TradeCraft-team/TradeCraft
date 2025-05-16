@@ -1,0 +1,3 @@
+The proposal from {{proposer}} to {{reciever}} has been [accepted].
+
+#### Crafting Phase

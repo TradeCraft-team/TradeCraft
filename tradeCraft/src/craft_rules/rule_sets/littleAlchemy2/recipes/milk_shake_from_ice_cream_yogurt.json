@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:ice_cream"
+        },
+        "Y": {
+            "item": "lalchemy2:yogurt"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:milk_shake"
+    },
+    "show_notification": true
+}

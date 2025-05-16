@@ -1,0 +1,222 @@
+{
+    "values":
+    [
+        "#minecraft:coals",
+        {
+            "value": "minecraft:dried_kelp_block",
+            "count": 0.4
+        },
+        {
+            "value": "minecraft:blaze_rod",
+            "count": 0.666666667
+        },
+        {
+            "value": "minecraft:trapped_chest",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:smithing_table",
+            "count": 5.333333333
+        },
+        {
+            "value": "#minecraft:wooden_trapdoors",
+            "count": 5.333333333
+        },
+        {
+            "value": "#minecraft:wooden_stairs",
+            "count": 5.333333333
+        },
+        {
+            "value": "#minecraft:wooden_slabs",
+            "count": 10.66666667
+        },
+        {
+            "value": "#minecraft:wooden_pressure_plates",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:wooden_hoe",
+            "count": 8
+        },
+        {
+            "value": "#minecraft:wooden_buttons",
+            "count": 16
+        },
+        {
+            "value": "#minecraft:fence_gates",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:note_block",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:mangrove_roots",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:loom",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:lectern",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:ladder",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:jukebox",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:fletching_table",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:fishing_rod",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:daylight_detector",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:crossbow",
+            "count": 8
+        },
+        {
+            "value": "minecraft:crafting_table",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:composter",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:chiseled_bookshelf",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:chest",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:cartography_table",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:bow",
+            "count": 8
+        },
+        {
+            "value": "minecraft:bookshelf",
+            "count": 5.333333333
+        },
+        {
+            "value": "#minecraft:bamboo_blocks",
+            "count": 5.333333333
+        },
+        {
+            "value": "#minecraft:beehives",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:barrel",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:bamboo_mosaic_stairs",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:bamboo_mosaic_slab",
+            "count": 10.66666667
+        },
+        {
+            "value": "minecraft:bamboo_mosaic",
+            "count": 5.333333333
+        },
+        {
+            "value": "#minecraft:banners",
+            "count": 5.333333333
+        },
+        {
+            "value": "minecraft:wooden_sword",
+            "count": 8
+        },
+        {
+            "value": "minecraft:wooden_shovel",
+            "count": 8
+        },
+        {
+            "value": "minecraft:wooden_pickaxe",
+            "count": 8
+        },
+        {
+            "value": "minecraft:wooden_axe",
+            "count": 8
+        },
+        {
+            "value": "minecraft:wooden_door",
+            "count": 8
+        },
+        {
+            "value": "#minecraft:all_signs",
+            "count": 8
+        },
+        {
+            "value": "minecraft:bowl",
+            "count": 16
+        },
+        {
+            "value": "minecraft:stick",
+            "count": 16
+        },
+        {
+            "value": "minecraft:brush",
+            "count": 16
+        },
+        {
+            "value": "#minecraft:wool",
+            "count": 16
+        },
+        {
+            "value": "minecraft:red_carpet",
+            "count": 23.88059701
+        },
+        {
+            "value": "minecraft:scaffolding",
+            "count": 32
+        },
+        {
+            "value": "minecraft:bamboo",
+            "count": 32
+        },
+        {
+            "value": "#minecraft:planks",
+            "count": 5.333333
+        },
+        {
+            "value": "#minecraft:logs_that_burn",
+            "count": 5.333333
+        },
+        {
+            "value": "#minecraft:boats",
+            "count": 1.333333
+        },
+        {
+            "value": "minecraft:coal_block",
+            "count": 0.1
+        },
+        {
+            "value": "#minecraft:chest_boats",
+            "count": 1.333333
+        },
+        {
+            "value": "minecraft:trapped_chest",
+            "count": 1.333333
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:wine"
+        },
+        "Y": {
+            "item": "lalchemy2:oxygen"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:vinegar"
+    },
+    "show_notification": true
+}

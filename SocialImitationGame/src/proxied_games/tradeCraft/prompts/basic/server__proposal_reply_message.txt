@@ -1,0 +1,4 @@
+{% if message['message'] | length > 0 %}
+    [{{proposer}}] replied to the proposal from [{{reciever}}]:
+    {{message['message']}}
+{% endif %}

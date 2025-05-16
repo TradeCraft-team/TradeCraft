@@ -1,0 +1,16 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:hill"
+        }
+    },
+    "pattern": [
+        "XX"
+    ],
+    "result": {
+        "item": "lalchemy2:mountain"
+    },
+    "show_notification": true
+}

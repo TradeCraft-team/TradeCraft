@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:nuts"
+        },
+        "Y": {
+            "item": "lalchemy2:pressure"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:peanut_butter"
+    },
+    "show_notification": true
+}

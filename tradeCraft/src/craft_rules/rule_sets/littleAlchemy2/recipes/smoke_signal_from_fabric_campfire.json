@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:fabric"
+        },
+        "Y": {
+            "item": "lalchemy2:campfire"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:smoke_signal"
+    },
+    "show_notification": true
+}

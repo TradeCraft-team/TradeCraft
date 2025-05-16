@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:pilot"
+        },
+        "Y": {
+            "item": "lalchemy2:umbrella"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:parachute"
+    },
+    "show_notification": true
+}

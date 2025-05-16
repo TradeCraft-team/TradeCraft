@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:crystal_ball"
+        },
+        "Y": {
+            "item": "lalchemy2:rainbow"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:prism"
+    },
+    "show_notification": true
+}

@@ -1,0 +1,17 @@
+This is the result of calling tool [possible_recipes_from_hand]
+You have:
+{% for item, values in message['hand'].items() %}
+  - {{ item }}: {{values['n']}}{% if values.d>1%} / {{values.d}} {% endif %}
+{% endfor %}
+in your hand, and the Valid recipes are:
+{% for recipe in recipe_details %}
+{{1 + recipe_details.index(recipe)}}. Recipe:
+  - requires(input):
+    {% for item in recipe.children %}- {{ "tag:"+item[0][1:] if item[0].startswith('#') else item[0] }} * {{item[1].n}}{% if item[1].d > 1 %}/{{item[1].d}}{% endif %},
+    {% endfor %}{% if recipe.extra_tags %}
+  - tag parsing:{% endif %}{% for tag, its in recipe.extra_tags.items() %}{% for iname, iamt in its.items() %}
+    - {{ "tag:"+tag[1:] }} * 1 = {{ iname }} * {{iamt.n}}{% if iamt.d > 1 %}/{{ iamt.d }}{% endif %},{% endfor %}{% endfor %}
+  - produces(output): {% for item in recipe.parents %}
+    - {{ item[0][1:] if item[0].startswith('#') else item[0] }} * {{item[1].n}}{% if item[1].d > 1 %}/{{item[1].d}}{% endif %},
+    {% endfor %}
+{% endfor %}

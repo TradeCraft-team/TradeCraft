@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:coconut"
+        },
+        "Y": {
+            "item": "lalchemy2:milk"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:coconut_milk"
+    },
+    "show_notification": true
+}

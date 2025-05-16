@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:treasure_map"
+        },
+        "Y": {
+            "item": "lalchemy2:sailor"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:treasure"
+    },
+    "show_notification": true
+}

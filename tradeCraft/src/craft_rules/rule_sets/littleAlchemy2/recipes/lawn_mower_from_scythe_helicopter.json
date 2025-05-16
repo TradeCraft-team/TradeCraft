@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:scythe"
+        },
+        "Y": {
+            "item": "lalchemy2:helicopter"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:lawn_mower"
+    },
+    "show_notification": true
+}

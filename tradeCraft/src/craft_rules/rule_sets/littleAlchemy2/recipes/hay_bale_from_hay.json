@@ -1,0 +1,16 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:hay"
+        }
+    },
+    "pattern": [
+        "XX"
+    ],
+    "result": {
+        "item": "lalchemy2:hay_bale"
+    },
+    "show_notification": true
+}

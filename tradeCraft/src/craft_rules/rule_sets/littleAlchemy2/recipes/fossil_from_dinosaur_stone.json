@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:dinosaur"
+        },
+        "Y": {
+            "item": "lalchemy2:stone"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:fossil"
+    },
+    "show_notification": true
+}

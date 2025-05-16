@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:glasses"
+        },
+        "Y": {
+            "item": "lalchemy2:bulletproof_vest"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:safety_glasses"
+    },
+    "show_notification": true
+}

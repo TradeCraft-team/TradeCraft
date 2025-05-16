@@ -1,0 +1,3 @@
+The proposal from Player ***{{message['proposer']}}*** has been sent successfully.
+
+#### Decision Phase

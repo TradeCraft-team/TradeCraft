@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:primordial_soup"
+        },
+        "Y": {
+            "item": "lalchemy2:cosmic_egg"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:universe"
+    },
+    "show_notification": true
+}

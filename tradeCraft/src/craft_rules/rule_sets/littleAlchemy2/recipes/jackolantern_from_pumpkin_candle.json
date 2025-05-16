@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:pumpkin"
+        },
+        "Y": {
+            "item": "lalchemy2:candle"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:jackolantern"
+    },
+    "show_notification": true
+}

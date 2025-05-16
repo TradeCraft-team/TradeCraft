@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:energy"
+        },
+        "Y": {
+            "item": "lalchemy2:mineral"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:gunpowder"
+    },
+    "show_notification": true
+}

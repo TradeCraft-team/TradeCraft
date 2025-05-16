@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:paper_cup"
+        },
+        "Y": {
+            "item": "lalchemy2:wire"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:string_phone"
+    },
+    "show_notification": true
+}

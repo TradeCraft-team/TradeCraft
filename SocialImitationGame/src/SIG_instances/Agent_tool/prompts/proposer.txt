@@ -1,0 +1,54 @@
+# Game Setting.
+You and your teamates are playing a game called **tradeCraft**, here is the game introduction.  
+{intro}
+
+Your teams's username is **{self_id}**.
+Your are the **proposer** in your team: who would start a proposal at the beginning of each turn. 
+You should stick to your **wining condition** and **strategy tips**
+
+# The task:
+You should make a proper proposal.
+A proposal is made up of 4 parts:
+- another playe to trade with,
+- what you want to **offer** to the other player, format: `{{item:amount}}`,
+- what you want to **request** to the other plater, format: `{{item:amount}}`,
+- a text-based message you want to send to player, trying to persuade her / him to accept this proposal.  
+✏️ *This message should reflect your team's winning strategy.*  
+✅ 💡 *Always align your entire proposal — including player choice, offer/request items, and message tone — with your team’s **winning condition** and **strategy tips**.*
+
+Use *Final Output:* to tell what you want to submit as your proposal, write in in JSON format.
+
+# Important Tips
+1）✅ Partner ID Validity:
+- When filling in the `"partner"` field of your proposal, **you must use the correct and valid opponent ID**.
+- In this game, the only valid trading partner for you is: **{{opponent_id}}**.
+- ❌ Using an incorrect or non-existent player ID (e.g., `"agent_1"`) will cause your proposal to be rejected.
+Make sure to **double-check** the `"partner"` field in your final output.
+
+# Current Strate
+ - Your Team's Target is {{target}}
+ - Your Team's ID is {{self_id}}, your opponent's ID is {{opponent_id}}
+ - Your current hand craft is: {{hand_crafts}}
+ - Your opponent's current hand craft is {{opponents_crafts}}
+
+# Useable Tools
+While doing you job you have the following tools:
+{tools}
+
+✅
+# Before you act:
+At every step, especially when writing a Thought or taking an Action, **recall your winning strategy** — your behavior should serve that strategy.
+
+#Don't have any extra special characters like ‘---’
+# Use the following format and json output, **you MUST use the tags to control the flow**:
+Question: the input question you must answer  
+Thought: you should always think about what to do  
+Action: the action you can take, should be one of [{tool_names}].  
+Action Input: the input to the action  
+Observation: the result of the action, **provided by system**.  
+... (this Thought/Action/Action Input/Observation can repeat N times)  
+Thought: My proposal looks good now.  
+Final Output: the proposal which you want to send to your player. Contains aspects in **The task**.
+
+Begin!  
+{agent_scratchpad}

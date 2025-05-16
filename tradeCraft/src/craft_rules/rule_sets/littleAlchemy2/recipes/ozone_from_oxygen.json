@@ -1,0 +1,16 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:oxygen"
+        }
+    },
+    "pattern": [
+        "XX"
+    ],
+    "result": {
+        "item": "lalchemy2:ozone"
+    },
+    "show_notification": true
+}

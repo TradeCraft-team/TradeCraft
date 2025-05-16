@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:skier"
+        },
+        "Y": {
+            "item": "lalchemy2:sunglasses"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:ski_goggles"
+    },
+    "show_notification": true
+}

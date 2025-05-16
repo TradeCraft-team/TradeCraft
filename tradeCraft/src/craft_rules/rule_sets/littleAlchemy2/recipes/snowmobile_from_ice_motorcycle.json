@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:ice"
+        },
+        "Y": {
+            "item": "lalchemy2:motorcycle"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:snowmobile"
+    },
+    "show_notification": true
+}

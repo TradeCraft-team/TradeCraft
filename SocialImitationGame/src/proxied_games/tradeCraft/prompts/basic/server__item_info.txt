@@ -1,0 +1,30 @@
+Item Information for {{ item_name }}:
+Valid: {{ is_valid }}, Amount: {{ amount }}
+
+Can be crafted from:
+{%- if children %}
+{%- for child in children %}
+- {{ child }}
+{%- endfor %}
+{%- else %}
+None
+{%- endif %}
+
+Can be used to craft:
+{%- if parents %}
+{%- for parent in parents %}
+- {{ parent }}
+{%- endfor %}
+{%- else %}
+This item is not used as an ingredient in any known recipes.
+{%- endif %}
+
+{%- if tags_prompt %}
+Possible items for the tags (which starts with #, represents a category of items):
+{%- for tag, items in tags_prompt.items() %}
+- {{ tag }}:
+{%- for item, amount in items.items() %}
+    - {{ item }}: {{ amount }}
+{%- endfor %}
+{%- endfor %}
+{%- endif %}

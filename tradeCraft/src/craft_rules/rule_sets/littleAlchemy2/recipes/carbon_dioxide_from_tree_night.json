@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:tree"
+        },
+        "Y": {
+            "item": "lalchemy2:night"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:carbon_dioxide"
+    },
+    "show_notification": true
+}

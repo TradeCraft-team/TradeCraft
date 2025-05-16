@@ -1,0 +1,3 @@
+Item-info Error:
+
+The item-info query for {{ node_name }} is invalid. It could be caused by an wrong spelling of the item, or the item is not possible to craft from the existing item types in this game.

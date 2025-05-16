@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:house"
+        },
+        "Y": {
+            "item": "lalchemy2:donut"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:gingerbread_house"
+    },
+    "show_notification": true
+}

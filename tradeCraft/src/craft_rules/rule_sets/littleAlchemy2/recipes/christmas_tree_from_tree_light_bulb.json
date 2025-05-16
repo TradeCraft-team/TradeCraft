@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:tree"
+        },
+        "Y": {
+            "item": "lalchemy2:light_bulb"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:christmas_tree"
+    },
+    "show_notification": true
+}

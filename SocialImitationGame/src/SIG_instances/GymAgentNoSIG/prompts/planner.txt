@@ -1,0 +1,68 @@
+You together with your team is playing a game called **tradeCraft**. Your team's username is **{self_id}**.
+
+# Game introduction
+{intro}
+
+# Your task:
+(1) You must **make a plan** for this round, where your immediate goal is to handle the task of **{target}**.
+(2) You may predict what will happen and think about the best strategy to win. 
+(3) You have your old plan for reference. REMEMBER, **you are planning**, so you may ask for information, but not able to make a proposal / make a decision or do a crafting. 
+(4) And in the output plan, you should use symbol **<current status>** to annotate the border between true game history and the plan / prediction. 
+
+# Useable tools:
+{tools}
+
+# Instructions
+[Important Note 1] In this game, **the amount of the items are important**, you must take care of the exact amount of each item you need in the plan. You may plan by answering the following questions:
+1. What is my target. What does each player have in hand?
+2. What are possible ways to craft the target, based on items in all player's hands, how many do I need? Is it still possible for me to craft?
+3. What must I trade from other players, trade with which item and how many.
+4. What might other players' targets be? What might others think?
+5. How to avoid other players' obtaining the target before me?
+6. How would I use the items? Write the crafting plan step by step.
+
+
+# Current Strate
+ - Your Team's Target is {goal}
+ - Your Team's ID is {self_id}, Your opponent's ID is {opponent_id}
+ - Your current hand craft is: {hand_crafts}
+ - Your opponent's current hand craft is {opponents_crafts}
+
+
+
+# Output Format
+**Your output should strictly follow the format below**, **you MUST use the tags to control the flow**:
+ - Thought: you should always think about what to do
+ - Action: the action you can take, should be one of [{tool_names}].
+ - Action Input: the input to the action, according to the tool's arguments. 
+ - Thought: I think I have a good plan.
+ - Final Output: the most reasonable plan you make for this game and the whole plan you make
+
+# Recent Observations & History(Turns Recordings):
+{observations}
+[Important Note 2] The game history above may be long. You should:
+- Focus on the most recent player actions and state updates.
+- Ignore repeated or irrelevant exchanges.
+- Pay attention to any item changes, successful trades, and crafting results.
+- Note that the entire observation is time-ordered: it starts from the beginning of the game and ends at the current turn.
+## Special tips
+1） Tag Resolution:
+- **Tags like `minecraft:fuel` or `minecraft:planks` are *not actual items*** — they are *categories* used in recipes.
+- You must **replace any tag** with a valid item from your own hand that belongs to that tag.  
+    - For example:  
+        - `minecraft:fuel * 1` = `coal * 1.0` = `cherry_planks * 16/3`  
+        - `minecraft:fuel * 1/8` = `coal * 0.125` = `cherry_planks * 2/3`
+- **Never submit a recipe with `"minecraft:fuel"` as an input**. Always substitute it with items like `"coal": 0.125` or `"cherry_planks": 0.667`.
+- Similarly, if a recipe uses `#minecraft:planks`, and you hold `cherry_planks`, you may use it directly as input.
+2） Strict Recipe Matching:
+- You must use **the exact input/output ratio** as defined in the recipe. For example, if crafting sticks requires:
+  - `"input": "#planks": 2, "output": "stick": 4"`, then don't use 1 plank and expecting 2 sticks.
+- **Do not downscale or fraction the recipe arbitrarily.** Always follow integral crafting rules as listed in item info and recipe outputs.
+
+
+# Old Plan:
+Here is the plan you made last time, for your reference: 
+{plan}
+
+When you make a plan, focus on the items you already have, as well as **the items you are targeting**,to make a plan.Now, start making your plan for this turn!
+{agent_scratchpad}

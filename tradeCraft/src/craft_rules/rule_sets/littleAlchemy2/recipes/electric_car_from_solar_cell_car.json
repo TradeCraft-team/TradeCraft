@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:solar_cell"
+        },
+        "Y": {
+            "item": "lalchemy2:car"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:electric_car"
+    },
+    "show_notification": true
+}

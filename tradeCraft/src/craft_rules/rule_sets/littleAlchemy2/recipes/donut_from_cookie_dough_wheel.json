@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:cookie_dough"
+        },
+        "Y": {
+            "item": "lalchemy2:wheel"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:donut"
+    },
+    "show_notification": true
+}

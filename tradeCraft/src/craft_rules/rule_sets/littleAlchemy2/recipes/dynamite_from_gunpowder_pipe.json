@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:gunpowder"
+        },
+        "Y": {
+            "item": "lalchemy2:pipe"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:dynamite"
+    },
+    "show_notification": true
+}

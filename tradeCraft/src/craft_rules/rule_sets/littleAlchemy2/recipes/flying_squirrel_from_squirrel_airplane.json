@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:squirrel"
+        },
+        "Y": {
+            "item": "lalchemy2:airplane"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:flying_squirrel"
+    },
+    "show_notification": true
+}

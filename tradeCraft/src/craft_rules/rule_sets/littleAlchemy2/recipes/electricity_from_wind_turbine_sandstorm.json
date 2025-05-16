@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:wind_turbine"
+        },
+        "Y": {
+            "item": "lalchemy2:sandstorm"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:electricity"
+    },
+    "show_notification": true
+}

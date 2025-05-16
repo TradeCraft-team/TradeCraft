@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:science"
+        },
+        "Y": {
+            "item": "lalchemy2:dinosaur"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:paleontologist"
+    },
+    "show_notification": true
+}

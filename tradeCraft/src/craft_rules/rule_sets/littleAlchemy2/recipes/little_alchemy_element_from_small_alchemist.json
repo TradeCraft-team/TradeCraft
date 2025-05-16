@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:small"
+        },
+        "Y": {
+            "item": "lalchemy2:alchemist"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:little_alchemy_element"
+    },
+    "show_notification": true
+}

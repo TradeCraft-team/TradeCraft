@@ -1,0 +1,1 @@
+Player {{message['username']}} has finished his/her crafting process. 

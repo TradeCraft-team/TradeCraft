@@ -1,0 +1,40 @@
+datasets
+# hf
+transformers
+# llm
+openai
+tenacity
+python-dotenv
+pathfinding
+pygame
+matplotlib
+scipy
+networkx
+pyvis
+
+# tradeCraft
+flask
+flask_socketio
+python-socketio[asyncio_client]
+tiktoken
+transitions
+websocket-client
+
+pydantic
+
+# langchain
+# https://python.langchain.com/docs/how_to/pydantic_compatibility/
+# As of the 0.3 release, LangChain uses Pydantic 2 internally.
+langchain
+langchain-openai
+# langchain-openai
+langchainhub
+langsmith
+langgraph
+# https://github.com/hinthornw/trustcall, may modified the source code to fit azure api
+trustcall
+
+# env
+gymnasium
+makefun
+pymongo

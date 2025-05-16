@@ -1,0 +1,84 @@
+"""
+"""
+import asyncio
+import gymnasium
+from llm_factory import LLMFactory
+from dotenv import load_dotenv, find_dotenv
+from langchain_openai import AzureChatOpenAI
+from langchain.tools.render import render_text_description
+# from src.SIG_instances.GymAgentNoSIG import GymAgent
+from src.SIG_instances.GymAgentNoSIG.single_agent_deepseek import GymAgent_deepseek
+from src.agent_proxy import *
+from src.agent_proxy.utils import print
+from src.proxied_games.tradeCraft import *
+import os
+import random
+from typing import Literal, Optional
+from langchain_openai import AzureChatOpenAI, ChatOpenAI
+# from langchain_xai
+from langchain_ollama import ChatOllama
+# from langchain_community.llms import Ollama
+# from langchain_core.prompts import ChatPromptTemplate
+# from langchain_core.output_parsers import StrOutputParser
+
+
+def prep_llm(model='deepseek_chat', provider='deepseek'):
+    llm = LLMFactory(model=model, provider=provider)
+    return llm
+
+
+import time
+
+BASIC_TC_GAME_CONFIG.username = f"deepseek-player{int(time.time())}"
+
+
+async def run():
+    """
+    The 'Standard' gymnasium environment workflow.
+    """
+    BASIC_TC_GAME_CONFIG.username = 'deepseek_'
+
+    env = gymnasium.make("sig/AsyncProxyTooled-v0",
+                         addr="localhost",
+                         port=5000,
+                         game_dynamics=BASIC_TC_GAME_DYNAMICS,
+                         language_processor=BASIC_TC_LANGUAGE_PROCESSOR,
+                         docs=BASIC_TC_GAME_CONFIG.tool_docs,
+                         game_config=BASIC_TC_GAME_CONFIG)
+    # intro = BASIC_TC_LANGUAGE_PROCESSOR.game_intro()
+    intro = BASIC_TC_LANGUAGE_PROCESSOR.game_intro(winding_target='competitive')
+
+    cnt = -1
+    print(env)
+    print(cnt := cnt + 1, s=1)
+    # print(render_text_description(env.tools))
+    game_id = "deepseek_vs_4o"
+    agent = GymAgent_deepseek(env,
+                              llm=prep_llm(),
+                              game_id=game_id,
+                              llm_with_structured=prep_llm(
+                                  model='gpt-4o-2024-08-06',
+                                  provider='azure_openai'),
+                              port=8192,
+                              intro=intro)
+    obs, info = await env.reset()
+
+    terminated = False
+    truncated = False
+    # print(info["translated"])
+    while not (terminated or truncated):
+
+        print(cnt := cnt + 1, s=1)
+        action = await agent.generate_action(info)
+        if action is None:
+            terminated = True
+            continue
+        print(action, s=23)
+        obs, _, terminated, truncated, info = await env.step(action)
+        # print(info["translated"])
+
+
+if __name__ == '__main__':
+    assert load_dotenv(
+        find_dotenv(filename='.env', raise_error_if_not_found=True))
+    asyncio.run(run())

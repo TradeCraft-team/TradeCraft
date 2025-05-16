@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:caviar"
+        },
+        "Y": {
+            "item": "lalchemy2:seaweed"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:sushi"
+    },
+    "show_notification": true
+}

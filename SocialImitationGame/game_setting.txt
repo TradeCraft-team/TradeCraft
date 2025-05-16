@@ -1,0 +1,14 @@
+Task Setup:
+You are participating in a competitive crafting task based on Minecraft's crafting paths. Multiple participants are involved, each assigned a specific set of resources and a unique crafting goal. All participants' resources are transparent, but their crafting goals are not. Your goal is to be the first to craft your assigned item by proposing trades with other participants. Items and crafting rules follows MineCraft. Suppose that you have crafting table, stone-cutting table, furnace, brewing stand, etc. The key to winning is to craft your goal item as quickly as possible while concealing your goal, accurately predicting other participants' goals, and hindering their progress.
+
+Trade Proposal Rules:
+1. You can make a trade proposal to your opponent, stating what you want from them and what you are willing to give in return.
+2. When you receive a trade proposal from your opponent, you can either accept or reject it. No modifications are allowed.
+3. The process continues in alternating turns until one participant successfully crafts their item and wins the game, or until the maximum number of turns {{ max_turns }} is reached.
+
+Scoring System:
+1. If you successfully craft your assigned item first, you win and receive 3 points.
+2. If your opponent crafts their assigned item first, you lose and receive 0 points.
+3. If both participants craft their assigned items simultaneously, or neither crafts their item within the allotted {{ max_turns }} turns, it is considered a draw, and both participants receive 1 point.
+
+In this game, your username is {{ username }}.

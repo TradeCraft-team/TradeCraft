@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:cookie_dough"
+        },
+        "Y": {
+            "item": "lalchemy2:fruit"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:pie"
+    },
+    "show_notification": true
+}

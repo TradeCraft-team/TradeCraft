@@ -1,0 +1,19 @@
+{
+    "type": "lalchemy2:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "X": {
+            "item": "lalchemy2:container"
+        },
+        "Y": {
+            "item": "lalchemy2:book_of_the_dead"
+        }
+    },
+    "pattern": [
+        "XY"
+    ],
+    "result": {
+        "item": "lalchemy2:pyramid"
+    },
+    "show_notification": true
+}
