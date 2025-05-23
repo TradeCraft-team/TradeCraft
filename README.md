@@ -118,3 +118,78 @@ python run_gym_agent_claude.py
 # or gemini-1.5-pro
 python run_gym_agent_gemini.py 
 ```
+## Reproduce the results in paper
+All the code for evaluation are under the folder **TC_evaluation**, so cd to the folder first: 
+
+```bash
+
+cd TC_evaluation
+```
+---
+**Note:**
+
+- Due to the inherent randomness in LLM outputs, the *model-based* evaluation results you obtain may differ slightly from those reported in the paper.
+- In our paper, we use **Gemini-1.5-Pro** as the default assessor model for all model-based evaluations.
+---
+
+### 🧪 Evaluation: Different Social Preferences
+
+**Heuristic Evaluation\[Figure 4 (k) and Table 3\]**
+
+To reproduce the heuristic evaluation results of **Gemini-1.5-Pro** with different social preferences, run:
+
+```bash
+python evaluator.py -N Heu_SP
+````
+
+**Model-based Evaluation\[Figure 4 (d-i)\]**
+
+Before performing model-based evaluation, first rebuild the game information from the JSON logs by running:
+
+```bash
+python rebuild_game.py -N SP
+```
+
+Then execute the evaluation:
+
+```bash
+python evaluator.py -N Model_SP
+```
+
+### 🤖 Evaluation: Model Comparison
+
+**Heuristic Evaluation\[Figure 4 (j) and Table 1\]**
+
+To reproduce the heuristic evaluation results comparing different models, run:
+
+```bash
+python evaluator.py -N Heu_Model
+```
+
+**Model-based Evaluation\[Figure 4 (a-c)\]**
+
+First, rebuild the game information:
+
+```bash
+python rebuild_game.py -N Model
+```
+
+Then run the evaluation:
+
+```bash
+python evaluator.py -N Model_Model
+```
+
+
+### 🤖 Evaluation: Model-based evaluation results of winners
+
+Before running this experiment, make sure you've already rebuilt the game info for "Social Preferences" (`python rebuild_game.py -N SP`)
+
+After rebuild all the game info, you can reproduce the result shown in **Figure 5** by running:
+```bash
+python evaluator.py -N winners
+```
+
+### 📁 Output Directory
+
+All evaluation outputs will be saved to the `evaluation_results/` directory.
