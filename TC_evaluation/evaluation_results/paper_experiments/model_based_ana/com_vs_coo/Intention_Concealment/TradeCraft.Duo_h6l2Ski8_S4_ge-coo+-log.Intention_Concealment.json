@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their intention to craft a chain by explicitly stating it in their message.  While offering coal for raw iron could be interpreted in multiple ways, the direct mention of the chain significantly reduces their concealment score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions. They rejected the trade offer, providing a plausible excuse without revealing their need for sticks and cobblestone for the stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal to trade raw copper for cobblestone is a bit revealing, as it hints at a need for cobblestone. While not a direct giveaway of their target (stone shovel), it offers some clues to their intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 continues to reveal their need for iron ingots and their intention to craft a chain in their rejection message. This further lowers their concealment score."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 clearly reveals their need for raw iron and their chain-making intentions.  They are completely open about their goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the trade, which could be interpreted as needing cobblestone for various reasons. Their intention to craft a stone shovel remains well-hidden."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a deceptive proposal, offering raw iron for raw copper. This could mislead player 1 into thinking they need copper, concealing their true goal of crafting a stone shovel."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's acceptance and helpful message further reinforce their openness and don't conceal their intentions."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "While Player 1 doesn't explicitly state their intention to craft a chain, their offer of iron ingots for raw copper combined with their previous turns' behavior makes their plan quite obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains good intention concealment by rejecting the trade and not revealing their actual needs."
+      }
+    ]
+  }
+]

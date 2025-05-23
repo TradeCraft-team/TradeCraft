@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively pursued their self-interest by trading for raw iron, a key component of their target item (chain). They offered less valuable items (cherry planks and coal) in return, maximizing their gain.  They also considered disguising their intentions by requesting cobblestone."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 acted in their self-interest by accepting the trade offer. They recognized the value of the offered items (cherry planks and coal) for their own potential crafting needs, even though they gave up raw iron, which could be useful for other crafting recipes later."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 consistently pursued their self-interest. They tried to acquire cobblestone, which they identified as essential for their target, by offering a less crucial resource (raw copper).  Their repeated attempts, even after initial rejections, demonstrates their commitment to achieving their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 acted in their self-interest by accepting the trade. While cobblestone might have future value, they recognized that acquiring raw copper, a resource they were not actively using, was a low-cost way to maintain positive trading relations and potentially gather information about Player 1's strategy."
+      }
+    ]
+  }
+]

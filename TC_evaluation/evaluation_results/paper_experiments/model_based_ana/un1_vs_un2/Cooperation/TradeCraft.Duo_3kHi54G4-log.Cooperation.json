@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that was beneficial to both players. They offered coal, which player 1 needed for their torch, and requested raw iron, which they needed for shears, and of which Player 1 had an excess."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutually beneficial trade proposed by player 2 and accepted it. This allowed both players to move closer to their respective goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 offered a trade, but it wasn't directly helpful for Player 2's goal. Although they attempted to initiate a trade, it wasn't well-considered in terms of their partner's needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 declined the trade offer but provided a clear explanation for the rejection. This honest communication is a form of cooperation as it avoids wasting time on unproductive trades and clarifies their needs."
+      }
+    ]
+  }
+]

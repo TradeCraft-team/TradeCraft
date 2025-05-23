@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted strategically by offering less valuable resources (coal and planks) to obtain raw iron needed for their target. The offered resources align with Player 2's potential needs, showing calculated self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a seemingly beneficial trade, prioritizing acquiring planks for their target. While the trade appears mutually beneficial, Player 2 primarily focused on their own needs."
+      }
+    ]
+  }
+]

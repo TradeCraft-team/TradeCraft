@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 identified their need for iron ingots, offered a reasonable trade for raw iron, and successfully executed the trade. This demonstrates strong strategic planning by securing necessary resources for their target item (bucket)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly assessed the trade proposal, recognizing that providing raw iron wouldn't hinder their own objective (stone shovel) and potentially opening up future trade opportunities. Accepting the trade was a strategic decision that maximized their resource flexibility."
+      }
+    ]
+  }
+]

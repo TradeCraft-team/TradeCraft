@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted strategically by offering coal in exchange for raw iron, directly benefiting their goal of crafting a bucket. They also sought information about Player 1's target, which while seemingly cooperative, was primarily motivated by a desire to optimize their own crafting strategy."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade, prioritizing a seemingly cooperative approach by sharing their target item. However, accepting raw iron, while not directly useful for their current goal (stone shovel) could potentially benefit them later in the game."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 initiated an empty trade proposal simply to inquire about Player 2's target. This action indicates a cooperative intent rather than self-interest, focusing on information gathering for mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the empty trade and honestly disclosed their target item (bucket), further indicating a cooperative stance rather than a focus on maximizing individual gain. While they asked for iron ingots, they did not propose a concrete offer in return."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 focuses entirely on their own goal. They proposed a trade for raw iron, essential for their bucket, offering raw copper in return, which appears to be surplus to their needs.  This demonstrates clear self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepts the trade, primarily to assist Player 2.  They don't need raw copper and already have the materials for their shovel, so the trade doesn't directly advance their own goals."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 offers coal and raw copper to Player 2, resources they no longer require for their objective. While this appears generous, it ultimately benefits Player 1 by clearing their inventory. The offer doesn't advance their goal, making it partially self-interested."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the offered coal and raw copper, resources they no longer require for their objective. While this appears generous, it ultimately benefits Player 2 by clearing their inventory. The offer doesn't advance their goal, making it partially self-interested."
+      }
+    ]
+  }
+]

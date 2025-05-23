@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully persuaded player 1 to trade. Player 2 clearly stated their needs and offered a reasonable trade.  The message was polite and provided a plausible reason for the trade, even if it wasn't entirely truthful.  This led to a successful trade that benefited both players."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 was receptive to the trade offer and agreed. While they didn't actively persuade anyone, their acceptance facilitated the trade and contributed to the overall success of the interaction.  Their response message was concise and polite."
+      }
+    ]
+  }
+]

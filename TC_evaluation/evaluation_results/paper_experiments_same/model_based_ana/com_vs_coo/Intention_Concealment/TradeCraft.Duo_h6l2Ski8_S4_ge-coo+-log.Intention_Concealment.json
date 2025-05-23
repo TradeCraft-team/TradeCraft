@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's opening proposal and message reveal their need for iron and intention to craft a chain, though the exact recipe remains hidden."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions by declining the trade and not revealing their need for sticks or cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 continues to signal their need for iron, further hinting at their intention to craft a chain.  The rejection message reveals more about their plan."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal to trade raw copper for cobblestone is a good concealing tactic, creating a believable but misleading intention."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's trade and message somewhat reveal their need for iron. While the exact item remains hidden, the focus on iron is clear."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintains some concealment by accepting the trade, but their thinking reveals their focus on cobblestone for the shovel."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance of the trade helps conceal their true intentions, as it doesn't directly contribute to crafting a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal for raw copper is a strategic move to mislead Player 1 about their intentions, while acquiring a potentially useful resource."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's proposal and message reveal their surplus of iron ingots and desire for raw copper, indirectly hinting at their progress towards crafting a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintains decent concealment. Their rejection doesn't reveal their immediate need for cobblestone or sticks, keeping their intentions vague."
+      }
+    ]
+  }
+]

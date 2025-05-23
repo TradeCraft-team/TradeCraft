@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's opening proposal and message reveal their need for iron to craft a bucket. While they offer other resources, the intent behind acquiring iron is relatively transparent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintains ambiguity by accepting the trade, their reasoning for needing cobblestone remains hidden. Their response message doesn't reveal their target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's proposal of a \"gift\" trade while stating they have enough materials is a decent attempt at concealing their immediate needs. However, offering raw copper might suggest it's not crucial to their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's grateful acceptance and offer of other resources doesn't strongly signal their intentions.  They maintain some ambiguity about their needs."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal and message explicitly state their need for iron ingots to craft a bucket. This reveals their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to conceal their intentions by rejecting the trade and vaguely stating they need raw iron for now. Their message doesn't provide player 2 with useful information."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Offering raw iron while asking for anything in return is ambiguous. Player 1 doesn't reveal their need for sticks or planks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the raw iron, which aligns with their need for crafting a bucket.  They don't explicitly reveal their goal, although their acceptance hints at a need for iron."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Repeated attempts to trade for coal and iron ingots further reveal player 2's need for these materials, hinting strongly at a bucket as the target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Repeated rejection of offers for raw materials like copper and iron and stating they need coal for smelting maintains good concealment. Asking for cobblestone is a bit revealing but could suggest various crafts, not giving away their goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposing a null trade doesn't reveal any information about their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepting the null trade maintains ambiguity about their needs.  While needing iron ingots for a bucket, they don't reveal this information."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Repeated proposals to trade for resources necessary for bucket crafting (coal and cobblestone) further solidify the suspicion of player 2 aiming for a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Consistent rejection of proposals and vague statements about needing cobblestone for crafting maintain strong concealment of their target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Another null trade from Player 1 maintains strong intention concealment. The friendly message offers no clues."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Accepting the null trade keeps player 2's need for iron concealed.  They don't reveal their intention to craft a bucket."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Offering raw copper is ambiguous, and asking if player 1 needs anything doesn't reveal their own needs. This maintains some concealment, although offering copper might suggest they don't need it for their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Accepting the raw copper is reasonable, and player 1 doesn't reveal their need for planks or sticks by doing so."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Repeatedly attempting to trade for oak planks clearly signals player 1's need for this material, hinting towards crafting sticks and, potentially, tools."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts the null trade and only mentions needing more iron ingots, maintaining reasonable concealment despite the previous turns' focus on trading for bucket-related materials."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Directly proposing a trade of raw iron for an iron ingot reveals player 2's focus on iron and potentially hints towards crafting a bucket or other iron tools."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Rejecting the raw iron and stating that they don't need any more of it further maintains ambiguity about player 1's intentions."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Repeated attempts to trade raw copper for oak planks, combined with previous failed trades for planks, strongly suggests player 1 needs planks to craft sticks, pointing towards tools."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts the null trade and simply reiterates their need for iron ingots, which could be used for a variety of crafting recipes, maintaining ambiguity."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "N/A - Game Over"
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "N/A - Game Over"
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully persuaded player 2 to trade. They offered items they didn't need and clearly stated their intention (crafting tools), which resonated with Player 2's needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 was receptive to the trade and provided a clear and concise acceptance message, indicating their understanding and willingness to cooperate."
+      }
+    ]
+  }
+]

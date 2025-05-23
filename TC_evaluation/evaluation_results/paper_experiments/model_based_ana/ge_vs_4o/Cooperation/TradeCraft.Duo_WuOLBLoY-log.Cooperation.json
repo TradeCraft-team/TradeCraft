@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade that benefited both players. They offered resources that player 1 could use (coal and planks) and requested raw iron, which they needed for their target item. The message accompanying the proposal was polite and explained the rationale behind the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutual benefit of the trade proposed by Player 2 and accepted it. Their response was positive and agreeable."
+      }
+    ]
+  }
+]

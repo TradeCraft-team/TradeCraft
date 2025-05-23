@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 reveals their need for raw iron and their intention to craft a bucket, although they do attempt to frame the trade as mutually beneficial."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 doesn't reveal their target and justifies the trade based on general resource acquisition, effectively concealing their intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 reveals their need for cobblestone, hinting at a tool-making objective but not the specific tool."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 connects the trade to their need for iron, but avoids explicitly mentioning the bucket again."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's repeated requests for iron and vague justifications make their need for iron increasingly obvious."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to conceal their intentions effectively, rejecting the trade without revealing their target."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "The null trade and generic message effectively conceal Player 1's intentions and crafting progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 directly mentions their need for iron ingots, further revealing their target."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 explicitly mentions needing iron for a bucket, significantly compromising their intention concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to maintain good intention concealment, rejecting the trade without revealing their objective."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "The null trade and generic message perfectly conceal Player 1's intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 directly asks for an iron ingot, making their need for iron and likely target very clear."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 disguises their need for iron by offering a seemingly helpful trade, but their persistent focus on iron is becoming a pattern."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade with a generic justification, keeping their intentions relatively concealed."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's offer to trade raw copper for an iron ingot is slightly suspicious given their abundant raw iron, potentially hinting at a need for the ingot itself."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the trade with a plausible justification, concealing their immediate need for the iron to complete the bucket."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's repeated requests for iron continue to give away their need for the material."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintains consistent intention concealment by rejecting the trade and asking for sticks or planks, which could be used for various crafting recipes."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "The null trade and crafting focus message effectively conceal Player 1's intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 again asks about iron, revealing their persistent need for the material."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 explicitly states their intention to make a bucket, revealing their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade with a reasonable justification related to potential future crafting, concealing their true intentions."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 offers raw copper while stating they don't need anything, concealing their need for sticks by appearing generous."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the raw copper, providing a plausible reason while not revealing their critical need for iron."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended and player 2 lost, target revealed."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended and player 1 lost, target revealed."
+      }
+    ]
+  }
+]

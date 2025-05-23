@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 failed to submit a valid proposal multiple times due to formatting issues.  While they were trying to initiate a trade, their inability to execute it effectively demonstrates poor cooperation in this turn.  Their offer was sound and oriented towards cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent cooperation by accepting player 1's empty trade proposal. They correctly interpreted it as a potential communication issue or strategic pause, and chose to accept it to avoid hindering potential future interactions.  Player 2 expressed a willingness to cooperate and provide help to player 1 if player 1 would follow procedure."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted player 2's proposal for a mutually beneficial trade.  Player 1 demonstrated a clear understanding of the proposal and recognized its value in progressing towards their own goal. This action directly contributes to a cooperative environment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a reasonable trade proposal to player 1, offering raw iron for coal. While their underlying motivation was strategic, the proposed trade had the potential for mutual benefit.  It offered to help player 1 gain resources for crafting other items."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade for iron ingots, clearly stating their need for the resource to craft a compass. This open communication facilitates cooperation by making their intentions clear. Although the trade primarily benefits player 1, the offer of raw copper has some value for player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted player 1's trade proposal, demonstrating cooperation by providing a needed resource. While they acknowledged the potential benefit to player 1, they prioritized the potential value of raw copper for their own crafting goals and made an acceptable decision for both parties in cooperation terms."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade offer from player 2, showing a willingness to cooperate.  They evaluated the offer, recognized its potential value, and accepted it, benefiting both players."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade with player 1, offering raw copper for raw iron. While the trade is strategic, it still offers potential benefit to player 1, demonstrating a degree of cooperative behavior."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade, demonstrating a willingness to cooperate. Although the proposed trade was rejected, the attempt to collaborate is positive. The offered trade was reasonable, indicating an understanding of the game's mechanics and the potential for mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 rejected the trade but provided a clear and polite explanation, showing respect for the other player and maintaining a cooperative environment. While not actively contributing to mutual progress, Player 2 's response encourages future cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejected the trade offer without providing sufficient explanation which is not helpful for cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade proposal offering a valuable item.  While the trade didn't happen, the initiative and clear communication promote cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a mutually beneficial trade, which was accepted, leading to shared progress toward both players' goals. The clear communication and willingness to trade contribute significantly to cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the proposed trade, demonstrating a strong willingness to cooperate and contributing directly to the shared progress of both players. The trade facilitated both players in progressing towards their goals."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected the trade but offered a clear explanation, demonstrating a willingness to maintain a cooperative environment while prioritizing their own needs. The polite and informative response encourages future collaboration."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made another trade proposal with a clear explanation and proposal for future exchanges. The initiative to offer another valuable item promotes cooperation."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a reasonable trade, showcasing initiative and understanding of the game's dynamics. Although the offer was rejected, the effort to collaborate is positive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade but provided a clear explanation, showing respect for the other player. Player 2 expressed interest in alternative trades, fostering continued cooperation."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully persuaded player 1 to trade. Player 2's message was clear, offered items player 1 could use, and explained why the trade would be mutually beneficial. This led to player 1 accepting the proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "player 1 did not need to persuade Player 2  of anything, as Player 2 was the proposer this turn. Therefore, there was no opportunity for persuasion for player 1 in this turn."
+      }
+    ]
+  }
+]

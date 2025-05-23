@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to cooperate by proposing a trade. The offer was reasonable given the resources each player had and their potential needs, demonstrating an understanding of mutual benefit. However, the trade was rejected by Player 2."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the trade proposed by Player 1 without offering a counter-proposal or engaging in further negotiation. While Player 2 considered the strategic implications of the trade, their lack of engagement indicates a lack of cooperation in this turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected the proposed trade, which can be viewed as non-cooperative. However, they provided a clear justification for their rejection, explaining their current crafting goals and resource requirements. This transparency promotes mutual understanding and future trading opportunities."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.4,
+        "justification": "Player 2 proposed a trade, demonstrating initiative towards potential collaboration. However, the offer wasn't entirely favorable for Player 1, suggesting a limited understanding of mutual benefit.  The subsequent crafting actions do not relate to cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade proposal, demonstrating a willingness to cooperate. The proposed trade of a copper ingot for two raw iron was a reasonable offer considering their respective crafting goals. Despite the rejection, Player 1's attempt at a mutually beneficial trade warrants a positive score."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected Player 1's reasonable trade offer without further negotiation or counter-proposal, demonstrating non-cooperative behavior. While Player 2 strategized about obtaining coal, they did not engage in any cooperative interactions."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted Player 2's trade offer. This demonstrates a willingness to cooperate and engage in mutually beneficial exchanges, contributing to a positive and collaborative game experience."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated and successfully completed a trade with Player 1, demonstrating excellent cooperation. The proposed trade was beneficial to both players, showcasing an understanding of mutual benefit and a willingness to work towards a win-win outcome."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade that could have potentially benefited both players.  Although the trade was rejected, the attempt to find a mutually beneficial exchange demonstrates a cooperative mindset."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected Player 1's trade proposal without providing a reason or offering a counter-proposal. This lack of engagement demonstrates non-cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade offer but provided a reason for their decision. While rejecting a trade is not directly cooperative, the explanation shows respect for Player 2 and fosters understanding, which can facilitate future collaboration. Therefore, a moderate score is given."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a trade that could have potentially benefited both players. Despite the trade being rejected, the attempt to initiate a mutually beneficial exchange demonstrates cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to cooperate by proposing a trade for an iron ingot, offering their copper ingot in return.  Despite the rejection, the proactive attempt at a mutually beneficial trade indicates a cooperative approach."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected Player 1's trade offer, which was crucial for Player 1's objective. The lack of a counter-offer or explanation demonstrates non-cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a trade that benefited both players, demonstrating excellent cooperation. This trade allowed Player 1 to acquire the necessary materials to complete their goal, highlighting the value of collaboration in achieving objectives."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade and successfully exchanged items with Player 1. Although the immediate benefit to Player 2 isn't clear, their willingness to trade demonstrates a cooperative approach."
+      }
+    ]
+  }
+]

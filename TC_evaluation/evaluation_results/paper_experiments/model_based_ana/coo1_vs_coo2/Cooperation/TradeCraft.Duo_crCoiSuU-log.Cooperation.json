@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proactively proposed a fair trade of coal for raw iron, clearly explaining their need for iron ingots to craft a chain. They considered their opponent's potential needs and offered a mutually beneficial exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized the mutual benefit of the trade, accepted the proposal, and shared their own crafting goal (stone shovel), fostering open communication and cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade proposal, offering assistance and inquiring about Player 1's needs, demonstrating a willingness to cooperate. However, the proposal lacked concrete items for exchange."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the open-ended trade proposal and expressed their need for oak planks. While they engaged in the trade, their request was passive and didn't fully utilize the opportunity for a more substantial exchange."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 offered their excess iron nuggets for raw iron, directly addressing their crafting needs while also considering that the nuggets might be useful to Player 2. They inquired about Player 2's goal, promoting communication."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized the value of cooperation and accepted the trade despite not needing the iron nuggets. They expressed support for Player 1's goal and facilitated their progress."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 attempted to make a trade offer but initially it was not valid according to game rules, and offered a mutually beneficial trade to Player 1, demonstrating a clear intention to cooperate and help Player 1 reach their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized Player 2's cooperative behavior and accepted the proposed trade, even though it wasn't directly related to their immediate crafting needs. They shared their target item, furthering transparency and collaboration."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a trade that directly benefits both players, offering raw iron for coal and clearly stating their goal.  This proactive approach fosters cooperation and mutual progress."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the trade, even though they didn't immediately need the coal.  They recognized the value of helping Player 1 reach their goal and prioritized shared success."
+      }
+    ]
+  }
+]

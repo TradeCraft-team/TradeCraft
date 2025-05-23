@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 formulated a clear plan to obtain the necessary raw iron for their bucket by offering less crucial items. They correctly identified their need for two more iron ingots and proposed a trade accordingly.  They also acknowledged their fuel source, indicating forethought in the crafting process. This demonstrates excellent strategic planning, considering both the trading and crafting aspects of the game."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent strategic planning by correctly analyzing the trade proposal. They recognized the value of the offered planks for their own objective of crafting a lever and accepted the proposal, advancing their progress towards their goal while giving away excess resources.  Their thinking shows a good understanding of crafting requirements for a lever and an awareness of the potential goals of player 2."
+      }
+    ]
+  }
+]

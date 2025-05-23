@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 actively sought information about their target item (chain) and related crafting recipes, demonstrating self-interest. They also considered their opponent's inventory and formulated a trading strategy to obtain necessary materials (raw iron). Although their trade proposal was rejected, their actions clearly indicate a focus on their own crafting goal."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 also sought information about their target item (stone_shovel) and related crafting recipes, which shows some self-interest. However, they rejected the trade proposal from Player 2 without properly evaluating its potential benefits, indicating a lack of strategic thinking in maximizing their own gains."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 formulated a trade proposal aimed at acquiring 'stone' for their own crafting goal (stone_shovel), showing self-interested behavior. The proposal considered the potential benefit for Player 2 as well, making it more likely to be accepted."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected Player 1's trade proposal without fully evaluating its merit, potentially missing out on raw materials which, upon smelting with their existing fuel source, could have accelerated their chain crafting."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 analyzed their crafting path for chains and identified the need for raw_iron and oak_planks. They made a strategic trade proposal to acquire these from player 1 by offering a copper_ingot."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 again rejected a potentially beneficial trade without sufficient justification, hindering their progress towards their target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a direct and beneficial trade proposal for themselves, offering raw iron (which they had an abundance of) for stone, showing clear self-interest and strategic thinking to achieve their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 carefully evaluated the trade proposal and accepted it, correctly recognizing its benefit towards achieving their target (chain) by acquiring raw iron for smelting into ingots and nuggets."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Despite having the resources to craft a chain, player 2 failed to make a valid trade proposal. Submitting an invalid proposal demonstrates poor self-interest as it wastes a turn and doesn't advance their game."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 had no opportunity to show self-interested behavior this turn as they were not proposed a trade and couldn't craft necessary items for their target (stone_shovel). "
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 formulated a self-serving trade proposal, aiming to acquire cherry planks (needed for sticks for stone_shovel) by offering raw copper. This shows good understanding of their crafting needs and their attempt to obtain the necessary materials. "
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade proposal without sufficient justification. Although they had enough materials to create their target, accepting the trade would have provided surplus resources, which didn't show strategic thought."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2, while having enough materials to craft chain, proposed a trade to gain additional raw_iron, showing long-term planning and self-interest to enhance crafting possibilities beyond the immediate target."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Player 1 missed another opportunity for acquiring a useful material (copper ingot) which, with enough raw copper in hand, could be crafted into blocks and potentially exchanged for necessary items (planks for sticks). Rejecting this didn't show proper assessment of the crafting/trading options and shows poor self interest."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a trade proposal targeted towards their own crafting goal, offering raw iron in exchange for cherry planks needed for sticks, which clearly indicates a self-interested approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade proposal without sufficient reason. Although having enough materials for their target, accepting the raw iron would have been strategic given they have the ability to smelt it, showing poor planning for their long-term resource acquisition. "
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2, although having enough materials for their chain, made a strategic trade proposal by offering their excess copper ingot for raw iron. This act shows self-interest in securing more resources for long-term gains or backup crafting."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Player 1 rejected the copper_ingot offer from Player 2, losing another chance to acquire useful materials which could be traded later for sticks (needed for stone_shovel). This didn't benefit their self interest."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 again attempted to acquire cherry planks for crafting sticks, essential for their stone_shovel, demonstrating persistent focus on their own crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly assessed that trading cherry planks for raw copper would be detrimental to their chain crafting goal as they needed the planks as fuel to smelt raw iron into the necessary iron ingot. Their rejection protected their interests. "
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 attempted to trade their copper_ingot for raw_iron, displaying self-interest and strategic thinking to enhance their resource pool for crafting additional items."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Player 1 rejected a potentially beneficial trade, missing an opportunity to obtain copper_ingot which could have been used for trading later for sticks. Their decision didn't serve their own self-interest."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a successful trade, obtaining cherry_planks for raw_iron. This demonstrated focused self-interest by acquiring a crucial resource for crafting sticks, needed for their stone_shovel. "
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a trade that offered no immediate benefit for their crafting target (chain) but provided them with a small long-term gain of raw_iron."
+      }
+    ]
+  }
+]

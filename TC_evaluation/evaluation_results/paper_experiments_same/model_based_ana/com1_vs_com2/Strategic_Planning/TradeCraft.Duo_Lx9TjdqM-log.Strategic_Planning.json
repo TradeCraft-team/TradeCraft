@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good strategic planning by identifying their need for iron ingots to craft a chain, recognizing that Player 1 had a surplus of raw iron, and formulating a trade proposal to acquire some of it.  They also considered disguising their intentions by requesting cobblestone.  Checking the recipe for a chain shows proactive information gathering."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also demonstrated good strategic planning by recognizing the value of the proposed trade. They correctly assessed that the cherry planks could be used to create sticks for their lever, and the coal could be used for smelting.  Their acceptance of the trade aligned with their overall goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's plan to secure extra cobblestone as a backup demonstrates some strategic thinking, but their repeated attempts to propose an invalid trade lower their score. They also haven't made progress towards their lever goal this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to demonstrate strategic planning by accepting the trade for raw iron, which moves them closer to their goal of crafting a chain. They recognize the value of raw iron and the relative ease of acquiring cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to display good strategic planning by offering a copper ingot for raw iron.  They correctly identify that raw iron is key to their goal, while the copper ingot is less valuable to them. They are actively pursuing their goal and managing their resources effectively."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's acceptance of the trade is questionable. While acquiring a copper ingot could potentially be useful, they are trading away a valuable resource (raw iron) that they may need later. They are not making any progress towards their goal, and they continue to attempt invalid craft recipes."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's strategic planning is weak in this turn.  They make multiple invalid trade proposals and fail to make progress towards crafting their lever. Their reasoning for the trades is also unclear."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 recognizes they have enough iron ingots to craft their chain.  Checking the crafting recipe confirms their understanding and reinforces their strategic focus."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully crafts the chain, demonstrating excellent strategic planning throughout the game. They effectively managed their resources, made beneficial trades, and focused on acquiring the necessary materials to achieve their goal. Crafting the chain demonstrates a clear understanding of the crafting recipes"
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 fails to craft their target item and does not demonstrate strong strategic planning this turn. Repeated failure to check crafting recipes correctly indicate poor resource management and strategic planning."
+      }
+    ]
+  }
+]

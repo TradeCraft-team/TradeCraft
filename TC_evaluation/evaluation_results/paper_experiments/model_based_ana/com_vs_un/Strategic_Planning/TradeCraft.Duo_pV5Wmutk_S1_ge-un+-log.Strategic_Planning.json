@@ -1,0 +1,137 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 formulated a clear plan to obtain the necessary materials for crafting shears, demonstrating good initial strategic planning. They identified their missing resources, analyzed the opponent's inventory, and proposed a reasonable trade. Although the trade was rejected, the initial plan was sound."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered the proposed trade and its potential implications, demonstrating some strategic thinking.  They correctly identified the need for coal/charcoal for their target and expressed concerns about giving away raw iron, showcasing awareness of resource management. However, their decision-making could be improved by exploring alternative trade options or focusing on acquiring the needed resources through crafting."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted to the rejected trade by considering alternative offers. They correctly assessed the value of coal and its potential use to the opponent.  While the subsequent attempts were unsuccessful, the act of adjusting their strategy based on previous outcomes demonstrates a degree of strategic planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 struggled with crafting and seemed to abandon a strategic approach, resorting to trial-and-error.  While they correctly identified the required steps to create sticks, their execution was flawed. They should have focused on understanding and utilizing the available crafting tools more effectively."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strategic thinking by recognizing the opponent's surplus of raw iron and offering a trade that benefited both players. This successful trade brought them closer to their crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted a beneficial trade and identified the need to acquire iron ingots. They demonstrated long-term thinking by focusing on the blast furnace as a target, which demonstrates understanding of crafting progression."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a strategic decision to reject a trade that did not advance their goal, showing a strong focus on their long-term objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to assess their options and considered the opponent's actions in their planning. While their proposed trade was rejected, their focus on resource acquisition and crafting showed some strategic intent."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed persistence in pursuing their strategy and adapted their proposal after an initial error.  The refined trade offer demonstrates continued strategic focus on acquiring iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly interpreted Player 1's need for iron and leveraged it by rejecting the trade and requesting coal, a valuable resource. This indicates a more advanced level of strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to prioritize their need for iron and rejected a trade that offered a less useful material. This reinforces their consistent strategic focus."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted different trading strategies, demonstrating adaptability. While the trades were unsuccessful, the continued pursuit of beneficial exchanges shows some strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated flexibility in their trading strategy, offering a different resource to try and achieve their goal. Their focus remains on acquiring iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 recognized the strategic value of denying their opponent resources and made a deliberate decision to reject a trade.  Their reasoning behind the rejection was sound."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 carefully evaluated the proposed trade and rejected it as not aligning with their strategic goals.  They correctly assessed the low value of cobblestone for their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted a strategic trade to slow down their opponent's progress. While unsuccessful, this demonstrated an awareness of resource denial as a strategic tool."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully traded for a copper ingot, which could be useful for crafting or further trading. This demonstrates successful execution of a trade strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a trade that provided a needed resource, demonstrating a willingness to engage in mutually beneficial exchanges. However, they should be more aware of the opponent's need for raw iron."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's strategic planning was less effective overall.  While they made some reasonable trades and attempted to acquire resources, their efforts were ultimately unsuccessful in achieving their target item. They could have improved their strategy by focusing more on acquiring fuel and crafting intermediate items."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted completely in their self-interest. They identified their need for iron, recognized their opponent possessed a surplus, and formulated a trade offer.  They offered items of lesser value to themselves (cherry planks, cobblestone) to obtain a resource critical for achieving their goal (raw iron). Their internal monologue clearly demonstrates their focus on their own objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interested behavior by accepting a trade that benefited them. They recognized the value of the cherry planks for crafting sticks, which are needed for their target item (lever). While they didn't directly obtain their target item, they acquired a necessary component and furthered their progress.  Their acceptance of the trade, even though they had no immediate need for cobblestone, suggests a willingness to prioritize present gain, even if slightly off-target from their ultimate goal. They could have tried to negotiate for only planks, but decided to simply accept the proposal."
+      }
+    ]
+  }
+]

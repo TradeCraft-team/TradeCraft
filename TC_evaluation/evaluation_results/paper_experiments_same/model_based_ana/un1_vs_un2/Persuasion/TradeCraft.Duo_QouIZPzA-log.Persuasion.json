@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 clearly stated their need for raw iron and offered coal in exchange, providing a reasonable justification for the trade.  The message was polite and specific."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 clearly explained why they were rejecting the trade.  The message was polite and direct."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's proposal was simply stating they didn't need to trade, without attempting to engage in any negotiation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 rejected the trade and expressed their need for iron, but didn't make a counter-proposal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 reiterated their offer and provided a clear rationale for why it would be beneficial for both players, demonstrating persuasive reasoning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's rejection lacked a substantial explanation, simply stating they didn't need copper, without considering a counter-offer or further negotiation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 finally proposed a trade that included raw iron, something player 1 clearly needed. The offer of raw iron along with oak planks for cherry planks was a strategic move, increasing the likelihood of acceptance."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, recognizing the value of the raw iron and the potential utility of oak planks. The acceptance fostered a more collaborative environment and facilitated the trade's successful completion."
+      }
+    ]
+  }
+]

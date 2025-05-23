@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 reveals their need for raw iron by offering coal for it. Though they state it's for \"crafting something\", the specific offer hints at their need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively conceals their intentions. They reject the trade, providing a plausible reason (not needing coal) without revealing their actual goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "By proposing a null trade and stating they have everything they need, Player 2 heavily implies they are close to completing their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to seek raw iron but rejects the null trade and expresses their need for iron, which gives away some information."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 reveals their need for raw iron again, this time offering a copper ingot. This further reinforces their need for iron-related items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to conceal their intentions effectively by rejecting the trade with a plausible excuse."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's request for cherry planks reveals some information about their potential need for either planks or sticks, but their offer of raw iron and planks could be for various reasons."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade, which doesn't reveal much about their intentions. Their thoughts indicate a strategic acceptance for acquiring raw iron."
+      }
+    ]
+  }
+]

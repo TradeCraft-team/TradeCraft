@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 partially concealed their intention by requesting raw iron, which can be used for various crafting recipes. Although the offered items are somewhat related to iron (coal for smelting), the direct request hints at a need for iron-related items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions. They rejected the raw iron trade, which is related to their target, and gave a plausible reason. By requesting crafting information on seemingly unrelated items, player 2 successfully masked their true goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 did not make any proposals or engage in any deceptive actions, making their intention concealment neutral. Their crafting actions were basic and didn't reveal or hide any particular goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's repeated attempts to check stone shovel recipe reveals intentions. The invalid proposal submission further lowers the score due to inconsistent actions."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "By directly offering copper for raw iron, Player 1 reveals a strong need for iron ingots. The justification provided reinforces this revelation, lowering the intention concealment score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains consistent concealment by rejecting the trade and giving a plausible reason.  Their actions do not reveal a need for any specific items, making their intentions unclear."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts a trade that suggests a need for iron, but at this point, their goal remains partially concealed.  Accepting this trade was beneficial, but didn't fully reveal their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal to trade for copper ingot suggests a possible need for iron ingots. This indirectly hints at the user's intentions and reduces concealment."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.4,
+        "justification": "Player 1 continues to reveal a need for iron by proposing trades for it. The given message makes the intent less concealed, lowering the score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains a high concealment score. Rejecting the trade proposal reinforces their previous rejections, while their crafting actions do not reveal their target."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 did not make any revealing trades or take actions that suggested their target. Their rejection of raw copper trade further masked their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Repeatedly checking recipes for the target item reveals intentions. The invalid proposal submission further lowers the score."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "Player 1",
+        "score": 0.4,
+        "justification": "Player 1's repeated requests for raw iron strongly hint at a need for iron ingots, lowering their intention concealment score. The provided message confirms their need for crafting goals related to iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively conceals their intentions by rejecting the trade and providing a plausible reason. Their actions and inquiries do not reveal any specific crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected a trade that could indirectly hint at their bucket crafting intention. The rejection and its justification offer better concealment than offering a trade involving iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Repeatedly looking up stone shovel, stick, plank related recipes reveal intentions."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal, while offering a seemingly unrelated item, indirectly reveals their continued need for iron, thus slightly reducing concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively explains why they don't need stone bricks, which indirectly masks their intention to craft a stone shovel. They successfully avoid revealing their need for planks."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1's actions, especially checking raw iron and trying to craft with it, further reveal their intention to craft something with iron. This reduces their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "The repeated checks for the same recipe lower Player 2's intention concealment score, as it reveals their focus on the stone shovel. The invalid proposal also detracts from their strategy."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1 reveals their need for iron ingots by requesting them directly, thereby lowering their intention concealment. Although they offer copper, their request is a strong indicator of their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains good intention concealment by rejecting a trade related to their target item (stone shovel), thereby avoiding revealing their need for sticks/planks."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts raw iron, which is consistent with their pursuit of iron ingots for crafting a bucket, however, trading for raw materials is less revealing than directly trading for iron ingots, thus improving their concealment slightly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's trade offer for copper ingot suggests an indirect interest in materials that could be related to stone shovel crafting, but their need for sticks/planks is still not explicitly revealed, giving them some concealment."
+      }
+    ]
+  }
+]

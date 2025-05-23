@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by immediately checking the recipe for their target item (chain) and identifying the need for iron. The subsequent trade proposal, while rejected, was a reasonable attempt to acquire the necessary raw materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also started well by checking the recipe for their target item (stone_shovel) and making a well-reasoned decision to reject the trade proposal based on their current needs and resources."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 missed an opportunity to propose a more enticing trade or explore alternative crafting paths."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's strategic planning was evident in their attempt to acquire cherry planks through a trade offer. Although rejected, the proposal showed a clear understanding of their needs and a proactive approach."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a successful trade, securing raw iron necessary for their target item (chain). This demonstrated good strategic planning and adaptation to the game state."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's decision to accept the trade was a smart move. Recognizing the value of cherry planks for achieving their objective (stone_shovel), they made a beneficial exchange despite the cost of raw iron."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1's actions in this turn were not clearly directed towards their objective. Although they rejected a trade, the reasoning behind the rejection wasn't evident in their thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to display good strategic thinking, making another trade proposal in an attempt to acquire necessary materials (coal) while communicating their future needs (planks). Despite rejection, they correctly identified a resource held by the opponent."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent strategic planning by crafting the necessary iron ingots, leading to the crafting of their target (chain) and winning the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's rejection of the coal trade was reasonable given their immediate needs. However, a more proactive trading strategy might have been beneficial for securing missing resources for the stone_shovel."
+      }
+    ]
+  }
+]

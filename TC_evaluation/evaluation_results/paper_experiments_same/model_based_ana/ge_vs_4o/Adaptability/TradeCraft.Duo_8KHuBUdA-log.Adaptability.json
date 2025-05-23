@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by first checking the recipe for a bucket and then formulating a trade proposal based on their needs and the opponent's resources.  Although their initial proposal was rejected, they continued to analyze the situation and consider different crafting possibilities. However, they didn't fully adapt to the rejection, as they didn't immediately change their approach or propose a new trade."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejects the trade proposal due to the model hallucinating which shows no adaptability to the game conditions and just repeats the same thought process repeatedly, and fails to craft any items during the crafting phase."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 adapted well to the trade proposal by accepting a trade that wasn't directly beneficial but maintained a positive relationship.  They correctly analyzed the situation and reasoned through the potential uses of raw copper, ultimately accepting the trade because it didn't hinder their main goal.  They also formulated a solid plan for the next turn, considering multiple trade scenarios and prioritizing trading for raw iron. They considered different trade possibilities and also thought about what their opponent might be crafting"
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrated some adaptability by proposing a trade to acquire the cherry planks, showing that they recognized their need for this material and offered raw copper in return, which would incentivize Player 1. Player 2 successfully crafts the stick and then lever to win the game. However, they struggled with crafting during turn 1 and required multiple attempts to successfully execute the correct steps."
+      }
+    ]
+  }
+]

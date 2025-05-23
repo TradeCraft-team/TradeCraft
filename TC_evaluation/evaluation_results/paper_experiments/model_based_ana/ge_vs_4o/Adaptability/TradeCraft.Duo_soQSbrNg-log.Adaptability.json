@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good adaptability by first checking the recipe for their target item (bucket) and then formulating a trade proposal based on the required materials. The trade request was reasonable and the offered items were relevant to what player 1 might need."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "player 1  analyzed the trade proposal effectively, recognizing the potential benefits of the offered resources and how they aligned with their own crafting goals (lever). Accepting the trade demonstrated adaptability to the available resources and potential crafting paths."
+      }
+    ]
+  }
+]

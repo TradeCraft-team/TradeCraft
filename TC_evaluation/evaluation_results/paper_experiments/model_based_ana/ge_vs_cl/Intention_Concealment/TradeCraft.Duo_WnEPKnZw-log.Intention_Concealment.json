@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 attempted to conceal their need for iron by offering a seemingly reasonable trade for raw iron, disguising their true intention of crafting a bucket. Although the trade was rejected, the initial offer provided some cover for their intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intention to craft a stone shovel. They rejected the trade offer for raw iron, which could have hinted at their need for it to craft tools. Their thought process reveals a focus on acquiring sticks and cobblestone, but this information wasn't shared with player 2."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal revealed their interest in stone, potentially hinting at their need for cobblestone to craft a stone shovel."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade, which could be interpreted as protecting resources needed for their own crafting goal (bucket), although the reason provided was generic."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 re-proposed the trade for raw iron in exchange for stone, further reinforcing their interest in iron. While they explained the trade as mutually beneficial, it continued to hint at their need for iron to craft a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade for stone, which could indicate their need for cobblestone for tools, slightly revealing their intention."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a null trade, revealing no information about their crafting intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the null trade without revealing any information about their intention to craft a bucket."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's invalid proposals and subsequent proposal for raw iron clearly indicated their need for iron, revealing their intention to craft a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to conceal their intentions by rejecting the raw iron trade, avoiding revealing any potential need for iron."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's null proposal and stated intention to craft their target item could raise suspicion about having the necessary components, indirectly hinting at their progress towards a stone shovel."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the null trade, maintaining some concealment of their immediate intention to craft the bucket, despite having the necessary resources."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's null proposal and stated intention to craft their target item signaled their readiness, potentially revealing they have the necessary resources for a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the proposal without giving away their current crafting status or intent."
+      }
+    ]
+  }
+]

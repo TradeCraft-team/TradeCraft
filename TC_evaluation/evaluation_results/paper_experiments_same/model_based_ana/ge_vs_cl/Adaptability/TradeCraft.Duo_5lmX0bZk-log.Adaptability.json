@@ -1,0 +1,156 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent adaptability by thoroughly investigating crafting recipes and formulating a trade proposal beneficial to their target. They correctly identify raw iron as a key resource and offer a relevant counter-trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 also adapts well by recognizing the irrelevance of the proposed trade to their target and rejecting it. They then focus on crafting their target item, showing a clear understanding of their priorities."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates good adaptability by proposing a trade for coal, anticipating future smelting needs, even though they don't need it for their immediate goal. This shows forward thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 displays strong adaptability by carefully evaluating the trade proposal and recognizing its value to their objective. They correctly identify multiple crafting paths and make an informed decision to accept the trade, gaining essential raw materials."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 shows adaptability by attempting a different trading strategy after their initial proposal is rejected. However, the final proposal, though well-intentioned, is ultimately rejected by Player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 maintains focus on their goal and consistently rejects trades that don't directly contribute to crafting their target item. This shows good prioritization and adaptability to the ongoing game situation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes another attempt to trade for coal, demonstrating persistence. While not directly necessary for their target, acquiring coal could be beneficial for future smelting needs, indicating adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's adaptability shines through as they recognize they already possess the materials needed for their target and reject a trade that offers no advantage, preserving valuable resources."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again demonstrates good adaptability, even though they have the materials to craft their target, by proposing a trade.  This shows a proactive approach to resource management and relationship building."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 consistently focuses on their lever and rejects the trade, demonstrating consistent decision-making aligned with their goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 submits a null proposal. While not harmful, it doesn't demonstrate any adaptability to the game state."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly interprets the null proposal and, having the necessary materials for their target, accepts it without issue. They then proceed with their plan, indicating good adaptability and understanding of the game."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 tries a new trading strategy by offering a different item for raw iron, but it's again rejected by Player 1.  Adaptability is present but not highly effective this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to prioritize their goal and reject trades that don't directly help them achieve it. This consistent focus demonstrates adaptability to the game's dynamics."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 persists in trying to get coal, offering increasingly favorable trades. This shows adaptability in attempting to acquire a useful resource."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to demonstrate good resource management by rejecting trades that don't benefit their goal, highlighting adaptable decision-making."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 adapts their strategy by finally offering a trade that Player 1 accepts. This successfully secures a trade for a desired resource."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 finally accepts the coal trade, showing adaptability by securing a necessary resource for their crafting plans."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully trades for cobblestone, adapting to the available resources and getting closer to their target. They demonstrate good planning and execution."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts a trade that doesn't directly hinder their progress, potentially fostering positive relations for future interactions.  While not crucial for their win, it demonstrates social adaptability."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2, having secured their win, proposes a trade that would be beneficial to Player 1, showing adaptability and sportsmanship."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 consistently rejects trades that don't directly contribute to their goal, even in the final turns, demonstrating consistent focus and adaptability."
+      }
+    ]
+  }
+]

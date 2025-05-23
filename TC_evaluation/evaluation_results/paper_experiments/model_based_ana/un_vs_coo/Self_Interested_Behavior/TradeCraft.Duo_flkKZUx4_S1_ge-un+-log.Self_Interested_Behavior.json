@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted entirely in their self-interest. They identified their need for iron, proposed a trade that benefited them, and successfully crafted their target item (shears).  They did not consider player 2's needs beyond what was necessary to secure the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 accepted a trade that was slightly disadvantageous in the short term, hoping to foster goodwill and enable future trades for coal.  While this could be seen as a long-term self-interested strategy, it wasn't strictly maximizing their immediate gain.  They failed to achieve anything towards crafting their target item.  They focused entirely on what player 1 needed and how they could assist instead of how to achieve their goal of crafting a torch."
+      }
+    ]
+  }
+]

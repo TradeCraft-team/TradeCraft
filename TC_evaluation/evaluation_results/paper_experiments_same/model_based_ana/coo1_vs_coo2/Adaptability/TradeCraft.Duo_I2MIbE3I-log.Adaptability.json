@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 initially made invalid proposals, demonstrating poor understanding of the game rules.  While they adapted their proposal by offering coal for raw iron, it took three attempts to create a valid trade.  Their reasoning behind the trade was sound, but the repeated mistakes lower their score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 analyzed the situation effectively, understood the proposed trade's mutual benefits, and accepted, demonstrating good adaptability to the proposed trade and their own goals.  They also identified their crafting path, which is a proactive approach."
+      }
+    ]
+  }
+]

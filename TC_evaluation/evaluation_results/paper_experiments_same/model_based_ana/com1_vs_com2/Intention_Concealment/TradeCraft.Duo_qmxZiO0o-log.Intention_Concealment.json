@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 revealed their need for raw iron by directly requesting it, which hints at the direction of their goal. However, their message provides a plausible cover story about toolmaking, which adds a layer of obfuscation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 gives no explicit indication of their goal.  Their acceptance of the trade offer did not reveal their intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal is ambiguous. While the offer of coal could suggest they don't need it, the trade itself is not clearly revealing of any particular goal, especially since they initiate the trade without any clear need."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts the trade, indirectly revealing their need for coal, hinting at a smelting-related objective. However, they do not explicitly disclose their ultimate goal."
+      }
+    ]
+  }
+]

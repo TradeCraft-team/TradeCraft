@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 initiated a mutually beneficial trade, offering coal for raw iron. They clearly communicated their crafting goal and offered a fair exchange. This demonstrates excellent cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 readily accepted the trade, recognizing the mutual benefit and contributing to a positive interaction.  They also shared their own goal, further promoting cooperation and transparency."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated contact and offered assistance, though without a concrete proposal it's slightly less cooperative than a direct offer."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the offer of assistance but then requested a specific item, which slightly shifts from neutral cooperation to asking for a favor."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 initiated a trade, correctly identifying that Player 2 had iron nuggets. This promoted a fair and transparent exchange of resources."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted a trade that was not immediately beneficial to themselves but clearly aided Player 1's progress.  This selfless act demonstrates strong cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade offer and made an effort to provide Player 1 with sticks despite an initial invalid proposal. Player 2 then offered a fair trade demonstrating good cooperation and understanding of Player 1's needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted Player 2's proposal and revealed their target item, demonstrating trust and collaborative behaviour."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 initiated trade, offering raw iron for coal. Player 1 also shared their goal, showing willingness to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the trade, prioritizing Player 1's needs and demonstrating a clear understanding of the mutual benefit of cooperation."
+      }
+    ]
+  }
+]

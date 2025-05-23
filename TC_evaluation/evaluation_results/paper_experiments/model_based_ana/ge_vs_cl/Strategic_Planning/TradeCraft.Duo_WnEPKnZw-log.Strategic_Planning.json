@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates good strategic planning by identifying their target (bucket), checking the recipe, recognizing they need iron ingots, and formulating a plan to acquire raw iron from Player 1. The proposal to trade raw copper for raw iron is well-reasoned and demonstrates understanding of both players' potential needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates decent strategic planning by identifying their target (stone_shovel) and recognizing they have the necessary components. Their reasoning for rejecting the trade is sound, as raw copper isn't immediately necessary for their objective."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's plan to trade for stone to make cobblestone is not optimal, as they already possess cobblestone.  Their strategic planning is slightly flawed in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeats checking the bucket recipe multiple times without taking further action, indicating a lack of clear planning or decisive action."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates improved strategic planning by reconsidering Player 1's previous offer and proposing a beneficial trade of stone for raw iron. This demonstrates adaptation and understanding of the game state."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes the value of the trade and accepts, aligning with their overall goal of crafting a stone_shovel."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's strategic thinking is flawed in this turn due to their continued attempts to craft with an insufficient amount of oak planks and failing to craft the stick."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepts the null trade and focuses on understanding their crafting requirements. While they identify the need for fuel, they haven't secured a source yet."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 submits an invalid proposal, demonstrating a lack of understanding of the game rules. Repeatedly submitting invalid proposals hinders their strategic planning."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 does not participate actively in this turn due to Player 2's invalid proposals."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 makes a null trade offer and continues struggling with crafting the stick.  Their plan appears to be stuck."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly identifies their current resources are sufficient to achieve their target.  They accept the null trade from Player 1 and prepare to craft their final item, demonstrating sound strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully crafts the bucket, winning the game.  This demonstrates excellent strategic planning throughout the game by acquiring necessary resources and executing the final crafting step."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 continues struggling with crafting and fails to make progress toward their target, demonstrating ineffective strategic planning in the final stages of the game."
+      }
+    ]
+  }
+]

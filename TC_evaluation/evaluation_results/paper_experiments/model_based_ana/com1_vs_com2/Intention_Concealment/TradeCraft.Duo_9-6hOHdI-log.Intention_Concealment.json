@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 disguised their need for iron by offering a seemingly helpful trade of coal, implying they might need it for fuel.  While the request for raw iron hints at a need for iron, it doesn't fully reveal their intention to craft shears specifically."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's acceptance of the trade and their message suggest their primary motivation is obtaining coal.  While they acknowledge Player 1's likely use of the iron for ingots, they don't actively attempt to conceal their own need for coal or their intention to craft a torch."
+      }
+    ]
+  }
+]

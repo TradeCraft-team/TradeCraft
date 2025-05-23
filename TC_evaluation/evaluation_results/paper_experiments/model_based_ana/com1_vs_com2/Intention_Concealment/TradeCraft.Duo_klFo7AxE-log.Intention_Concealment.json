@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their need for raw iron and offered a reasonable trade, but provided a somewhat transparent explanation for the trade.  This hints at their need for iron-based items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, which was beneficial for them. They gave a plausible reason for accepting the trade (\"I could use the planks\") without revealing their specific need for sticks or their intention to craft a stone shovel."
+      }
+    ]
+  }
+]

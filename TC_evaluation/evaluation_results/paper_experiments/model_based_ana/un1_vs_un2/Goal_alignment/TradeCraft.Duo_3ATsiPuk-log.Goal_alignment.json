@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 identified their need for iron ingots to craft a bucket, proposed a reasonable trade to obtain raw iron, and successfully executed the trade. All actions were directly aligned with their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly assessed that the proposed trade would not hinder their own goal of crafting a stone shovel. They accepted the trade, demonstrating an understanding of their needs and a willingness to cooperate without jeopardizing their own objective."
+      }
+    ]
+  }
+]

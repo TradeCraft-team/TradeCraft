@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for raw iron and offered items they didn't need (cherry planks and cobblestone) to obtain it. Their thoughts and actions consistently demonstrate a focus on achieving their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also acted largely in their self-interest. While they acknowledged the potential for future cooperation, their primary motivation for accepting the trade was that it directly benefited them by providing materials needed for their goal.  They carefully assessed the trade's impact on their own progress."
+      }
+    ]
+  }
+]

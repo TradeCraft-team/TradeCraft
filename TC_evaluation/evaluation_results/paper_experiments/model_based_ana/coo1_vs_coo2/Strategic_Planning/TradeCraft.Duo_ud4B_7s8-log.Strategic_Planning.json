@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent strategic planning in this turn. They identify their target (chain), recognize the need for iron ingots, analyze their opponent's hand, and formulate a trade proposal that benefits both players.  They correctly deduce that Player 1 could use coal to smelt raw iron and offers a mutually beneficial trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates good strategic planning by recognizing the value of the trade proposed by Player 2.  They correctly assess their own need for coal and the benefit of the raw copper, leading to an acceptance of the trade and advancement towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identifies the steps needed to create their target item (lever) and attempts to obtain the missing component (iron ingot) via a trade. Although their reasoning for the trade isn't completely sound (they have materials to make a lever already), the attempt to obtain extra resources displays some strategic thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepts the trade, which provides them with more raw materials. However, they haven't fully considered the implications of their actions. Player 1 already has the resources to craft a lever, making the trade less beneficial than Player 2 assumes.  They are attempting to acquire iron, demonstrating a focus on their objective."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes a strategic decision to accept the trade, understanding that although they don't immediately need the raw iron, the trade significantly benefits Player 2 and fosters cooperation. This long-term, cooperative strategy contributes to a positive score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 identifies a need for fuel and successfully trades for coal, displaying a focus on enabling their crafting plans. They recognize the value of preparing for future actions, which is a key element of strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's trade is questionable in terms of strategic value. While acquiring raw iron might be helpful, they primarily need planks and have excess raw materials already. The decision doesn't clearly advance them toward their goal, indicating a slight lapse in strategic thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrates strategic thinking by accepting a trade that provides raw materials for future crafting, even though they don't immediately need cobblestone for their target item. Recognizing the potential value of resources for future turns indicates good planning."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to prioritize cooperation and accepts a trade that benefits Player 2 more than themselves. While helpful for maintaining good relations, the trade doesn't significantly advance their own goal, indicating a less focused strategy this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 identifies their needs, analyzes their opponent's hand, and proposes a trade that brings them closer to crafting their target item. This proactive approach towards resource acquisition displays good strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's repeated attempts to offer raw iron for planks/sticks shows persistence but not necessarily effective strategic planning.  They haven't adapted their strategy despite repeated invalid proposals, which lowers their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes the value of the raw iron offered by Player 1, despite not needing to give anything in return. Accepting the raw iron increases their resources and potentially opens up future crafting opportunities, showing some strategic foresight."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepting the trade demonstrates a willingness to cooperate, which can be a valuable long-term strategy. However, giving away a needed cobblestone for raw materials they already have in abundance isn't the most strategic move in the short term."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 actively seeks out resources they need (cobblestone) and strategically trades excess materials to acquire it.  This proactive bartering demonstrates good strategic resource management."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully trades for the cobblestone they need to craft the lever, showing good strategic thinking and a focus on their target objective.  This focused trade is a positive strategic move."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts a seemingly disadvantageous trade, giving away cobblestone for raw iron. However, the additional iron might be part of a larger plan we don't yet see.  Giving Player 1 cobblestone could be a strategic move to gain favor."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts a neutral trade that allows both players to potentially smelt raw materials. While not directly advancing their own objective, the cooperative nature of the trade could be considered a minor strategic element."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates strategic thinking by initiating a trade that allows them to acquire raw materials and progress towards their goal.  This focus on their target objective and willingness to exchange resources effectively contributes to a high score."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's decision to offer raw iron without receiving anything in return is generous but doesn't strategically advance their own game. They seem to be struggling to craft the lever despite having the necessary materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts Player 1's offer of raw iron, accumulating resources. While their overall crafting strategy is still unclear, accepting free resources demonstrates resourcefulness, a part of strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to exhibit a cooperative approach by accepting a trade that benefits Player 2. While this fosters positive game dynamics, the trade doesn't directly contribute to Player 1 achieving their own target, indicating a less individually focused strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 securing an iron ingot through a trade demonstrates effective resource acquisition.  Their consistent focus on obtaining necessary components for their target item (chain) is indicative of strong strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 offers raw iron without asking for anything in return, demonstrating cooperative play but not necessarily strategic advancement towards their own goal.  They are still struggling to acquire the components to make a lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly identifies the missing components and method for crafting their goal item (chain), and plans to execute the crafting. This demonstrates clear strategic thinking and proper preparation for achieving the win condition."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends, and Player 1 has not achieved their target (lever).  Their earlier trades and crafting decisions have ultimately not contributed to a successful outcome, resulting in a low score."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 wins the game by successfully crafting their target (chain). Their strategic planning, trading, and crafting decisions throughout the game have culminated in victory, earning them a perfect score."
+      }
+    ]
+  }
+]

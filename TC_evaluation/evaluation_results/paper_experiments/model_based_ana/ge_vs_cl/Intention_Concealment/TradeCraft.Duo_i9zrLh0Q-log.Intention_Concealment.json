@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively attempts to conceal their intention by offering a seemingly mutually beneficial trade, masking their need for raw iron by focusing on the copper offered to player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade, partially concealing their intention by giving a plausible reason, but their rejection could indirectly hint at not needing raw iron."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 makes a null proposal and explicitly states they have everything they need, revealing they don't need to trade and giving player 2 information about their progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the null proposal and states their need for iron, but couches it as a general interest rather than a desperate need for their target item."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 again proposes a trade for raw iron, offering a processed material in exchange. This shows their continued need for iron but doesn't fully reveal it's for their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to reject trades involving raw iron, concealing their true intentions and potentially misleading Player 2 about the importance of raw iron."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposes a trade offering raw copper for an iron ingot, which is not very helpful to player 2. This could be an attempt to disguise their needs but is not a strong concealment tactic."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains good intention concealment by rejecting the trade and emphasizing that the iron ingot is essential for their target item without revealing what it is."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes another attempt to get raw iron, offering processed stone. This re-emphasizes their need for iron but provides a reasonable justification for the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's consistent rejection of trades involving their raw iron helps conceal their true intentions, as it doesn't reveal their need (or lack thereof) for it."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 makes a null proposal and states they don't need anything, which is a significant giveaway as they are not actively trying to acquire anything from player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to express their need for raw iron, hinting at their target item requiring it, but not explicitly revealing what the target item is."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 fails to submit a valid proposal due to proposing to an invalid player ID. Player 2's repeated attempts to get raw iron reveal its significance for their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "No actions or proposals from Player 1 in this turn to evaluate for intention concealment."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 makes an invalid proposal revealing their intention to acquire sticks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts a trade for raw iron, indicating a need for iron, but not necessarily revealing its purpose for crafting a bucket specifically."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 reveals they're \"working towards crafting a bucket\" while proposing a trade that directly benefits their needs.  Although hinting the direction of their target item, still some ambiguity remains."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepts Player 2's proposal feigning generosity, maintaining the ambiguity of their own intentions."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 makes an invalid proposal attempting to acquire sticks, revealing their intention to craft a lever or similar item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects a trade, protecting their iron ingot, thus concealing their intention to craft an item requiring this material (likely a bucket). Player 2 provides a generic rejection reason further masking their intention."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 indirectly reveals their need for fuel to smelt iron, hinting at their intention to craft more iron ingots, though the specific target item remains hidden."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects the trade, maintaining control over their resources and keeping their intentions concealed."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal and message reveal their interest in acquiring more iron ingots, though they already possess one, which raises some suspicion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the trade, holding onto their iron ingot and reinforcing their need for it without revealing the exact target item."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends; no actions by player 1 to assess."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends; no actions by player 2 to assess."
+      }
+    ]
+  }
+]

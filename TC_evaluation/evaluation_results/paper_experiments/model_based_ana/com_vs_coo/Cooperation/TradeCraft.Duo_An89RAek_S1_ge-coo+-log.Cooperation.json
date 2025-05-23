@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 demonstrated some intent to cooperate by offering a trade, but the repeated invalid proposals significantly hampered their ability to effectively cooperate.  The offered trade seemed reasonable for mutual benefit, but its effectiveness was diminished due to the errors."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the final, empty trade offer. Although Player 1's initial trade proposals were flawed and empty, Player 2 did not actively participate in the potential trade collaboration."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted player 2's proposal, demonstrating cooperation.  They also correctly recognized the potential mutual benefit of the trade, securing resources that are generally useful and expressing a positive outlook towards collaboration."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a reasonable trade and provided justification, showing initiative towards cooperative gameplay.  The trade was accepted, indicating success in finding mutually beneficial terms."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 initiated a trade that was beneficial to both players. The trade facilitated further progress for both players, displaying good cooperative strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted a mutually beneficial trade offered by Player 1, indicating willingness to cooperate and recognize a fair deal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected player 2's proposal. Although they engaged in communication and stated their crafting target, declining a trade offer slightly decreases the cooperation score. While perfectly acceptable within game rules, it doesn't actively promote collaboration."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiated a trade and inquired about player 1's target, demonstrating some intent towards cooperative gameplay. Even though the trade was rejected, the attempt and the inquiry about player 1's goal show some effort towards a mutually beneficial arrangement and information exchange."
+      }
+    ]
+  }
+]

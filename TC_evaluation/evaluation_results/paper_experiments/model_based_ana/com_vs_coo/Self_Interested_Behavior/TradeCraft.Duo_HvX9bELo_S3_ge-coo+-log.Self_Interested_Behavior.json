@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 focused on acquiring raw iron for their bucket, offering a seemingly fair trade for coal. They directly asked about the bucket recipe, showing clear goal-oriented behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered their own lever goal and the implications of the trade on player 1's progress. While they accepted the trade for coal, their thoughts reveal strategic thinking about their own benefit."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to focus on their bucket goal, thinking about how to acquire the remaining raw iron. They recognized the need for fuel and considered their trading options."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 prioritized smelting their raw iron, a self-interested move that benefits their overall resource management and potential future trades."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 offered a trade, but it wasn't entirely self-interested as it offered valuable raw iron for cobblestone.  They considered mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade, prioritizing their own need for cobblestone, demonstrating self-interested behavior by not giving up a crucial resource."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's rejection of the badly formatted proposal is neutral in terms of self-interest, as it simply enforces the game rules."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 submitting a badly formatted proposal is slightly detrimental to self-interest as it wasted a turn.  They eventually defaulted to no proposal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offered a more valuable trade (iron ingot for cobblestone) in an attempt to achieve their goal, showing increased focus on their own needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the improved trade, prioritizing their own needs and recognizing that the trade didn't bring them closer to their goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, which provided a valuable resource (cobblestone) and an iron ingot towards their goal, a highly self-interested move."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 making an invalid proposal isn't self interested."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a trade with the intent of consolidating resources, which is somewhat self-interested, although it could benefit both players."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade, recognizing that while beneficial to player 1, it didn't contribute towards their own crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, gaining an iron ingot while giving up resources that weren't immediately necessary for crafting their target, a self-interested move."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 offered a strategic trade to acquire both cobblestone and raw iron by offering an iron ingot, a highly self-interested move to advance their own crafting goals."
+      }
+    ]
+  }
+]

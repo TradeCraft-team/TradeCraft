@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's opening proposal reveals their need for iron, hinting at a crafting goal involving iron. While offering coal for raw iron could be seen as a mutually beneficial trade, explicitly stating this and their need for the iron weakens their concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejects the trade, effectively concealing their intentions. Their message is somewhat transparent, as it reveals they don't currently need coal. However, it doesn't reveal their actual crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 continues to reveal their need for iron through repeated trade proposals involving iron-related materials. While trying different offers, their focus on iron makes their intention relatively clear."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 employs a deceptive tactic by requesting raw copper, attempting to mislead player 1 about their true intentions.  This is a proactive attempt to conceal their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's repeated attempts to trade for raw iron and raw copper, coupled with their explicit explanation of needing them, significantly reveals their intention. Their proposal to player 2 gives away valuable insight about crafting chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintains consistent rejection of trades involving iron, keeping their need for these materials hidden. Their replies don't reveal much about their own plans."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's acceptance of the trade and subsequent thoughts reveal their dependence on raw iron for achieving their objective. They do not attempt to conceal their plan after the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully executes a trade that serves their need for cobblestone while masking their true intentions.  Offering raw iron while needing cobblestone is a clever misdirection."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 explicitly states their intention to craft a chain in their trade proposal, fully revealing their objective to player 2. This greatly compromises their concealment strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to withhold information about their needs and crafting plans. While their rejections might raise suspicion, they avoid disclosing their goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts a trade that doesn't directly contribute to their goal, maintaining some ambiguity about their intentions.  While not actively concealing, they avoid revealing their need for more iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal to trade raw copper for cherry planks is a strategic move to acquire necessary materials while masking their intention to craft sticks for a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to signal their need for iron-related materials. Though they don't directly state their target, their trades heavily imply their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's acceptance of raw copper for raw iron is deceptive, as it fulfills a secondary need while diverting attention from their primary goal of crafting a stone shovel."
+      }
+    ]
+  }
+]

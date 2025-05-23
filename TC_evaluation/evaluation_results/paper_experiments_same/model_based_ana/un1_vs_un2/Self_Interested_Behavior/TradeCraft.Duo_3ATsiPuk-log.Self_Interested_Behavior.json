@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted completely in their self-interest. They identified what they needed, proposed a trade that benefited them (getting raw iron for their bucket) while offering something they didn't need (raw copper). They then successfully crafted their target item, the bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's acceptance of the trade was partially self-interested. While they correctly reasoned that the raw iron wasn't immediately crucial for their goal, receiving raw copper wasn't directly beneficial either.  Although the trade didn't harm them, it didn't significantly advance their own goal.  They could have used the opportunity to propose a counter-trade for something they actually needed (cherry planks for sticks)."
+      }
+    ]
+  }
+]

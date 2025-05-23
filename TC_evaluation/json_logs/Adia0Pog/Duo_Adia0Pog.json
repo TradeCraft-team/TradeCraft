@@ -1,0 +1,1118 @@
+[
+    {
+        "_id": "681f441b3557126d32bb6d71",
+        "domain": [
+            "Adia0Pog"
+        ],
+        "event": "server__player_enter_room",
+        "msg": "{\"craft_rule_choice\": \"minecraft\", \"craft_rule_prefix\": \"minecraft\", \"gamename\": \"Adia0Pog\", \"player_list\": [\"Alice\"], \"playername\": \"Alice\", \"type\": \"Game\"}",
+        "time": "20250510-201835-346822"
+    },
+    {
+        "_id": "681f441b3557126d32bb6d72",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__ready_to_start",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\", \"username\": \"Alice\"}",
+        "time": "20250510-201835-585594"
+    },
+    {
+        "_id": "681f441b3557126d32bb6d73",
+        "domain": [
+            "Adia0Pog"
+        ],
+        "event": "server__player_ready_to_start",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"username\": \"Alice\"}",
+        "time": "20250510-201835-585594"
+    },
+    {
+        "_id": "681f441b3557126d32bb6d74",
+        "domain": [
+            "Adia0Pog"
+        ],
+        "event": "server__game_start",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"player_list\": [\"Alice\"]}",
+        "time": "20250510-201835-586974"
+    },
+    {
+        "_id": "681f441b3557126d32bb6d75",
+        "domain": [
+            "Adia0Pog"
+        ],
+        "event": "server__update_all_hands",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"hands\": [{\"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:stick\": {\"d\": 1, \"n\": 1}}], \"player_list\": [\"Alice\"]}",
+        "time": "20250510-201835-587978"
+    },
+    {
+        "_id": "681f441b3557126d32bb6d76",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__private_start_info",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"index\": 0, \"target\": {\"minecraft:torch\": {\"d\": 1, \"n\": 1}}, \"username\": \"Alice\"}",
+        "time": "20250510-201835-587978"
+    },
+    {
+        "_id": "681f441b3557126d32bb6d77",
+        "domain": [
+            "Adia0Pog"
+        ],
+        "event": "server__crafting_item_list",
+        "msg": "{\"crafting_item_list\": [\"minecraft:acacia_boat\", \"minecraft:acacia_planks\", \"minecraft:acacia_button\", \"minecraft:acacia_chest_boat\", \"minecraft:chest\", \"minecraft:acacia_door\", \"minecraft:acacia_fence\", \"minecraft:stick\", \"minecraft:acacia_fence_gate\", \"minecraft:acacia_hanging_sign\", \"minecraft:stripped_acacia_log\", \"minecraft:chain\", \"minecraft:acacia_pressure_plate\", \"minecraft:acacia_sign\", \"minecraft:acacia_slab\", \"minecraft:acacia_stairs\", \"minecraft:acacia_trapdoor\", \"minecraft:acacia_wood\", \"minecraft:acacia_log\", \"minecraft:activator_rail\", \"minecraft:redstone_torch\", \"minecraft:iron_ingot\", \"minecraft:amethyst_block\", \"minecraft:amethyst_shard\", \"minecraft:andesite\", \"minecraft:cobblestone\", \"minecraft:diorite\", \"minecraft:andesite_slab\", \"minecraft:andesite_stairs\", \"minecraft:andesite_wall\", \"minecraft:anvil\", \"minecraft:iron_block\", \"minecraft:armor_stand\", \"minecraft:smooth_stone_slab\", \"minecraft:arrow\", \"minecraft:flint\", \"minecraft:feather\", \"minecraft:baked_potato\", \"minecraft:potato\", \"minecraft:bamboo_block\", \"minecraft:bamboo\", \"minecraft:bamboo_button\", \"minecraft:bamboo_planks\", \"minecraft:bamboo_chest_raft\", \"minecraft:bamboo_raft\", \"minecraft:bamboo_door\", \"minecraft:bamboo_fence\", \"minecraft:bamboo_fence_gate\", \"minecraft:bamboo_hanging_sign\", \"minecraft:stripped_bamboo_block\", \"minecraft:bamboo_mosaic\", \"minecraft:bamboo_slab\", \"minecraft:bamboo_mosaic_slab\", \"minecraft:bamboo_mosaic_stairs\", \"minecraft:bamboo_pressure_plate\", \"minecraft:bamboo_sign\", \"minecraft:bamboo_stairs\", \"minecraft:bamboo_trapdoor\", \"minecraft:barrel\", \"minecraft:beacon\", \"minecraft:glass\", \"minecraft:obsidian\", \"minecraft:nether_star\", \"minecraft:beehive\", \"minecraft:honeycomb\", \"minecraft:beetroot_soup\", \"minecraft:beetroot\", \"minecraft:bowl\", \"minecraft:birch_boat\", \"minecraft:birch_planks\", \"minecraft:birch_button\", \"minecraft:birch_chest_boat\", \"minecraft:birch_door\", \"minecraft:birch_fence\", \"minecraft:birch_fence_gate\", \"minecraft:birch_hanging_sign\", \"minecraft:stripped_birch_log\", \"minecraft:birch_pressure_plate\", \"minecraft:birch_sign\", \"minecraft:birch_slab\", \"minecraft:birch_stairs\", \"minecraft:birch_trapdoor\", \"minecraft:birch_wood\", \"minecraft:birch_log\", \"minecraft:blackstone_slab\", \"minecraft:blackstone\", \"minecraft:blackstone_stairs\", \"minecraft:blackstone_wall\", \"minecraft:black_banner\", \"minecraft:black_wool\", \"minecraft:black_bed\", \"minecraft:black_candle\", \"minecraft:candle\", \"minecraft:black_dye\", \"minecraft:black_carpet\", \"minecraft:black_concrete_powder\", \"minecraft:sand\", \"minecraft:ink_sac\", \"minecraft:wither_rose\", \"minecraft:black_glazed_terracotta\", \"minecraft:black_terracotta\", \"minecraft:black_stained_glass\", \"minecraft:black_stained_glass_pane\", \"minecraft:glass_pane\", \"minecraft:terracotta\", \"minecraft:blast_furnace\", \"minecraft:smooth_stone\", \"minecraft:furnace\", \"minecraft:blaze_powder\", \"minecraft:blaze_rod\", \"minecraft:blue_banner\", \"minecraft:blue_wool\", \"minecraft:blue_bed\", \"minecraft:blue_candle\", \"minecraft:blue_dye\", \"minecraft:blue_carpet\", \"minecraft:blue_concrete_powder\", \"minecraft:lapis_lazuli\", \"minecraft:cornflower\", \"minecraft:blue_glazed_terracotta\", \"minecraft:blue_terracotta\", \"minecraft:blue_ice\", \"minecraft:packed_ice\", \"minecraft:blue_stained_glass\", \"minecraft:blue_stained_glass_pane\", \"minecraft:bone_block\", \"minecraft:bone_meal\", \"minecraft:bone\", \"minecraft:book\", \"minecraft:paper\", \"minecraft:bookshelf\", \"minecraft:bow\", \"minecraft:string\", \"minecraft:bread\", \"minecraft:wheat\", \"minecraft:brewing_stand\", \"minecraft:brick\", \"minecraft:clay_ball\", \"minecraft:bricks\", \"minecraft:brick_slab\", \"minecraft:brick_stairs\", \"minecraft:brick_wall\", \"minecraft:brown_banner\", \"minecraft:brown_wool\", \"minecraft:brown_bed\", \"minecraft:brown_candle\", \"minecraft:brown_dye\", \"minecraft:brown_carpet\", \"minecraft:brown_concrete_powder\", \"minecraft:cocoa_beans\", \"minecraft:brown_glazed_terracotta\", \"minecraft:brown_terracotta\", \"minecraft:brown_stained_glass\", \"minecraft:brown_stained_glass_pane\", \"minecraft:brush\", \"minecraft:copper_ingot\", \"minecraft:bucket\", \"minecraft:cake\", \"minecraft:milk_bucket\", \"minecraft:sugar\", \"minecraft:egg\", \"minecraft:calibrated_sculk_sensor\", \"minecraft:sculk_sensor\", \"minecraft:campfire\", \"minecraft:carrot_on_a_stick\", \"minecraft:fishing_rod\", \"minecraft:carrot\", \"minecraft:cartography_table\", \"minecraft:cauldron\", \"minecraft:iron_nugget\", \"minecraft:charcoal\", \"minecraft:cherry_boat\", \"minecraft:cherry_planks\", \"minecraft:cherry_button\", \"minecraft:cherry_chest_boat\", \"minecraft:cherry_door\", \"minecraft:cherry_fence\", \"minecraft:cherry_fence_gate\", \"minecraft:cherry_hanging_sign\", \"minecraft:stripped_cherry_log\", \"minecraft:cherry_pressure_plate\", \"minecraft:cherry_sign\", \"minecraft:cherry_slab\", \"minecraft:cherry_stairs\", \"minecraft:cherry_trapdoor\", \"minecraft:cherry_wood\", \"minecraft:cherry_log\", \"minecraft:chest_minecart\", \"minecraft:minecart\", \"minecraft:chiseled_bookshelf\", \"minecraft:chiseled_deepslate\", \"minecraft:cobbled_deepslate_slab\", \"minecraft:cobbled_deepslate\", \"minecraft:chiseled_nether_bricks\", \"minecraft:nether_brick_slab\", \"minecraft:nether_bricks\", \"minecraft:chiseled_polished_blackstone\", \"minecraft:polished_blackstone_slab\", \"minecraft:polished_blackstone\", \"minecraft:chiseled_quartz_block\", \"minecraft:quartz_slab\", \"minecraft:quartz_block\", \"minecraft:chiseled_red_sandstone\", \"minecraft:red_sandstone_slab\", \"minecraft:red_sandstone\", \"minecraft:chiseled_sandstone\", \"minecraft:sandstone_slab\", \"minecraft:sandstone\", \"minecraft:chiseled_stone_bricks\", \"minecraft:stone_brick_slab\", \"minecraft:stone_bricks\", \"minecraft:stone\", \"minecraft:clay\", \"minecraft:clock\", \"minecraft:gold_ingot\", \"minecraft:redstone\", \"minecraft:coal\", \"minecraft:coal_block\", \"minecraft:coal_ore\", \"minecraft:deepslate_coal_ore\", \"minecraft:coarse_dirt\", \"minecraft:dirt\", \"minecraft:coast_armor_trim_smithing_template\", \"minecraft:diamond\", \"minecraft:cobbled_deepslate_stairs\", \"minecraft:cobbled_deepslate_wall\", \"minecraft:cobblestone_slab\", \"minecraft:cobblestone_stairs\", \"minecraft:cobblestone_wall\", \"minecraft:comparator\", \"minecraft:quartz\", \"minecraft:compass\", \"minecraft:composter\", \"minecraft:conduit\", \"minecraft:nautilus_shell\", \"minecraft:heart_of_the_sea\", \"minecraft:cooked_beef\", \"minecraft:beef\", \"minecraft:cooked_chicken\", \"minecraft:chicken\", \"minecraft:cooked_cod\", \"minecraft:cod\", \"minecraft:cooked_mutton\", \"minecraft:mutton\", \"minecraft:cooked_porkchop\", \"minecraft:porkchop\", \"minecraft:cooked_rabbit\", \"minecraft:rabbit\", \"minecraft:cooked_salmon\", \"minecraft:salmon\", \"minecraft:cookie\", \"minecraft:copper_block\", \"minecraft:copper_ore\", \"minecraft:deepslate_copper_ore\", \"minecraft:raw_copper\", \"minecraft:waxed_copper_block\", \"minecraft:cracked_deepslate_bricks\", \"minecraft:deepslate_bricks\", \"minecraft:cracked_deepslate_tiles\", \"minecraft:deepslate_tiles\", \"minecraft:cracked_nether_bricks\", \"minecraft:cracked_polished_blackstone_bricks\", \"minecraft:polished_blackstone_bricks\", \"minecraft:cracked_stone_bricks\", \"minecraft:crafting_table\", \"minecraft:creeper_banner_pattern\", \"minecraft:creeper_head\", \"minecraft:crimson_button\", \"minecraft:crimson_planks\", \"minecraft:crimson_door\", \"minecraft:crimson_fence\", \"minecraft:crimson_fence_gate\", \"minecraft:crimson_hanging_sign\", \"minecraft:stripped_crimson_stem\", \"minecraft:crimson_hyphae\", \"minecraft:crimson_stem\", \"minecraft:crimson_pressure_plate\", \"minecraft:crimson_sign\", \"minecraft:crimson_slab\", \"minecraft:crimson_stairs\", \"minecraft:crimson_trapdoor\", \"minecraft:crossbow\", \"minecraft:tripwire_hook\", \"minecraft:cut_copper\", \"minecraft:cut_copper_slab\", \"minecraft:cut_copper_stairs\", \"minecraft:cut_red_sandstone\", \"minecraft:cut_red_sandstone_slab\", \"minecraft:cut_sandstone\", \"minecraft:cut_sandstone_slab\", \"minecraft:cyan_banner\", \"minecraft:cyan_wool\", \"minecraft:cyan_bed\", \"minecraft:cyan_candle\", \"minecraft:cyan_dye\", \"minecraft:cyan_carpet\", \"minecraft:cyan_concrete_powder\", \"minecraft:green_dye\", \"minecraft:pitcher_plant\", \"minecraft:cyan_glazed_terracotta\", \"minecraft:cyan_terracotta\", \"minecraft:cyan_stained_glass\", \"minecraft:cyan_stained_glass_pane\", \"minecraft:dark_oak_boat\", \"minecraft:dark_oak_planks\", \"minecraft:dark_oak_button\", \"minecraft:dark_oak_chest_boat\", \"minecraft:dark_oak_door\", \"minecraft:dark_oak_fence\", \"minecraft:dark_oak_fence_gate\", \"minecraft:dark_oak_hanging_sign\", \"minecraft:stripped_dark_oak_log\", \"minecraft:dark_oak_pressure_plate\", \"minecraft:dark_oak_sign\", \"minecraft:dark_oak_slab\", \"minecraft:dark_oak_stairs\", \"minecraft:dark_oak_trapdoor\", \"minecraft:dark_oak_wood\", \"minecraft:dark_oak_log\", \"minecraft:dark_prismarine\", \"minecraft:prismarine_shard\", \"minecraft:dark_prismarine_slab\", \"minecraft:dark_prismarine_stairs\", \"minecraft:daylight_detector\", \"minecraft:decorated_pot\", \"minecraft:deepslate\", \"minecraft:polished_deepslate\", \"minecraft:deepslate_brick_slab\", \"minecraft:deepslate_brick_stairs\", \"minecraft:deepslate_brick_wall\", \"minecraft:deepslate_tile_slab\", \"minecraft:deepslate_tile_stairs\", \"minecraft:deepslate_tile_wall\", \"minecraft:detector_rail\", \"minecraft:stone_pressure_plate\", \"minecraft:diamond_block\", \"minecraft:diamond_axe\", \"minecraft:diamond_boots\", \"minecraft:diamond_chestplate\", \"minecraft:deepslate_diamond_ore\", \"minecraft:diamond_ore\", \"minecraft:diamond_helmet\", \"minecraft:diamond_hoe\", \"minecraft:diamond_leggings\", \"minecraft:diamond_pickaxe\", \"minecraft:diamond_shovel\", \"minecraft:diamond_sword\", \"minecraft:diorite_slab\", \"minecraft:diorite_stairs\", \"minecraft:diorite_wall\", \"minecraft:dispenser\", \"minecraft:dried_kelp\", \"minecraft:dried_kelp_block\", \"minecraft:kelp\", \"minecraft:dripstone_block\", \"minecraft:pointed_dripstone\", \"minecraft:dropper\", \"minecraft:dune_armor_trim_smithing_template\", \"minecraft:gray_bed\", \"minecraft:gray_dye\", \"minecraft:gray_carpet\", \"minecraft:gray_wool\", \"minecraft:green_bed\", \"minecraft:green_carpet\", \"minecraft:green_wool\", \"minecraft:light_blue_bed\", \"minecraft:light_blue_dye\", \"minecraft:light_blue_carpet\", \"minecraft:light_blue_wool\", \"minecraft:light_gray_bed\", \"minecraft:light_gray_dye\", \"minecraft:light_gray_carpet\", \"minecraft:light_gray_wool\", \"minecraft:lime_bed\", \"minecraft:lime_dye\", \"minecraft:lime_carpet\", \"minecraft:lime_wool\", \"minecraft:magenta_bed\", \"minecraft:magenta_dye\", \"minecraft:magenta_carpet\", \"minecraft:magenta_wool\", \"minecraft:orange_bed\", \"minecraft:orange_dye\", \"minecraft:orange_carpet\", \"minecraft:orange_wool\", \"minecraft:pink_bed\", \"minecraft:pink_dye\", \"minecraft:pink_carpet\", \"minecraft:pink_wool\", \"minecraft:purple_bed\", \"minecraft:purple_dye\", \"minecraft:purple_carpet\", \"minecraft:purple_wool\", \"minecraft:red_bed\", \"minecraft:red_dye\", \"minecraft:red_carpet\", \"minecraft:red_wool\", \"minecraft:white_bed\", \"minecraft:white_dye\", \"minecraft:white_carpet\", \"minecraft:white_wool\", \"minecraft:yellow_bed\", \"minecraft:yellow_dye\", \"minecraft:yellow_carpet\", \"minecraft:yellow_wool\", \"minecraft:emerald\", \"minecraft:emerald_block\", \"minecraft:deepslate_emerald_ore\", \"minecraft:emerald_ore\", \"minecraft:enchanting_table\", \"minecraft:ender_chest\", \"minecraft:ender_eye\", \"minecraft:ender_pearl\", \"minecraft:end_crystal\", \"minecraft:ghast_tear\", \"minecraft:end_rod\", \"minecraft:popped_chorus_fruit\", \"minecraft:end_stone_bricks\", \"minecraft:end_stone\", \"minecraft:end_stone_brick_slab\", \"minecraft:end_stone_brick_stairs\", \"minecraft:end_stone_brick_wall\", \"minecraft:exposed_cut_copper\", \"minecraft:exposed_copper\", \"minecraft:exposed_cut_copper_slab\", \"minecraft:exposed_cut_copper_stairs\", \"minecraft:eye_armor_trim_smithing_template\", \"minecraft:fermented_spider_eye\", \"minecraft:brown_mushroom\", \"minecraft:spider_eye\", \"minecraft:firework_rocket\", \"minecraft:gunpowder\", \"minecraft:fire_charge\", \"minecraft:fletching_table\", \"minecraft:flint_and_steel\", \"minecraft:flower_banner_pattern\", \"minecraft:oxeye_daisy\", \"minecraft:flower_pot\", \"minecraft:furnace_minecart\", \"minecraft:glass_bottle\", \"minecraft:glistering_melon_slice\", \"minecraft:gold_nugget\", \"minecraft:melon_slice\", \"minecraft:glowstone\", \"minecraft:glowstone_dust\", \"minecraft:glow_item_frame\", \"minecraft:glow_ink_sac\", \"minecraft:item_frame\", \"minecraft:golden_apple\", \"minecraft:apple\", \"minecraft:golden_axe\", \"minecraft:golden_boots\", \"minecraft:golden_carrot\", \"minecraft:golden_chestplate\", \"minecraft:golden_helmet\", \"minecraft:golden_hoe\", \"minecraft:golden_leggings\", \"minecraft:golden_pickaxe\", \"minecraft:golden_shovel\", \"minecraft:golden_sword\", \"minecraft:gold_block\", \"minecraft:deepslate_gold_ore\", \"minecraft:gold_ore\", \"minecraft:nether_gold_ore\", \"minecraft:raw_gold\", \"minecraft:granite\", \"minecraft:granite_slab\", \"minecraft:granite_stairs\", \"minecraft:granite_wall\", \"minecraft:gray_banner\", \"minecraft:gray_candle\", \"minecraft:gray_concrete_powder\", \"minecraft:gray_glazed_terracotta\", \"minecraft:gray_terracotta\", \"minecraft:gray_stained_glass\", \"minecraft:gray_stained_glass_pane\", \"minecraft:green_banner\", \"minecraft:green_candle\", \"minecraft:green_concrete_powder\", \"minecraft:cactus\", \"minecraft:green_glazed_terracotta\", \"minecraft:green_terracotta\", \"minecraft:green_stained_glass\", \"minecraft:green_stained_glass_pane\", \"minecraft:grindstone\", \"minecraft:stone_slab\", \"minecraft:hay_block\", \"minecraft:heavy_weighted_pressure_plate\", \"minecraft:honeycomb_block\", \"minecraft:honey_block\", \"minecraft:honey_bottle\", \"minecraft:hopper\", \"minecraft:hopper_minecart\", \"minecraft:host_armor_trim_smithing_template\", \"minecraft:iron_axe\", \"minecraft:iron_bars\", \"minecraft:iron_boots\", \"minecraft:iron_chestplate\", \"minecraft:iron_door\", \"minecraft:iron_helmet\", \"minecraft:iron_hoe\", \"minecraft:deepslate_iron_ore\", \"minecraft:iron_ore\", \"minecraft:raw_iron\", \"minecraft:iron_leggings\", \"minecraft:iron_pickaxe\", \"minecraft:iron_shovel\", \"minecraft:iron_sword\", \"minecraft:iron_trapdoor\", \"minecraft:jack_o_lantern\", \"minecraft:carved_pumpkin\", \"minecraft:torch\", \"minecraft:jukebox\", \"minecraft:jungle_boat\", \"minecraft:jungle_planks\", \"minecraft:jungle_button\", \"minecraft:jungle_chest_boat\", \"minecraft:jungle_door\", \"minecraft:jungle_fence\", \"minecraft:jungle_fence_gate\", \"minecraft:jungle_hanging_sign\", \"minecraft:stripped_jungle_log\", \"minecraft:jungle_pressure_plate\", \"minecraft:jungle_sign\", \"minecraft:jungle_slab\", \"minecraft:jungle_stairs\", \"minecraft:jungle_trapdoor\", \"minecraft:jungle_wood\", \"minecraft:jungle_log\", \"minecraft:ladder\", \"minecraft:lantern\", \"minecraft:lapis_block\", \"minecraft:deepslate_lapis_ore\", \"minecraft:lapis_ore\", \"minecraft:lead\", \"minecraft:slime_ball\", \"minecraft:leather\", \"minecraft:rabbit_hide\", \"minecraft:leather_boots\", \"minecraft:leather_chestplate\", \"minecraft:leather_helmet\", \"minecraft:leather_horse_armor\", \"minecraft:leather_leggings\", \"minecraft:lectern\", \"minecraft:lever\", \"minecraft:lightning_rod\", \"minecraft:light_blue_banner\", \"minecraft:light_blue_candle\", \"minecraft:light_blue_concrete_powder\", \"minecraft:blue_orchid\", \"minecraft:light_blue_glazed_terracotta\", \"minecraft:light_blue_terracotta\", \"minecraft:light_blue_stained_glass\", \"minecraft:light_blue_stained_glass_pane\", \"minecraft:light_gray_banner\", \"minecraft:light_gray_candle\", \"minecraft:light_gray_concrete_powder\", \"minecraft:azure_bluet\", \"minecraft:white_tulip\", \"minecraft:light_gray_glazed_terracotta\", \"minecraft:light_gray_terracotta\", \"minecraft:light_gray_stained_glass\", \"minecraft:light_gray_stained_glass_pane\", \"minecraft:light_weighted_pressure_plate\", \"minecraft:lime_banner\", \"minecraft:lime_candle\", \"minecraft:lime_concrete_powder\", \"minecraft:sea_pickle\", \"minecraft:lime_glazed_terracotta\", \"minecraft:lime_terracotta\", \"minecraft:lime_stained_glass\", \"minecraft:lime_stained_glass_pane\", \"minecraft:lodestone\", \"minecraft:netherite_ingot\", \"minecraft:loom\", \"minecraft:magenta_banner\", \"minecraft:magenta_candle\", \"minecraft:magenta_concrete_powder\", \"minecraft:allium\", \"minecraft:lilac\", \"minecraft:magenta_glazed_terracotta\", \"minecraft:magenta_terracotta\", \"minecraft:magenta_stained_glass\", \"minecraft:magenta_stained_glass_pane\", \"minecraft:magma_block\", \"minecraft:magma_cream\", \"minecraft:mangrove_boat\", \"minecraft:mangrove_planks\", \"minecraft:mangrove_button\", \"minecraft:mangrove_chest_boat\", \"minecraft:mangrove_door\", \"minecraft:mangrove_fence\", \"minecraft:mangrove_fence_gate\", \"minecraft:mangrove_hanging_sign\", \"minecraft:stripped_mangrove_log\", \"minecraft:mangrove_pressure_plate\", \"minecraft:mangrove_sign\", \"minecraft:mangrove_slab\", \"minecraft:mangrove_stairs\", \"minecraft:mangrove_trapdoor\", \"minecraft:mangrove_wood\", \"minecraft:mangrove_log\", \"minecraft:map\", \"minecraft:melon\", \"minecraft:melon_seeds\", \"minecraft:mojang_banner_pattern\", \"minecraft:enchanted_golden_apple\", \"minecraft:mossy_cobblestone\", \"minecraft:vine\", \"minecraft:mossy_cobblestone_slab\", \"minecraft:mossy_cobblestone_stairs\", \"minecraft:mossy_cobblestone_wall\", \"minecraft:mossy_stone_bricks\", \"minecraft:mossy_stone_brick_slab\", \"minecraft:mossy_stone_brick_stairs\", \"minecraft:mossy_stone_brick_wall\", \"minecraft:moss_carpet\", \"minecraft:muddy_mangrove_roots\", \"minecraft:mud\", \"minecraft:mangrove_roots\", \"minecraft:mud_bricks\", \"minecraft:packed_mud\", \"minecraft:mud_brick_slab\", \"minecraft:mud_brick_stairs\", \"minecraft:mud_brick_wall\", \"minecraft:mushroom_stew\", \"minecraft:red_mushroom\", \"minecraft:music_disc_5\", \"minecraft:disc_fragment_5\", \"minecraft:netherite_axe\", \"minecraft:netherite_upgrade_smithing_template\", \"minecraft:netherite_block\", \"minecraft:netherite_boots\", \"minecraft:netherite_chestplate\", \"minecraft:netherite_helmet\", \"minecraft:netherite_hoe\", \"minecraft:netherite_scrap\", \"minecraft:netherite_leggings\", \"minecraft:netherite_pickaxe\", \"minecraft:ancient_debris\", \"minecraft:netherite_shovel\", \"minecraft:netherite_sword\", \"minecraft:netherrack\", \"minecraft:nether_brick\", \"minecraft:nether_brick_fence\", \"minecraft:nether_brick_stairs\", \"minecraft:nether_brick_wall\", \"minecraft:nether_wart_block\", \"minecraft:nether_wart\", \"minecraft:note_block\", \"minecraft:oak_boat\", \"minecraft:oak_planks\", \"minecraft:oak_button\", \"minecraft:oak_chest_boat\", \"minecraft:oak_door\", \"minecraft:oak_fence\", \"minecraft:oak_fence_gate\", \"minecraft:oak_hanging_sign\", \"minecraft:stripped_oak_log\", \"minecraft:oak_pressure_plate\", \"minecraft:oak_sign\", \"minecraft:oak_slab\", \"minecraft:oak_stairs\", \"minecraft:oak_trapdoor\", \"minecraft:oak_wood\", \"minecraft:oak_log\", \"minecraft:observer\", \"minecraft:orange_banner\", \"minecraft:orange_candle\", \"minecraft:orange_concrete_powder\", \"minecraft:orange_tulip\", \"minecraft:torchflower\", \"minecraft:orange_glazed_terracotta\", \"minecraft:orange_terracotta\", \"minecraft:orange_stained_glass\", \"minecraft:orange_stained_glass_pane\", \"minecraft:oxidized_cut_copper\", \"minecraft:oxidized_copper\", \"minecraft:oxidized_cut_copper_slab\", \"minecraft:oxidized_cut_copper_stairs\", \"minecraft:painting\", \"minecraft:sugar_cane\", \"minecraft:pink_banner\", \"minecraft:pink_candle\", \"minecraft:pink_concrete_powder\", \"minecraft:peony\", \"minecraft:pink_petals\", \"minecraft:pink_tulip\", \"minecraft:pink_glazed_terracotta\", \"minecraft:pink_terracotta\", \"minecraft:pink_stained_glass\", \"minecraft:pink_stained_glass_pane\", \"minecraft:piston\", \"minecraft:polished_andesite\", \"minecraft:polished_andesite_slab\", \"minecraft:polished_andesite_stairs\", \"minecraft:polished_basalt\", \"minecraft:basalt\", \"minecraft:polished_blackstone_brick_slab\", \"minecraft:polished_blackstone_brick_stairs\", \"minecraft:polished_blackstone_brick_wall\", \"minecraft:polished_blackstone_button\", \"minecraft:polished_blackstone_pressure_plate\", \"minecraft:polished_blackstone_stairs\", \"minecraft:polished_blackstone_wall\", \"minecraft:polished_deepslate_slab\", \"minecraft:polished_deepslate_stairs\", \"minecraft:polished_deepslate_wall\", \"minecraft:polished_diorite\", \"minecraft:polished_diorite_slab\", \"minecraft:polished_diorite_stairs\", \"minecraft:polished_granite\", \"minecraft:polished_granite_slab\", \"minecraft:polished_granite_stairs\", \"minecraft:chorus_fruit\", \"minecraft:powered_rail\", \"minecraft:prismarine\", \"minecraft:prismarine_bricks\", \"minecraft:prismarine_brick_slab\", \"minecraft:prismarine_brick_stairs\", \"minecraft:prismarine_slab\", \"minecraft:prismarine_stairs\", \"minecraft:prismarine_wall\", \"minecraft:pumpkin_pie\", \"minecraft:pumpkin\", \"minecraft:pumpkin_seeds\", \"minecraft:purple_banner\", \"minecraft:purple_candle\", \"minecraft:purple_concrete_powder\", \"minecraft:purple_glazed_terracotta\", \"minecraft:purple_terracotta\", \"minecraft:purple_stained_glass\", \"minecraft:purple_stained_glass_pane\", \"minecraft:purpur_block\", \"minecraft:purpur_pillar\", \"minecraft:purpur_slab\", \"minecraft:purpur_stairs\", \"minecraft:nether_quartz_ore\", \"minecraft:quartz_bricks\", \"minecraft:quartz_pillar\", \"minecraft:quartz_stairs\", \"minecraft:rabbit_stew\", \"minecraft:rail\", \"minecraft:raiser_armor_trim_smithing_template\", \"minecraft:raw_copper_block\", \"minecraft:raw_gold_block\", \"minecraft:raw_iron_block\", \"minecraft:recovery_compass\", \"minecraft:echo_shard\", \"minecraft:redstone_block\", \"minecraft:deepslate_redstone_ore\", \"minecraft:redstone_ore\", \"minecraft:redstone_lamp\", \"minecraft:red_banner\", \"minecraft:red_candle\", \"minecraft:red_concrete_powder\", \"minecraft:poppy\", \"minecraft:rose_bush\", \"minecraft:red_tulip\", \"minecraft:red_glazed_terracotta\", \"minecraft:red_terracotta\", \"minecraft:red_nether_bricks\", \"minecraft:red_nether_brick_slab\", \"minecraft:red_nether_brick_stairs\", \"minecraft:red_nether_brick_wall\", \"minecraft:red_sand\", \"minecraft:red_sandstone_stairs\", \"minecraft:red_sandstone_wall\", \"minecraft:red_stained_glass\", \"minecraft:red_stained_glass_pane\", \"minecraft:repeater\", \"minecraft:respawn_anchor\", \"minecraft:crying_obsidian\", \"minecraft:rib_armor_trim_smithing_template\", \"minecraft:sandstone_stairs\", \"minecraft:sandstone_wall\", \"minecraft:scaffolding\", \"minecraft:sea_lantern\", \"minecraft:prismarine_crystals\", \"minecraft:sentry_armor_trim_smithing_template\", \"minecraft:shaper_armor_trim_smithing_template\", \"minecraft:shears\", \"minecraft:shield\", \"minecraft:shulker_box\", \"minecraft:shulker_shell\", \"minecraft:silence_armor_trim_smithing_template\", \"minecraft:skull_banner_pattern\", \"minecraft:wither_skeleton_skull\", \"minecraft:slime_block\", \"minecraft:smithing_table\", \"minecraft:smoker\", \"minecraft:smooth_basalt\", \"minecraft:smooth_quartz\", \"minecraft:smooth_quartz_slab\", \"minecraft:smooth_quartz_stairs\", \"minecraft:smooth_red_sandstone\", \"minecraft:smooth_red_sandstone_slab\", \"minecraft:smooth_red_sandstone_stairs\", \"minecraft:smooth_sandstone\", \"minecraft:smooth_sandstone_slab\", \"minecraft:smooth_sandstone_stairs\", \"minecraft:snout_armor_trim_smithing_template\", \"minecraft:snow\", \"minecraft:snow_block\", \"minecraft:snowball\", \"minecraft:soul_campfire\", \"minecraft:soul_lantern\", \"minecraft:soul_torch\", \"minecraft:spectral_arrow\", \"minecraft:spire_armor_trim_smithing_template\", \"minecraft:sponge\", \"minecraft:wet_sponge\", \"minecraft:spruce_boat\", \"minecraft:spruce_planks\", \"minecraft:spruce_button\", \"minecraft:spruce_chest_boat\", \"minecraft:spruce_door\", \"minecraft:spruce_fence\", \"minecraft:spruce_fence_gate\", \"minecraft:spruce_hanging_sign\", \"minecraft:stripped_spruce_log\", \"minecraft:spruce_pressure_plate\", \"minecraft:spruce_sign\", \"minecraft:spruce_slab\", \"minecraft:spruce_stairs\", \"minecraft:spruce_trapdoor\", \"minecraft:spruce_wood\", \"minecraft:spruce_log\", \"minecraft:spyglass\", \"minecraft:sticky_piston\", \"minecraft:stonecutter\", \"minecraft:stone_axe\", \"minecraft:stone_brick_stairs\", \"minecraft:stone_brick_wall\", \"minecraft:stone_button\", \"minecraft:stone_hoe\", \"minecraft:stone_pickaxe\", \"minecraft:stone_shovel\", \"minecraft:stone_stairs\", \"minecraft:stone_sword\", \"minecraft:stripped_acacia_wood\", \"minecraft:stripped_birch_wood\", \"minecraft:stripped_cherry_wood\", \"minecraft:stripped_crimson_hyphae\", \"minecraft:stripped_dark_oak_wood\", \"minecraft:stripped_jungle_wood\", \"minecraft:stripped_mangrove_wood\", \"minecraft:stripped_oak_wood\", \"minecraft:stripped_spruce_wood\", \"minecraft:stripped_warped_hyphae\", \"minecraft:stripped_warped_stem\", \"minecraft:target\", \"minecraft:tide_armor_trim_smithing_template\", \"minecraft:tinted_glass\", \"minecraft:tnt\", \"minecraft:tnt_minecart\", \"minecraft:trapped_chest\", \"minecraft:turtle_helmet\", \"minecraft:scute\", \"minecraft:vex_armor_trim_smithing_template\", \"minecraft:ward_armor_trim_smithing_template\", \"minecraft:warped_button\", \"minecraft:warped_planks\", \"minecraft:warped_door\", \"minecraft:warped_fence\", \"minecraft:warped_fence_gate\", \"minecraft:warped_fungus_on_a_stick\", \"minecraft:warped_fungus\", \"minecraft:warped_hanging_sign\", \"minecraft:warped_hyphae\", \"minecraft:warped_stem\", \"minecraft:warped_pressure_plate\", \"minecraft:warped_sign\", \"minecraft:warped_slab\", \"minecraft:warped_stairs\", \"minecraft:warped_trapdoor\", \"minecraft:waxed_cut_copper\", \"minecraft:waxed_cut_copper_slab\", \"minecraft:waxed_cut_copper_stairs\", \"minecraft:waxed_exposed_copper\", \"minecraft:waxed_exposed_cut_copper\", \"minecraft:waxed_exposed_cut_copper_slab\", \"minecraft:waxed_exposed_cut_copper_stairs\", \"minecraft:waxed_oxidized_copper\", \"minecraft:waxed_oxidized_cut_copper\", \"minecraft:waxed_oxidized_cut_copper_slab\", \"minecraft:waxed_oxidized_cut_copper_stairs\", \"minecraft:waxed_weathered_copper\", \"minecraft:weathered_copper\", \"minecraft:waxed_weathered_cut_copper\", \"minecraft:weathered_cut_copper\", \"minecraft:waxed_weathered_cut_copper_slab\", \"minecraft:weathered_cut_copper_slab\", \"minecraft:waxed_weathered_cut_copper_stairs\", \"minecraft:weathered_cut_copper_stairs\", \"minecraft:wayfinder_armor_trim_smithing_template\", \"minecraft:white_banner\", \"minecraft:white_candle\", \"minecraft:white_concrete_powder\", \"minecraft:lily_of_the_valley\", \"minecraft:white_glazed_terracotta\", \"minecraft:white_terracotta\", \"minecraft:white_stained_glass\", \"minecraft:white_stained_glass_pane\", \"minecraft:wild_armor_trim_smithing_template\", \"minecraft:wooden_axe\", \"minecraft:wooden_hoe\", \"minecraft:wooden_pickaxe\", \"minecraft:wooden_shovel\", \"minecraft:wooden_sword\", \"minecraft:writable_book\", \"minecraft:yellow_banner\", \"minecraft:yellow_candle\", \"minecraft:yellow_concrete_powder\", \"minecraft:dandelion\", \"minecraft:sunflower\", \"minecraft:yellow_glazed_terracotta\", \"minecraft:yellow_terracotta\", \"minecraft:yellow_stained_glass\", \"minecraft:yellow_stained_glass_pane\", \"minecraft:gravel\", \"minecraft:chainmail_boots\", \"minecraft:chainmail_chestplate\", \"minecraft:chainmail_helmet\", \"minecraft:chainmail_leggings\", \"minecraft:iron_horse_armor\", \"minecraft:ice\", \"minecraft:golden_horse_armor\", \"minecraft:acacia_wall_hanging_sign\", \"minecraft:bamboo_wall_hanging_sign\", \"minecraft:bee_nest\", \"minecraft:birch_wall_hanging_sign\", \"minecraft:cherry_wall_hanging_sign\", \"minecraft:crimson_wall_hanging_sign\", \"minecraft:dark_oak_wall_hanging_sign\", \"minecraft:jungle_wall_hanging_sign\", \"minecraft:mangrove_wall_hanging_sign\", \"minecraft:oak_wall_hanging_sign\", \"minecraft:spruce_wall_hanging_sign\", \"minecraft:warped_wall_hanging_sign\", \"minecraft:wooden_door\", \"minecraft:soul_sand\", \"minecraft:soul_soil\", \"minecraft:moss_block\"], \"game\": \"Adia0Pog\"}",
+        "time": "20250510-201835-588978"
+    },
+    {
+        "_id": "681f441b3557126d32bb6d78",
+        "domain": [
+            "Adia0Pog"
+        ],
+        "event": "server__start_proposal",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"max_turn\": 30, \"proposer\": \"Alice\", \"turn_index\": 1}",
+        "time": "20250510-201835-589978"
+    },
+    {
+        "_id": "681f44263557126d32bb6d79",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"node_name\": \"minecraft:tripwire_hook\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-201846-361309"
+    },
+    {
+        "_id": "681f44263557126d32bb6d7a",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"is_valid\": true, \"node\": {\"children\": [[\"$tripwire_hook\", {\"d\": 2, \"n\": 1}]], \"is_valid\": true, \"node_name\": \"minecraft:tripwire_hook\", \"node_type\": \"item\", \"parents\": [[\"$trapped_chest\", {\"d\": 1, \"n\": 1}], [\"$crossbow\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"minecraft:tripwire_hook\", \"username\": \"Alice\"}",
+        "time": "20250510-201846-363335"
+    },
+    {
+        "_id": "681f44263557126d32bb6d7b",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$tripwire_hook\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-201846-368787"
+    },
+    {
+        "_id": "681f44263557126d32bb6d7c",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$trapped_chest\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-201846-369831"
+    },
+    {
+        "_id": "681f44263557126d32bb6d7d",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$crossbow\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-201846-370881"
+    },
+    {
+        "_id": "681f44263557126d32bb6d7e",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:tripwire_hook\", {\"d\": 1, \"n\": 1}], [\"minecraft:chest\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$trapped_chest\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:trapped_chest\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$trapped_chest\", \"username\": \"Alice\"}",
+        "time": "20250510-201846-372432"
+    },
+    {
+        "_id": "681f44263557126d32bb6d7f",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 3}], [\"minecraft:tripwire_hook\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}], [\"minecraft:string\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$crossbow\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:crossbow\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$crossbow\", \"username\": \"Alice\"}",
+        "time": "20250510-201846-372949"
+    },
+    {
+        "_id": "681f44263557126d32bb6d80",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}], [\"minecraft:stick\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:acacia_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:bamboo_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:birch_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:crimson_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:dark_oak_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:jungle_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:mangrove_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:spruce_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:warped_planks\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$tripwire_hook\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:tripwire_hook\", {\"d\": 1, \"n\": 2}]], \"username\": \"Alice\"}, \"node_name\": \"$tripwire_hook\", \"username\": \"Alice\"}",
+        "time": "20250510-201846-374511"
+    },
+    {
+        "_id": "681f44263557126d32bb6d81",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"#minecraft:planks\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-201846-380614"
+    },
+    {
+        "_id": "681f44263557126d32bb6d82",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:acacia_planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:bamboo_planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:birch_planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:cherry_planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:crimson_planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:dark_oak_planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:jungle_planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:mangrove_planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:oak_planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:spruce_planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:warped_planks\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"#minecraft:planks\", \"node_type\": \"tag\", \"parents\": [[\"$barrel\", {\"d\": 6, \"n\": 1}], [\"$beehive\", {\"d\": 6, \"n\": 1}], [\"$black_bed\", {\"d\": 3, \"n\": 1}], [\"$blue_bed\", {\"d\": 3, \"n\": 1}], [\"$bookshelf\", {\"d\": 6, \"n\": 1}], [\"$bowl\", {\"d\": 3, \"n\": 1}], [\"$brown_bed\", {\"d\": 3, \"n\": 1}], [\"$cartography_table\", {\"d\": 4, \"n\": 1}], [\"$chest\", {\"d\": 8, \"n\": 1}], [\"$chiseled_bookshelf\", {\"d\": 6, \"n\": 1}], [\"$crafting_table\", {\"d\": 4, \"n\": 1}], [\"$cyan_bed\", {\"d\": 3, \"n\": 1}], [\"$fletching_table\", {\"d\": 4, \"n\": 1}], [\"$gray_bed\", {\"d\": 3, \"n\": 1}], [\"$green_bed\", {\"d\": 3, \"n\": 1}], [\"$grindstone\", {\"d\": 2, \"n\": 1}], [\"$jukebox\", {\"d\": 8, \"n\": 1}], [\"$light_blue_bed\", {\"d\": 3, \"n\": 1}], [\"$light_gray_bed\", {\"d\": 3, \"n\": 1}], [\"$lime_bed\", {\"d\": 3, \"n\": 1}], [\"$loom\", {\"d\": 2, \"n\": 1}], [\"$magenta_bed\", {\"d\": 3, \"n\": 1}], [\"$note_block\", {\"d\": 8, \"n\": 1}], [\"$orange_bed\", {\"d\": 3, \"n\": 1}], [\"$pink_bed\", {\"d\": 3, \"n\": 1}], [\"$piston\", {\"d\": 3, \"n\": 1}], [\"$purple_bed\", {\"d\": 3, \"n\": 1}], [\"$red_bed\", {\"d\": 3, \"n\": 1}], [\"$shield\", {\"d\": 6, \"n\": 1}], [\"$smithing_table\", {\"d\": 4, \"n\": 1}], [\"$stick\", {\"d\": 2, \"n\": 1}], [\"$tripwire_hook\", {\"d\": 1, \"n\": 1}], [\"$white_bed\", {\"d\": 3, \"n\": 1}], [\"$wooden_axe\", {\"d\": 3, \"n\": 1}], [\"$wooden_hoe\", {\"d\": 2, \"n\": 1}], [\"$wooden_pickaxe\", {\"d\": 3, \"n\": 1}], [\"$wooden_shovel\", {\"d\": 1, \"n\": 1}], [\"$wooden_sword\", {\"d\": 2, \"n\": 1}], [\"$yellow_bed\", {\"d\": 3, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"#minecraft:planks\", \"username\": \"Alice\"}",
+        "time": "20250510-201846-383615"
+    },
+    {
+        "_id": "681f44af3557126d32bb6d83",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"node_name\": \"minecraft:arrow\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-202103-168336"
+    },
+    {
+        "_id": "681f44af3557126d32bb6d84",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"is_valid\": true, \"node\": {\"children\": [[\"$arrow\", {\"d\": 4, \"n\": 1}]], \"is_valid\": true, \"node_name\": \"minecraft:arrow\", \"node_type\": \"item\", \"parents\": [[\"$spectral_arrow\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"minecraft:arrow\", \"username\": \"Alice\"}",
+        "time": "20250510-202103-169336"
+    },
+    {
+        "_id": "681f44af3557126d32bb6d85",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$arrow\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-202103-182056"
+    },
+    {
+        "_id": "681f44af3557126d32bb6d86",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$spectral_arrow\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-202103-182951"
+    },
+    {
+        "_id": "681f44af3557126d32bb6d87",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"minecraft:flint\", {\"d\": 1, \"n\": 1}], [\"minecraft:feather\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$arrow\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:arrow\", {\"d\": 1, \"n\": 4}]], \"username\": \"Alice\"}, \"node_name\": \"$arrow\", \"username\": \"Alice\"}",
+        "time": "20250510-202103-183955"
+    },
+    {
+        "_id": "681f44af3557126d32bb6d88",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:glowstone_dust\", {\"d\": 1, \"n\": 4}], [\"minecraft:arrow\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$spectral_arrow\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:spectral_arrow\", {\"d\": 1, \"n\": 2}]], \"username\": \"Alice\"}, \"node_name\": \"$spectral_arrow\", \"username\": \"Alice\"}",
+        "time": "20250510-202103-183955"
+    },
+    {
+        "_id": "681f44b63557126d32bb6d89",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"node_name\": \"minecraft:brush\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-202110-913833"
+    },
+    {
+        "_id": "681f44b63557126d32bb6d8a",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"is_valid\": true, \"node\": {\"children\": [[\"$brush\", {\"d\": 1, \"n\": 1}]], \"is_valid\": true, \"node_name\": \"minecraft:brush\", \"node_type\": \"item\", \"parents\": [], \"username\": \"Alice\"}, \"node_name\": \"minecraft:brush\", \"username\": \"Alice\"}",
+        "time": "20250510-202110-917246"
+    },
+    {
+        "_id": "681f44b63557126d32bb6d8b",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$brush\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-202110-920247"
+    },
+    {
+        "_id": "681f44b63557126d32bb6d8c",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:copper_ingot\", {\"d\": 1, \"n\": 1}], [\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"minecraft:feather\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$brush\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:brush\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$brush\", \"username\": \"Alice\"}",
+        "time": "20250510-202110-920247"
+    },
+    {
+        "_id": "681f44c33557126d32bb6d8d",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"node_name\": \"minecraft:arrow\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-202123-944604"
+    },
+    {
+        "_id": "681f44c33557126d32bb6d8e",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"is_valid\": true, \"node\": {\"children\": [[\"$arrow\", {\"d\": 4, \"n\": 1}]], \"is_valid\": true, \"node_name\": \"minecraft:arrow\", \"node_type\": \"item\", \"parents\": [[\"$spectral_arrow\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"minecraft:arrow\", \"username\": \"Alice\"}",
+        "time": "20250510-202123-945604"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d8f",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"node_name\": \"minecraft:raw_iron\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205308-762096"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d90",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"is_valid\": true, \"node\": {\"children\": [[\"$raw_iron\", {\"d\": 9, \"n\": 1}]], \"is_valid\": true, \"node_name\": \"minecraft:raw_iron\", \"node_type\": \"item\", \"parents\": [[\"$raw_iron_block\", {\"d\": 9, \"n\": 1}], [\"$iron_ingot_from_smelting_raw_iron\", {\"d\": 1, \"n\": 1}], [\"$iron_ingot_from_blasting_raw_iron\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"minecraft:raw_iron\", \"username\": \"Alice\"}",
+        "time": "20250510-205308-764094"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d91",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$raw_iron\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205308-768095"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d92",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$raw_iron_block\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205308-769094"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d93",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_ingot_from_smelting_raw_iron\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205308-770095"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d94",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_ingot_from_blasting_raw_iron\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205308-770095"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d95",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:raw_iron_block\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$raw_iron\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:raw_iron\", {\"d\": 1, \"n\": 9}]], \"username\": \"Alice\"}, \"node_name\": \"$raw_iron\", \"username\": \"Alice\"}",
+        "time": "20250510-205308-771094"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d96",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:raw_iron\", {\"d\": 1, \"n\": 9}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$raw_iron_block\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:raw_iron_block\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$raw_iron_block\", \"username\": \"Alice\"}",
+        "time": "20250510-205308-773094"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d97",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:raw_iron\", {\"d\": 1, \"n\": 1}], [\"#minecraft:fuel\", {\"d\": 8, \"n\": 1}]], \"extra_tags\": {\"#minecraft:fuel\": {\"minecraft:acacia_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_button\": {\"d\": 1, \"n\": 16}, \"minecraft:acacia_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:acacia_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo\": {\"d\": 1, \"n\": 32}, \"minecraft:bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_button\": {\"d\": 1, \"n\": 16}, \"minecraft:bamboo_chest_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_mosaic\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_mosaic_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_mosaic_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:barrel\": {\"d\": 3, \"n\": 16}, \"minecraft:bee_nest\": {\"d\": 3, \"n\": 16}, \"minecraft:beehive\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_button\": {\"d\": 1, \"n\": 16}, \"minecraft:birch_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:birch_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:black_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:black_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:blaze_rod\": {\"d\": 3, \"n\": 2}, \"minecraft:blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:bow\": {\"d\": 1, \"n\": 8}, \"minecraft:bowl\": {\"d\": 1, \"n\": 16}, \"minecraft:brown_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:brown_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:brush\": {\"d\": 1, \"n\": 16}, \"minecraft:cartography_table\": {\"d\": 3, \"n\": 16}, \"minecraft:charcoal\": {\"d\": 1, \"n\": 1}, \"minecraft:cherry_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_button\": {\"d\": 1, \"n\": 16}, \"minecraft:cherry_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:cherry_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:chest\": {\"d\": 3, \"n\": 16}, \"minecraft:chiseled_bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:coal_block\": {\"d\": 10, \"n\": 1}, \"minecraft:composter\": {\"d\": 3, \"n\": 16}, \"minecraft:crafting_table\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_button\": {\"d\": 1, \"n\": 16}, \"minecraft:crimson_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:crimson_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crossbow\": {\"d\": 1, \"n\": 8}, \"minecraft:cyan_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:cyan_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:dark_oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:daylight_detector\": {\"d\": 3, \"n\": 16}, \"minecraft:dried_kelp_block\": {\"d\": 5, \"n\": 2}, \"minecraft:fishing_rod\": {\"d\": 3, \"n\": 16}, \"minecraft:fletching_table\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:green_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:green_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:jukebox\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_button\": {\"d\": 1, \"n\": 16}, \"minecraft:jungle_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:jungle_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:ladder\": {\"d\": 3, \"n\": 16}, \"minecraft:lectern\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:light_gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:lime_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:lime_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:loom\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_button\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_roots\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:mangrove_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:note_block\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:pink_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:pink_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:purple_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:purple_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:red_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:red_carpet\": {\"d\": 67, \"n\": 1600}, \"minecraft:red_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:scaffolding\": {\"d\": 1, \"n\": 32}, \"minecraft:smithing_table\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_button\": {\"d\": 1, \"n\": 16}, \"minecraft:spruce_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:spruce_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stick\": {\"d\": 1, \"n\": 16}, \"minecraft:stripped_acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:trapped_chest\": {\"d\": 3, \"n\": 4}, \"minecraft:warped_button\": {\"d\": 1, \"n\": 16}, \"minecraft:warped_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:warped_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:white_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:white_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:wooden_axe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_door\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_hoe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_pickaxe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_shovel\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_sword\": {\"d\": 1, \"n\": 8}, \"minecraft:yellow_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:yellow_wool\": {\"d\": 1, \"n\": 16}}}, \"is_valid\": true, \"node_name\": \"$iron_ingot_from_blasting_raw_iron\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_ingot_from_blasting_raw_iron\", \"username\": \"Alice\"}",
+        "time": "20250510-205308-789142"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d98",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:raw_iron\", {\"d\": 1, \"n\": 1}], [\"#minecraft:fuel\", {\"d\": 8, \"n\": 1}]], \"extra_tags\": {\"#minecraft:fuel\": {\"minecraft:acacia_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_button\": {\"d\": 1, \"n\": 16}, \"minecraft:acacia_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:acacia_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo\": {\"d\": 1, \"n\": 32}, \"minecraft:bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_button\": {\"d\": 1, \"n\": 16}, \"minecraft:bamboo_chest_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_mosaic\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_mosaic_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_mosaic_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:barrel\": {\"d\": 3, \"n\": 16}, \"minecraft:bee_nest\": {\"d\": 3, \"n\": 16}, \"minecraft:beehive\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_button\": {\"d\": 1, \"n\": 16}, \"minecraft:birch_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:birch_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:black_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:black_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:blaze_rod\": {\"d\": 3, \"n\": 2}, \"minecraft:blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:bow\": {\"d\": 1, \"n\": 8}, \"minecraft:bowl\": {\"d\": 1, \"n\": 16}, \"minecraft:brown_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:brown_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:brush\": {\"d\": 1, \"n\": 16}, \"minecraft:cartography_table\": {\"d\": 3, \"n\": 16}, \"minecraft:charcoal\": {\"d\": 1, \"n\": 1}, \"minecraft:cherry_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_button\": {\"d\": 1, \"n\": 16}, \"minecraft:cherry_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:cherry_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:chest\": {\"d\": 3, \"n\": 16}, \"minecraft:chiseled_bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:coal_block\": {\"d\": 10, \"n\": 1}, \"minecraft:composter\": {\"d\": 3, \"n\": 16}, \"minecraft:crafting_table\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_button\": {\"d\": 1, \"n\": 16}, \"minecraft:crimson_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:crimson_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crossbow\": {\"d\": 1, \"n\": 8}, \"minecraft:cyan_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:cyan_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:dark_oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:daylight_detector\": {\"d\": 3, \"n\": 16}, \"minecraft:dried_kelp_block\": {\"d\": 5, \"n\": 2}, \"minecraft:fishing_rod\": {\"d\": 3, \"n\": 16}, \"minecraft:fletching_table\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:green_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:green_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:jukebox\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_button\": {\"d\": 1, \"n\": 16}, \"minecraft:jungle_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:jungle_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:ladder\": {\"d\": 3, \"n\": 16}, \"minecraft:lectern\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:light_gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:lime_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:lime_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:loom\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_button\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_roots\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:mangrove_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:note_block\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:pink_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:pink_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:purple_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:purple_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:red_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:red_carpet\": {\"d\": 67, \"n\": 1600}, \"minecraft:red_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:scaffolding\": {\"d\": 1, \"n\": 32}, \"minecraft:smithing_table\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_button\": {\"d\": 1, \"n\": 16}, \"minecraft:spruce_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:spruce_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stick\": {\"d\": 1, \"n\": 16}, \"minecraft:stripped_acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:trapped_chest\": {\"d\": 3, \"n\": 4}, \"minecraft:warped_button\": {\"d\": 1, \"n\": 16}, \"minecraft:warped_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:warped_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:white_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:white_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:wooden_axe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_door\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_hoe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_pickaxe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_shovel\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_sword\": {\"d\": 1, \"n\": 8}, \"minecraft:yellow_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:yellow_wool\": {\"d\": 1, \"n\": 16}}}, \"is_valid\": true, \"node_name\": \"$iron_ingot_from_smelting_raw_iron\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_ingot_from_smelting_raw_iron\", \"username\": \"Alice\"}",
+        "time": "20250510-205308-789142"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d99",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 8, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"#minecraft:fuel\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205308-805141"
+    },
+    {
+        "_id": "681f4c343557126d32bb6d9a",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 8, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:acacia_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:acacia_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:acacia_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:acacia_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:acacia_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:acacia_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:acacia_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:acacia_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:acacia_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:acacia_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:acacia_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:acacia_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:acacia_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:acacia_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:bamboo\", {\"d\": 1, \"n\": 32}], [\"minecraft:bamboo_block\", {\"d\": 3, \"n\": 16}], [\"minecraft:bamboo_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:bamboo_chest_raft\", {\"d\": 3, \"n\": 4}], [\"minecraft:bamboo_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:bamboo_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:bamboo_mosaic\", {\"d\": 3, \"n\": 16}], [\"minecraft:bamboo_mosaic_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:bamboo_mosaic_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:bamboo_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:bamboo_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:bamboo_raft\", {\"d\": 3, \"n\": 4}], [\"minecraft:bamboo_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:bamboo_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:bamboo_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:bamboo_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:bamboo_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:barrel\", {\"d\": 3, \"n\": 16}], [\"minecraft:bee_nest\", {\"d\": 3, \"n\": 16}], [\"minecraft:beehive\", {\"d\": 3, \"n\": 16}], [\"minecraft:birch_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:birch_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:birch_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:birch_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:birch_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:birch_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:birch_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:birch_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:birch_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:birch_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:birch_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:birch_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:birch_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:birch_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:black_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:black_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:blaze_rod\", {\"d\": 3, \"n\": 2}], [\"minecraft:blue_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:blue_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:bookshelf\", {\"d\": 3, \"n\": 16}], [\"minecraft:bow\", {\"d\": 1, \"n\": 8}], [\"minecraft:bowl\", {\"d\": 1, \"n\": 16}], [\"minecraft:brown_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:brown_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:brush\", {\"d\": 1, \"n\": 16}], [\"minecraft:cartography_table\", {\"d\": 3, \"n\": 16}], [\"minecraft:charcoal\", {\"d\": 1, \"n\": 1}], [\"minecraft:cherry_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:cherry_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:cherry_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:cherry_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:cherry_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:cherry_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:cherry_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:cherry_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:chest\", {\"d\": 3, \"n\": 16}], [\"minecraft:chiseled_bookshelf\", {\"d\": 3, \"n\": 16}], [\"minecraft:coal\", {\"d\": 1, \"n\": 1}], [\"minecraft:coal_block\", {\"d\": 10, \"n\": 1}], [\"minecraft:composter\", {\"d\": 3, \"n\": 16}], [\"minecraft:crafting_table\", {\"d\": 3, \"n\": 16}], [\"minecraft:crimson_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:crimson_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:crimson_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:crimson_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:crimson_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:crimson_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:crimson_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:crimson_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:crimson_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:crimson_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:crossbow\", {\"d\": 1, \"n\": 8}], [\"minecraft:cyan_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:cyan_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:dark_oak_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:dark_oak_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:dark_oak_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:dark_oak_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:dark_oak_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:dark_oak_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:dark_oak_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:dark_oak_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:dark_oak_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:dark_oak_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:dark_oak_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:dark_oak_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:dark_oak_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:dark_oak_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:daylight_detector\", {\"d\": 3, \"n\": 16}], [\"minecraft:dried_kelp_block\", {\"d\": 5, \"n\": 2}], [\"minecraft:fishing_rod\", {\"d\": 3, \"n\": 16}], [\"minecraft:fletching_table\", {\"d\": 3, \"n\": 16}], [\"minecraft:gray_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:gray_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:green_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:green_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:jukebox\", {\"d\": 3, \"n\": 16}], [\"minecraft:jungle_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:jungle_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:jungle_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:jungle_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:jungle_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:jungle_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:jungle_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:jungle_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:jungle_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:jungle_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:jungle_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:jungle_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:jungle_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:jungle_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:ladder\", {\"d\": 3, \"n\": 16}], [\"minecraft:lectern\", {\"d\": 3, \"n\": 16}], [\"minecraft:light_blue_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:light_blue_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:light_gray_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:light_gray_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:lime_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:lime_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:loom\", {\"d\": 3, \"n\": 16}], [\"minecraft:magenta_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:magenta_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:mangrove_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:mangrove_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:mangrove_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:mangrove_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:mangrove_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:mangrove_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:mangrove_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:mangrove_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:mangrove_roots\", {\"d\": 3, \"n\": 16}], [\"minecraft:mangrove_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:mangrove_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:mangrove_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:mangrove_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:mangrove_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:mangrove_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:note_block\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:oak_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:oak_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:oak_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:oak_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:oak_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:oak_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:oak_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:orange_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:orange_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:pink_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:pink_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:purple_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:purple_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:red_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:red_carpet\", {\"d\": 67, \"n\": 1600}], [\"minecraft:red_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:scaffolding\", {\"d\": 1, \"n\": 32}], [\"minecraft:smithing_table\", {\"d\": 3, \"n\": 16}], [\"minecraft:spruce_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:spruce_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:spruce_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:spruce_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:spruce_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:spruce_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:spruce_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:spruce_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:spruce_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:spruce_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:spruce_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:spruce_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:spruce_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:spruce_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:stick\", {\"d\": 1, \"n\": 16}], [\"minecraft:stripped_acacia_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_acacia_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_bamboo_block\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_birch_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_birch_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_cherry_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_cherry_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_dark_oak_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_dark_oak_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_jungle_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_jungle_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_mangrove_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_mangrove_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_oak_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_oak_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_spruce_log\", {\"d\": 3, \"n\": 16}], [\"minecraft:stripped_spruce_wood\", {\"d\": 3, \"n\": 16}], [\"minecraft:trapped_chest\", {\"d\": 3, \"n\": 4}], [\"minecraft:warped_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:warped_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:warped_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:warped_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:warped_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:warped_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:warped_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:warped_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:warped_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:warped_wall_hanging_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:white_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:white_wool\", {\"d\": 1, \"n\": 16}], [\"minecraft:wooden_axe\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_door\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_hoe\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_pickaxe\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_shovel\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_sword\", {\"d\": 1, \"n\": 8}], [\"minecraft:yellow_banner\", {\"d\": 3, \"n\": 16}], [\"minecraft:yellow_wool\", {\"d\": 1, \"n\": 16}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"#minecraft:fuel\", \"node_type\": \"tag\", \"parents\": [[\"$baked_potato\", {\"d\": 1, \"n\": 8}], [\"$baked_potato_from_smoking\", {\"d\": 1, \"n\": 8}], [\"$black_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$blue_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$brick\", {\"d\": 1, \"n\": 8}], [\"$brown_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$charcoal\", {\"d\": 1, \"n\": 8}], [\"$coal_from_blasting_coal_ore\", {\"d\": 1, \"n\": 8}], [\"$coal_from_blasting_deepslate_coal_ore\", {\"d\": 1, \"n\": 8}], [\"$coal_from_smelting_coal_ore\", {\"d\": 1, \"n\": 8}], [\"$coal_from_smelting_deepslate_coal_ore\", {\"d\": 1, \"n\": 8}], [\"$cooked_beef\", {\"d\": 1, \"n\": 8}], [\"$cooked_beef_from_smoking\", {\"d\": 1, \"n\": 8}], [\"$cooked_chicken\", {\"d\": 1, \"n\": 8}], [\"$cooked_chicken_from_smoking\", {\"d\": 1, \"n\": 8}], [\"$cooked_cod\", {\"d\": 1, \"n\": 8}], [\"$cooked_cod_from_smoking\", {\"d\": 1, \"n\": 8}], [\"$cooked_mutton\", {\"d\": 1, \"n\": 8}], [\"$cooked_mutton_from_smoking\", {\"d\": 1, \"n\": 8}], [\"$cooked_porkchop\", {\"d\": 1, \"n\": 8}], [\"$cooked_porkchop_from_smoking\", {\"d\": 1, \"n\": 8}], [\"$cooked_rabbit\", {\"d\": 1, \"n\": 8}], [\"$cooked_rabbit_from_smoking\", {\"d\": 1, \"n\": 8}], [\"$cooked_salmon\", {\"d\": 1, \"n\": 8}], [\"$cooked_salmon_from_smoking\", {\"d\": 1, \"n\": 8}], [\"$copper_ingot_from_blasting_copper_ore\", {\"d\": 1, \"n\": 8}], [\"$copper_ingot_from_blasting_deepslate_copper_ore\", {\"d\": 1, \"n\": 8}], [\"$copper_ingot_from_blasting_raw_copper\", {\"d\": 1, \"n\": 8}], [\"$copper_ingot_from_smelting_copper_ore\", {\"d\": 1, \"n\": 8}], [\"$copper_ingot_from_smelting_deepslate_copper_ore\", {\"d\": 1, \"n\": 8}], [\"$copper_ingot_from_smelting_raw_copper\", {\"d\": 1, \"n\": 8}], [\"$cracked_deepslate_bricks\", {\"d\": 1, \"n\": 8}], [\"$cracked_deepslate_tiles\", {\"d\": 1, \"n\": 8}], [\"$cracked_nether_bricks\", {\"d\": 1, \"n\": 8}], [\"$cracked_polished_blackstone_bricks\", {\"d\": 1, \"n\": 8}], [\"$cracked_stone_bricks\", {\"d\": 1, \"n\": 8}], [\"$cyan_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$deepslate\", {\"d\": 1, \"n\": 8}], [\"$diamond_from_blasting_deepslate_diamond_ore\", {\"d\": 1, \"n\": 8}], [\"$diamond_from_blasting_diamond_ore\", {\"d\": 1, \"n\": 8}], [\"$diamond_from_smelting_deepslate_diamond_ore\", {\"d\": 1, \"n\": 8}], [\"$diamond_from_smelting_diamond_ore\", {\"d\": 1, \"n\": 8}], [\"$dried_kelp_from_smelting\", {\"d\": 1, \"n\": 8}], [\"$dried_kelp_from_smoking\", {\"d\": 1, \"n\": 8}], [\"$emerald_from_blasting_deepslate_emerald_ore\", {\"d\": 1, \"n\": 8}], [\"$emerald_from_blasting_emerald_ore\", {\"d\": 1, \"n\": 8}], [\"$emerald_from_smelting_deepslate_emerald_ore\", {\"d\": 1, \"n\": 8}], [\"$emerald_from_smelting_emerald_ore\", {\"d\": 1, \"n\": 8}], [\"$glass\", {\"d\": 1, \"n\": 8}], [\"$gold_ingot_from_blasting_deepslate_gold_ore\", {\"d\": 1, \"n\": 8}], [\"$gold_ingot_from_blasting_gold_ore\", {\"d\": 1, \"n\": 8}], [\"$gold_ingot_from_blasting_nether_gold_ore\", {\"d\": 1, \"n\": 8}], [\"$gold_ingot_from_blasting_raw_gold\", {\"d\": 1, \"n\": 8}], [\"$gold_ingot_from_smelting_deepslate_gold_ore\", {\"d\": 1, \"n\": 8}], [\"$gold_ingot_from_smelting_gold_ore\", {\"d\": 1, \"n\": 8}], [\"$gold_ingot_from_smelting_nether_gold_ore\", {\"d\": 1, \"n\": 8}], [\"$gold_ingot_from_smelting_raw_gold\", {\"d\": 1, \"n\": 8}], [\"$gold_nugget_from_blasting\", {\"d\": 1, \"n\": 8}], [\"$gold_nugget_from_smelting\", {\"d\": 1, \"n\": 8}], [\"$gray_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$green_dye\", {\"d\": 1, \"n\": 8}], [\"$green_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$iron_ingot_from_blasting_deepslate_iron_ore\", {\"d\": 1, \"n\": 8}], [\"$iron_ingot_from_blasting_iron_ore\", {\"d\": 1, \"n\": 8}], [\"$iron_ingot_from_blasting_raw_iron\", {\"d\": 1, \"n\": 8}], [\"$iron_ingot_from_smelting_deepslate_iron_ore\", {\"d\": 1, \"n\": 8}], [\"$iron_ingot_from_smelting_iron_ore\", {\"d\": 1, \"n\": 8}], [\"$iron_ingot_from_smelting_raw_iron\", {\"d\": 1, \"n\": 8}], [\"$iron_nugget_from_blasting\", {\"d\": 1, \"n\": 8}], [\"$iron_nugget_from_smelting\", {\"d\": 1, \"n\": 8}], [\"$lapis_lazuli_from_blasting_deepslate_lapis_ore\", {\"d\": 1, \"n\": 8}], [\"$lapis_lazuli_from_blasting_lapis_ore\", {\"d\": 1, \"n\": 8}], [\"$lapis_lazuli_from_smelting_deepslate_lapis_ore\", {\"d\": 1, \"n\": 8}], [\"$lapis_lazuli_from_smelting_lapis_ore\", {\"d\": 1, \"n\": 8}], [\"$light_blue_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$light_gray_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$lime_dye_from_smelting\", {\"d\": 1, \"n\": 8}], [\"$lime_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$magenta_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$netherite_scrap\", {\"d\": 1, \"n\": 8}], [\"$netherite_scrap_from_blasting\", {\"d\": 1, \"n\": 8}], [\"$nether_brick\", {\"d\": 1, \"n\": 8}], [\"$orange_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$pink_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$popped_chorus_fruit\", {\"d\": 1, \"n\": 8}], [\"$purple_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$quartz\", {\"d\": 1, \"n\": 8}], [\"$quartz_from_blasting\", {\"d\": 1, \"n\": 8}], [\"$redstone_from_blasting_deepslate_redstone_ore\", {\"d\": 1, \"n\": 8}], [\"$redstone_from_blasting_redstone_ore\", {\"d\": 1, \"n\": 8}], [\"$redstone_from_smelting_deepslate_redstone_ore\", {\"d\": 1, \"n\": 8}], [\"$redstone_from_smelting_redstone_ore\", {\"d\": 1, \"n\": 8}], [\"$red_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$smooth_basalt\", {\"d\": 1, \"n\": 8}], [\"$smooth_quartz\", {\"d\": 1, \"n\": 8}], [\"$smooth_red_sandstone\", {\"d\": 1, \"n\": 8}], [\"$smooth_sandstone\", {\"d\": 1, \"n\": 8}], [\"$smooth_stone\", {\"d\": 1, \"n\": 8}], [\"$sponge\", {\"d\": 1, \"n\": 8}], [\"$stone\", {\"d\": 1, \"n\": 8}], [\"$terracotta\", {\"d\": 1, \"n\": 8}], [\"$white_glazed_terracotta\", {\"d\": 1, \"n\": 8}], [\"$yellow_glazed_terracotta\", {\"d\": 1, \"n\": 8}]], \"username\": \"Alice\"}, \"node_name\": \"#minecraft:fuel\", \"username\": \"Alice\"}",
+        "time": "20250510-205308-813142"
+    },
+    {
+        "_id": "681f4c353557126d32bb6d9b",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"node_name\": \"minecraft:raw_iron\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205309-826163"
+    },
+    {
+        "_id": "681f4c353557126d32bb6d9c",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"is_valid\": true, \"node\": {\"children\": [[\"$raw_iron\", {\"d\": 9, \"n\": 1}]], \"is_valid\": true, \"node_name\": \"minecraft:raw_iron\", \"node_type\": \"item\", \"parents\": [[\"$raw_iron_block\", {\"d\": 9, \"n\": 1}], [\"$iron_ingot_from_smelting_raw_iron\", {\"d\": 1, \"n\": 1}], [\"$iron_ingot_from_blasting_raw_iron\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"minecraft:raw_iron\", \"username\": \"Alice\"}",
+        "time": "20250510-205309-827163"
+    },
+    {
+        "_id": "681f4c363557126d32bb6d9d",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"node_name\": \"minecraft:iron_ingot\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-778939"
+    },
+    {
+        "_id": "681f4c363557126d32bb6d9e",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"is_valid\": true, \"node\": {\"children\": [[\"$iron_ingot_from_blasting_deepslate_iron_ore\", {\"d\": 1, \"n\": 1}], [\"$iron_ingot_from_blasting_iron_ore\", {\"d\": 1, \"n\": 1}], [\"$iron_ingot_from_blasting_raw_iron\", {\"d\": 1, \"n\": 1}], [\"$iron_ingot_from_iron_block\", {\"d\": 9, \"n\": 1}], [\"$iron_ingot_from_nuggets\", {\"d\": 1, \"n\": 1}], [\"$iron_ingot_from_smelting_deepslate_iron_ore\", {\"d\": 1, \"n\": 1}], [\"$iron_ingot_from_smelting_iron_ore\", {\"d\": 1, \"n\": 1}], [\"$iron_ingot_from_smelting_raw_iron\", {\"d\": 1, \"n\": 1}]], \"is_valid\": true, \"node_name\": \"minecraft:iron_ingot\", \"node_type\": \"item\", \"parents\": [[\"$tripwire_hook\", {\"d\": 1, \"n\": 1}], [\"$stonecutter\", {\"d\": 1, \"n\": 1}], [\"$smithing_table\", {\"d\": 2, \"n\": 1}], [\"$shield\", {\"d\": 1, \"n\": 1}], [\"$shears\", {\"d\": 2, \"n\": 1}], [\"$rail\", {\"d\": 6, \"n\": 1}], [\"$piston\", {\"d\": 1, \"n\": 1}], [\"$minecart\", {\"d\": 5, \"n\": 1}], [\"$iron_trapdoor\", {\"d\": 4, \"n\": 1}], [\"$iron_sword\", {\"d\": 2, \"n\": 1}], [\"$iron_shovel\", {\"d\": 1, \"n\": 1}], [\"$iron_pickaxe\", {\"d\": 3, \"n\": 1}], [\"$iron_nugget\", {\"d\": 1, \"n\": 1}], [\"$iron_leggings\", {\"d\": 7, \"n\": 1}], [\"$iron_hoe\", {\"d\": 2, \"n\": 1}], [\"$iron_helmet\", {\"d\": 5, \"n\": 1}], [\"$iron_door\", {\"d\": 6, \"n\": 1}], [\"$iron_chestplate\", {\"d\": 8, \"n\": 1}], [\"$iron_boots\", {\"d\": 4, \"n\": 1}], [\"$iron_block\", {\"d\": 9, \"n\": 1}], [\"$iron_bars\", {\"d\": 6, \"n\": 1}], [\"$iron_axe\", {\"d\": 3, \"n\": 1}], [\"$hopper\", {\"d\": 5, \"n\": 1}], [\"$heavy_weighted_pressure_plate\", {\"d\": 2, \"n\": 1}], [\"$flint_and_steel\", {\"d\": 1, \"n\": 1}], [\"$detector_rail\", {\"d\": 6, \"n\": 1}], [\"$crossbow\", {\"d\": 1, \"n\": 1}], [\"$compass\", {\"d\": 4, \"n\": 1}], [\"$chain\", {\"d\": 1, \"n\": 1}], [\"$cauldron\", {\"d\": 7, \"n\": 1}], [\"$bucket\", {\"d\": 3, \"n\": 1}], [\"$blast_furnace\", {\"d\": 5, \"n\": 1}], [\"$anvil\", {\"d\": 4, \"n\": 1}], [\"$activator_rail\", {\"d\": 6, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"minecraft:iron_ingot\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-785936"
+    },
+    {
+        "_id": "681f4c363557126d32bb6d9f",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_ingot_from_blasting_deepslate_iron_ore\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-790937"
+    },
+    {
+        "_id": "681f4c363557126d32bb6da0",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:deepslate_iron_ore\", {\"d\": 1, \"n\": 1}], [\"#minecraft:fuel\", {\"d\": 8, \"n\": 1}]], \"extra_tags\": {\"#minecraft:fuel\": {\"minecraft:acacia_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_button\": {\"d\": 1, \"n\": 16}, \"minecraft:acacia_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:acacia_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo\": {\"d\": 1, \"n\": 32}, \"minecraft:bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_button\": {\"d\": 1, \"n\": 16}, \"minecraft:bamboo_chest_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_mosaic\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_mosaic_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_mosaic_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:barrel\": {\"d\": 3, \"n\": 16}, \"minecraft:bee_nest\": {\"d\": 3, \"n\": 16}, \"minecraft:beehive\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_button\": {\"d\": 1, \"n\": 16}, \"minecraft:birch_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:birch_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:black_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:black_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:blaze_rod\": {\"d\": 3, \"n\": 2}, \"minecraft:blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:bow\": {\"d\": 1, \"n\": 8}, \"minecraft:bowl\": {\"d\": 1, \"n\": 16}, \"minecraft:brown_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:brown_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:brush\": {\"d\": 1, \"n\": 16}, \"minecraft:cartography_table\": {\"d\": 3, \"n\": 16}, \"minecraft:charcoal\": {\"d\": 1, \"n\": 1}, \"minecraft:cherry_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_button\": {\"d\": 1, \"n\": 16}, \"minecraft:cherry_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:cherry_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:chest\": {\"d\": 3, \"n\": 16}, \"minecraft:chiseled_bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:coal_block\": {\"d\": 10, \"n\": 1}, \"minecraft:composter\": {\"d\": 3, \"n\": 16}, \"minecraft:crafting_table\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_button\": {\"d\": 1, \"n\": 16}, \"minecraft:crimson_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:crimson_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crossbow\": {\"d\": 1, \"n\": 8}, \"minecraft:cyan_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:cyan_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:dark_oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:daylight_detector\": {\"d\": 3, \"n\": 16}, \"minecraft:dried_kelp_block\": {\"d\": 5, \"n\": 2}, \"minecraft:fishing_rod\": {\"d\": 3, \"n\": 16}, \"minecraft:fletching_table\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:green_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:green_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:jukebox\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_button\": {\"d\": 1, \"n\": 16}, \"minecraft:jungle_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:jungle_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:ladder\": {\"d\": 3, \"n\": 16}, \"minecraft:lectern\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:light_gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:lime_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:lime_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:loom\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_button\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_roots\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:mangrove_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:note_block\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:pink_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:pink_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:purple_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:purple_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:red_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:red_carpet\": {\"d\": 67, \"n\": 1600}, \"minecraft:red_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:scaffolding\": {\"d\": 1, \"n\": 32}, \"minecraft:smithing_table\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_button\": {\"d\": 1, \"n\": 16}, \"minecraft:spruce_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:spruce_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stick\": {\"d\": 1, \"n\": 16}, \"minecraft:stripped_acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:trapped_chest\": {\"d\": 3, \"n\": 4}, \"minecraft:warped_button\": {\"d\": 1, \"n\": 16}, \"minecraft:warped_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:warped_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:white_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:white_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:wooden_axe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_door\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_hoe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_pickaxe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_shovel\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_sword\": {\"d\": 1, \"n\": 8}, \"minecraft:yellow_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:yellow_wool\": {\"d\": 1, \"n\": 16}}}, \"is_valid\": true, \"node_name\": \"$iron_ingot_from_blasting_deepslate_iron_ore\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_ingot_from_blasting_deepslate_iron_ore\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-796444"
+    },
+    {
+        "_id": "681f4c363557126d32bb6da1",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_ingot_from_blasting_iron_ore\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-831446"
+    },
+    {
+        "_id": "681f4c363557126d32bb6da2",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_ingot_from_iron_block\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-832445"
+    },
+    {
+        "_id": "681f4c363557126d32bb6da3",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_ingot_from_nuggets\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-833445"
+    },
+    {
+        "_id": "681f4c363557126d32bb6da4",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_ingot_from_smelting_deepslate_iron_ore\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-836447"
+    },
+    {
+        "_id": "681f4c363557126d32bb6da5",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_ingot_from_smelting_iron_ore\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-837446"
+    },
+    {
+        "_id": "681f4c363557126d32bb6da6",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$stonecutter\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-838445"
+    },
+    {
+        "_id": "681f4c363557126d32bb6da7",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$smithing_table\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-840513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6da8",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_block\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_ingot_from_iron_block\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 9}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_ingot_from_iron_block\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-841513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6da9",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$rail\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-842512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6daa",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_nugget\", {\"d\": 1, \"n\": 9}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_ingot_from_nuggets\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_ingot_from_nuggets\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-842512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dab",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$shield\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-843513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dac",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$shears\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-844512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dad",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_nugget\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-847513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dae",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$minecart\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-848512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6daf",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_shovel\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-849513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6db0",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$piston\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-849513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6db1",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_block\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-851514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6db2",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_chestplate\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-851514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6db3",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_leggings\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-852514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6db4",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_trapdoor\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-852514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6db5",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_pickaxe\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-853513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6db6",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_hoe\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-854513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6db7",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_sword\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-854513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6db8",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_door\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-855515"
+    },
+    {
+        "_id": "681f4c363557126d32bb6db9",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_helmet\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-856514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dba",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$flint_and_steel\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-856514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dbb",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_axe\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-856514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dbc",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_boots\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-857515"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dbd",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$chain\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-858514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dbe",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$activator_rail\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-858514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dbf",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$detector_rail\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-859513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dc0",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$compass\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-860513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dc1",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$blast_furnace\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-860513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dc2",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$cauldron\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-861513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dc3",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$heavy_weighted_pressure_plate\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-861513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dc4",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$hopper\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-863514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dc5",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$anvil\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-863514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dc6",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stone\", {\"d\": 1, \"n\": 3}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$stonecutter\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stonecutter\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$stonecutter\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-864513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dc7",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$bucket\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-867514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dc8",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$rail\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:rail\", {\"d\": 1, \"n\": 16}]], \"username\": \"Alice\"}, \"node_name\": \"$rail\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-868513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dc9",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 4}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_trapdoor\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_trapdoor\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_trapdoor\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-868513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dca",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"Adia0Pog\", \"node_name\": \"$iron_bars\", \"raw_list\": [], \"token\": \"dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR\"}",
+        "time": "20250510-205310-868513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dcb",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 5}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$minecart\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:minecart\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$minecart\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-869513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dcc",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 9}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_block\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_block\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_block\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-869513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dcd",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_nugget\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_nugget\", {\"d\": 1, \"n\": 9}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_nugget\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-870513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dce",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 5}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_helmet\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_helmet\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_helmet\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-870513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dcf",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 8}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_chestplate\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_chestplate\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_chestplate\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-870513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dd0",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$shears\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:shears\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$shears\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-871512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dd1",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_axe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_axe\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_axe\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-871512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dd2",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_pickaxe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_pickaxe\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_pickaxe\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-871512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dd3",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_sword\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_sword\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_sword\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-872513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dd4",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 7}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_leggings\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_leggings\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_leggings\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-872513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dd5",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:chest\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 5}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$hopper\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:hopper\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$hopper\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-873512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dd6",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_nugget\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$chain\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:chain\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$chain\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-873512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dd7",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_door\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_door\", {\"d\": 1, \"n\": 3}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_door\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-874512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dd8",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:smooth_stone\", {\"d\": 1, \"n\": 3}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 5}], [\"minecraft:furnace\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$blast_furnace\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:blast_furnace\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$blast_furnace\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-874512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dd9",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_hoe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_hoe\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_hoe\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-875512"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dda",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 4}], [\"minecraft:redstone\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$compass\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:compass\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$compass\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-876513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6ddb",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_shovel\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_shovel\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_shovel\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-876513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6ddc",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:redstone_torch\", {\"d\": 1, \"n\": 1}], [\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$activator_rail\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:activator_rail\", {\"d\": 1, \"n\": 6}]], \"username\": \"Alice\"}, \"node_name\": \"$activator_rail\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-877513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6ddd",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:flint\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$flint_and_steel\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:flint_and_steel\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$flint_and_steel\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-878514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dde",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$bucket\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:bucket\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$bucket\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-879513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6ddf",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 7}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$cauldron\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:cauldron\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$cauldron\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-879513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6de0",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_bars\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_bars\", {\"d\": 1, \"n\": 16}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_bars\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-880514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6de1",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_block\", {\"d\": 1, \"n\": 3}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 4}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$anvil\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:anvil\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$anvil\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-882513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6de2",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 4}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$iron_boots\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_boots\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_boots\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-882513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6de3",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$heavy_weighted_pressure_plate\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:heavy_weighted_pressure_plate\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$heavy_weighted_pressure_plate\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-884513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6de4",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 6}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:acacia_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:bamboo_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:birch_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:crimson_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:dark_oak_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:jungle_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:mangrove_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:spruce_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:warped_planks\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$shield\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:shield\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$shield\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-886513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6de5",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 4}], [\"minecraft:redstone\", {\"d\": 1, \"n\": 1}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 3}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:acacia_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:bamboo_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:birch_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:crimson_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:dark_oak_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:jungle_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:mangrove_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:spruce_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:warped_planks\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$piston\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:piston\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$piston\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-887513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6de6",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stone_pressure_plate\", {\"d\": 1, \"n\": 1}], [\"minecraft:redstone\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$detector_rail\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:detector_rail\", {\"d\": 1, \"n\": 6}]], \"username\": \"Alice\"}, \"node_name\": \"$detector_rail\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-888513"
+    },
+    {
+        "_id": "681f4c363557126d32bb6de7",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 4}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:acacia_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:bamboo_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:birch_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:crimson_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:dark_oak_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:jungle_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:mangrove_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:spruce_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:warped_planks\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$smithing_table\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:smithing_table\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$smithing_table\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-889514"
+    },
+    {
+        "_id": "681f4c363557126d32bb6de8",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ore\", {\"d\": 1, \"n\": 1}], [\"#minecraft:fuel\", {\"d\": 8, \"n\": 1}]], \"extra_tags\": {\"#minecraft:fuel\": {\"minecraft:acacia_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_button\": {\"d\": 1, \"n\": 16}, \"minecraft:acacia_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:acacia_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo\": {\"d\": 1, \"n\": 32}, \"minecraft:bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_button\": {\"d\": 1, \"n\": 16}, \"minecraft:bamboo_chest_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_mosaic\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_mosaic_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_mosaic_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:barrel\": {\"d\": 3, \"n\": 16}, \"minecraft:bee_nest\": {\"d\": 3, \"n\": 16}, \"minecraft:beehive\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_button\": {\"d\": 1, \"n\": 16}, \"minecraft:birch_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:birch_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:black_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:black_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:blaze_rod\": {\"d\": 3, \"n\": 2}, \"minecraft:blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:bow\": {\"d\": 1, \"n\": 8}, \"minecraft:bowl\": {\"d\": 1, \"n\": 16}, \"minecraft:brown_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:brown_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:brush\": {\"d\": 1, \"n\": 16}, \"minecraft:cartography_table\": {\"d\": 3, \"n\": 16}, \"minecraft:charcoal\": {\"d\": 1, \"n\": 1}, \"minecraft:cherry_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_button\": {\"d\": 1, \"n\": 16}, \"minecraft:cherry_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:cherry_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:chest\": {\"d\": 3, \"n\": 16}, \"minecraft:chiseled_bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:coal_block\": {\"d\": 10, \"n\": 1}, \"minecraft:composter\": {\"d\": 3, \"n\": 16}, \"minecraft:crafting_table\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_button\": {\"d\": 1, \"n\": 16}, \"minecraft:crimson_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:crimson_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crossbow\": {\"d\": 1, \"n\": 8}, \"minecraft:cyan_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:cyan_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:dark_oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:daylight_detector\": {\"d\": 3, \"n\": 16}, \"minecraft:dried_kelp_block\": {\"d\": 5, \"n\": 2}, \"minecraft:fishing_rod\": {\"d\": 3, \"n\": 16}, \"minecraft:fletching_table\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:green_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:green_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:jukebox\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_button\": {\"d\": 1, \"n\": 16}, \"minecraft:jungle_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:jungle_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:ladder\": {\"d\": 3, \"n\": 16}, \"minecraft:lectern\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:light_gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:lime_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:lime_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:loom\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_button\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_roots\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:mangrove_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:note_block\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:pink_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:pink_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:purple_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:purple_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:red_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:red_carpet\": {\"d\": 67, \"n\": 1600}, \"minecraft:red_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:scaffolding\": {\"d\": 1, \"n\": 32}, \"minecraft:smithing_table\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_button\": {\"d\": 1, \"n\": 16}, \"minecraft:spruce_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:spruce_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stick\": {\"d\": 1, \"n\": 16}, \"minecraft:stripped_acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:trapped_chest\": {\"d\": 3, \"n\": 4}, \"minecraft:warped_button\": {\"d\": 1, \"n\": 16}, \"minecraft:warped_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:warped_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:white_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:white_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:wooden_axe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_door\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_hoe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_pickaxe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_shovel\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_sword\": {\"d\": 1, \"n\": 8}, \"minecraft:yellow_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:yellow_wool\": {\"d\": 1, \"n\": 16}}}, \"is_valid\": true, \"node_name\": \"$iron_ingot_from_blasting_iron_ore\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_ingot_from_blasting_iron_ore\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-905973"
+    },
+    {
+        "_id": "681f4c363557126d32bb6de9",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:deepslate_iron_ore\", {\"d\": 1, \"n\": 1}], [\"#minecraft:fuel\", {\"d\": 8, \"n\": 1}]], \"extra_tags\": {\"#minecraft:fuel\": {\"minecraft:acacia_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_button\": {\"d\": 1, \"n\": 16}, \"minecraft:acacia_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:acacia_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo\": {\"d\": 1, \"n\": 32}, \"minecraft:bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_button\": {\"d\": 1, \"n\": 16}, \"minecraft:bamboo_chest_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_mosaic\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_mosaic_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_mosaic_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:barrel\": {\"d\": 3, \"n\": 16}, \"minecraft:bee_nest\": {\"d\": 3, \"n\": 16}, \"minecraft:beehive\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_button\": {\"d\": 1, \"n\": 16}, \"minecraft:birch_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:birch_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:black_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:black_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:blaze_rod\": {\"d\": 3, \"n\": 2}, \"minecraft:blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:bow\": {\"d\": 1, \"n\": 8}, \"minecraft:bowl\": {\"d\": 1, \"n\": 16}, \"minecraft:brown_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:brown_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:brush\": {\"d\": 1, \"n\": 16}, \"minecraft:cartography_table\": {\"d\": 3, \"n\": 16}, \"minecraft:charcoal\": {\"d\": 1, \"n\": 1}, \"minecraft:cherry_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_button\": {\"d\": 1, \"n\": 16}, \"minecraft:cherry_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:cherry_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:chest\": {\"d\": 3, \"n\": 16}, \"minecraft:chiseled_bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:coal_block\": {\"d\": 10, \"n\": 1}, \"minecraft:composter\": {\"d\": 3, \"n\": 16}, \"minecraft:crafting_table\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_button\": {\"d\": 1, \"n\": 16}, \"minecraft:crimson_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:crimson_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crossbow\": {\"d\": 1, \"n\": 8}, \"minecraft:cyan_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:cyan_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:dark_oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:daylight_detector\": {\"d\": 3, \"n\": 16}, \"minecraft:dried_kelp_block\": {\"d\": 5, \"n\": 2}, \"minecraft:fishing_rod\": {\"d\": 3, \"n\": 16}, \"minecraft:fletching_table\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:green_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:green_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:jukebox\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_button\": {\"d\": 1, \"n\": 16}, \"minecraft:jungle_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:jungle_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:ladder\": {\"d\": 3, \"n\": 16}, \"minecraft:lectern\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:light_gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:lime_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:lime_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:loom\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_button\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_roots\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:mangrove_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:note_block\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:pink_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:pink_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:purple_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:purple_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:red_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:red_carpet\": {\"d\": 67, \"n\": 1600}, \"minecraft:red_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:scaffolding\": {\"d\": 1, \"n\": 32}, \"minecraft:smithing_table\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_button\": {\"d\": 1, \"n\": 16}, \"minecraft:spruce_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:spruce_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stick\": {\"d\": 1, \"n\": 16}, \"minecraft:stripped_acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:trapped_chest\": {\"d\": 3, \"n\": 4}, \"minecraft:warped_button\": {\"d\": 1, \"n\": 16}, \"minecraft:warped_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:warped_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:white_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:white_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:wooden_axe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_door\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_hoe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_pickaxe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_shovel\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_sword\": {\"d\": 1, \"n\": 8}, \"minecraft:yellow_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:yellow_wool\": {\"d\": 1, \"n\": 16}}}, \"is_valid\": true, \"node_name\": \"$iron_ingot_from_smelting_deepslate_iron_ore\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_ingot_from_smelting_deepslate_iron_ore\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-908973"
+    },
+    {
+        "_id": "681f4c363557126d32bb6dea",
+        "domain": [
+            "dZnChu0-rrplRUz4-Jj-Eq8mOFoY_VfR"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:iron_ore\", {\"d\": 1, \"n\": 1}], [\"#minecraft:fuel\", {\"d\": 8, \"n\": 1}]], \"extra_tags\": {\"#minecraft:fuel\": {\"minecraft:acacia_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_button\": {\"d\": 1, \"n\": 16}, \"minecraft:acacia_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:acacia_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:acacia_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:acacia_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo\": {\"d\": 1, \"n\": 32}, \"minecraft:bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_button\": {\"d\": 1, \"n\": 16}, \"minecraft:bamboo_chest_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_mosaic\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_mosaic_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_mosaic_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_raft\": {\"d\": 3, \"n\": 4}, \"minecraft:bamboo_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:bamboo_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:bamboo_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:bamboo_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:barrel\": {\"d\": 3, \"n\": 16}, \"minecraft:bee_nest\": {\"d\": 3, \"n\": 16}, \"minecraft:beehive\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_button\": {\"d\": 1, \"n\": 16}, \"minecraft:birch_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:birch_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:birch_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:birch_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:black_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:black_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:blaze_rod\": {\"d\": 3, \"n\": 2}, \"minecraft:blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:bow\": {\"d\": 1, \"n\": 8}, \"minecraft:bowl\": {\"d\": 1, \"n\": 16}, \"minecraft:brown_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:brown_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:brush\": {\"d\": 1, \"n\": 16}, \"minecraft:cartography_table\": {\"d\": 3, \"n\": 16}, \"minecraft:charcoal\": {\"d\": 1, \"n\": 1}, \"minecraft:cherry_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_button\": {\"d\": 1, \"n\": 16}, \"minecraft:cherry_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:cherry_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:cherry_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:cherry_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:chest\": {\"d\": 3, \"n\": 16}, \"minecraft:chiseled_bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:coal_block\": {\"d\": 10, \"n\": 1}, \"minecraft:composter\": {\"d\": 3, \"n\": 16}, \"minecraft:crafting_table\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_button\": {\"d\": 1, \"n\": 16}, \"minecraft:crimson_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crimson_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:crimson_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:crimson_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:crossbow\": {\"d\": 1, \"n\": 8}, \"minecraft:cyan_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:cyan_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:dark_oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:dark_oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:dark_oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:dark_oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:daylight_detector\": {\"d\": 3, \"n\": 16}, \"minecraft:dried_kelp_block\": {\"d\": 5, \"n\": 2}, \"minecraft:fishing_rod\": {\"d\": 3, \"n\": 16}, \"minecraft:fletching_table\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:green_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:green_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:jukebox\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_button\": {\"d\": 1, \"n\": 16}, \"minecraft:jungle_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:jungle_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:jungle_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:jungle_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:ladder\": {\"d\": 3, \"n\": 16}, \"minecraft:lectern\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_blue_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:light_gray_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:light_gray_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:lime_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:lime_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:loom\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:magenta_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_button\": {\"d\": 1, \"n\": 16}, \"minecraft:mangrove_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:mangrove_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_roots\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:mangrove_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:mangrove_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:note_block\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:orange_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:pink_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:pink_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:purple_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:purple_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:red_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:red_carpet\": {\"d\": 67, \"n\": 1600}, \"minecraft:red_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:scaffolding\": {\"d\": 1, \"n\": 32}, \"minecraft:smithing_table\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_button\": {\"d\": 1, \"n\": 16}, \"minecraft:spruce_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:spruce_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:spruce_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:spruce_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stick\": {\"d\": 1, \"n\": 16}, \"minecraft:stripped_acacia_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_acacia_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_bamboo_block\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_birch_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_cherry_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_dark_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_jungle_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_mangrove_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_oak_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_log\": {\"d\": 3, \"n\": 16}, \"minecraft:stripped_spruce_wood\": {\"d\": 3, \"n\": 16}, \"minecraft:trapped_chest\": {\"d\": 3, \"n\": 4}, \"minecraft:warped_button\": {\"d\": 1, \"n\": 16}, \"minecraft:warped_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:warped_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:warped_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:warped_wall_hanging_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:white_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:white_wool\": {\"d\": 1, \"n\": 16}, \"minecraft:wooden_axe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_door\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_hoe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_pickaxe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_shovel\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_sword\": {\"d\": 1, \"n\": 8}, \"minecraft:yellow_banner\": {\"d\": 3, \"n\": 16}, \"minecraft:yellow_wool\": {\"d\": 1, \"n\": 16}}}, \"is_valid\": true, \"node_name\": \"$iron_ingot_from_smelting_iron_ore\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$iron_ingot_from_smelting_iron_ore\", \"username\": \"Alice\"}",
+        "time": "20250510-205310-914973"
+    },
+    {
+        "_id": "681f51363557126d32bb6deb",
+        "domain": [
+            "Adia0Pog"
+        ],
+        "event": "server__player_leave_room",
+        "msg": "{\"gamename\": \"Adia0Pog\", \"player_list\": [], \"playername\": \"Alice\"}",
+        "time": "20250510-211430-437708"
+    },
+    {
+        "_id": "681f51363557126d32bb6dec",
+        "domain": [
+            "Adia0Pog"
+        ],
+        "event": "server__game_deleted",
+        "msg": "{\"hall\": \"1-player-test\"}",
+        "time": "20250510-211430-437708"
+    }
+]

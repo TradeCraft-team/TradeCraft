@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly submitted invalid proposals due to formatting issues, demonstrating poor adaptability. They eventually made a null trade, showing a lack of effective trading strategy."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly assessed the situation with player 2's null trade and accepted it, demonstrating good adaptability by maintaining a positive trading relationship and avoiding potential conflict."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 failed to craft a stick due to using the wrong recipe. They consistently checked incorrect recipes throughout the turn, showing a lack of adaptability and problem-solving skills. They also made a pointless proposal, showing inefficiencies in their strategy and communication"
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 crafted a copper ingot but failed to recognize the need for raw copper for their target item. Their plan is present, however, demonstrating some adaptability by considering opponent's needs."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 again submitted an invalid proposal demonstrating low adaptability.  Their subsequent trade proposal was reasonable but ultimately rejected. They were slow to recognize and adapt to player 1's needs. They still fail to acquire what they need to get closer to achieving their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 recognized the uselessness of player 2's trade offer and rejected it. However, they then attempted to trade for more planks despite already rejecting iron trades, and failed to adapt their proposal accordingly to incentivize acceptance.  They also failed to adapt to their resource constraints and inability to craft sticks."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 recognized the failed trade attempt and focused on achieving their goal without relying on trading. They successfully smelted raw iron, demonstrating adaptability by utilizing available resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 recognized player 1's need for their iron ingot and rejected the trade to maintain their own progress. However, there's no sign of a proactive adaptation to the game state yet."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 attempted another unsuccessful trade.  Their adaptability is limited, as they're still focusing on direct item-for-item trades and not offering something more valuable to player 1.  The proposal itself, while logical, failed to consider player 1's likely needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 recognized the unsuitability of player 2's trade proposal and rejected it.  They are correctly focused on acquiring cherry planks but offer a low amount of raw iron in exchange, showing limited strategic adaptation."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully traded for a cherry plank, demonstrating adaptability by securing a necessary resource through a trade they initiated. They then planned to craft the target item, showing good progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted a trade that benefited player 1 more than themselves. However, they recognized the potential need for wood, indicating an attempt to adapt to their opponent's behavior. They then formulated a plan to continue working toward their goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully traded for an iron ingot, demonstrating strong adaptability by adjusting their strategy to secure the necessary item and complete their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable trade, getting raw materials while giving away a less valuable item considering they already had the necessary components to create their goal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 proposed a trade that did not align with player 2's needs, showing limited strategic thinking and adaptability to their partner's goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 correctly assessed that player 1's trade offer did not serve their needs and made a reasonable counter-proposal, showcasing better adaptability."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offered a flexible trade, showing adaptability by trying a different approach and offering raw materials player 1 might need. However, they did not correctly address player 1's core resource requirement."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 recognized that trading raw iron would not help them craft their target, showing some understanding of crafting, but continued to struggle with crafting the stick due to consistent recipe errors, and proposed a useless trade. They are unable to efficiently adapt to craft their target."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 proposed and failed another useless trade with no consideration for the opponent's needs.  Still consistently failed to craft the stick correctly. Their inability to adapt their crafting strategy continues to hinder their progress.  They are still unable to craft their goal and have done little to change that."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejected an unhelpful trade offer. They displayed some strategic thinking by recognizing what their opponent needed, but their proposed trade lacked flexibility and didn't consider their own lack of planks."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 offered another unhelpful trade with no regard for Player 1's needs, and continued with an inflexible proposal.  They made a reasonable offer for their needs and tried a new resource type (cobblestone), but did not incentivize Player 1 to accept."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 recognized the trade offer wasn't beneficial and rejected it, showing sound judgement, but made no effort to adapt their behavior. They still failed to correctly craft sticks. They are still unable to make their goal."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 successfully adapted their trading strategy by offering a needed resource (raw copper) to player 2, securing cobblestone in return.  They now have all the necessary components to craft their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly identified raw copper in player 1's proposal as a key ingredient for completing their goal item and accepted the trade, showcasing high adaptability and leading to their victory."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 adapted well to the game start.  They correctly identified their need for iron ingots and formulated a plan to acquire raw iron through trading.  They offered a reasonable trade, showing an understanding of resource values and the potential needs of their opponent.  They also considered their need for fuel for the furnace."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated good adaptability. They correctly assessed the value of the trade offer in relation to their own crafting needs. They identified the planks as necessary for crafting sticks, a component of their target item.  They accepted the trade, showing a willingness to cooperate and make strategic decisions based on available resources."
+      }
+    ]
+  }
+]

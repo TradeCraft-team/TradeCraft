@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need (iron ingots for a bucket) and formulated a trade proposal to directly benefit themselves.  They offered coal, which while potentially useful to Player 1, was expendable for Player 2 and served to incentivize the trade.  Their thought process explicitly focuses on acquiring the necessary materials for their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that was beneficial to them but primarily served Player 2's goal. While gaining coal was helpful for smelting, they parted with raw iron, a key component of their own target item (a lever, which requires iron ingots).  Their reasoning demonstrates some self-interest by recognizing the value of coal for their own crafting, but the decision ultimately aided Player 2 more significantly."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's focus was entirely on their own needs. They first attempted an invalid trade for oak planks, then formulated a trade for raw iron which they openly stated was more useful to them. Their thought process and actions were directly aimed at improving their own crafting potential."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 showed some self-interest by considering the value of raw iron and raw copper, recognizing that raw iron was more valuable to them. However, they prioritized helping Player 1 by accepting a trade that was slightly disadvantageous to them, indicating a lower level of self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted strategically to achieve their goal. They offered a valuable resource (raw copper) in exchange for an item they needed to complete their bucket.  Their thought process demonstrates a clear understanding of their own needs and how to leverage the trading system to their advantage, resulting in their victory."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a reasonable trade but did not demonstrate strong self-interest. Accepting the trade for raw copper was not detrimental, but it didn't directly contribute to crafting their target item.  Their thoughts reveal uncertainty about the optimal course of action, and the trade ultimately aided Player 2 in achieving victory."
+      }
+    ]
+  }
+]

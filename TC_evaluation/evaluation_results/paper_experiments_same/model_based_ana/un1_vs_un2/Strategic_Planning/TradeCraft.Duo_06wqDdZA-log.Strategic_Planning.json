@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 formulated a good plan to obtain the iron ingots needed for their bucket. They correctly identified the need for more iron and proposed a reasonable trade, offering something they didn't need for something essential to their goal.  They checked the bucket recipe, indicating an understanding of crafting requirements and resource management.  They also seemed to factor in long term strategy by getting raw iron to smelt rather than directly requesting iron ingots"
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 reasoned through the trade proposal effectively, recognizing that the raw iron wasn't crucial for their lever and accepting a beneficial trade. They identified the necessary components for their lever and planned to craft it. While their crafting plan is sound, they haven't taken any action yet."
+      }
+    ]
+  }
+]

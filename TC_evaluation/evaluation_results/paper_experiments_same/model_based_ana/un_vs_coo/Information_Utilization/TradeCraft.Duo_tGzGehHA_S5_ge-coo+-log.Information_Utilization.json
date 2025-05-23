@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrates good information utilization by recognizing the need for iron ingots to craft a chain and attempting to trade with Player 1 for raw iron. However, the initial proposal was invalid, indicating a slight misstep in understanding the game mechanics. The subsequent proposal demonstrates improved understanding and a clear communication of intent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognizes that they don't need anything from Player 2 to craft their target item but decides to accept the trade for coal. This indicates strategic thinking, considering the potential future benefits of the resource."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's actions demonstrate poor information utilization. They submit an invalid proposal and waste a turn by making a null proposal while incorrectly believing they can craft their target item. They also repeatedly fail to correctly check/apply recipes for sticks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly identifies the need for iron ingots and considers trading strategies.  They check their available recipes and accurately assess the possibility of smelting their own raw iron using their coal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly assesses that they do not need the offered iron ingot and rejects the trade. They then realize they made a mistake in a past trade and spend a turn considering how to fix the problem and craft their target. But still fails to do so after having trouble with the stick recipe."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 analyzes both their own and Player 1's inventory and proposes a trade based on this information.  While the trade is rejected, the attempt demonstrates reasonable information utilization."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 repeats previous mistakes and fails to craft sticks or a lever despite having the resources, demonstrating poor information utilization. Multiple invalid recipe checks suggest the player did not understand the recipes they tried to use."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to analyze their needs for crafting a chain and attempts to formulate a trade based on previous interactions and observed inventory. They also consider their opponent's potential needs in their trade proposal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 recognizes the need for raw copper, proposes a logical trade, and begins formulating a crafting plan.  While the trade is rejected, the actions suggest information utilization."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 evaluates the trade offer effectively and rejects it as it doesn't contribute to their goal, while continuing to formulate their plan to craft a lever."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 still struggles with basic crafting and fails to make a stick despite having the materials.  They continue to exhibit poor information utilization by repeatedly checking incorrect stick recipes."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively plans to craft the iron nugget and then the chain, demonstrating a solid understanding of the game mechanics and available resources."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully crafts the chain, demonstrating excellent information utilization throughout the game.  The attempts to trade for necessary materials earlier and the ultimate success in crafting the target item showcases their effective game knowledge and strategy."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to fail in crafting a lever and misinterprets the stick recipe, demonstrating consistent poor information utilization despite having access to the right resources.  The repeated failure to understand the stick recipe is the primary reason for this low score."
+      }
+    ]
+  }
+]

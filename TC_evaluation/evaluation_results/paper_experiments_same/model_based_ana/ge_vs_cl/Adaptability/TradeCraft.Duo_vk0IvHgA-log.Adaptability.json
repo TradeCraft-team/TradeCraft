@@ -1,0 +1,128 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initially made an invalid proposal but quickly adapted by checking the recipe for their target item (chain) and proposing a relevant trade for raw iron. While the trade was rejected, the player demonstrated an understanding of their needs and how to acquire necessary resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly checked the recipe for \"lever\" but did not make any trading decisions or crafting attempts.  The rejection message suggests a lack of meaningful interaction or adaptability during the turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively analyzes the previous turn's failure and reasons about Player 2's potential needs. The acceptance of the raw iron trade demonstrates a successful adaptation to the game state."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully proposes a mutually beneficial trade, adapting their strategy based on Player 1's resources and potential needs.  This shows a good understanding of trading dynamics and resource management."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempts to adapt their trading strategy by offering different combinations of resources. However, the continued rejection of their proposals shows limited success in understanding Player 2's needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 understands their crafting requirements and makes a reasoned decision to reject the trade, prioritizing their own needs. They also display an understanding of Player 1's intentions and the strategic implications of the trade."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not take any actions this turn and therefore didn't show any adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Despite numerous attempts to reason and formulate a trade proposal, Player 2 submits several invalid proposals. This suggests a lack of adaptability and a failure to effectively utilize game mechanics."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes their advantageous position and offers excess resources, fostering a positive interaction and potentially future cooperation. This demonstrates good game sense and adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly evaluates the situation and accepts the beneficial trade, maximizing their resource acquisition without any cost. This demonstrates sound judgment and adaptability."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognizes the value of raw copper for their target item and accepts a beneficial trade, adapting to the current game state and available resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 identifies a resource they could use (cobblestone) and makes a reasonable proposal, showing an understanding of trading dynamics and resource management."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapts their strategy by proposing a trade for a needed iron ingot, offering valuable resources in exchange. Although rejected, the attempt to acquire the necessary materials demonstrates adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly checks the recipe for \"lever\" but ultimately rejects the trade without clear justification. This passive approach and lack of meaningful interaction indicate low adaptability."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognizes the value of the raw iron for their goal and accepts the trade, demonstrating an understanding of resource management and adaptability to the proposed exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 identifies a potential need for raw_copper and proposes a trade, showcasing strategic thinking and a proactive approach to resource acquisition."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempts to maintain a positive trading relationship by offering a resource they don't need. However, the rejected proposal and subsequent focus on acquiring more iron, despite already having enough, suggests a slight miscalculation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's repeated checking of the lever recipe and eventual rejection of the trade without a clear reason suggest a lack of engagement and adaptability to the proposed exchange."
+      }
+    ]
+  }
+]

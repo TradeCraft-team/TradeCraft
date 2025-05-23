@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly checked the recipe for \"chain\", revealing their target.  The initial trade proposal was invalid, further hindering their strategy. While the eventual proposal for raw iron was reasonable, the repeated recipe checks significantly compromised their intention concealment."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 made no direct inquiries related to their target item (lever). Their rejection of the initial trade offer from Player 2, coupled with their subsequent crafting attempts, effectively masked their intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 directly revealed their need for cherry planks to make sticks for a lever, clearly exposing their target item.  While the trade was successful, the transparency of their intentions significantly lowers their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 strategically accepted the trade, acquiring necessary raw iron while feigning interest in helping Player 1. They efficiently converted traded resources towards crafting their own target, although their earlier actions in Turn 1 had already revealed their need for iron."
+      }
+    ]
+  }
+]

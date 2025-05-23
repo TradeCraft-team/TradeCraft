@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by repeatedly attempting to trade with Player 2 for iron ingots, which are needed for crafting the bucket.  They tried different offers and considered what Player 2 might need. However, they weren't successful in securing a trade, and their overall strategy lacked depth in terms of considering other crafting paths or resources."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected Player 1's trade offer without properly assessing the potential benefits or attempting to negotiate.  This indicates a lack of adaptability to the current game state and a missed opportunity to acquire resources that might have been beneficial, even indirectly."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted their strategy by accepting a trade that wasn't directly related to their primary goal.  Recognizing the potential for future trades using the acquired resource, they demonstrated flexibility.  Their continued focus on acquiring iron and their attempts to strategize using their current hand demonstrate adaptability."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 secured a trade for cherry planks, demonstrating adaptability by acquiring a resource needed for crafting sticks, which are necessary to craft the stone shovel. They successfully adapted their actions to achieve their target."
+      }
+    ]
+  }
+]

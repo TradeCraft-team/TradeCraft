@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 exhibited strong self-interested behavior by proposing a trade that directly benefited them. They offered items they deemed less valuable (cherry planks and cobblestone) in exchange for raw iron, which they needed to craft their target item (bucket). Their thought process clearly demonstrates a focus on acquiring the necessary resources for their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 also demonstrated self-interested behavior by accepting the trade. Although the trade benefited both players, Player 1's primary motivation was to acquire the planks and cobblestone to craft sticks, a component of their target item (stone_shovel).  Their acceptance of the trade was contingent on it furthering their own goal."
+      }
+    ]
+  }
+]

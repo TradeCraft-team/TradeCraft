@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent adaptability. They correctly identified their need for raw iron, formulated a reasonable trade proposal, and explained their reasoning clearly.  They considered their opponent's potential needs and offered a relevant resource (coal) in exchange. They checked the recipe for their target item and planned their crafting steps effectively."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also showed good adaptability. They analyzed the trade proposal, recognized its mutual benefit, and accepted it.  They also communicated their own goal, fostering collaboration. Although there were some redundant steps in checking and re-checking recipes and their items, the overall adaptability was reasonable for turn 1."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 missed an opportunity to adapt and trade for the missing planks needed to craft their stone shovel.  While they offered support to player 1, they didn't actively pursue acquiring their missing materials.  They showed poor understanding of the game rules and crafting mechanics based on the craft requests provided."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 recognized the need for more iron and considered potential trade options.  While they initially traded for nothing, they quickly identified the mistake and began to formulate a plan to acquire more raw iron by offering other resources. The thinking is not very clear and a bit jumpy, and the crafting attempts are inefficient."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good adaptability by recognizing the limited value of iron nuggets and offering them in a trade for a needed resource (raw iron). They also inquired about player 2's target, showing a collaborative approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 adapted well to the trade proposal, recognizing the potential for cooperation and accepting even though they didn't directly need the offered item.  They continued to check crafting options but became aware of their missing resources and the need to trade."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to pursue their goal and offered different items to get the necessary resources, indicating their adaptability to the situation. They are persistent in their efforts, however, they fail to recognize that player 1 can't craft the stick that they need and continually make an invalid trade proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 correctly assessed the situation and accepted a trade, even though it wasn't directly related to their target. They showed an understanding of the importance of cooperation and demonstrated good judgment.  Their crafting decisions show a clear understanding of the recipe for chain."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent adaptability in this final turn.  They effectively used available information, traded strategically for coal, and successfully crafted their target item.  They showed a clear understanding of the game rules and crafting mechanics, and prioritized getting the required resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continued attempts to trade for planks to craft sticks, showing some adaptability.  However, they failed to secure the trade, ultimately leading to their loss.  They consistently offered favorable trades but failed to recognize alternative options."
+      }
+    ]
+  }
+]

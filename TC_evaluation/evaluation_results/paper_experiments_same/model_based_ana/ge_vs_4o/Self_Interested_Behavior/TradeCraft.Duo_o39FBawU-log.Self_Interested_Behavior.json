@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interested behavior by attempting to trade for raw iron, which is a component in crafting a chain. The offered trade was reasonable, showing a strategic approach to achieving their goal. Although the trade was rejected, the attempt and the thought process demonstrate self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "player 1 acted in their self-interest by rejecting the trade offer. Recognizing that raw copper was not beneficial for their goal of crafting a stone shovel, they prioritized their needs and declined the offer, thus maximizing their own resource utility for their objective."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "player 1 continued to exhibit self-interested behavior by proposing a trade for cobblestone, a key ingredient for their stone shovel.  Their offer of raw iron indicated a willingness to part with resources that didn't directly benefit their objective, further demonstrating their focus on crafting their desired item. The subsequent rejection by Player 2 and Player 1's crafting plans reinforce this focus on their own goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the cobblestone trade, which was detrimental to their progress. They demonstrated no clear self-interested behaviour in this turn, simply rejecting the proposal without making their own counter-offers or crafting progress toward the target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 strategically offered cobblestone for raw iron. This was a calculated move to both obtain a useful resource and potentially hinder player 1's progress. Following this, they used their resources effectively to successfully craft their target item, the chain, achieving their primary objective and maximizing their self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "player 1 accepted Player 2's trade offer, exchanging raw iron for cobblestone. While this seemed initially beneficial, it ultimately didn't contribute to crafting their desired stone shovel, since they could not create the sticks needed to make the shovel. Accepting the trade and failing to recognize their own needs shows a lapse in self-interested behavior."
+      }
+    ]
+  }
+]

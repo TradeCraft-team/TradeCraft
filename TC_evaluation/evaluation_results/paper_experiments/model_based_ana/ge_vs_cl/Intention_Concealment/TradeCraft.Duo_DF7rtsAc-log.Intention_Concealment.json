@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their intention to craft a bucket by directly asking for raw iron and explaining their need for it in the trade proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intentions. They inquired about the lever recipe without revealing their target, and rejected the trade offer with a plausible explanation, avoiding revealing their need for oak planks."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 completely revealed their intention by stating their need for iron to craft a bucket, as well as confirming the bucket recipe."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintained good intention concealment by proposing a seemingly mutually beneficial trade while actually acquiring needed coal for smelting, without revealing their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their intention to craft a bucket by directly asking for an iron ingot and explaining in their proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intentions, rejecting the iron ingot trade with a plausible reason that doesn't reveal their plan to craft a lever."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 showed some intention concealment this turn, focusing on acquiring resources without revealing bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 disguised their true needs (planks/sticks for the lever) by proposing what looks like a helpful trade for the other player, without explicitly revealing their target."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's proposal revealed their intention by offering a trade specifically for an iron ingot needed for the bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains a high intention concealment score. Their rejections and item checks don't reveal their plans."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade without revealing their intention.  Their internal thoughts show strategic thinking about the bucket, but this isn't revealed through actions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a seemingly neutral trade for cobblestone, which could be interpreted as needing it for various things, effectively concealing their true intentions."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's proposal and message explicitly reveal their intention to craft a bucket by stating their need for another iron ingot."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains high intention concealment by rejecting the trade, giving a generic reason that doesn't reveal their plan."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 maintains a neutral stance, accepting a seemingly beneficial trade without giving away their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal and reasoning suggest they are prioritizing iron, but doesn't completely reveal their need for sticks/planks."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 reveals their intention again by explicitly asking for raw iron to craft a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains consistent concealment by not revealing their needs."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts a trade that benefits them without revealing their intention."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade that seems mutually beneficial, masking their true intentions and need for oak planks."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's proposal and message reveal their intention to craft a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to conceal their intentions effectively by rejecting the trade without giving specific reasons."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected the trade, showing a preference for iron, but not revealing their specific crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal gives a reason related to general crafting, not specifically revealing the lever."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, revealing player 1's loss and target item (bucket)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, revealing player 2's loss and target item (lever). No concealment possible at this stage."
+      }
+    ]
+  }
+]

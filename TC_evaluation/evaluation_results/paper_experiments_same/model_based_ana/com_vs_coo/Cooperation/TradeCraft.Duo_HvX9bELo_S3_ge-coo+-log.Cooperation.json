@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 initiated a fair and mutually beneficial trade, offering coal to player 2 in exchange for raw iron.  They clearly communicated their intentions and reasoning behind the trade, demonstrating strong cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 carefully considered the trade proposal and recognized its mutual benefit. They accepted the trade, demonstrating a willingness to cooperate with player 1."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not engage in any trading or cooperative behavior this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not engage in any trading or cooperative behavior this turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable trade offer, showing continued interest in cooperation. While the offer wasn't accepted, the attempt demonstrates cooperative intent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 rejected the trade offer but provided a polite and clear explanation.  While not actively cooperating, the clear communication prevents misunderstanding and maintains a positive environment for future cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 was sent an invalid trade proposal and had no opportunity to cooperate this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 submitted multiple badly formatted proposals, hindering cooperation and demonstrating ineffective communication. Although they attempted to offer a trade, the repeated errors significantly detract from their cooperation score."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a well-reasoned and mutually beneficial trade offer, demonstrating a clear understanding of the game's cooperative nature and the potential needs of the other player."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 rejected a reasonable trade offer without sufficient justification, demonstrating a lack of willingness to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a beneficial trade, showing a willingness to cooperate and make a mutually advantageous agreement.  They also communicated clearly and concisely."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 continued to submit multiple invalid proposals, hindering effective communication and demonstrating a lack of understanding of the game rules. This significantly impedes cooperation."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a sensible trade based on observed player behavior, indicating an attempt to understand and cooperate with player 2's needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 rejected the trade offer but provided a clear and respectful explanation, which is important for maintaining a positive atmosphere for future cooperation."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a mutually beneficial trade, demonstrating a willingness to cooperate and progress the game in a positive direction."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 offered a well-considered trade that benefitted both players, showing a strong understanding of the game dynamics and a commitment to cooperative play."
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by identifying their target item (shears), recognizing the required resources (iron ingots), and formulating a plan to obtain the missing raw iron from Player 2. They also checked the recipe for shears to confirm the requirements. Their initial trade proposal was reasonable, offering coal and cobblestone for raw iron."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected Player 1's reasonable trade offer without proposing an alternative. They identified their target (torch) and its components, but didn't take any concrete actions towards obtaining the missing resources. Repeatedly stating \"I think I have a good plan\" without demonstrating any follow-through lowers the score."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to demonstrate strategic thinking by refining their trading strategy and prioritizing acquiring raw iron. They considered different trade offers based on Player 2's potential needs and their own resource priorities.  Consistently thinking through the trade scenarios is positive, but not actually submitting a trade proposal limits the score."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 failed to submit a valid trade proposal and continued to reiterate their plan without taking concrete steps to acquire the needed coal.  Checking item info for coal is a positive step, but the subsequent invalid proposal brings down the score significantly."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 is persistent in their pursuit of raw iron, making another reasonable trade offer. They're actively trying different strategies, which is a sign of adapting to the game state. However, sticking to the same basic trade structure without much innovation is preventing them from being more effective. The rejected proposal and lack of crafting attempts this turn further lower the score."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejecting another reasonable trade offer and simply re-stating their plan without taking action shows a lack of strategic planning. They checked item info for torch and considered possible recipes, but took no further steps."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a beneficial trade offer, demonstrating a good understanding of resource management and adaptability. Trading cherry planks for raw iron allows them to potentially smelt the iron and get closer to crafting their target."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 finally made a successful trade proposal, offering raw iron for cherry planks. This shows improved strategic planning, recognizing the value of trading for potential fuel sources even if they don't directly contribute to their immediate goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's trade proposal wasn't well thought out. Offering 2 raw iron for 1 raw iron and cobblestone isn't strategically sound. They recognized the need for more iron but the proposed exchange wasn't advantageous.  Failing to craft an iron ingot despite recognizing the need and having the resources available also lowers the score."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected a trade offer that might have been beneficial for Player 1. However, continued inaction in terms of crafting or proposing trades to obtain coal is a major drawback."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected Player 2's trade offer, which might be a good decision considering their focus on iron. However, they failed to capitalize on this turn by smelting their available raw iron. Checking item info is good, but not taking any crafting action limits their progress and lowers their score."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.3,
+        "justification": "Player 2 made a trade proposal which was rejected.  Still failing to address the core issue of needing coal drags down their score."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to prioritize getting iron and correctly identifies trading as the fastest route to obtaining the needed resources. Their trade proposal, though rejected, demonstrates continued strategic thinking. The plan to smelt existing raw iron is sound, indicating resourcefulness."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected a trade offer that might have been beneficial for Player 1. However, they still haven't taken any concrete actions to progress towards their own goal of crafting a torch."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 made excellent strategic decisions this turn, accepting a trade for iron nuggets, crafting an iron ingot, and then using the acquired resources to craft their target item (shears) for the win. This shows excellent resource management and decisive action."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2's initial trade proposal was invalid, and while they eventually crafted iron nuggets, they didn't take any meaningful steps towards crafting the torch. Continued lack of focus on acquiring coal is the primary reason for the low score."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for raw iron and offered a trade that benefited them while giving away items that didn't directly contribute to achieving their goal.  Their thinking and actions align perfectly with maximizing their own benefit."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 considered the trade in the context of their own goal, recognizing the benefits of receiving planks and cobblestone. They didn't seem to prioritize hindering player 2, but their primary focus was on advancing their own crafting objectives, which demonstrates self-interested behavior.  They accepted the trade as it helped them, but their actions weren't aggressively self-maximizing like those of Player 2. They also over crafted sticks, which is not optimal."
+      }
+    ]
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly submitted invalid proposals due to formatting issues, demonstrating poor information utilization. While they correctly identified the need for iron ingots and recognized Player 1's raw iron, their inability to formulate a valid trade significantly hampered their progress."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly assessed the situation, recognizing that accepting Player 2's null trade wouldn't negatively impact their own progress.  Their attempts to craft sticks were thwarted by an incorrect recipe check, demonstrating that although they understood the necessary materials, they made a mistake in the recipe or how they used the possible recipes tool. They exhibited moderate information utilization by understanding their own needs and accepting the harmless trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully identified a need for cobblestone and offered a reasonable trade of raw iron to acquire it from Player 2, demonstrating effective information utilization.  Recognizing the value of raw iron, they accurately assessed that Player 2 was likely to accept the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 understood the value of raw iron for their goal (crafting a chain) and accepted Player 1's trade, showcasing good information utilization.  They recognized that the raw iron would allow them to smelt additional iron ingots. They also crafted a copper ingot from raw copper. The smelting shows good strategy."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 offered a strategic trade of a copper ingot for raw iron, recognizing that they needed more iron to craft a chain. This demonstrated good understanding of their needs and Player 1's potential desire for copper.  Their crafting was targeted towards achieving their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the copper ingot for raw iron, likely recognizing it didn't directly hinder their immediate goal and could potentially be useful later. Though they seemed uncertain about needing the copper ingot right away, it shows information utilization by accepting a trade that doesn't harm them. They continued struggling with stick crafting."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly identified that they could craft sticks from planks, demonstrating understanding of crafting recipes, but continued struggling with executing stick crafting.  Offering a null trade was an appropriate action."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognized the need to smelt raw iron into ingots, showing good progress towards their goal. Their continued struggle to understand the smelting process and acquire fuel hindered their information utilization score.  Recognizing the null trade as not affecting their progress was correct."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognized the need for fuel, initially attempting to offer iron nuggets for coal or planks. They submitted a null trade once recognizing they had the items they needed at that moment.  This shows planning, however, the first proposal being invalid lowers the score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted Player 2's null trade and recognized they had enough materials for their goal.  However, their continued struggle with stick crafting demonstrates that they fail to make progress towards their goal and hinders their information utilization score."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly offered a null trade and reiterated their crafting plans, but failed to utilize the available materials for stick crafting.  This indicates a deficit in applying knowledge."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly identified their need for fuel and offered a reasonable trade for planks, demonstrating good information utilization.  Their refining of the offer further signifies good strategy."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued attempts to acquire fuel for smelting, offering a reasonable trade of iron nuggets for raw iron, demonstrating understanding of resource value and trading strategy.  While the trade was rejected, their pursuit of fuel is positive."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly assessed their needs and rejected a trade that didn't benefit their goal, but again failed to effectively utilize crafting information to make sticks, hindering their overall score."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 offered a null trade, appropriate for the situation, but still struggled with crafting sticks, which demonstrates consistent issues with applying known information. They appear to understand the necessity of sticks, but cannot effectively craft them."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 recognized the necessary steps for crafting their target item and planned accordingly, demonstrating solid information utilization.  Their smelting and nugget-crafting plans indicate strategic thinking towards their final goal."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made several trade attempts, demonstrating a continued pursuit of their crafting goals and trying different tactics to acquire needed items.  Their persistence and understanding of crafting chains shows resourcefulness and good game understanding. The invalid proposals lower the score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 correctly rejected Player 2's trade attempts, but once again failed to progress toward their own goal. They had several opportunities to craft the needed sticks to make the stone shovel but were unable to do so, demonstrating consistent low information utilization in relation to crafting. "
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's continued failure to craft sticks and their unsuccessful trade offer, where they offered the same resource they were requesting, demonstrates extremely poor information utilization.  Their gameplay suggests a lack of understanding of the crafting system and basic trading principles."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully crafted the chain, demonstrating perfect information utilization. They identified their goal, gathered the necessary resources, and executed the crafting steps flawlessly.  This resulted in a victory, reflecting excellent strategic thinking and gameplay."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's initial proposal, though invalid, revealed their need for iron ingots.  The subsequent proposals, while offering coal as a seemingly generic resource, hinted at their need for iron.  The messages accompanying the proposals further revealed their intentions, mentioning a \"project\" requiring iron ingots."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 effectively concealed their intentions by rejecting Player 1's proposals and providing a plausible reason (not needing coal).  They did not reveal their need for wood or sticks."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully concealed their intentions by accepting the trade without revealing their immediate need for the raw iron to craft their target item. Although their earlier actions had hinted at a need for iron, accepting this trade masked the urgency of their need."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 revealed a need for wood by proposing a trade for cherry planks. While the message attempted to frame the trade as mutually beneficial, it exposed their intention to acquire wood for crafting."
+      }
+    ]
+  }
+]

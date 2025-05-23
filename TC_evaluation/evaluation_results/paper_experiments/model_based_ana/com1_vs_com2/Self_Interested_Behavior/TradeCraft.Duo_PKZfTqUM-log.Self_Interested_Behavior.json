@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade that was highly beneficial to their own goal of crafting a chain. They secured two raw iron from Player 1 in exchange for less valuable items (cherry planks and coal), demonstrating strong self-interested behavior by prioritizing acquiring a necessary component for their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade, recognizing the value of the cherry planks and coal. While they did give up raw iron, it wasn't immediately necessary for their goal, and the trade provided resources they could use.  This shows some self-interest, but less directly than Player 2's actions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 actively pursued a trade for cobblestone, a key ingredient for their target item.  Even though their initial proposals were invalid, they persisted, ultimately securing the cobblestone they needed by offering raw copper, a less directly useful item to them."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted Player 1's trade. While accepting trades can be beneficial, in this instance, giving up cobblestone didn't significantly advance their goal. This action wasn't strongly self-interested, as the exchange didn't directly contribute to their primary objective."
+      }
+    ]
+  }
+]

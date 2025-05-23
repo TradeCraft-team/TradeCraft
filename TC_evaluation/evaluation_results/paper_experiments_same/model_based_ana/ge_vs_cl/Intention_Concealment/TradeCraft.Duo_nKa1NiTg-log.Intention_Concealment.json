@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's repeated proposals and item checks reveal their need for iron ingots, making their intention to craft shears quite obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's rejection message hints at their need for coal, but doesn't explicitly reveal their target item (torch). They successfully concealed their true intentions while subtly guiding the trade towards a more favorable outcome."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 continues to demonstrate a need for iron, further revealing their intention to craft shears. Their rejections and explanations offer insights into their crafting plans."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal is framed as a mutually beneficial trade, without revealing their specific need for coal to craft a torch. The message strategically offers a plausible reason for the trade, masking their true intention."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's direct proposal and message clearly indicate their need for another iron ingot to complete their shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 expertly concealed their intention by rejecting the trade and providing a plausible explanation related to their crafting needs, without explicitly mentioning the torch."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepts a seemingly disadvantageous trade which suggests their high need for iron to craft shears, partially revealing their true intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 frames their need for planks by claiming to want to craft sticks without revealing their plan to make torches."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 reveals their need for iron ingots to make shears by attempting to trade for player 2's iron ingot."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to effectively conceal their intention by rejecting Player 1's offer without explicitly mentioning their target item. Their message provides a valid crafting related reason without revealing their true aim."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's rejection and question reveals their need for iron ingots, suggesting their plan to craft shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal is framed in general terms of resource diversification and doesn't directly reveal their need for coal or planks to make torches."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's repeated offers for iron ingots and mention of needing it for their target item clearly reveal their intention to craft shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains consistent concealment of their true intentions. Their rejection and message focus on the need for coal, without specifying its use for torches."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the trade, masking their underlying need for iron ingots for shears and showing no strong preference for a particular crafting path"
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 justifies the trade by mentioning the need for materials to progress towards an unspecified target, concealing their plan to make torches."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal and message again reveal their need for iron ingots to craft shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 skillfully concealed their intentions while rejecting the trade proposal, offering a general reason without specifying their true need for coal or charcoal for torches."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the trade which obscures their underlying plan and suggests flexibility in their crafting strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal is strategically phrased to avoid revealing their target item. They express a general need for coal or charcoal, while actually requiring them for torches."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 explicitly mentions needing an iron ingot to craft shears, revealing their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively conceals their intention. They reject the offer, stating they need the iron ingot for trades involving coal or planks, without revealing the torch as their target."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance of the trade suggests adaptability in their crafting strategy, masking their need for iron ingots for shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiates a trade for raw materials, concealing their true need for coal to craft torches.  The message is framed in terms of general resource diversification."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends; Player 1 didn't achieve their goal, and their intentions were largely revealed throughout the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends; Player 2 didn't achieve their goal, but they did successfully conceal their target item throughout the game despite losing."
+      }
+    ]
+  }
+]

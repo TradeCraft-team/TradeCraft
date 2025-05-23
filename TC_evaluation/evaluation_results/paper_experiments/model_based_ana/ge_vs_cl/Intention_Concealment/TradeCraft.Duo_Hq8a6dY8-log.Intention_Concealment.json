@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 directly reveals their intention to craft a bucket and the materials they need (iron) in their opening messages. This makes their goal quite obvious to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "While player 2 acknowledges their interest in cobblestone for tools, the exact type of tool isn't specified. Their thought process and proposal text message keep their intentions somewhat vague."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to reveal their intentions, focusing on getting fuel to smelt iron for their bucket. Their internal thoughts and actions heavily point toward their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 expresses their need for cherry planks for crafting basic tools, which doesn't directly expose their target item (stone shovel). They are trying to balance acquiring useful resources while not revealing their specific goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 explicitly states their need for more iron to craft a bucket, revealing their intention very clearly.  The proposal text to player 2 makes it quite obvious what they are trying to make."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 explains their rejection by focusing on their need for cobblestone, which while revealing a general material of interest, doesn't give away their stone shovel target."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts the trade without revealing their intention."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a seemingly mutually beneficial trade without disclosing their specific need for cobblestone to make a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's proposal text asking for sticks to craft a bucket gives away their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the trade with a vague reason about needing sticks for \"target item\" without specifying the exact target."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection message implies they need the iron ingot for crafting, hinting at a more complex crafting goal rather than a simple tool."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal text mentions crafting tools but avoids mentioning any specific tool, keeping their target a secret."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1's initial proposal message states their need for an iron ingot for \"a project\", which is too vague. Their second proposal for a direct 1:1 raw iron trade raises suspicion."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly identifies the oddity of the raw iron trade and rejects it, maintaining the secrecy of their goal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 continues to push for iron trades, clearly showing their need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes trades unrelated to their final goal, using raw copper as a decoy resource and obscuring their actual need for cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's proposal message explicitly states their need for raw iron to craft a bucket, revealing their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains secrecy by rejecting with a general statement about crafting goals, not revealing their need for cobblestone for the stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade without revealing any information about their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offers a trade for sticks, a general crafting material, and doesn't reveal their need for cobblestone for a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's proposal message stating they \"need more iron\" hints strongly toward an iron-related target like a bucket, decreasing their intention concealment score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to protect their goal and rejects the trade, again giving a general response about \"crafting goals\"."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects Player 2's offer, stating their need for raw iron to make ingots, subtly implying a larger crafting goal without revealing it's a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal message focuses on needing raw iron for \"additional crafting options,\" a vague explanation that doesn't reveal their stone shovel target."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends, and Player 1's target (bucket) is revealed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends, and Player 2's target (stone shovel) is revealed."
+      }
+    ]
+  }
+]

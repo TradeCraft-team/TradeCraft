@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good persuasion by crafting a detailed proposal explaining the benefits for Player 2, such as using coal as fuel and cobblestone for crafting. The proposal was well-reasoned and showed an understanding of Player 2's potential needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated decent persuasion in their rejection message. They politely explained why they didn't need the offered items, which is a good way to maintain a positive trading relationship."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 made an invalid proposal. The subsequent proposal to Player 1 was reasonable, but the justification was weak. There was no clear explanation on why Player 1 would benefit from the trade."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejected the proposal with a generic message, indicating a lack of persuasive effort.  No counter-proposal was made."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed good persuasion by clearly stating how the proposed trade would benefit both players. They referenced Player 2's previous statements about needing planks, making the proposal more appealing."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not provide any justification for their rejection, which does not demonstrate persuasive communication.  Player 2 failed to give a substantial reason for rejecting the offer."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 made a strong, persuasive proposal. The proposal clearly states the need for the items, what those items will be used for, how Player 1 will benefit by smelting raw_iron and shows a strong understanding of both player's needs."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not effectively communicate their justification for rejecting the trade, offering no counter-proposal or explanation. They missed the opportunity to persuade Player 2 with an alternative trade."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 crafted a persuasive proposal by offering items that align with what they believe Player 2 needs and explaining the mutual benefits for both sides."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's acceptance message is well-written and persuasive. It reaffirms the benefits of the trade for both players and maintains a positive tone."
+      }
+    ]
+  }
+]

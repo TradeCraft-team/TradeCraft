@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 made several invalid proposals, demonstrating a lack of understanding of the game rules or the other player's inventory.  The final trade, where they offered nothing and requested nothing, while accepted by player 2, doesn't demonstrate cooperative behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the unusual trade of nothing for nothing, likely to maintain a positive interaction with player 1.  They correctly identified that the trade was unlikely to be malicious, even though it didn't offer direct benefit."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that was beneficial to both players. They needed raw iron, and player 2 needed coal.  This demonstrates effective cooperation through a mutually beneficial trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a mutually beneficial trade. They offered raw iron that Player 1 could smelt into ingots for their target (bucket) and received coal in return, a resource they could potentially use for smelting later."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable trade request for iron ingots, offering raw copper in return. While player 1 benefited more from the trade, it didn't directly harm player 2 and was readily accepted."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted a trade that slightly benefited player 1 more, but demonstrated a willingness to cooperate by providing resources that player 1 clearly needed."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that was beneficial to both players.  They obtained raw copper, which could be smelted, and player 2 received raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade that was beneficial to both players, offering raw copper for raw iron. While the trade didn't directly contribute to their main goal, it showed a willingness to engage in fair exchanges."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated good persuasive intent by offering a reasonable trade of coal for raw iron, explaining their reasoning behind the offer. However, the persuasion attempt was unsuccessful as Player 2 rejected the proposal. The message sent along with the proposal was detailed and explained the need for the raw iron while proposing a fair exchange for materials Player 2 may need for smelting."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not make any attempts to persuade Player 1 in this turn, and only provided a default rejection response."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade with a clear and persuasive message, outlining the benefit to Player 1 (using cherry planks to craft sticks for a stone shovel) and offering a favorable 2:1 exchange rate of raw iron for cherry planks. This proposal was successfully accepted by Player 1, demonstrating effective persuasion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepted Player 2's trade proposal, which indicates a degree of being persuaded. However, player 1 's acceptance message was short and didn't offer much back in terms of negotiation or further persuasion, hence the low score."
+      }
+    ]
+  }
+]

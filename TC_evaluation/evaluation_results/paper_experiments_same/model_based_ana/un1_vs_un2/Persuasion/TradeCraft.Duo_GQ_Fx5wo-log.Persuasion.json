@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 clearly stated their need for iron and made a reasonable offer for raw iron in exchange for raw copper. The message was clear and direct, demonstrating a good attempt at persuasion, although it was ultimately rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 explained their reasoning for rejecting the offer (needing coal, not copper), showing a decent level of communication. While they didn't try to counter-propose, their explanation helped prevent future unwanted offers."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully persuaded player 1 to trade by offering a deal that benefited both players. They clearly stated their need for coal and offered a fair amount of raw iron in return."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a mutually beneficial trade, demonstrating a willingness to cooperate. However, they didn't actively engage in persuasion this turn, as the proposal met their needs directly."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made another reasonable trade offer, clearly explaining their need for raw iron.  While the offer was rejected, the attempt at persuasion is evident."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the offer with a brief explanation. They didn't demonstrate any persuasive behavior this turn."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 clearly and effectively persuaded player 2 to trade. They explained their need for raw iron and offered coal in return, highlighting the mutual benefit of the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 was receptive to the trade proposal and understood the cooperative nature of the game.  They engaged positively with player 1 and indicated willingness to help."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a beneficial trade, showing a willingness to cooperate and further their crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 formulated a reasonable trade proposal that was beneficial to both players."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade, showing continued effort to acquire necessary materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 analyzed the proposal and accepted a trade that was beneficial to both players."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 readily accepted a trade offer that was in their best interest."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proactively proposed a mutually beneficial trade and clearly communicated their intentions."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 submitted multiple invalid proposals, hindering their ability to persuade and trade effectively."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 identified the issue with Player 1's proposals and offered assistance, demonstrating strong communication and cooperative spirit."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a reasonable trade offer, contributing to the cooperative gameplay."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 identified a potential trade and proposed it clearly, showing good persuasion skills."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly communicated their desire to trade and offered a fair deal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 recognized the mutual benefit and accepted the trade."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 explained their reasoning for rejecting the trade offer, maintaining clear communication."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proactively proposed a trade and explained its potential mutual benefits."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a trade that was ultimately accepted."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 considered the proposal and accepted it."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 considered the offer and provided a justification for rejecting it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proactively proposed a trade and asked if the other player needed anything else."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade and explained their reasoning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 considered the offer and accepted the trade."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 justified their decision to reject the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a trade offer, but did not strongly persuade Player 1."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, so no persuasion attempts were made."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, so no persuasion attempts were made."
+      }
+    ]
+  }
+]

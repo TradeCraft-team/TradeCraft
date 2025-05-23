@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted to make a trade, but initially proposed an invalid offer.  After several attempts to understand the crafting recipes, they formulated a reasonable trade request for raw iron, offering coal in return. Although the reasoning behind the offer was well-explained within their thoughts, the overall effectiveness of the persuasion was diminished by the initial invalid proposal and the multiple requests for the same item info."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade offer without providing a counter-proposal or engaging in any negotiation. Although they correctly identified their target, the lack of any persuasive attempt resulted in zero effectiveness."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a highly effective trade, offering valuable raw iron for the cherry planks. The proposal was well-reasoned, explaining clearly why the trade would benefit both players.  Player 1 demonstrated strong understanding of Player 2's potential needs and crafted a persuasive argument, resulting in a successful trade that ultimately led to their victory."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 carefully evaluated the trade proposal and accepted the offer of 2 raw iron for their cherry planks. While they didn't actively persuade Player 1, their acceptance of the trade, along with the positive and encouraging message, contributed to the successful negotiation. Their thoughtful consideration and the clear explanation of why the trade was beneficial demonstrate a high level of receptive engagement in the persuasive process."
+      }
+    ]
+  }
+]

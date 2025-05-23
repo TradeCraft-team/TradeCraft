@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 asked for raw iron, which could be used for multiple items, partially concealing their intention to craft a bucket, which requires iron ingots. Although player 2 also included a message in the proposal, it didn't directly reveal their intentions, so they were not scored lower for their message."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "player 1 accepted the trade and revealed their need for sticks/planks by crafting them immediately after the trade. Their thoughts also explicitly mention their target is a lever, which is a direct reveal of intentions."
+      }
+    ]
+  }
+]

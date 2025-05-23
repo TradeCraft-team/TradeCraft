@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability by identifying their need for iron ingots to craft a bucket and formulating a trade proposal to acquire raw iron from Player 1. They offered less valuable items in exchange, showcasing strategic thinking and efficient resource management.  They also correctly anticipated the need for coal and attempted to incorporate that into their trading strategy."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 displayed exceptional adaptability by recognizing the value of the trade proposed by Player 2. They correctly assessed that the offered cobblestone and cherry planks would contribute directly to their goal of crafting a stone shovel. Their willingness to part with raw iron, a resource not immediately necessary for their objective, demonstrates a keen understanding of resource prioritization and adaptability to a favorable trade opportunity. They then went ahead and successfully crafting the target item after a series of planning and checking with the server."
+      }
+    ]
+  }
+]

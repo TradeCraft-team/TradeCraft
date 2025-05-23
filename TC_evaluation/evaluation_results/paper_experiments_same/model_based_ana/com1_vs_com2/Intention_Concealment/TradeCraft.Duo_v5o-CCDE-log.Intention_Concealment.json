@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 disguised their need for iron by vaguely mentioning crafting tools.  While this provides some cover, it's not completely hiding their intention as tools commonly require iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's acceptance of the trade and the accompanying message don't fully reveal their intention.  Their need for planks could be for various crafting recipes."
+      }
+    ]
+  }
+]

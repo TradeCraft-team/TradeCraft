@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively pursued their own goal by requesting raw iron, a key component for their target item. They offered a reasonable trade in return, demonstrating self-interest while also facilitating cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, which benefited them by providing cobblestone needed for their target. While they considered the coal as potentially useful, their primary motivation appeared to be acquiring the cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 offered raw copper for free, displaying a lack of strong self-interest. While they asked if the opponent needed anything, the proposal didn't prioritize gaining any benefit for themselves."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the free raw copper, demonstrating self-interest by taking advantage of the offer to increase their resources."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade aimed at acquiring raw iron, essential for their target. While the offer was rejected, their persistent pursuit of the material demonstrates strong self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected the trade because it didn't directly benefit their goal.  This shows a clear prioritization of their own needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 offered raw iron without requesting anything specific in return. While they asked if player 2 needed anything, the proposal wasn't strategically aimed at maximizing their own benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the free raw iron, showing self-interest by readily acquiring a potentially helpful resource."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 made multiple attempts to trade for resources needed to craft their target (bucket). Although the attempts were unsuccessful, the persistent focus on acquiring those resources shows strong self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 consistently rejected Player 2's proposals, prioritizing their need for coal for potential future use.  This demonstrates self-interested behavior by preserving resources that might benefit them later."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 initiated a null trade, suggesting a lack of immediate self-interest. They didn't request or offer anything, seemingly prioritizing a neutral interaction."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the null trade, demonstrating a passive approach and minimal self-interest in this turn."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made repeated attempts to trade for resources they needed (coal) to craft their target item, the bucket.  The persistence in seeking these trades demonstrates self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected the proposed trade, prioritizing their own need for cobblestone. This demonstrates self-interest by preserving resources essential for their own crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 initiated another null trade, showing little self-interest in acquiring resources or making progress towards their goal in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the null trade, maintaining a neutral stance and not actively pursuing their own interests in this specific turn."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 offered raw copper without requesting anything specific, demonstrating limited self-interest in this turn.  The offer seems more focused on maintaining goodwill."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the free raw copper, maximizing their own resource collection, which displays some level of self-interest."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 persistently tried to trade for oak planks, a resource needed to craft sticks for their stone shovel.  Despite repeated rejections and proposal issues, they continued attempts showing strong self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently accepted null trades while emphasizing needing iron ingots. This shows strategic self-interest in potentially receiving necessary resources without giving up anything in return."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 actively attempted to trade for an iron ingot, necessary for their bucket.  This direct pursuit of their crafting goal demonstrates strong self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected the trade because they didn't need the offered raw iron, demonstrating self-interest by not accepting trades that don't benefit them."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 persistently attempted to trade for oak planks despite repeated invalid proposals. Their focus on getting this resource demonstrates strong self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 passively accepted a null trade while stating their need for iron ingots. This shows a low level of self-interest in actively seeking the resources."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended."
+      }
+    ]
+  }
+]

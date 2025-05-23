@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 repeatedly attempted invalid trades, demonstrating poor understanding of the game mechanics and a lack of effective planning.  They eventually made a valid trade, securing raw iron for their bucket, but the initial missteps lower their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good strategic thinking by analyzing player 1's needs and accepting a trade that benefitted player 1, even though it didn't directly benefit them. This reflects an understanding of the cooperative nature of the game and long-term strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 formulated a plan to craft their target item and proposed a trade that helped player 1.  They considered player 1's goal and offered necessary materials, showing excellent strategic awareness."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 effectively identified their needs and accepted a trade that moved them closer to their goal.  They also recognized their opponent's progress and considered how their actions might impact their chances of winning."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 secured the necessary resources through a well-reasoned trade, and then efficiently crafted the bucket to win the game.  Their strategic planning was effective and resulted in a quick victory."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 supported player 1 by accepting the coal trade, but their crafting attempts were unsuccessful. They struggled to use the correct recipes, hindering their own progress."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 demonstrated some initial strategic thinking by identifying the need for iron ingots and recognizing that Player 2 had raw iron. However, they submitted multiple invalid proposals due to rule misunderstandings, showing a lack of thorough planning.  Eventually secured a useful trade for raw iron, demonstrating adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly identified the necessary resources to craft their target item (torch) and recognized the mutually beneficial nature of the trade proposed by Player 1. Their acceptance of the trade and clear articulation of their reasoning demonstrates a good understanding of the game's mechanics and cooperative element."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to think strategically about acquiring the necessary iron ingots. They analyzed their opponent's resources and actions, and attempted to devise a plan to obtain more iron.  However, they didn't successfully execute a trade this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 failed to execute their plan to craft a torch.  They repeatedly attempted invalid crafting recipes, demonstrating a significant lack of understanding of the crafting mechanics and a failure to adapt to the available resources."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to pursue their goal of obtaining iron. They recognized the need for more raw iron and successfully executed a trade with Player 2, offering raw copper in exchange. This demonstrates good adaptation and resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a trade that benefited Player 1, demonstrating cooperation. However, they still haven't made progress towards crafting their target item, losing points for the lack of goal-oriented actions. Still, strategic thinking is not absent since Player 2 seems to believe that helping others will eventually come back around."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 identified the need for coal to smelt their raw iron and strategically rejected Player 2's empty trade offer, counter-proposing a trade for coal. Their clear communication of their needs and willingness to negotiate demonstrates good strategic thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2, despite claiming to have the necessary resources, failed again to craft their target item and continues to not understand game mechanics.  They made an empty trade offer while also acknowledging player 1's attempts to trade and declared aim of crafting shears, failing to identify a potential beneficial exchange of resources."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully executed a trade for coal, demonstrating effective negotiation. They then immediately smelted their raw iron and crafted the shears, achieving their goal. This demonstrates excellent strategic planning and resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 made the cooperative decision to trade coal with player 1, even though they needed it themselves, but made absolutely zero effective steps towards obtaining coal. This demonstrates a slight lack of planning and inability to manage resources effectively."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 explicitly mentioned their target (chain) in their first message, revealing their intentions early on. While their initial proposal was invalid, the direct mention of the chain significantly lowers their intention concealment score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions by focusing on the potential benefits of the coal offered by player 2, without revealing their need for sticks or their target item (lever)."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 sends an empty proposal but mentions crafting. This partially reveals they have the necessary materials to craft a component of their target item, hinting at potential progress but not the exact item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains a good level of concealment by focusing on generic trade discussions and resource gathering, without revealing their target or specific needs for crafting a chain."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's offer of an iron ingot for raw copper indirectly hints at needing more copper, which could be used for items like a chain. This partially reveals potential crafting intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejects the trade, maintaining their intention concealment. They provide a generic excuse, avoiding any specific details about their crafting plans or target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 reveals their intention to craft sticks, a common component of many items, including their target (lever). While not a direct reveal, it gives player 2 a clue about their possible intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains a good level of concealment by accepting the null trade and not revealing their specific crafting goals or needs for the chain."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "The proposal indirectly reveals player 2's need for raw copper, a component of chain, giving player 1 a clue about their intentions.  However, they avoid mentioning their true target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to conceal their intentions, rejecting the raw iron and providing a generic justification that avoids revealing their target or immediate crafting plans."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 again mentions crafting but avoids specifics, partially revealing their progress towards the lever but maintaining some ambiguity about the final goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains a good level of concealment, focusing on crafting without revealing their intentions or the specific item they are working towards."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2's offer of iron nuggets, combined with their message mentioning \"perhaps for crafting a chain\", strongly suggests that a chain is *not* their target, indirectly hinting at their true objective.  This significantly decreases their concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintains excellent concealment by rejecting the trade and providing a generic justification.  They reveal no information about their lever target."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates good strategic planning by identifying their need for iron ingots, recognizing that their opponent has raw iron, and proposing a reasonable trade.  They also check the recipe for their target item, demonstrating awareness of the crafting requirements."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrates some strategic thinking by checking the recipe for their target item and assessing the proposed trade in relation to their needs.  Their rejection is justified, as they don't need the offered item."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to demonstrate strategic planning by attempting to trade for the resources they need and iterating on their previous trade offer. They are actively seeking ways to acquire the necessary materials to achieve their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's repeated submission of a null trade demonstrates a lack of strategic planning.  While they have the resources to create their target, offering a null trade doesn't advance their game state or provide any benefit."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintains a consistent strategy, attempting to acquire the raw iron they need. They demonstrate adaptability by changing their offer after the previous rejection."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly assesses that they don't need to trade and focuses on their own crafting.  This is a sound strategy given their current resources and goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to pursue their goal of acquiring raw iron and provides a valid justification for rejecting the offered trade. Their focus remains on obtaining the necessary materials for their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrates some strategic thinking by attempting to trade for a resource their opponent possesses, even though they don't immediately need it.  However, they still have trouble with crafting."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully trades for raw iron, demonstrating good negotiation and moving closer to their goal.  Their explanation for the trade also suggests an understanding of their opponent's potential needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a strategic decision to accept a trade even though they don't immediately need the offered item. This can be seen as a long-term strategy to potentially foster future trades. Player 2 still makes incorrect recipe checks, which lowers the score slightly."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates sound judgment by rejecting a trade that would be detrimental to their goal. Their explanation shows a clear understanding of their needs and priorities."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's actions in this turn demonstrate very poor strategic planning.  They repeatedly submit invalid proposals. They are not adhering to the game rules."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 persists in their attempts to acquire raw iron, offering reasonable trades. While their strategy is consistent, it hasn't been successful yet, indicating a need for more adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's rejection of the trade is strategically sound, as they prioritize keeping the resources they need.  However, they should start focusing on crafting sticks, which is why the score is slightly reduced."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognizes the importance of raw iron for their goal and wisely rejects a trade that would hinder their progress.  They continue to analyze the situation and consider alternatives."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrates some strategic thinking by attempting to trade for raw iron, but their offer isn't particularly appealing to player 1. They also check what recipes they can apply."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to pursue raw iron, offering trades and exploring crafting options. However, their efforts are not yielding results, indicating a need for a more adaptable approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 demonstrates a basic understanding of their needs, but their focus seems to shift between different objectives without a clear plan. They do not appear to have a clear plan of action, which negatively impacts their strategic planning score."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's increasingly desperate trades, while understandable given their need for raw iron, demonstrate a lack of adaptability. They are failing to consider other strategic options."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 misses several crafting opportunities and their strategic thinking remains unclear. Their actions don't seem to align with a specific plan or contribute to their overall goal, resulting in a low score."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 continues to make reasonable trade offers for raw iron, showing persistence. However, their lack of success suggests they need to be more adaptable and consider other strategies."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to correctly assess their own resource needs and rejects trades that don't benefit them. This demonstrates a consistent understanding of their own game state and objective."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection of the trade is strategically sound, as it keeps them from being further away from their goal.  They continue to evaluate their options."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 shows some strategic thinking by attempting to trade for a resource their opponent possesses.  Although the trade is rejected, it indicates an effort to improve their position."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game is over, and player 1 lost.  While they exhibited strategic planning earlier in the game, their inability to adapt their strategy when trades were consistently rejected ultimately led to their loss."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game is over, and player 2 lost.  Despite having opportunities to craft the target item, their repeated crafting mistakes and ineffective trades prevented them from achieving their goal."
+      }
+    ]
+  }
+]

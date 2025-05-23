@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 adapted well by identifying the need for iron and proposing a beneficial trade with Player 2.  They correctly assessed Player 2's potential need for coal and used it as leverage to secure raw iron. They showed further adaptability by checking the recipe for a chain to confirm crafting requirements."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated adaptability by recognizing the value of the trade proposed by Player 1. They understood their own need for coal and correctly assessed that the trade would benefit both players. They then began to plan their next move, considering their own crafting needs and the resources available to them."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 adjusted their strategy after the trade, recognizing that they had enough resources to craft sticks and a lever. They attempted to facilitate a further trade of raw copper for raw iron, demonstrating an attempt to adapt to the ongoing game state and anticipate future needs. However, their crafting attempts were unsuccessful due to incorrect recipes, lowering their adaptability score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 showed high adaptability this turn. They accepted the trade proposed by Player 2, securing additional raw copper. Faced with the confusing chain recipe information, Player 1 adapted by formulating a plan to acquire more iron resources, anticipating a possible need for iron nuggets. They also used 'possible_recipes_from_hand' to identify craftable items, demonstrating flexibility in response to the available information.  Successfully crafting iron nuggets from an ingot then crafting the chain from the nuggets demonstrates a good adjustment based on new information."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 partially concealed their intentions. While they revealed their need for raw iron through their trade proposal, they masked their true goal of crafting shears by offering a seemingly harmless amount of coal and framing the request as a simple barter for smelting needs.  This is not a perfect concealment, but it adds a layer of ambiguity to their actions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's actions somewhat reveal their need for coal to craft a torch.  Accepting the trade for coal suggests they have a use for it, narrowing down their potential goals. However, they haven't explicitly stated their intention, so there's still some element of concealment."
+      }
+    ]
+  }
+]

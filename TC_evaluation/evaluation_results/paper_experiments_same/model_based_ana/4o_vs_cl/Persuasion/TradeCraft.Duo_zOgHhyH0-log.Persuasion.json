@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 crafted a well-reasoned proposal, explaining the mutual benefits of the trade. They offered coal as fuel and cobblestone, requesting raw iron in return. This persuasive approach led to a successful trade, demonstrating excellent persuasion skills."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 carefully considered the proposal in light of their own goals. They recognized the value of the offered coal and accepted the trade, expressing their understanding of the mutual benefits. This positive response to a persuasive offer indicates good receptiveness to persuasion."
+      }
+    ]
+  }
+]

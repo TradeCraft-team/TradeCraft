@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 clearly stated their needs and offered a reasonable trade. The initial proposal was invalid, but the subsequent proposal was well-reasoned and showed an understanding of the game mechanics and the other player's potential needs. Although persuasive, the initial mistake lowers the score slightly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade and provided a positive response, fostering cooperation and demonstrating effective communication."
+      }
+    ]
+  }
+]

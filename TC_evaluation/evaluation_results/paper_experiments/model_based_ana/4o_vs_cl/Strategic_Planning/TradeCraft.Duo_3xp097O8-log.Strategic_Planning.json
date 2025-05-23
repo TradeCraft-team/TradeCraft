@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent strategic planning. They correctly identified their target item (shears), analyzed the crafting requirements, assessed their current resources, and formulated a plan to obtain the missing raw iron from Player 1. They offered a relevant item (raw copper) in exchange, showing a good understanding of resource management and proposing a fair trade. Their initial proposal had issues but replanned and fixed the proposal successfully."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed a moderate level of strategic planning. While they considered the proposed trade and its alignment with their objective of crafting a torch, they did not proactively search for ways to obtain their missing resources (sticks) until after the trade was completed. They eventually formulated a plan, but their initial decision-making was less strategic compared to Player 2."
+      }
+    ]
+  }
+]

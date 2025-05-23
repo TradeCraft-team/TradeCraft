@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade of coal for raw iron, clearly stating their need for raw iron to work towards their crafting goal. This demonstrates a proactive approach to cooperation by seeking a mutually beneficial exchange with player 1 ."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "player 1 analyzed the trade proposal from Player 2 and recognized its potential benefit, despite not immediately needing the offered coal. By accepting the trade, player 1 facilitated Player 2 's progress, demonstrating a cooperative spirit."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "player 1 proposed a trade for cobblestone, offering raw iron in return. While the proposal itself was reasonable, the rejection by Player 2 limited the opportunity for cooperation.  player 1 was willing to trade, showing some cooperative intent."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the trade proposed by player 1 without offering an alternative or explaining the reasons for rejection.  This lack of communication and unwillingness to engage in a potentially beneficial exchange demonstrates a lack of cooperation in this turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a mutually beneficial trade of cobblestone for coal.  This was cooperative, helping both players get closer to their goals. They also provided a clear justification, saying they needed the coal to smelt iron."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "player 1 accepted Player 2 's trade offer and provided their reasoning, facilitating a win-win situation for both players."
+      }
+    ]
+  }
+]

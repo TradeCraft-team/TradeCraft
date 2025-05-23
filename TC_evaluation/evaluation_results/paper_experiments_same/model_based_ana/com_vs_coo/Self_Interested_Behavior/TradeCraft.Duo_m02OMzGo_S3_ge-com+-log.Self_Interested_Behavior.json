@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for iron, formulated a plan to acquire it from player 1, and successfully executed that plan through a trade. Their offer of cherry planks was strategic, as it appeared less valuable to them while potentially useful to player 1. All their actions and thoughts demonstrate a clear focus on achieving their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 acted largely in their self-interest by accepting a trade that benefited them. They recognized the value of the planks for their own crafting goals. While the trade was mutually beneficial, their primary motivation was their own advantage.  However, their crafting attempts were unproductive and not clearly relevant to their goal, lowering their score."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 exhibited strong self-interested behavior by crafting the shears, their target item. They successfully traded for the raw iron they needed, demonstrating strategic thinking and prioritizing their own win condition."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted a trade that seemed beneficial for both players but did not further their goal of crafting a torch.  They obtained coal but still needed sticks. This demonstrates some self-interest in acquiring a needed resource, but a lack of focus on their target item."
+      }
+    ]
+  }
+]

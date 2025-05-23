@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proactively initiated a trade, offering coal to help Player 2 smelt raw iron while requesting raw iron in return. They clearly explained their reasoning and adjusted their proposal after the initial rejection, demonstrating a strong willingness to cooperate and find a mutually beneficial trade.  They also inquired about Player 2's target item to further facilitate cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 readily accepted the trade, recognizing its mutual benefit and expressing gratitude.  This demonstrates a clear willingness to cooperate and engage in fair trades."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted Player 2's trade offer, even though it wasn't directly beneficial to their goal, demonstrating a willingness to cooperate and prioritize mutual progress. However, they didn't initiate any further cooperation in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade, offering raw copper for raw iron. While the trade was primarily self-serving, it acknowledged Player 1's previous actions and offered a reasonable exchange.  The attempt to initiate a trade demonstrates a degree of cooperative intent."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed another trade, offering their raw copper for coal, anticipating Player 2's need for fuel to smelt raw iron. They also explicitly stated their intention to trade for iron ingots in the next turn, further demonstrating cooperative intent and planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted Player 1's proposal, recognizing the mutual benefit and explicitly agreeing to trade iron ingots in the next turn. This affirms their cooperative intent and willingness to engage in future mutually beneficial trades."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a trade that was beneficial for both players, providing Player 2 with cobblestone and receiving raw iron in return. This demonstrates a strong willingness to cooperate and facilitate mutual progress toward their respective goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade, offering raw iron for cobblestone. While primarily motivated by their own need for cobblestone, the offered raw iron could be smelted by Player 1 into iron ingots, providing indirect benefit and demonstrating a level of cooperative awareness."
+      }
+    ]
+  }
+]

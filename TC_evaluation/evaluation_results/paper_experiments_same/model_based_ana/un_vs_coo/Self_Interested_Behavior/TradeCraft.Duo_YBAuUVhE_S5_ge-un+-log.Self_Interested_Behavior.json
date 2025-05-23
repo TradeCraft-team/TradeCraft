@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interested behavior by attempting to trade for raw iron, a key component of their target item (chain). They offered coal in return, which is less valuable to them than raw iron at this stage. They tried to get the best possible deal to advance their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 acted in their self-interest by rejecting player 1's proposal, recognizing that raw iron is essential for crafting their target item (lever).  They prioritized their need over player 1's, demonstrating a clear self-interested approach."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a trade beneficial to both players: offering raw iron (which they have in abundance) for coal (which could be useful for smelting).  While seemingly cooperative, this trade ultimately serves their own self-interest as well, securing a potentially needed resource while also helping player 1 progress, potentially making them more open to future trades."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly demonstrates self-interest by accepting player 2's proposal. Obtaining 2 raw iron brings them closer to crafting their target (chain). While the coal might have had future use for smelting, the immediate benefit of getting the raw iron takes priority."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to show self-interested behavior by proposing a trade for raw iron, a key resource for their target item. Offering raw copper in exchange, while a fair deal, is driven by their own crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 accepts the trade, which suggests some level of self-interest in potentially having more raw copper, but their stated reason is cooperation, suggesting a less direct focus on immediate self-benefit in this turn."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's attempts to trade for a stick ultimately fail, despite attempting three separate trades.  The offering of raw copper for nothing suggests more cooperative than self interested behavior, while subsequent invalid proposals reflect ineffective rather than selfish play.  While the desire for a stick is driven by self-interest, they are unable to execute a successful trade to achieve this goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to exhibit self-interested behavior by rejecting Player 2's offers of raw copper. They correctly identify that raw copper does not benefit their goal of making a chain, further showing they are prioritizing their resources and gains."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 makes an invalid proposal initially, indicating a lack of awareness of trading rules, which reduces their self-interest score. Their next trade offer, exchanging identical items, is puzzling.  While seemingly cooperative, their real objective is to either trick the opponent or assess their inventory for a potential chain, showing more self-interested behavior in gathering information."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepts the unusual equal exchange of raw iron, suspecting player 1's need for a chain.  While this seems cooperative, it is done strategically to improve future trading prospects.  This awareness and strategic maneuvering aligns with self-interested behavior."
+      }
+    ]
+  }
+]

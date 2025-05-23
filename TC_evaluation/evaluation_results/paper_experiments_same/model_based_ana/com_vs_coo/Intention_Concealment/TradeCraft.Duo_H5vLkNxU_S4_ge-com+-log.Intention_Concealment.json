@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 partially concealed their intentions. While they revealed their need for raw iron, they offered a plausible reason (having extra wood and stone) and did not explicitly state their end goal (crafting a chain)."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 revealed some of their intentions by explaining their need for cobblestone and planks for crafting sticks. While this doesn't fully reveal their target (stone_shovel), it provides player 2 with some clues."
+      }
+    ]
+  }
+]

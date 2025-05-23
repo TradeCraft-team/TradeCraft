@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interest by proposing a trade beneficial to their goal of crafting a chain. They offered coal, which they had in surplus, for raw iron, crucial for their target. Their thinking reflects a clear understanding of their needs and a willingness to negotiate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade. They recognized that the offered coal was not immediately necessary for their target (stone shovel) and prioritized conserving their resources, particularly raw iron, for potential future needs or more advantageous trades."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 showed a lack of self-interest by submitting a null proposal when they needed to acquire more planks to achieve their goal. While correctly identifying their needs, they failed to actively pursue a trade or any other action to obtain the missing resources. Their message, though technically truthful, did not foster trade and was somewhat deceptive in its positivity."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 acted in their self-interest by rejecting the null proposal and attempting to initiate a trade for raw iron. Recognizing the opportunity to acquire a necessary resource from their opponent, they took the initiative to counter-propose. While they failed to fully communicate the value proposition for player 2, their focus remained on their objective of crafting a chain."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently pursued their self-interest by again proposing a trade for raw iron. They attempted to incentivize player 2 by offering copper_ingot, demonstrating an adaptive strategy by changing the offered resource. Their focus remained on achieving their target, even after multiple rejections."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to act in their self-interest by rejecting the trade. Their justification remained consistent with their stated goal of crafting a stone_shovel, and their actions efficiently conserved their resources. Their repeated rejections, despite potentially beneficial offers, demonstrate a steadfast prioritization of their own needs over assisting their opponent."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 finally demonstrated strong self-interest by proposing a trade highly beneficial to themselves. They correctly identified player 1's need for raw iron and leveraged it to acquire cherry planks, which they needed for their own crafting goals. This calculated move indicates a heightened awareness of the game dynamics and strategic use of available information."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 acted with some self-interest by accepting the trade, as it provided them with raw iron needed for their target. However, giving up cherry planks potentially limited future trades. The acceptance indicates a willingness to compromise for immediate gains but possibly at a long-term disadvantage. Their focus was more reactive rather than proactive, suggesting a less consistent self-interested behavior."
+      }
+    ]
+  }
+]

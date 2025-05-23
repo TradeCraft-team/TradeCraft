@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 demonstrated some cooperative intent by offering coal to player 2 for smelting raw iron. However, their initial proposals were invalid, indicating a lack of understanding of the game rules or the other player's needs.  They eventually made a reasonable offer, but it was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 provided a clear explanation for rejecting player 1's trade offer, which fosters understanding and future cooperation.  They considered the mutual benefit of the trade, and acted in their own best interest by rejecting a suboptimal offer. While they didn't offer an alternative, their explanation shows cooperative potential."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 focused solely on their own needs and didn't make any attempts to cooperate with Player 2 during this turn, primarily focusing on trying to understand Player 2's goals and crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 focused on their own crafting, without considering any cooperative strategies with Player 1. They made an invalid trade offer and then proceeded with their crafting. Their internal monologue shows little consideration for player 1's needs."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes a fair and reasonable trade offer, showing a willingness to cooperate and distribute resources evenly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 considers the trade offer but ultimately rejects it, prioritizing their own strategy.  They also inquire about trading for coal, suggesting future cooperation possibilities."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Accepts Player 2's trade offer, demonstrating a willingness to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 makes multiple invalid trade offers. While their final offer is accepted, they demonstrated some difficulty with game mechanics. Their internal thought process shows that player 2 understands player 1's needs, which would help in forming trades, but still prioritizes their own needs."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 makes another reasonable trade offer, although it's not directly beneficial to them, demonstrating a willingness to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 rejects the trade offer again, primarily focusing on their own needs, which shows a lack of cooperative spirit in this specific turn."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts Player 2's trade offer for cobblestone slabs, prioritizing Player 2's needs and demonstrating a clear willingness to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposes a trade to Player 1, showing an attempt to cooperate and acquire resources for their crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively seeks to help Player 2 by offering trades and asking about their target item, clearly demonstrating cooperative behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts a trade and provides feedback, which contributes to a cooperative environment. However, their focus remains on their own goal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts a trade that isn't directly beneficial to themselves, prioritizing player 2's needs and fostering cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposes a trade that appears mutually beneficial, demonstrating an attempt at cooperation."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offers a trade for raw iron, showing continued willingness to engage with Player 2 and potentially assist them."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejects the trade offer, prioritizing their own strategy, which is not necessarily uncooperative, but shows a lack of collaboration in this instance."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts Player 2's trade offer, demonstrating a consistent willingness to cooperate and help Player 2 acquire needed resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposes a trade with Player 1, showing continued attempts at cooperation."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 offers multiple trade options and asks Player 2 about their needs, showing a clear intent to cooperate and assist."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the trade and expresses openness to further trades, indicating a willingness to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts Player 2's trade offer and offers further assistance, demonstrating a strong cooperative attitude."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposes a reasonable trade, continuing to engage in cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended this turn. No cooperative actions were taken."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended this turn. No cooperative actions were taken."
+      }
+    ]
+  }
+]

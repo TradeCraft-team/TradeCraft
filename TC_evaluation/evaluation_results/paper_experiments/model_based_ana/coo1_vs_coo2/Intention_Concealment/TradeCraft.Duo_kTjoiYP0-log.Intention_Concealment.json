@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 explicitly stated their intention to craft shears multiple times during the turn and revealed their need for iron ingots. While they offered coal in exchange for raw iron, the transparency of their goal significantly lowered their intention concealment score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 only revealed their intention after receiving the trade proposal, strategically withholding information about their need for coal until it was beneficial to reveal. Their acceptance of the trade, along with the justification provided, helped maintain some ambiguity about their overall crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 openly stated their ability to craft a torch this turn and generously offered some copper to player 1. This suggests a cooperative approach, but partially reveals their progress towards their final goal, thus not fully concealing their intention. The vague offer could be seen as partially concealing their true needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 considered player 2's need for coal based on the previous trade and contemplated ways to help them while still pursuing their own goal of crafting shears. They haven't explicitly stated their need for more iron ingots, showing a degree of intention concealment."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 explicitly stated their need for iron ingots to craft shears and proposed a direct trade of raw copper for iron ingot, clearly revealing their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintained ambiguity about their crafting goal by accepting the trade and offering a generic well-wish for crafting shears, without revealing their own intentions."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 made an open-ended offer without revealing their target, strategically prompting Player 1 to share their needs. While they stated having materials to craft their item, they didn't disclose what that item was, successfully concealing their intention."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 explicitly stated their need for coal to smelt iron for shears, directly revealing their intention."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 explicitly stated their need for coal to smelt iron to craft shears, revealing their intentions and making their needs clear to their opponent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 acknowledged needing the coal themselves, implying a possible need for fuel or torches, but accepting the trade creates uncertainty around their true needs. This introduced some level of intention concealment despite revealing partial information."
+      }
+    ]
+  }
+]

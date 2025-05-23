@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent strategic planning in this turn. They identify the resources needed for their target item (chain), recognize a resource gap (iron nuggets), and formulate a trade proposal that addresses this gap while offering a valuable resource to the other player (raw copper for raw iron). The proposal demonstrates an understanding of both their own needs and their opponent's potential needs.  Although the trade was rejected, the thought process and planning were sound."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 understands their target item (lever) and the required components.  They correctly assess that they have the necessary resources (cobblestone, oak planks) and recognize that the offered trade doesn't align with their current needs.  Rejecting the trade is a strategically sound decision, although they haven't engaged in proactive planning beyond their immediate crafting requirements."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates a good understanding of their needs and prioritizes crafting their target item (lever). They also identify a potential future need (coal for smelting) and propose a trade to acquire it. The trade offer is reasonable and shows foresight. However, they don't explicitly state what future smelting plans they have, which would show even stronger strategic planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 shows excellent strategic thinking by carefully evaluating the trade proposal and its potential impact on their goal. They consider multiple crafting paths for their target item (chain), analyze the value of the offered resources (raw iron), and consider alternative fuel sources (cherry planks). Their acceptance of the trade is justified by their thorough analysis and demonstrates a proactive approach to resource management."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrates some level of strategic planning by identifying their resource needs (raw iron) and proposing a trade. However, the initial invalid proposal and the repeated checking of the same information (chain recipe) indicate a lack of focus and efficiency. The final proposal is reasonable, but there's no evidence of considering alternative trading strategies."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 remains focused on their goal (lever) and correctly assesses that they don't need the offered coal. Rejecting the trade is a sound decision, but they haven't yet demonstrated proactive planning beyond their immediate crafting needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes they don't need to trade but attempts to acquire a potentially useful resource (coal) for future use. The trade offer is reasonable, demonstrating an awareness of resource management. However, there's no clear indication of a long-term plan for using the coal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 exhibits excellent strategic thinking by recognizing they already have the resources needed to craft their target item (chain). Their rejection of the trade proposal is well-justified and demonstrates a focus on their primary goal. They understand the potential value of the offered resource (raw copper) but prioritize their immediate needs."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 recognizes they have the necessary resources to create their target item and offers a fair trade for a potentially useful resource. They correctly analyze the potential use of raw iron and offer something that the opponent needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly understands that they do not need coal. They decline any further trades."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes a null proposal. They realize they don't need to trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 carefully analyzes Player 1's null proposal, checks chain recipe, checks inventory, and confirms that accepting the proposal has no negative effect."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 makes an invalid proposal first. They also convert back and forth between nuggets and ingots which was not the best strategy. Although Player 2 makes a better trade proposal the second time, they repeatedly check similar information. Shows inefficiency."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to make progress towards acquiring the resources they need and reject proposals."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 fails to recognize they don't need to trade. They craft a plan that is unlikely to be accepted."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the trade offer. Player 2 considers the needs of Player 1 before rejecting the proposal.  Player 2 continues to show a good understanding of the game."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 analyzes the situation, understands what is needed, and creates a good proposal that is accepted."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 considers the needs and accepts the trade."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 crafts a reasonable trade and continues to make progress towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 analyzes the situation, correctly assesses the value of their resources, and crafts a beneficial trade."
+      }
+    ]
+  }
+]

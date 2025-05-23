@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good cooperation by proposing a trade that could have benefited both players.  The offer of raw copper for raw iron was reasonable, and the accompanying message clearly explained the rationale behind the trade. Although the trade was rejected, the attempt to find a mutually beneficial exchange warrants a good cooperation score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the trade offer from Player 2 without offering a counter-proposal or suggesting an alternative. While they provided a polite message explaining their reasoning, there was no attempt to engage in further discussion or explore other trade options. This lack of engagement reflects lower cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to cooperate by proposing a trade of raw iron for stone. This showed initiative in trying to obtain the resources needed for their target item. The proposal was clear and reasonable, but Player 2 may have misunderstood the value proposition leading to rejection."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected Player 1's offer of 2 raw iron for 1 stone without providing any constructive feedback or alternative suggestion. The failure to engage in a cooperative manner warrants a low score."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good cooperation by re-proposing the trade from the previous turn after further consideration. This time they offered stone for 2 raw iron, which addressed Player 1's need for stone, leading to a successful trade. They effectively analyzed the situation and engaged in a mutually beneficial exchange."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 exhibited strong cooperation by accepting Player 2's trade offer for stone. They recognized the value of the trade and engaged in a mutually beneficial exchange.  This demonstrates a willingness to cooperate and work towards mutual benefit."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 sent a neutral message indicating no current trading needs but acknowledged Player 2 and expressed a wish for good crafting, showing some attempt to maintain communication and a positive atmosphere."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null trade and wished Player 1 good luck, showing a similarly cooperative, communicative approach."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 submitted invalid proposals twice which reset the turn. The offer didn't match their inventory which is a key aspect of cooperation - honest and valid trade attempts."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 was not involved in the proposal stage this turn due to Player 2's invalid proposals, so there was no opportunity to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 clearly communicated their intention to focus on crafting and not trade this turn. While a null trade, the communication was straightforward and prevented wasted time or misunderstandings."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null trade and wished Player 1 good luck, continuing to maintain open communication and a positive game environment."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 again proposed a null trade and wished player 1 luck, indicating they were ready to win and giving Player 1 another turn to try and achieve their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the null proposal. There wasn't much opportunity to cooperate, but they continued to engage positively."
+      }
+    ]
+  }
+]

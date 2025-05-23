@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to make trades, which is cooperative behavior. However, the initial trade proposals were invalid, demonstrating a lack of understanding of the game rules or the other player's needs.  While the final proposal was valid, it was rejected by Player 2. Thus, despite the attempts, no successful cooperation occurred."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected Player 1's trade proposal without a valid explanation. This demonstrates a lack of cooperation.  A simple explanation for rejecting the trade would have been more cooperative."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted Player 2's trade proposal. This demonstrates a clear willingness to cooperate and engage in mutually beneficial exchanges, even though the trade wasn't directly related to their primary goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade with Player 1, offering a resource and requesting a specific item in return. This demonstrates proactive and positive cooperative behavior by seeking a mutually beneficial exchange. The trade was successfully completed, demonstrating effective cooperation."
+      }
+    ]
+  }
+]

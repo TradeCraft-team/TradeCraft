@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated proactive cooperation by attempting to initiate trades with Player 2, recognizing the potential for mutual benefit in resource exchange. Although the initial proposals were invalid, the intent to cooperate and share resources was evident."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 engaged in the trade discussion and provided a reasonable justification for rejecting the offer, demonstrating an understanding of their own needs and the potential trade-offs involved. While not actively cooperative in this turn, they participated constructively in the interaction."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 attempted to understand Player 2's needs and explored crafting options, demonstrating a willingness to adapt their strategy. However, no concrete cooperative actions were taken in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 focused primarily on their own crafting goals and did not actively seek cooperation with Player 1 in this turn. The submitted proposal was invalid, indicating a lack of attention to game rules or cooperative opportunities."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a fair trade, clearly explaining the rationale and potential benefits for both players, demonstrating a strong cooperative approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 rejected the trade offer but inquired about other potential trades, indicating some willingness to engage in cooperation but prioritizing their own needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a reasonable trade proposed by Player 2, demonstrating a willingness to cooperate and exchange resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a fair trade that was beneficial to both players, demonstrating a cooperative approach and an understanding of resource exchange."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a simple trade, showing an attempt at cooperation, even though it wasn't highly impactful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 rejected the trade offer, prioritizing their own needs, and did not propose an alternative, limiting cooperative engagement."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that was more beneficial to Player 2, demonstrating a cooperative approach and willingness to facilitate the other player's progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a fair trade and clearly communicated their needs, facilitating a mutually beneficial exchange and demonstrating good cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively sought to understand Player 2's needs and offered resources, demonstrating a strong focus on cooperation and mutual success."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a trade and engaged in communication, indicating a willingness to cooperate and consider the other player's perspective."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that was beneficial to Player 2, demonstrating cooperation and support for their partner's progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a fair trade with clear communication, demonstrating a cooperative approach and understanding of resource exchange."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 offered a reasonable trade, demonstrating continued efforts towards cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade and didn't offer any alternatives or further communication, limiting cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that was more beneficial to Player 2, prioritizing their partner's needs and demonstrating good cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a trade and inquired about additional resources, showing some cooperative effort and communication."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proactively offered resources and inquired about Player 2's needs, demonstrating a strong focus on cooperation and mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade and expressed willingness to help, indicating a cooperative approach and positive communication."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a reasonable trade offer, showing a willingness to cooperate and facilitate resource exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a fair trade with clear communication, indicating a cooperative approach and understanding of resource needs."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, no cooperation demonstrated in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, no cooperation demonstrated in this turn."
+      }
+    ]
+  }
+]

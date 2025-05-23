@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly identifies their goal (bucket) and correctly identifies the need for iron ingots. They propose a trade focused on obtaining raw iron, which directly contributes to their goal. Although their initial proposal was invalid, they quickly corrected it, showing a strong understanding of the game mechanics and their objective.  Consistently focused on acquiring iron, either through direct trades or by facilitating the opponent's smelting process."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 understands their goal (lever) and correctly identifies the need for stick and cobblestone. They recognize the value of the coal offered by Player 1 for smelting raw iron, which indirectly supports their need for a lever (iron ingots can be converted into iron nuggets and potentially used for lever).  They haven't made significant progress toward their goal but have shown some awareness of the resources required."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintains focus on their goal (bucket) and the need for iron. They analyze the opponent's resources and consider possible trades to acquire more raw iron, displaying good goal alignment.  Accepts a trade that is not directly beneficial, but shows cooperative gameplay."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 focuses on acquiring a stick for the lever, but their proposals are invalid due to game rule violations. They propose trades that are slightly off, and have a bit of trouble with crafting.  They make some progress in gathering materials, but are inefficient in their proposals."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's goal alignment is evident in their continuous pursuit of iron ingots for the bucket. Although their initial proposals are invalid, they demonstrate flexibility and propose a beneficial trade for both players while keeping their goal in mind.  Continues to seek trades to get iron ingots for the bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's actions are more aligned with their goal of crafting a lever this turn.  They trade for coal with a very specific plan. They are actively seeking ways to obtain a stick for the lever. Their goal alignment is evident in their trading and crafting strategies."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's goal alignment is evident in their continued focus on crafting the lever. They identify the need for a cobblestone and stick and propose trades to obtain these items. While their initial proposal is invalid, they correct it and propose a mutually beneficial trade for cobblestone. Still struggling with crafting mechanics, preventing achievement of the goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrates perfect goal alignment. They efficiently use trades and crafting to acquire the necessary iron ingots and successfully craft their target item (bucket). All actions directly contribute to achieving their goal.  Excellent demonstration of efficient gameplay."
+      }
+    ]
+  }
+]

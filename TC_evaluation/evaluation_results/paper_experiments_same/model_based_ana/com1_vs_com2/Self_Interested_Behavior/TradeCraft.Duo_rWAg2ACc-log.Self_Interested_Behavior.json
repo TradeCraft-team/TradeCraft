@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for iron, formulated a deceptive trading strategy to acquire it from player 1, and executed that strategy successfully.  The attempt to disguise their need for iron by also requesting raw copper demonstrates strong self-interested behavior, prioritizing their own crafting goal while potentially misleading their opponent.  This trade allowed them to gain the materials necessary to craft their target item and eventually win the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 considered the trade proposal strategically, but prioritized a short-term gain that directly benefitted them (acquiring planks and cobblestone for their lever) over considering the potential longer-term consequences of giving player 2 raw materials that could allow player 2 to finish their target item. While they acknowledged the potential risk of helping their opponent, they accepted the proposal because it immediately fulfilled their own crafting needs. This shows a level of self-interest but also indicates that they possibly failed to fully think through or strategize based on the information provided in the trade text chat message"
+      }
+    ]
+  }
+]

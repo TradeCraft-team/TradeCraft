@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 immediately focuses on crafting a chain, correctly identifying the required resources and attempting to trade for them. Their actions are perfectly aligned with their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrates some goal alignment by rejecting the trade for raw iron to preserve resources for crafting a lever. However, they don't attempt crafting in this turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to pursue their goal of crafting a chain. They accept a trade that provides the raw iron they need, clearly understanding its importance. Their actions are consistently goal-aligned."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 fails to craft the lever, despite having all necessary basic resources.  Their focus on gathering more raw iron is premature, they haven't fully utilized what they have."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 secures the final resources needed to create the chain, demonstrating excellent goal alignment. Their trade proposal is perfectly targeted to acquire what they need."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains goal alignment by focusing on acquiring a stick, but they don't fully grasp the game mechanics related to sticks and planks yet."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to focus on obtaining the necessary resources to craft a chain, and their actions reflect this goal perfectly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 makes several invalid proposals and shows limited progress toward their lever target."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully crafts the chain, achieving perfect goal alignment and winning the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 demonstrates some progress by smelting materials, but still fails to make progress toward their lever goal."
+      }
+    ]
+  }
+]

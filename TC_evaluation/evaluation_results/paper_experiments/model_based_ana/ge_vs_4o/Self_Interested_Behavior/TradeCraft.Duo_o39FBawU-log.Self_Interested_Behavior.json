@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interested behavior by attempting to trade for raw iron, which is a component in crafting a chain. The offered trade was reasonable, indicating a strategic approach to achieving their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "player 1 acted in their self-interest by rejecting the trade offer. They correctly assessed that raw copper would not help them achieve their goal of crafting a stone shovel and prioritized their own needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "player 1 made a self-interested proposal, offering raw iron for cobblestone, a necessary component for their stone shovel. This demonstrates a focus on their own crafting goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejecting the trade demonstrates strong self interest. They recognized that giving up cobblestone would hinder their progress and potentially help their opponent, thus prioritizing their own game."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a highly strategic and self-interested trade. They successfully obtained raw iron from player 1 in exchange for cobblestone.  This trade directly benefited their goal of crafting a chain and helped them win the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "player 1 accepting the trade while seemingly beneficial in the short term, ultimately hindered their progress towards crafting the stone shovel. They prioritized immediate needs over long-term strategy.  This shows weaker self-interested behavior as it didn't contribute to achieving their ultimate goal."
+      }
+    ]
+  }
+]

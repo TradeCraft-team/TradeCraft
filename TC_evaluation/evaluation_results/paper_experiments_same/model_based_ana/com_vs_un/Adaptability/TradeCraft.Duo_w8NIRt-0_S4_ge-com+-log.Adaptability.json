@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 adapted well by identifying their need for iron ingots, recognizing that Player 1 had raw iron, and offering a reasonable trade. They clearly stated their needs and intentions in the trade proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also demonstrated good adaptability by recognizing the value of the trade proposed by Player 2. They correctly assessed that the offered resources would help them achieve their goal of crafting a stone shovel and accepted the trade."
+      }
+    ]
+  }
+]

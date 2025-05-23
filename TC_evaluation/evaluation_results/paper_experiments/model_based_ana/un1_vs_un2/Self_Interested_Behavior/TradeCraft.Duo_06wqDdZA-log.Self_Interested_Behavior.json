@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for iron ingots, recognized that Player 1 had raw iron, and formulated a trade proposal that advanced their own goal of crafting a bucket while offering something they deemed less valuable (raw copper) in return. Their thinking and actions demonstrate a clear focus on achieving their own objective."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated self-interested behavior by accepting a trade that benefited them. While the raw iron wasn't essential for their goal, they recognized the potential future value of raw copper and made a calculated decision to accept the trade. Although their actions were not as directly impactful as Player 2's, they still demonstrate a focus on their own potential benefit."
+      }
+    ]
+  }
+]

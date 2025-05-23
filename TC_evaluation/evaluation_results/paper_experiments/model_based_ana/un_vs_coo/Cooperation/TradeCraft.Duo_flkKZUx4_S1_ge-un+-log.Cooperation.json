@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade that benefited both players. Player 1 needed iron and offered copper, while Player 2 needed coal and anticipated needing iron later.  The trade facilitated both players' progress toward their goals."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized the mutual benefit of the trade proposed by Player 1 and accepted, expressing a desire for future trades.  This demonstrates excellent cooperative behavior and a willingness to work towards a mutually beneficial outcome."
+      }
+    ]
+  }
+]

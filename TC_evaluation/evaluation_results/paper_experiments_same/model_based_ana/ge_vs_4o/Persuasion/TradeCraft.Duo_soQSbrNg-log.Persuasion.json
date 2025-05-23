@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully persuaded player 1 to trade by offering items player 1 needed and clearly explaining the mutual benefit of the trade.  They identified that player 1 had raw iron and offered coal in return for it, showing they'd put thought into what might incentivize player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 was the recipient of the proposal in this turn and accepted it.  While their acceptance reflects being persuaded, they did not actively try to persuade Player 2 of anything."
+      }
+    ]
+  }
+]

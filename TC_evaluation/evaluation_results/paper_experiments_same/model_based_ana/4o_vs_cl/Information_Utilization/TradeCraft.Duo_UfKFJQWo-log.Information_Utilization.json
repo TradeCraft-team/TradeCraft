@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 repeatedly checked the recipe for 'chain', demonstrating an understanding of the need to identify crafting requirements.  The initial trade proposal was invalid, indicating a lack of awareness of the available items. The subsequent proposal, however, was strategic, offering coal in exchange for raw iron, showing some information utilization based on the opponent's hand and potential crafting needs. Although the proposal was rejected, the attempt to gain necessary materials was a valid strategy."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 identified the need for a stick to craft the lever and recognized that planks could be used to create sticks. However, there was no effective action taken in this turn to obtain the required stick. While Player 1 considered Player 2's needs and potential targets, this information didn't translate into a successful trade or crafting strategy."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong information utilization by checking the recipes for lever, stick, and cherry planks. The proposed trade of raw iron for cherry planks directly addressed the need for sticks to craft the lever, showcasing a good understanding of available resources and crafting paths. Accepting the trade also helped prevent player 2 from achieving their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 showcased excellent information utilization in this turn.  They systematically checked recipes for chain, iron_ingot, and coal, demonstrating a clear understanding of the crafting process.  Accepting the trade offer for raw iron was a highly strategic move, providing the necessary resources to create the desired iron ingot. Crafting the iron_ingot and utilizing available resources efficiently showed strong game knowledge and decision-making."
+      }
+    ]
+  }
+]

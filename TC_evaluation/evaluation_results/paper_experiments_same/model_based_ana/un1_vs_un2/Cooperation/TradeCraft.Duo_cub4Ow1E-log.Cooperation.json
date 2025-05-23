@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 attempted to propose trades, but all were invalid due to rule violations.  This demonstrates a willingness to cooperate, but a lack of understanding of the game mechanics hindered their ability to do so effectively."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade proposal from Player 2, even though it offered no direct benefit. This indicates a strong willingness to cooperate and build a positive relationship. They also crafted materials."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 proposed a null trade and failed to craft the lever despite having the resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted Player 1's null trade proposal. While the trade was meaningless, accepting indicates a continued willingness to cooperate. Player 2 also smelted raw copper, working towards their target item."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 made two trade proposals, one invalid and one rejected. The rejected proposal was reasonable, suggesting some cooperative intent, but it didn't align with Player 1's needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected Player 2's reasonable trade proposal, hindering Player 2's progress and showing little interest in cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 proposed a trade that was rejected by Player 2, as it didn't align with Player 2's goal. The attempt to trade shows a slight inclination towards cooperation, but the proposal itself wasn't mutually beneficial."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected Player 1's trade proposal because it didn't help their goal. While understandable, this shows limited cooperation, especially since Player 1 needed other materials and tried to initiate crafting."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 made a trade proposal that was rejected. While the proposal showed an attempt at cooperation, it didn't align with Player 1's needs and thus was ineffective."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejected Player 2's trade proposal. This indicates a lack of cooperation.  Player 1 did not take any crafting actions either."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a mutually beneficial trade (raw iron for cherry planks) that was accepted by Player 2. This successful trade demonstrates effective cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted Player 1's trade proposal, receiving a resource they needed. This successful trade demonstrates effective cooperation."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed and completed a successful trade with player 1. This mutually beneficial exchange demonstrates effective cooperation. They continued crafting towards their target item after the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted player 2's trade proposal, showing willingness to cooperate. The trade was mutually beneficial. Player 1 didn't take any crafting actions."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 proposed a trade that was rejected by Player 2. The proposal didn't align with Player 2's needs and demonstrated minimal effort towards mutually beneficial cooperation. No crafting done."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected Player 1's trade proposal. The proposal wasn't helpful for Player 2's goal. While justified, it doesn't contribute to cooperation."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 proposed a trade, but it was rejected by Player 1 as it didn't align with their needs. The attempt shows a minimal effort towards cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected Player 2's trade proposal. This action shows a lack of willingness to cooperate. No crafting was attempted despite previous intentions."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 offered a null trade, which was rejected.  While not actively harmful, this indicates minimal effort towards cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected Player 1's null trade proposal, demonstrating a desire for meaningful interactions. While not cooperative in itself, it suggests a preference for mutually beneficial trades."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 makes a reasonable trade offer but it is rejected. Shows cooperative intent but ultimately unsuccessful."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Rejects a reasonable trade offer. Demonstrates unwillingness to cooperate and does not progress toward their goal despite having the materials."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposes and completes a mutually beneficial trade, demonstrating effective cooperation and contributing to both players' progress. They failed the first proposal but continued to engage in trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts Player 1's trade proposal, leading to a successful exchange that advances the game for both players. This acceptance fosters cooperation and demonstrates a clear understanding of mutual benefit. Player 2 wins the game due to willingness to trade materials. "
+      }
+    ]
+  }
+]

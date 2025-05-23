@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade that benefited both players.  They offered resources they didn't need (coal, planks) for resources they needed (raw iron). They clearly communicated their intentions and reasoning behind the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted a mutually beneficial trade.  They recognized the value of the offered resources and willingly exchanged their excess raw iron. Their communication was clear and concise."
+      }
+    ]
+  }
+]

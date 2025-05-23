@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring iron, which is essential for crafting shears, their target item. They proposed a reasonable trade, offering copper for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly identified their need for coal to craft a torch, their target item. However, their initial rejection of player 1's offer, while logical, didn't directly advance them toward their goal. Their subsequent thoughts and internal debate on how to acquire coal demonstrate goal alignment but with some initial inefficiency."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully traded for coal, a key component of their target item, the torch. Their actions directly contribute to their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a beneficial trade, acquiring raw iron needed for their target item, shears. This demonstrates strong goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to pursue their goal of crafting shears by trying to acquire more iron. They propose a reasonable trade and ultimately achieve their goal by smelting the raw iron they have and crafting the shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "While Player 2's actions make sense in terms of resource management, they completely fail to craft the torch, which is their target.  They already have the coal, so rejecting Player 1's offer is reasonable, but the rest of Player 2's actions show little to no progress towards crafting a torch."
+      }
+    ]
+  }
+]

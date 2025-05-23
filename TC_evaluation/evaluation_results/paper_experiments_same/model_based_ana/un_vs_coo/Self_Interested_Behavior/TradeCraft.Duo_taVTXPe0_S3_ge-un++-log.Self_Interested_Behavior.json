@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in a self-interested manner by proposing a trade that directly benefits their goal of crafting a bucket. They identified their need for raw iron and formulated a trade proposal to acquire it from player 2, offering coal in return."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a trade that appeared beneficial to them but also assisted Player 1.  They prioritized getting coal for smelting, but accepting the coal for raw iron trade inadvertently helped Player 1 to make a bucket. While this was helpful, it also put their opponent closer to their private goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 prioritized their need for raw iron to craft a bucket and accepted the trade offered by Player 2.  They correctly assessed the value of the raw iron and the low value of cobblestone to their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade that benefits them by acquiring cobblestone, while offering raw iron, attempting to get materials they required while seemingly being helpful."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a trade to acquire a copper ingot, offering raw materials in return. This trade demonstrated self-interest as it directly contributes to Player 1's potential crafting options."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a trade that benefits Player 1 more than themselves. While receiving raw materials might be helpful, it primarily advances Player 1's progress, possibly at the cost of their own potential progress."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 made a highly self-interested trade, accepting valuable iron ingot and cobblestone for raw iron, recognizing this as advancing their goal of making an iron bucket.  They assessed their need correctly and acted to improve their position in the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed and completed a trade which gave their opponent needed iron, potentially getting them closer to winning, while player 2 did not benefit as greatly."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 failed to submit any valid proposals this turn.  They attempted several trades but could not do so correctly.  This demonstrates a complete lack of effective self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not take any actions that demonstrate self-interested behavior this turn.  They simply responded to Player 1's failed proposals."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted a neutral trade, exchanging an iron ingot for a copper ingot. While this doesn't actively harm their progress, it doesn't show a clear focus on their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade to acquire a resource they needed more (iron ingot) in exchange for a less needed resource (copper ingot).  This demonstrates a focus on improving their own resource balance."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed and completed a trade that benefited them by exchanging a less needed resource (copper ingot) for a more needed resource (iron ingot).  This demonstrates self-interest by attempting to acquire resources beneficial to crafting their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted a seemingly neutral trade but might have inadvertently helped Player 1 obtain the resource they required."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected a trade that would have given them copper for iron.  They recognized that they had plenty of iron and needed other things to craft their target item.  Rejecting trades can be self-interested if the trade benefits the opponent more."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered to trade something they had more of for something they needed less of, to get iron ingot. This demonstrates an attempt towards achieving their own objective."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 successfully traded for a needed copper ingot in exchange for an iron ingot which they had in surplus, showing good self interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted a trade that might have slightly benefited Player 1 more."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in their self-interest by rejecting a trade offer from Player 2. They correctly assessed that they did not need shears at the moment and preserving their iron ingots was more beneficial for potential crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a trade proposal in their self-interest to exchange a shear for an iron ingot.  Recognizing that Player 1 has a surplus of iron, they attempted to acquire resources they needed."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully traded for a copper ingot using an iron ingot, which was a self-serving move."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 benefited slightly less from the trade."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognized the greater versatility of iron ingots and rejected the shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to attempt to acquire needed resources, offering something they had in excess (shears) for something they could use (iron)."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, so no self-interested behavior could be exhibited."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, so no self-interested behavior could be exhibited."
+      }
+    ]
+  }
+]

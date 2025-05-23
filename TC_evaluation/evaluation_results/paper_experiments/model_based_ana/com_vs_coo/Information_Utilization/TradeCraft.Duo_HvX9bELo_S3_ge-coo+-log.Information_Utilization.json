@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly identifies their needs (iron ingots for a bucket), recognizes that Player 2 has raw iron, and proposes a mutually beneficial trade of coal for raw iron. This demonstrates excellent information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 carefully considers the proposed trade, understands its implications for both players' potential goals, and makes a rational decision to accept based on their own need for coal and the relatively low cost of the raw iron."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to focus on their goal, correctly identifies the need for more raw iron and fuel, and understands their current limitations in crafting. While they haven't yet formulated a concrete plan to acquire the missing resources, their understanding of the situation is strong."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 focuses on smelting their raw iron, which is a good general-purpose move. However, they don't yet have a clear plan for acquiring the planks they need for their lever.  Their information utilization is decent but could be improved with a more targeted approach to resource acquisition."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposes a trade, but it's not well-targeted to Player 2's likely needs. Offering raw iron when Player 2 already has some and hasn't shown a clear need for more is not optimal.  Their information utilization is showing some weaknesses."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly rejects Player 1's trade offer, recognizing that preserving their cobblestone is more beneficial to their own goal. Their understanding of the game state and their own needs is good."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 submits multiple invalid proposals due to formatting issues.  This demonstrates poor understanding of the game interface and hinders their ability to effectively trade.  Their information utilization is very low this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 identifies the problem with Player 2's proposal and provides feedback. This, along with their internal thoughts, indicates good game awareness."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 attempts to deduce Player 2's goal and offers a trade that might be beneficial to them. While the trade is ultimately rejected, the reasoning behind the offer demonstrates good information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 recognizes that the proposed trade doesn't align with their goal and rejects it accordingly.  Their focus on their own needs and accurate assessment of the trade's value demonstrates strong information utilization."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 continues to submit multiple invalid proposals, indicating persistent issues with proposal formatting. This severely impacts their ability to utilize information and trade effectively."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 again identifies the problem with Player 2's proposal and requests clarification.  Their consistent feedback and clear communication show good game awareness and information utilization."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 analyzes past trades and attempts to deduce Player 2's needs, offering a trade they believe might be beneficial to both players. Though the trade is rejected, the reasoning is sound and demonstrates good information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejects Player 1's proposal because it doesn't directly help them acquire cherry planks.  While the rejection is valid, they haven't formulated a solid plan for acquiring planks. Their information utilization is decent but could be improved with a more proactive approach."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 identifies a valuable trade offer (iron ingot for cobblestone and raw iron), leveraging their surplus of iron ingots to obtain needed resources. This demonstrates excellent information utilization and strategic thinking."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts Player 2's trade offer, which is a reasonable decision given their need for iron ingots. However, they don't appear to have a clear plan for acquiring cobblestone to craft their target.  Their information utilization is adequate but not outstanding."
+      }
+    ]
+  }
+]

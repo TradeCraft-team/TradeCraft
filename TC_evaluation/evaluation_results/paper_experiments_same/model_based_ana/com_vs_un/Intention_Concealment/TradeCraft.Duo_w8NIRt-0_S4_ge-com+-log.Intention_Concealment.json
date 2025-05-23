@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially concealed their intentions. While their initial thoughts reveal a desire for iron ingots, the trade offer itself doesn't explicitly state this goal. Requesting raw iron could be for various crafting recipes, not just chains.  However, the accompanying message \"I'm looking for some raw iron\" weakens the concealment somewhat."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions. Their acceptance message \"Deal\" is generic and doesn't reveal their need for cobblestone to craft a stone shovel.  Their thoughts and item info checks are private, further enhancing concealment."
+      }
+    ]
+  }
+]

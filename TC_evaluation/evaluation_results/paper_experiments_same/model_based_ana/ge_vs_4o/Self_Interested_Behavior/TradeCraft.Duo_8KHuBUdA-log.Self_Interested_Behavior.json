@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interest by attempting to trade for raw iron, which they need to craft their target item (bucket). Although the trade was rejected, their actions and thoughts clearly indicate a focus on their own goal. They also smelted raw copper, which is not part of bucket recipe, instead of trading it."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the trade offer from Player 1, which could have been beneficial to Player 1. Although Player 2 was trying to craft their own target, and needed cherry plank from Player 1, rejecting proposal did not show clear self-interested behavior. They also failed to craft anything this turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted a trade that was not directly beneficial for their target item (bucket). While maintaining a positive relationship can be strategic, prioritizing it over acquiring needed resources shows less self-interest in this specific turn. Player 1 failed to propose a trade for iron, missing the chance to directly work towards their crafting goal. Although they made the trade for raw copper."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully traded for cherry planks, a necessary component to craft stick, leading to achieving their win condition by crafting their target item (lever).  This demonstrates strong self-interested behavior by prioritizing their own goal. Player 2 also did not provide player 1 with iron, which could help player 1."
+      }
+    ]
+  }
+]

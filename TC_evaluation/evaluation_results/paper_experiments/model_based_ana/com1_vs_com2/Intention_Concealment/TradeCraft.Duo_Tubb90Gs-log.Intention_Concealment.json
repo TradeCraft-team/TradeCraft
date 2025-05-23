@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's initial proposal and message partially reveal their need for iron, although the specific target (chain) remains hidden.  They offer a plausible reason (fuel for smelting) for wanting raw iron, adding a layer of deception."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's acceptance message doesn't reveal much about their intentions. Their thoughts indicate a need for cobblestone and sticks (for a stone shovel), but this isn't explicitly communicated to player 1."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejects the trade, and their thoughts show an understanding of misdirection. They realize accepting raw copper would give away that they aren't prioritizing copper-related items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal and message indicate a need for cherry planks, but their true target remains hidden. Asking for cherry planks is a probing move, and their justification reveals that they are trying to ascertain player 1's target. However, their offer of raw copper indirectly suggests they might need something that requires smelting."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal to trade cobblestone for coal reveals their need for fuel, hinting at smelting and a need for iron. While they try to downplay the cobblestone's importance, the request for fuel is a tell."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the trade with a plausible excuse, effectively concealing their need for cobblestone for the stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejects the raw copper offer, keeping their need for iron concealed. They correctly infer that player 2 might need the cobblestone for their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal shows a clear need for cobblestone, but the stated reason (\"project\") adds some ambiguity, though it's a weak attempt at concealment."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's repeated proposals, though invalid, reveal their focus on acquiring iron ingots, thus partially exposing their need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's rejections of trades and thoughts continue to conceal their true intentions while strategically assessing player 1's actions."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintains a good level of concealment by rejecting the trade and expressing a need for raw iron, which is a believable but not entirely revealing statement."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal of oak planks for cobblestone and raw iron partially reveals their need for these materials.  While asking for both makes the request less suspicious, it still reveals their interest in these specific resources."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Offering raw copper for an iron ingot somewhat signals a prioritization of iron over copper, giving player 2 a clue."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains concealment by rejecting the raw copper trade and focusing their thoughts and actions on acquiring materials needed for their stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully crafts the chain, having concealed their intentions well throughout the game.  Rejecting player 2's raw copper offer was crucial in preventing them from acquiring more iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's attempt to trade for raw iron is a reasonable strategy, but doesn't ultimately reveal their target item.  They continue to attempt to gather resources for sticks, hinting at a need for a tool, but not the specific one."
+      }
+    ]
+  }
+]

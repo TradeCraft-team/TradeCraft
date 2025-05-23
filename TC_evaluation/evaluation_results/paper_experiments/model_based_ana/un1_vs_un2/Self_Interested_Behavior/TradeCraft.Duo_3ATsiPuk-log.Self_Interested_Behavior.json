@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted completely in their self-interest. They identified their need for iron, offered a relatively useless item (for their goal) in exchange, and successfully obtained enough iron to complete their objective.  All their thoughts and actions were focused on achieving their own win condition."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's acceptance of the trade was partially self-interested. While giving away the raw iron didn't hurt their immediate goals, receiving raw copper wasn't particularly beneficial. It could be argued they were slightly too generous, given they had more raw iron than they needed.  A stronger self-interested play might have been to negotiate for something more useful or decline the trade entirely if their objective was solely focused on crafting the stone shovel."
+      }
+    ]
+  }
+]

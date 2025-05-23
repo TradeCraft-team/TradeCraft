@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring raw iron to craft a bucket, their target item.  They made a reasonable trade offer to obtain the necessary resources and accurately assessed the crafting requirements."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent goal alignment. They correctly identified the necessary resources to create their target item (lever) and accepted a trade that directly provided a needed component (cherry planks for sticks)."
+      }
+    ]
+  }
+]

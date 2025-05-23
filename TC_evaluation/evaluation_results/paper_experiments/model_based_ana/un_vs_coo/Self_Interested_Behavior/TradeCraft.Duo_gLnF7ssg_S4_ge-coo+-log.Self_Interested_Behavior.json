@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively sought a trade that would benefit them by offering coal for raw iron, necessary for crafting their target item (chain). They clearly stated their need for raw iron in their proposal message, demonstrating self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejected the trade because they didn't need coal for their target item (stone shovel). While this is a rational decision, it doesn't demonstrate self-interested behavior as they didn't attempt to gain any advantage from the trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade to obtain cobblestone needed for their target item. They offered raw iron, which they deemed excess, showing a self-interested drive to fulfill their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the trade despite not immediately needing raw iron. While the raw iron could prove useful in the future, their primary justification aligned with cooperation rather than self-interest in this specific turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 strategically offered iron ingots for raw copper and another iron ingot, attempting to acquire materials for possible future use while helping player 1 refine their resources. This action demonstrates planning and a degree of self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade recognizing the value of obtaining refined iron ingots, furthering their own potential crafting opportunities."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to trade excess cobblestone slabs for a more valuable iron ingot, showcasing a self-interested approach to maximizing their resource utility."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 accepted the trade to foster cooperation and potentially assist Player 1.  This is cooperative behavior, rather than self-interested."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 tried to trade less valuable cobblestone slabs for a more valuable iron ingot, demonstrating a self-interested attempt to improve their resources. Their reasoning for offering the trade was primarily self-serving."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected the trade, recognizing that it wasn't in their best interest. They prioritized holding onto their iron ingots, showing clear self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 attempted three different trades, two of which were invalid, suggesting a possible misunderstanding of the rules. Although they ultimately made a valid trade proposal, the inefficiencies and mistakes lower the overall score for self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade recognizing the strategic advantage of gaining more iron and assisting Player 1 in achieving their target. This is cooperative but also benefits player 2."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered a seemingly fair 1:1 trade (copper ingot for iron ingot), potentially beneficial for both players. While appearing cooperative, it's hard to assess without knowing their target, so this assumes it was a neutral action."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted, likely considering the potential benefits of having both types of ingots, but the trade was not strongly self-interested."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 traded raw materials for refined materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 traded refined materials for raw materials."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offered raw iron for iron nuggets, a trade that seems to slightly favor player 1. This suggests a cooperative element in the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepting the trade demonstrates self-interest."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 traded excess raw copper for raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 accepted the trade, assisting Player 1 in acquiring more raw iron."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 strategically offered their raw copper for an iron nugget, which seems neutral."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade for the raw copper."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 traded excess raw materials for refined materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 traded refined materials for raw materials."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended."
+      }
+    ]
+  }
+]

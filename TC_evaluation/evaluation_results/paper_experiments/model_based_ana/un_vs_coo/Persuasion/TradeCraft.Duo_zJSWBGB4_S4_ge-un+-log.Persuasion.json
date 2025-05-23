@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly stated their crafting goal and offered a reasonable trade to obtain necessary materials. The message was polite and explained the reasoning behind the offer, increasing the likelihood of acceptance."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 considered the offer, understood the cooperative aspect of the game, and accepted the proposal. Their response was positive and indicated a willingness to help in future turns."
+      }
+    ]
+  }
+]

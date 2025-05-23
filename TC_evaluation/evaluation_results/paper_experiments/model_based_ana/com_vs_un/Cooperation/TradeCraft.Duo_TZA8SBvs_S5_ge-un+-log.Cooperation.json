@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to cooperate by offering trades, but the proposals were invalid and not well-thought-out. They didn't correctly consider the other player's needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the trade offer without offering alternatives or attempting to find a mutually beneficial arrangement. Their reasoning for rejecting the trade was partially valid, but showed no interest in cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 proposed a trade but was not truly cooperative as the trade was heavily in their favor. The trade was rejected by player 1"
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejected player 2's trade offer. They did not propose any trades themselves. While the rejection made sense for player 1 to achieve their goal, it doesn't demonstrate cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a reasonable trade that was beneficial to both players.  It allowed Player 1 to obtain raw iron they needed to craft the chain and gave Player 2 a copper ingot, which they could smelt into a copper ingot."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade offer, which is indicative of cooperation and benefited both players. Even though the trade didn't directly contribute to their goal, accepting it demonstrated a cooperative spirit."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted entirely in their self-interest. They identified their need for raw iron, offered items they deemed less valuable in exchange, and successfully acquired the raw iron they needed to craft their target item, the bucket.  They carefully considered their needs and their opponent's inventory and made a proposal designed to suit them, while offering items that, while possibly useful to player 1, primarily benefited player 2's own goals."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also demonstrated self-interested behavior by accepting the trade. They correctly assessed the value of the cherry planks for their own crafting goals (making a lever) and recognized that trading excess raw iron was a reasonable exchange. While the trade was mutually beneficial, player 1 primarily focused on their own need for planks, not their partner's need for iron."
+      }
+    ]
+  }
+]

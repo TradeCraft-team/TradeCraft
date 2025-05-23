@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively uses item info to understand crafting recipes, proposes a trade for raw iron while offering raw copper, showing strategic thinking to acquire needed resources while partially concealing the direct need for iron nuggets for the chain. The trade offer itself doesn't fully reveal the intent to craft a chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade, indicating they don't need raw copper. This reveals some information about their potential crafting goals (not related to copper items), but it doesn't fully expose their target item."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 makes a null proposal and explicitly states they have everything they need. This strongly suggests they are close to completing their target item, revealing a significant amount of information about their progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the null proposal and expresses interest in raw iron, hinting at their need for iron resources without directly revealing the intention to craft a chain."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again proposes a trade for raw iron, offering raw copper, which reinforces the interest in iron without revealing the specific need for iron nuggets for a chain.  The repeated requests for raw iron might start to raise suspicion, but the intent is still partially concealed."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade again, stating they don't need copper, which gives a little more information about their crafting goals but still doesn't reveal the specific target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 makes another null proposal and explicitly states they don't need anything.  This, combined with the previous null proposal, further reinforces the idea that player 1 is very close to completing their objective, reducing intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the null proposal but expresses future interest in raw iron. This maintains the subtle hinting strategy without fully revealing their target."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade for raw iron, offering raw copper, once again. The repeated interest in raw iron, despite Player 1's rejections, might start to make the intention less concealed. Though Player 2 has the resources to craft the chain, the trade offer slightly reveals the dependency on raw iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade, which continues to partially conceal their target item, even though it confirms they don't need raw copper."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 makes a null proposal again, stating they are working towards their crafting goal.  This repeated action further reveals that they're likely close to achieving their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts but again expresses interest in raw iron.  While consistent, the repeated requests for raw iron begin to make the need for it more apparent."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal for raw iron in exchange for raw copper maintains a consistent strategy without explicitly revealing the intent behind needing iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade. This continues to provide some information about their needs without revealing the target item."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Another null proposal from Player 1, along with a message indicating crafting intent, further diminishes intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts and gives a generic response about working towards crafting goals. This maintains a good level of concealment despite having all the resources to make a chain."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposes a trade for oak planks, offering raw copper. While not directly related to the chain, this trade could indirectly reveal that player 2 doesn't need planks or wood related items for their target, potentially giving player 1 some clues."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects the trade, stating the need for planks to craft sticks, thus revealing a bit more information about their plan."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submits another null proposal, and this repeated behavior almost confirms they have everything needed for their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts and gives a vague positive message, maintaining concealment effectively."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "The proposal for raw iron, while consistent with previous turns, continues to partially conceal the need for it specifically for a chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection maintains partial concealment, but the repeated rejections of raw iron might give some clues to player 2."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Yet another null proposal from player 1 further strengthens the assumption that they have everything for their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts with a polite message, effectively concealing their readiness to craft the chain."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends, revealing Player 2's target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends, revealing Player 1's target."
+      }
+    ]
+  }
+]

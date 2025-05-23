@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proactively proposed a trade, offering coal for raw iron. This demonstrates a willingness to cooperate and help player 2 smelt raw iron into ingots, showing consideration for their potential needs.  The offer was reasonable and the message was friendly and cooperative."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer without proposing an alternative. While they explained their reasoning, they didn't attempt to find a mutually beneficial arrangement. This indicates a lack of cooperative spirit in this turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 proposed a trade offer, showing some willingness to cooperate. However, the offer wasn't well thought out from Player 1's perspective, as it doesn't help Player 1 achieve their goal. This suggests a limited understanding of the concept of mutual benefit."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejected the offer but provided a constructive explanation and suggestion for a future mutually beneficial trade. This demonstrates a good understanding of cooperation and an attempt to guide Player 2 towards a more collaborative approach."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 made a well-reasoned and beneficial trade offer, demonstrating excellent cooperative behavior. They correctly inferred Player 2's potential need for cobblestone and proposed a fair exchange for raw iron. This facilitated a successful trade that benefited both players."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the trade offer, showing a willingness to cooperate and recognize a mutually beneficial opportunity. This positive response strengthens the cooperative dynamic of the game."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 initiated a trade, offering raw iron for raw copper. While seemingly cooperative, the intent was deceptive, aiming to mislead Player 1 about their true intentions. Although the trade itself was harmless, the underlying motive lowers the cooperation score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade offer, demonstrating a willingness to cooperate and help Player 2. Although Player 2's intent was deceptive, Player 1's action is still cooperative in nature. The acceptance fosters positive interaction despite the hidden agenda."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a fair trade of iron ingots for raw copper, showing a willingness to cooperate and potentially assist Player 2. Even though Player 2 rejected, the offer itself demonstrates cooperative intent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 rejected the trade offer, prioritizing their own strategy. Although they considered the potential benefits, the lack of counter-proposal or further discussion suggests limited cooperative engagement in this turn."
+      }
+    ]
+  }
+]

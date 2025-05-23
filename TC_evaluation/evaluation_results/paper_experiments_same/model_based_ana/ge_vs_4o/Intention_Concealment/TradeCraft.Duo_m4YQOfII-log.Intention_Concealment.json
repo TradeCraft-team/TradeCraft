@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their intention to craft shears in their first proposal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejected the proposal without revealing their own intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continued to express their need for iron ingots, indirectly revealing their intention to craft shears."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade for an iron ingot could be a misdirection, but it also aligns with their need for crafting materials, making it less effective at concealing their true intention."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's repeated attempts to trade for raw iron further reveal their need for iron ingots, hinting at their intention to craft shears."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to reject proposals without revealing their hand."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a trade that could indirectly help them craft shears but doesn't explicitly reveal their intentions."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiating the trade for cherry planks could be interpreted as needing fuel or a crafting ingredient, partially concealing their goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's proposal to trade raw iron suggests they need more iron, possibly for crafting shears, making their intention somewhat obvious."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2's continued rejection maintains concealment."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejecting the trade for raw copper keeps their options open and doesn't reveal their specific needs."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal for a copper ingot trade could indirectly reveal their need for resources, though the exact purpose remains unclear."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 explicitly mentioned their intention to craft shears in their proposal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2's rejection maintains concealment."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepting the trade for iron nuggets indirectly helps them get closer to crafting shears without explicitly revealing their intention."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposals, while invalid, suggest a need for resources, but their exact goal is still unclear."
+      }
+    ]
+  }
+]

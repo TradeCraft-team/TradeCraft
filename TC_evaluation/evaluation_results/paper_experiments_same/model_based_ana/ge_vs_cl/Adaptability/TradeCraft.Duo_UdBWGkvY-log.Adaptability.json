@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 initially made invalid proposals, demonstrating poor adaptability to the game rules.  They eventually crafted a valid proposal and made a trade that benefited both players, showing some improvement in adaptability."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 quickly assessed the proposed trade and its benefit to their goal. They readily accepted the trade, securing needed materials and demonstrating strong adaptability to the changing game state and proposed trade opportunity."
+      }
+    ]
+  }
+]

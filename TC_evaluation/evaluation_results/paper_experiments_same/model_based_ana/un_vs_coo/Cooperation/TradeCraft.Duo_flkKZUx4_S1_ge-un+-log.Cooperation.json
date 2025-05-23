@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade that benefited both players.  Player 1 needed iron and offered copper. Player 2 accepted the trade, indicating a willingness to cooperate and potentially facilitate future trades."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted Player 1's trade proposal, demonstrating cooperation.  Their acceptance, combined with their stated intention of future trades, reinforces their cooperative approach."
+      }
+    ]
+  }
+]

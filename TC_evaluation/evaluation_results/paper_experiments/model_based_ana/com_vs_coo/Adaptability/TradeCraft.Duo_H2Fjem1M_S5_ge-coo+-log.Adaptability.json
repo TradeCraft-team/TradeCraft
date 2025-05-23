@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by identifying their need for iron ingots, recognizing that Player 2 had raw iron, and proposing a mutually beneficial trade of coal for raw iron.  They clearly explained the reasoning behind the trade, showing an understanding of the game mechanics and an attempt to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated adaptability by analyzing Player 1's proposal, considering the potential motivations behind it, and deciding to reject the trade based on their own game plan and suspicions about Player 1's true intentions.  They showed an understanding of crafting recipes and resource management."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed some adaptability by recognizing the rejection of their previous trade offer and attempting to adjust by offering raw copper for cobblestone and iron ingots. Although they correctly identified their need for raw materials, the offered trade wasn't entirely strategic given their need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's adaptability was limited in this turn. They correctly identified the necessary materials for their target (lever) and planned to craft accordingly. However, their trade proposal wasn't well-aligned with their own needs, showing a limited adaptability to the current game state."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapted to the failed trade in the previous round and continued to pursue raw iron, which they require for their objective. They explained the rationale behind their trade offer, indicating strategic thinking about resource acquisition. "
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the trade, demonstrating a willingness to cooperate and exchange resources. However, this action didn't significantly advance their goal, showing a somewhat passive approach to adapting to the game state."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a neutral trade, showing continued cooperation and resource management. They are acquiring raw materials that can be used towards their target.  "
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 made an invalid proposal, lowering their score, and then proposed a neutral trade which was accepted. They correctly crafted the lever on this turn, completing their objective."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's adaptability is slightly lower this turn because their proposed trade, while reasonable, was rejected.  They are still struggling to acquire the necessary iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected a trade that wasn't beneficial to their goal, demonstrating focus and understanding of their needs."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a trade for raw iron, demonstrating a willingness to cooperate and acquire necessary resources. However, they are still struggling to obtain the iron ingots needed for their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a neutral trade, which was accepted. While this didn't directly advance their goal, it kept the interaction going and could potentially be useful for future negotiations."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted a reasonable trade of a copper ingot for raw iron but was rejected. They are demonstrating persistence but haven't yet adapted their strategy to acquire the necessary iron more effectively."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to reject trades that did not directly benefit their goal, showing a consistent focus on their needs and resource management. Although they seem to not understand the basic crafting recipe."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a neutral trade. While maintaining cooperation, it does not bring them closer to completing their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 submitted two invalid proposals, demonstrating a lack of understanding of game mechanics or available resources."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 continues to offer trades for raw iron, but their strategy hasn't adapted to Player 2's repeated rejections.  They need to find a more effective way to acquire the necessary resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 consistently rejects trades that don't benefit their objective, displaying good resource management and strategic focus. Although their objective is already completed, they don't seem to be aware of it."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a trade that provided them with raw iron, a necessary component for their target.  This shows a continued effort to acquire the needed materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 submitted another invalid proposal, indicating a persistent lack of understanding of the game mechanics."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a direct proposal for an iron ingot, clearly stating their need for it to craft a chain. This clear communication demonstrates an attempt to adapt and acquire necessary resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected a trade for an iron ingot, demonstrating strategic thinking as keeping the ingot aligns with their objective."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a cooperative decision to accept a trade that benefitted the other player, fostering goodwill and demonstrating a balanced approach to resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 made an invalid proposal, lowering their adaptability score. Although their second proposal of trading raw copper for raw iron was accepted, it didn't significantly advance their game."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, and Player 1 did not achieve their target. Their adaptability score is 0 because they were unable to acquire the necessary resources to win."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, and Player 2 did not achieve their target.  Their adaptability score is 0 because despite having the necessary resources in earlier turns, they failed to craft the lever and win."
+      }
+    ]
+  }
+]

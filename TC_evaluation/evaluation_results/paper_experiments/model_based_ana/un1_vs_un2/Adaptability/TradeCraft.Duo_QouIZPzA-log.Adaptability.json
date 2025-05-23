@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by recognizing the need for iron and offering coal in exchange.  While the trade was rejected, the attempt to acquire necessary resources shows an understanding of their goal and a willingness to adjust their approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 correctly assessed their current needs and rejected a trade that wasn't beneficial. However, they haven't yet demonstrated adaptability in pursuing their own target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 missed an opportunity to trade and acquire a resource that Player 1 clearly needed. They continued to state they had everything they needed, which wasn't strategic given the repeated trade attempts by player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed adaptability by rejecting a null trade and attempting to engage Player 2 in a more beneficial exchange. They also began exploring alternative crafting options and considering what resources Player 2 might need."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to adapt their strategy by offering a different resource (copper ingot) for raw iron, showing a willingness to try different approaches to achieve their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 again rejected a potentially beneficial trade without offering any alternatives. This lack of engagement and inflexibility hindered their progress."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 finally demonstrated adaptability by proposing a trade for cherry planks, recognizing the need for additional resources.  Although they ultimately didn't need the cherry planks, the attempt to engage in trading is a positive sign."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 showed excellent adaptability by accepting a beneficial trade.  They correctly analyzed the situation and recognized the potential value of raw iron, even if the oak planks weren't immediately useful."
+      }
+    ]
+  }
+]

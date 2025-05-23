@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 formulated a clear plan to obtain raw iron through trading, correctly identified the necessary crafting steps for their target item (chain), and successfully executed the first part of their plan by acquiring raw iron. They also checked item info for relevant crafts and considered potential future moves, demonstrating good strategic thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognized their immediate crafting needs for the lever and decided against trading for coal, prioritizing their own needs over potentially hindering their opponent. While they correctly identified their goal and available resources, they did not have enough resources and missed an important rule of Minecraft to craft the lever or made no other progress."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 continued trying to craft the lever with limited materials. They offered a reasonable trade to player 1 but ultimately did not make progress on crafting their goal item. Their strategic planning appears somewhat short-sighted."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a beneficial trade, correctly identified the necessary crafting steps, and efficiently crafted the chain to win the game. Their actions were decisive and demonstrated excellent strategic planning."
+      }
+    ]
+  }
+]

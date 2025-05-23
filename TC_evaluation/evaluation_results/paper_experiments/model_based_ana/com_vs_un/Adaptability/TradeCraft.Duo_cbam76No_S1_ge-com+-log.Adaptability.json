@@ -1,0 +1,86 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated some adaptability by analyzing their resources and the opponent's resources to formulate a trade proposal. They correctly identified the need for iron ingots to craft shears and attempted to trade for raw iron. However, their initial trade offer wasn't well-received, indicating a need for further adaptation in the next turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good adaptability by recognizing that the proposed trade didn't align with their goal of crafting a torch. They rejected the offer and suggested a more suitable trade involving coal, showcasing their ability to prioritize needs and adjust their strategy."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent adaptability by successfully trading for the coal they needed. They correctly anticipated the other player's willingness to trade and offered a fair deal.  Their subsequent thinking shows a clear plan to use the acquired resource effectively."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted well to the changing game state by accepting the trade offer for raw iron. They recognized the value of the raw iron for their objective and capitalized on the opportunity to acquire it. Their thinking demonstrates a focus on their long-term goal of crafting shears."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 showed some adaptability by trying to acquire raw copper. However, their reasoning for the trade isn't entirely clear, and the trade was ultimately rejected. Their plan appears somewhat unfocused."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable decision to reject the trade offer, as acquiring more iron wasn't essential for their objective. However, they haven't yet shown a clear strategy for acquiring the remaining resources they need."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 showed some adaptability by proposing a trade that could potentially benefit them while not significantly hindering their opponent.  Their thinking shows an awareness of the game state and a willingness to engage in trades."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the trade offer, demonstrating a willingness to negotiate. However, the trade itself doesn't seem strategically significant, and their justification for accepting isn't entirely clear."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly submitted invalid proposals, demonstrating poor understanding of the game rules and a lack of adaptability. Their thinking shows some analysis of the opponent's moves but doesn't translate into effective action."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade offer that benefited them.  Their thinking demonstrates a clear focus on achieving their goal and preventing their opponent from getting the necessary resources."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a trade for raw copper, which makes sense given their previous actions. However, the trade was rejected. They haven't yet demonstrated a backup plan or alternative strategies."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted well by rejecting the trade offer and recognizing the strategic value of holding onto their raw copper. Their thinking shows an understanding of the opponent's potential needs and a willingness to use their resources for leverage in future trades."
+      }
+    ]
+  }
+]

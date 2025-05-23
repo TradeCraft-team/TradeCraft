@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially concealed their intentions. While their initial thoughts reveal their need for iron, the trade offer for coal and the accompanying message suggest a more general need for resources. This could mislead player 1 into thinking player 2's goal might be something that requires fuel, like torches or smelting other materials."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance of the trade and the message \"Deal\" do not actively conceal their intention. Accepting the coal suggests a need for it, but doesn't reveal the specific target item."
+      }
+    ]
+  }
+]

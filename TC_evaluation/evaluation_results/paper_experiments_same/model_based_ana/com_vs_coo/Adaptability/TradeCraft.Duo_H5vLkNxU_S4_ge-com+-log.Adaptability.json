@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability by analyzing their hand, identifying missing components for their target (chain), and formulating a trade proposal that aligned with their needs while also considering what their opponent might need. They correctly inferred that Player 1 might need raw iron and offered relevant materials in exchange."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also adapted well to the proposed trade. They analyzed its benefits, recognized how it contributed to their goal (stone_shovel), and accepted the offer, furthering their progress. Their communication also indicated a willingness to cooperate."
+      }
+    ]
+  }
+]

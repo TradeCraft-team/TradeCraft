@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good information utilization. They correctly identified their need for iron and offered a relevant trade for raw iron.  They also correctly assessed the crafting recipe for iron ingots. However, they missed calculating the amount of coal needed and proposed an invalid recipe before checking possible recipes.  Though they eventually smelted the raw iron and got closer to their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 understood their own needs and correctly assessed that they didn't need the offered coal.  They considered the potential impact of the trade on their opponent, and they accepted the trade. Player 2 failed to craft anything during the crafting phase, struggling to figure out the stick recipe."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted to analyze the opponent's needs and made an offer which was not directly in Player 2's interest.  Player 2 tried to craft a stick but struggled with the recipe and was unable to craft anything."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly identified the value of coal for smelting and accepted Player 2's trade. They correctly recognized they could craft a chain and did so efficiently, winning the game."
+      }
+    ]
+  }
+]

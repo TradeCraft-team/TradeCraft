@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 identified their need for iron ingots to craft shears and successfully traded for raw iron, demonstrating perfect goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized their need for coal to craft a torch and accepted a trade that provided them with coal, showing strong goal alignment."
+      }
+    ]
+  }
+]

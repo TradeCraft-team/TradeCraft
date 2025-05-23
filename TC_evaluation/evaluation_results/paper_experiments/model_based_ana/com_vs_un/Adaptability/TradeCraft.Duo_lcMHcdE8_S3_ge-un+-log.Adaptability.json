@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 initially submitted an invalid proposal but adapted by analyzing the opponent's resources and proposing a valid trade for raw iron, demonstrating some adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 analyzed player 1's proposal, correctly inferring player 1's needs and potential crafting goals, and accepted the trade to benefit their own goal, showing good adaptability to the trade situation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 recognized the need for iron ingots but rejected player 2's proposal without exploring alternative options.  Rejecting helps them hold onto their iron but doesn't show adaptation to the situation, as they could have countered."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered multiple crafting paths and tried to trade for iron, adapting their strategy after their initial trade proposal was rejected. They used the available information about the opponent's resources to try and craft a beneficial trade, smelting their own materials in the process."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 continued to pursue iron ingots, adapting their offer slightly, but again failed to secure a trade.  They seem fixated on iron ingots but did craft shears in this turn for no obvious purpose."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to adapt by trying various strategies to acquire iron after initial trades were rejected.  They correctly identified the need for fuel and attempted to incorporate it into their trading strategy. Player 2 also considered opponent's potential crafting goals and adapted their offers accordingly."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a beneficial trade, recognizing the value of upgrading raw iron to an iron ingot, even though it cost one iron ingot. They checked possible uses for the ingot. This demonstrates good adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 adapted to player 1's focus on iron and offered a trade that was beneficial for both of them, showing some degree of adapting their strategy based on their analysis of player 1's behaviour, but didn't directly lead to their goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognized their win condition was met and offered a seemingly generous trade, showing excellent adaptability. They traded the target for materials for a seemingly different goal (iron ingots)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 evaluated the trade offer, considering its potential value and player 1's claim of having completed their objective, and accepted the trade. However, they could have used the opportunity to make a more targeted request."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to prioritize long-term strategy despite having won, accepting a trade to give player 2 a small amount of raw copper.  This is likely not the most efficient use of their resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a low-risk trade offer, adapting their strategy to the current game state and attempting to acquire more resources, though the trade isn't directly beneficial for crafting their target."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 made an invalid trade proposal and then a second proposal that wasn't beneficial for themselves or their opponent. They seem fixated on a sub-optimal trade target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly assessed the value of their raw iron and rejected Player 1's trade offer, choosing to hold onto a valuable resource. This shows strong strategic thinking and resource management."
+      }
+    ]
+  }
+]

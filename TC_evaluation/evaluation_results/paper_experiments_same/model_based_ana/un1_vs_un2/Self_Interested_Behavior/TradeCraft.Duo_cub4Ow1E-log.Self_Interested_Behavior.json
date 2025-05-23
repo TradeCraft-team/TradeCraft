@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly attempts to make trades that would benefit them. Although these attempts are unsuccessful due to formatting and game rule errors, the intent to prioritize their own needs is evident."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepts a null trade, demonstrating no significant self-interested behavior. Their justification for accepting focuses on maintaining a positive relationship, which is not directly self-serving in this context."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 focuses solely on their own goal, crafting a lever, and proposes a null trade. They recognize they don't need anything from the opponent and act accordingly, maximizing their own efficiency."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the null trade, showing no direct self-interest in this turn. However, their thinking reveals a focus on acquiring specific resources for their own goal, demonstrating an underlying self-serving strategy."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to prioritize acquiring iron for their chain, making self-serving trade proposals. Although rejected, their focus remains on benefiting their own game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 consistently rejects trades that don't directly benefit their goal, demonstrating strong self-interested behavior.  Their focus remains on acquiring necessary resources for themselves."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposes a trade attempting to acquire an iron ingot, which while not immediately necessary for their lever, could be beneficial for future crafting. This shows some self-interest but not critical for their current goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the trade, prioritizing their need for the iron ingot to craft their chain.  This refusal directly benefits their own goal, showing strong self-interest."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to try and acquire an iron ingot for their chain, proposing a trade beneficial to them.  Despite rejection, their persistence in pursuing their own goal shows self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects the trade, holding onto the iron ingot for their potential needs.  This demonstrates self-interest, prioritizing their own uncertain future use over Player 2's immediate need."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully trades for a cherry plank, necessary for their lever, demonstrating self-interest by acquiring a key resource for their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepts the trade, prioritizing the acquisition of raw iron. While this trade appears to help player 1 more, player 2's internal dialogue reveals they are still focused on their own goal of crafting a chain, showing some level of self-interest."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully trades for an iron ingot, essential for their goal of making a chain.  This significantly benefits them and demonstrates strong self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepts the trade, parting with their iron ingot.  Although they state it won't hurt them, it doesn't actively benefit them either, and gives Player 2 a critical resource.  This shows a lack of strong self-interest in this turn."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposes a trade that would benefit them by acquiring an iron ingot. Although rejected, their proposal demonstrates a self-serving approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the trade, prioritizing their own needs by keeping the iron ingot for their chain. This directly benefits their goal and displays strong self-interest."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues attempts to trade for raw iron, aiming to craft more iron ingots. Their proposals demonstrate continued focus on achieving their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects Player 2's trade proposals, demonstrating strong self-interest by not accepting trades that don't directly benefit their lever crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposes a null trade, indicating they are prioritizing their own crafting and need nothing from player 2. This shows strong self-interest in focusing solely on their own objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejects the null trade, expecting something in return, demonstrating self-interest and a desire to not engage in pointless exchanges."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes another self-serving trade, showing persistent focus on acquiring materials for their own goal despite repeated rejections."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects a trade offer that doesn't benefit their goal, demonstrating consistent self-interest in prioritizing their own needs."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 successfully trades for raw copper, which though not immediately necessary for their lever, demonstrates some self-interest in acquiring potential resources."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepts the trade and immediately crafts the chain, winning the game. This decisive action directly serves their primary goal and demonstrates the highest level of self-interest."
+      }
+    ]
+  }
+]

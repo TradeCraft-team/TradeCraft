@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 demonstrated some initial strategic thinking by identifying their target and attempting to acquire the necessary resources through trade. However, their repeated failure to submit valid proposals significantly lowered their score.  They did not adapt to the feedback provided by the server, persisting with invalid proposals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good strategic planning by identifying their needs and formulating a plan to acquire them. They correctly assessed the value of the proposed trade and rejected it strategically, recognizing the potential for a better deal later."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to strategize and adapt, recognizing the need to offer more favorable terms to player 2.  Their thinking shows a clear understanding of their goals and available resources. The crafting and trade decisions were well-reasoned."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 identified their crafting needs and formulated a plan to obtain necessary materials. While they initially attempted an unfavorable trade, they adapted their strategy by offering more relevant resources in the second attempt. The crafting decisions were appropriate given the available resources and the need for fuel."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 offered a strategic trade to acquire raw iron, correctly anticipating their need for further smelting to achieve their goal.  They also considered player 2's potential needs in crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 carefully considered the value of player 1's proposal.  They understood the benefit of saving crafting resources and time while also acknowledging the possibility of being strategically manipulated. The ultimate decision to accept the trade was well justified."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent strategic thinking by rejecting a trade offer that didn't align with their primary goal. They correctly prioritized acquiring the necessary resources for their target item and provided clear communication to player 2 about their needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's strategic thinking was less effective this turn. While they attempted to acquire an iron ingot, they offered cobblestone slabs, which were less valuable and didn't seem to align with player 1's needs. Their questioning about crafting plans was a good attempt to gather information, but the ineffective trade proposal lowered their score."
+      }
+    ]
+  }
+]

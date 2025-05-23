@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's initial proposal reveals their need for iron, hinting at a crafting goal involving iron. While they didn't explicitly state their target, the request for raw iron and the mention of smelting suggests their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade, partially concealing their need for coal. Their rejection message focuses on copper, diverting attention from their actual needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's crafting actions further solidify their need for iron, making their intentions less concealed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's repeated attempts to acquire coal reveal their need for this resource, lowering their intention concealment score.  Their crafting of an oak button, while not directly related to their target, doesn't effectively conceal their intentions."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's trade for raw iron reinforces their need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the trade, acquiring raw iron, which could be used for various purposes.  This action doesn't explicitly reveal their target."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade, offering a plausible explanation that doesn't reveal their specific target but hints at a need for iron ingots."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal for iron ingots is somewhat revealing but could be interpreted as a general need for iron."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's persistent attempts to trade for raw iron and their explicit mention of needing more iron heavily suggest their target requires iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's rejection and question about coal add a layer of misdirection, making it less clear what their true target is."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's rejection maintains some ambiguity about their intentions, though their focus on iron is still apparent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's repeated attempts to trade for raw iron start to reveal their need for this material."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's offer of raw iron for a copper ingot could be interpreted as needing copper or trying to acquire materials for a more complex crafting recipe. It doesn't directly reveal their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's rejection, along with the stated reason, provides a plausible cover for their intentions without revealing their true needs."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection, with the given reason, provides a believable explanation without revealing too much information about their crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's offer of cobblestone for raw iron could be interpreted as a general need for iron or a desire for building materials."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's trade for a copper ingot adds some ambiguity to their previous focus on iron, slightly improving their intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's acceptance of the trade could be seen as a strategic acquisition of raw materials or simply a willingness to trade.  It doesn't definitively reveal their target."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's rejection and lack of engagement in trades involving cobblestone help to obscure their actual crafting intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's continued attempts to trade for raw iron, while unsuccessful, partially reveal their need for this resource."
+      }
+    ]
+  }
+]

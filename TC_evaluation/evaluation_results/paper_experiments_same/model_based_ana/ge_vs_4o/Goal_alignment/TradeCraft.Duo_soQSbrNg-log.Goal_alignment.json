@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring the raw iron needed for their bucket.  They identified the need, formulated a reasonable trade proposal, and executed it successfully.  All actions were directly related to their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "player 1 demonstrated perfect goal alignment. They correctly identified the necessary components for their lever, assessed the trade proposal in relation to their goal, accepted a beneficial trade, and efficiently crafted the lever. Their thinking and actions were entirely focused on achieving their objective."
+      }
+    ]
+  }
+]

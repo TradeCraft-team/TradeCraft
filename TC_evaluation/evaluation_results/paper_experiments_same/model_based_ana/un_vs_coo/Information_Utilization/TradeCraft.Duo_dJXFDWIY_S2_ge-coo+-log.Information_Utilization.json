@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly identify their need for iron ingots to craft a bucket, recognize that Player 1 has a surplus of raw iron, and formulate a trade proposal that benefits both players. They offer resources Player 1 might need (coal, cobblestone) in exchange for the raw iron they need, demonstrating strategic thinking and a good understanding of resource management."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also shows strong information utilization. They analyze Player 2's proposal, recognize the value of the offered cobblestone for their own crafting goals (stone shovel), and accept the trade.  They also consider the potential future use of the coal, indicating foresight and planning."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 recognizes they have the materials to craft sticks and doesn't need to trade.  However, their crafting attempts are unsuccessful due to incorrect recipes. While they correctly assess their needs, they fail to execute on crafting due to lack of recipe knowledge."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully smelts raw iron into an iron ingot, utilizing their resources effectively. While their understanding of smelting with planks seems flawed, they demonstrate progress towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly assesses the trade offer and determines that raw copper is not beneficial for their goal. They reject the trade and attempt crafting, but again fail due to incorrect recipes."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 analyzes Player 1's needs based on their inventory and proposes a reasonable trade offer.  While the trade is rejected, their reasoning and strategic thinking are sound."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offers raw iron in a generous trade, which helps player 2 and costs player 1 nothing.  This might be a bit naive and could have waited for more insight into player 2's needs before offering the free gift."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts the raw iron. Recognizes that the free trade offer gives them one more raw iron towards the bucket."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 makes an invalid proposal.  They then propose a trade for coal, which is rejected. Their information utilization is weak in this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly rejects the unfavorable trade offer for coal and explains their reasoning."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 recognizes that they don't need anything from player 2 and propose a null trade, their crafting attempts continue to fail due to recipe errors"
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes a plan to obtain an iron ingot from player 1 or craft one using a furnace, demonstrating resourcefulness. They're continuing to try and adapt to the situation and plan ahead."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 submits an invalid proposal. They then offer raw copper for cobblestone, which is rejected.  Their trading strategy isn't effective, and their understanding of what Player 1 needs appears limited."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly assesses the trade offer, rejects it, and provides an explanation."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 continues to fail in their crafting attempts due to incorrect recipes, but correctly makes the null trade offer"
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates reasonable assessment and accepts the null trade. They plan for trades in case they don't have resources for smelting."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts raw copper in a fair trade.  Player 1 then assesses crafting materials but provides the incorrect recipe and does not craft the necessary items"
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 plans to trade for iron ingots and tries to understand player 1's needs."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 repeatedly submits invalid proposals due to formatting issues. This indicates a lack of attention to detail and prevents effective trading."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 assesses Player 1's needs based on their inventory and makes plans to obtain the materials they need. They are showing good planning skills, despite not succeeding in acquiring the needed iron ingot."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identifies that the trade offer is not beneficial to their goal and provides a clear explanation for rejecting it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 understands the need for iron ingots and makes a proposal but does not demonstrate adaptive trading strategies to account for repeated rejections."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 continues to submit multiple invalid trade proposals and reverts to a null proposal, showing no effective information utilization or adaptive behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 analyzes the situation, identifies Player 1's potential crafting goals, and expresses their own need, although the repeated null proposals from Player 1 hinder their ability to trade effectively."
+      }
+    ]
+  }
+]

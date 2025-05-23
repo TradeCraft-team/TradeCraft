@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for raw iron to craft a bucket and successfully traded for it, offering coal in return, which they didn't need for their goal.  They used the acquired raw iron to progress towards their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 also acted in their self-interest to a degree. While the trade for coal wasn't essential for their immediate goal, they recognized a potential future benefit and accepted the trade.  However, they didn't fully leverage the opportunity to further their own goal, such as requesting planks that they needed."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated self-interested behavior by attempting to trade for cobblestone, which was necessary for their goal of crafting a stone shovel.  Their proposal was a reasonable offer of raw iron in exchange for the needed resource."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted entirely in their self-interest by rejecting the trade offer.  They recognized that providing player 1 with cobblestone would advance player 1's goal, potentially putting Player 2 at a disadvantage. The rejection protected their resources and prioritized their own objective of crafting a bucket."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated strong self-interested behavior by proposing a trade for coal in exchange for cobblestone.  This trade directly benefited them by providing the fuel needed to smelt iron for their bucket. They also offered something player 1 needed, increasing the chance of a successful trade, showing strategic thinking."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade offer, acquiring more cobblestone. This benefited them by giving them enough cobblestone for their stone shovel. While the trade aligned with their self-interest, they didn't actively try to acquire planks, which they also needed for their tool. This shows a partial focus on self-interest."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly stated their need for raw iron and offered a reasonable trade of raw copper for it.  The message was concise and directly related to their crafting goal.  This persuasive approach led to a successful trade, which helped them achieve their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered the proposal and recognized that accepting it would not hinder their own progress.  They agreed to the trade, demonstrating a willingness to cooperate, which indirectly contributed to player 1's success. Their acceptance message was polite and agreeable, further enhancing the interaction."
+      }
+    ]
+  }
+]

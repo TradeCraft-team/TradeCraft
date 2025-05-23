@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently focused on crafting a bucket, checking recipes for buckets and iron ingots. They formulated a plan to trade for raw iron, demonstrating strong goal alignment."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 checked the recipe for their target item (stone_shovel) and explored related crafting options, indicating an understanding of their goal. However, their actions were not as directly aligned with obtaining their target as Player 2's actions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their goal by proposing a trade for cobblestone, a necessary component of their target stone_shovel.  This demonstrates clear goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted a trade that gave them raw iron, a material needed for their target bucket. This action aligns with their goal, although they didn't actively pursue it as much as Player 1."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to focus on their target (bucket) by trying to trade for raw iron to create the necessary iron ingots.  The proposed trade, offering a copper ingot, shows strategic thinking and goal alignment."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejecting the trade was reasonable given their need for raw iron. While not directly contributing to their goal this turn, they preserved resources."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to pursue a trade for cherry planks, useful for crafting sticks needed for their stone shovel, demonstrating goal-directed behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected a trade that did not directly contribute to crafting a bucket, aligning with their primary goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 consistently focused on acquiring the necessary materials (raw iron) to craft the target bucket by checking recipes and proposing relevant trades."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejecting the trade is consistent with their need to preserve resources for their stone shovel, showing some goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 again attempted to acquire cherry planks, necessary for crafting sticks needed for the stone shovel, showing goal-aligned behaviour."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade, continuing to conserve resources potentially required for their bucket."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 exhibited goal-aligned behaviour by attempting to trade for raw iron needed for crafting the bucket. The invalid proposal lowers the score slightly."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade, adhering to resource management for their stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 attempted to trade for cherry planks (needed for sticks), clearly aligning with their stone shovel goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's rejection, motivated by fuel conservation for smelting raw iron (useful for the bucket), shows strong goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to pursue raw iron through a trade, maintaining their focus on crafting a bucket."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection of the trade is reasonable given their current resources and goal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 offered a trade that wasn't directly related to their target item's needs. This shows a slight deviation from goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 made a strategic decision by rejecting the trade. Recognizing they lacked fuel to process raw iron into the needed ingots demonstrates strong goal alignment and resource management towards their bucket goal."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to focus on acquiring raw iron, a necessary precursor to the iron ingots needed for their bucket, demonstrating goal alignment."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection is reasonable as the trade did not benefit their pursuit of a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted a trade that wasn't directly aligned with their goal. While diversifying resources can be helpful, it wasn't a crucial step for their stone shovel."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted a trade that provided the final piece they needed for their bucket goal: raw iron that could be converted to the necessary iron ingot. This decisive, goal-aligned action secured their win."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade offer of coal for raw iron, clearly explaining their reasoning and how it could benefit player 1 by allowing them to smelt iron. This demonstrates good cooperative behavior by trying to establish a mutually beneficial trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the trade offer, prioritizing their own immediate needs over a potentially helpful trade for player 2. While they explained their reasoning, they missed the opportunity for cooperation and mutual benefit."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade for cobblestone, explaining their need clearly and offering a valuable resource in return. This is excellent cooperative behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 willingly accepted the trade, understanding the mutual benefit and expressing support. This reflects strong cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 offered a beneficial trade of iron ingots for raw materials, showing excellent cooperative spirit and understanding of player 1's potential needs."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the trade, recognizing the mutual benefit and furthering the cooperative dynamic."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 offered a trade of cobblestone slabs for an iron ingot. While the trade might not be entirely balanced in terms of immediate value, the offer demonstrates a willingness to engage in trading and cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the trade, prioritizing the cooperative aspect of the game and helping player 1 achieve their goal.  This demonstrates excellent cooperation."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted to initiate a trade of cobblestone slabs for an iron ingot. While well-intentioned, the trade was not beneficial for Player 1 and could be seen as slightly less cooperative."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 rejected the trade, recognizing it was not beneficial for them.  While justified, the rejection could be seen as slightly less cooperative."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 submitted two invalid proposals before finally offering raw copper for an iron ingot. Submitting invalid proposals wastes time and hinders collaboration, making the behavior uncooperative."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted a beneficial trade, demonstrating excellent cooperation."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 offered a mutually beneficial trade of copper ingot for iron ingot. This demonstrates strong cooperative behavior by offering a useful resource in exchange for another."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the mutually beneficial trade, furthering the cooperative nature of the game and progressing both players towards their goals."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 offered a slightly advantageous trade for player 2 but beneficial for both sides.  This shows good cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized the benefit of the trade and accepted, demonstrating excellent cooperation."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade of raw iron for an iron nugget, which was beneficial for player 1. This shows good cooperative behavior and helps player 1 progress."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the beneficial trade, demonstrating good cooperation."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair and straightforward trade, clearly demonstrating a desire for cooperation and mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 analyzed the situation, recognized the mutually beneficial nature of the trade, and accepted, furthering the cooperative dynamic of the game."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a helpful trade to player 1, demonstrating good game awareness and cooperative spirit."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the value of the trade and accepted it, showing cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a trade that could be beneficial for both players, furthering the cooperative aspect of the game."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 carefully considered the trade, recognizing its potential benefits and accepting it. This demonstrates excellent cooperation."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, so no cooperative action was possible."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, so no cooperative action was possible."
+      }
+    ]
+  }
+]

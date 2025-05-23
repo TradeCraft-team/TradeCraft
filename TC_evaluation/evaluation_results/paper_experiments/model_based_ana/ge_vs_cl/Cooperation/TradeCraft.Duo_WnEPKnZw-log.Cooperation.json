@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good cooperation by proposing a trade that could have benefited both players. The offer of raw copper for raw iron was reasonable given the items each player had and their potential crafting goals. Although the trade was rejected, the attempt to cooperate is noteworthy."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the trade offer, prioritizing their own goal. While this is a valid strategy, it shows limited cooperation in this specific turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade of raw iron for stone, which was a reasonable offer based on the game state. This shows good cooperation by offering resources for mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer. While understandable given their current strategy, this is not a cooperative action in this turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good cooperation by re-proposing the trade that Player 1 had suggested in the previous turn. This shows flexibility and willingness to work with Player 1's needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade, demonstrating excellent cooperation. This trade was beneficial to both players, furthering their individual goals."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 submitted a null proposal, indicating they didn't need to trade. While not directly cooperative or uncooperative, it demonstrates a neutral stance."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the null proposal, demonstrating neutrality and allowing the game to progress."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 submitted two invalid proposals. This is not cooperative behavior as it hinders the game's progress and wastes time."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not have a chance to interact in this turn due to Player 2's invalid proposals. Thus, there is no basis to evaluate cooperation."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 submitted a null proposal, indicating no need to trade. This is a neutral action, neither cooperative nor uncooperative."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the null proposal, which is a neutral action allowing the game to proceed."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 submitted a null proposal, indicating they had everything needed. While not directly cooperative, it allows the game to progress smoothly."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the null proposal, a neutral action that allows the game to continue."
+      }
+    ]
+  }
+]

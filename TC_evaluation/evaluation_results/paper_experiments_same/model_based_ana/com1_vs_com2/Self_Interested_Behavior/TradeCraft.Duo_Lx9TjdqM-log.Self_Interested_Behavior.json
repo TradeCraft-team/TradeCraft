@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for iron ingots, recognized that Player 1 had a surplus of raw iron, and crafted a trade proposal that benefited them while offering Player 1 less valuable resources in return (cherry planks and coal).  Their thinking shows a clear focus on achieving their own goal while considering how to disguise their intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted a trade that was primarily beneficial to Player 2. While they gained cherry planks that could be useful for crafting sticks, they also gave away raw iron, which is a more valuable resource, especially given that Player 2 was clearly targeting it.  Although the trade offered some benefit to Player 1, they did not fully prioritize their own needs in this interaction."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade for cobblestone, offering raw iron. While this trade was mutually beneficial, it primarily served Player 1's interests, as they secured an additional cobblestone (backup for lever) while giving away a less crucial resource."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted Player 1's trade for raw iron by giving up cobblestone. This was primarily in their self-interest. The raw iron directly contributes to Player 2's goal of obtaining a chain. Giving away cobblestone has less impact on their game."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 offered a copper ingot for 2 raw iron. This trade is highly self-interested, as they obtained raw iron needed for their goal (chain), while offering a less critical copper ingot. Their thinking clearly demonstrates an attempt to benefit themselves while assessing the potential impact on the opponent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepting the trade for raw iron benefits them somewhat, gaining raw materials and potentially distracting the opponent. However, it also strengthens Player 2 by giving them more resources they need. The decision leans towards being self-interested but is not completely maximized for Player 1's needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued pursuing raw materials through trades that benefited their overall resource collection. This demonstrates self-interest in strengthening their position, even if the immediate gain isn't directly tied to the target item (lever)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejected a trade that did not contribute towards their goal of crafting a chain. This prioritization of their objective displays self-interested behavior. They also recognized crafting the chain immediately and focusing on actions towards that goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 attempted to trade for raw iron by offering materials they deemed less valuable (iron nuggets and a copper ingot). This focus on obtaining the required materials for crafting a chain exemplifies self-interested behavior. Even though they tried to make the deal enticing, they kept their needs a priority."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected the trade, as it didn't directly benefit them. Their focus on obtaining the required materials to craft their lever and realizing that giving away more raw iron to an opponent focused on iron would be detrimental shows strong self-interested behavior."
+      }
+    ]
+  }
+]

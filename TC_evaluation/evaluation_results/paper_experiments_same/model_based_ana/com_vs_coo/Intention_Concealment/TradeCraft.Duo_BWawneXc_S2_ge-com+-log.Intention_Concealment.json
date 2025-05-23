@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a reasonable attempt to conceal their intentions. While they explicitly stated their need for raw iron in their message, they offered seemingly unrelated items (cherry planks and cobblestone) in return. This could lead player 1 to believe their goal is something other than a bucket, which requires iron ingots.  The trade was also mutually beneficial, strengthening the disguise."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions.  They accepted the trade, stating it \"helps me a lot\", but didn't reveal their actual goal (stone shovel).  Their acceptance of the trade could be interpreted in multiple ways, making it difficult for player 2 to discern their true intentions."
+      }
+    ]
+  }
+]

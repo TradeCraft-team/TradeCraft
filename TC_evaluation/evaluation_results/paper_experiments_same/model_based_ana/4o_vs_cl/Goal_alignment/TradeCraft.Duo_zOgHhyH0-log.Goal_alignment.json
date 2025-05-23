@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring the necessary materials (iron ingots) to craft shears, their target item. They initiated a trade to obtain raw iron, demonstrating a clear understanding of their goal and the steps required to achieve it."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2's actions were perfectly aligned with their goal of crafting a torch. They identified coal as a key ingredient and readily accepted a trade that provided them with coal. Their thought process clearly demonstrates a focus on achieving their target."
+      }
+    ]
+  }
+]

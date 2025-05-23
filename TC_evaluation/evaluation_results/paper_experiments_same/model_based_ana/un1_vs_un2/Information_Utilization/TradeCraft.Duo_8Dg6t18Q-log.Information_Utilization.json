@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 used the item_info tool effectively to understand the crafting recipe for their target item (chain). They correctly identified the required resources and recognized the need for more raw iron.  They formulated a reasonable trade proposal, offering raw copper in exchange for raw iron, directly addressing their resource needs. This demonstrates a strong understanding of their goal and effective use of available information to progress towards it."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated strong information utilization.  They identified their goal (lever), the necessary resources (cobblestone and stick), and recognized they had the means to craft the lever using available resources.  They correctly assessed the proposed trade's impact on their own game, recognizing that the offered raw copper wasn't essential to their crafting plan and opted to accept the trade for potential future benefit. This demonstrates effective resource and strategic consideration."
+      }
+    ]
+  }
+]

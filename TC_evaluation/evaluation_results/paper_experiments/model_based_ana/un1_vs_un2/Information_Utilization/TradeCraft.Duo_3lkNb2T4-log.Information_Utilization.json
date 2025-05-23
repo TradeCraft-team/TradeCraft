@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 correctly identifies their need for iron ingots and proposes a reasonable trade, offering raw copper for raw iron. They also check the recipe for a bucket, demonstrating good information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly assesses their own needs and recognizes they don't need raw copper. They justify their rejection based on their current crafting goal. However, they could have considered the potential future value of raw iron."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 proposes a null trade, wasting a turn. While they correctly identify they have the materials to craft a lever, they fail to utilize information about player 1's needs to form a mutually beneficial trade. They also repeatedly state the same crafting plan without taking action."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognizes the null trade is unhelpful and reiterates their need for iron ingots. They continue to attempt to trade for raw iron, trying different offers and justifying their strategy. However, they make multiple item info checks for things they've already checked."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposes a reasonable trade for raw iron, offering copper and justifying the offer based on player 2's potential need for fuel. They demonstrate an understanding of the smelting process."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 again rejects a potentially beneficial trade, failing to consider long-term strategy. They focus solely on immediate needs and repeatedly reaffirm their crafting plan without taking action. They struggle with basic crafting mechanics, repeatedly checking invalid recipes for sticks."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrates some strategic thinking by offering raw copper for player 1's iron, but the proposal is not well justified and the logic is unclear."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates an understanding of their needs and provides a solid justification for rejecting player 2's offer. They continue to seek out raw iron and adapt their trading strategy."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully trades for raw iron and understands they now have enough to craft a bucket.  Their understanding of the game and planning improved. They also try to justify the trade for Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the trade, potentially strategically but doesn't articulate the reasoning clearly.  While they claim to accept for future negotiations, they make no attempt to trade further."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 submits multiple invalid proposals and struggles to understand the trading mechanics of the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 correctly identifies that trading raw iron for cobblestone wouldn't help them achieve their goal and rejects the trade."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 understands their needs and offers several different trades, adapting their strategy based on previous rejections.  Their reasoning for trading is present, but doesn't consider opponent motivation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 provides solid justifications for their actions, prioritizing raw iron and considering various trading strategies."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempts to trade for raw iron but fails to provide a convincing justification.  They do check item info and possible recipes."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 understands their needs and clearly explains why they reject the trade. They demonstrate good resource management and analyze their crafting options."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to try different trading strategies and demonstrates a clear understanding of their needs and crafting options."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's rejection is reasonable, but their proposed alternative strategy isn't well-thought-out. They consider player 1's needs and past actions, but fail to formulate an effective trading plan."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 fails to craft or propose trades, demonstrating a lack of engagement and information utilization."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 tries increasingly desperate trades but fails to analyze the reasons for their rejection. While they adapt their offers, they don't effectively utilize information about player 2's behavior."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to try to acquire raw iron, offering a reasonable trade for their cobblestone."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 understands their own needs and correctly assesses that the cobblestone is not currently beneficial to them."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 attempts a simple trade offer but doesn't demonstrate any in-depth strategic thinking."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade, correctly recognizing that it doesn't help them achieve their goal. They attempt to analyze the situation and identify alternative options."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends, and player 1 loses, unable to craft their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends and player 2 loses, unable to craft their target item."
+      }
+    ]
+  }
+]

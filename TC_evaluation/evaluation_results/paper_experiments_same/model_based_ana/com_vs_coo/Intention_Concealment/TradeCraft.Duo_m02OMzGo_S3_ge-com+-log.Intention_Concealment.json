@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially concealed their intentions. While they stated a desire to trade for raw iron, their justification for the trade was quite explicit, hinting at their need for iron.  They did not explicitly state their target, but the reason given strongly suggests it."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions. They offered a plausible reason for accepting the trade (needing planks for sticks) without revealing their ultimate goal (crafting a lever). This reason is fairly generic, applicable to a wide range of crafting recipes."
+      }
+    ]
+  }
+]

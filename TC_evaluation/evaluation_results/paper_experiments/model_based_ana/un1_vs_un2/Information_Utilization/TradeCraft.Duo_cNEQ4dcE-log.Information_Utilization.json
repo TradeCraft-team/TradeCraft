@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 demonstrates some information utilization by recognizing the need for iron ingots and coal and attempting to trade with Player 1. However, their repeated proposal failures due to formatting issues show ineffective execution."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly assesses the null trade proposal and accepts it, understanding that it poses no risk and potentially fosters a positive trading relationship. They also correctly identify the materials needed for their target item and formulate a plan, indicating good information utilization."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposes a reasonable trade, offering raw iron for cobblestone, demonstrating good understanding of their needs and potential opponent's needs. The trade is successfully executed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes the value of the trade proposed by player 1, accepting raw iron which could help in crafting their target.  They correctly identify their next steps to smelting the raw iron into ingots and crafting the chain."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes a good trade, offering a copper ingot for raw iron. This shows strategic thinking in acquiring necessary materials for their chain. They successfully execute the trade and correctly identify the need for additional iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts a trade that doesn't directly contribute towards their goal, but also doesn't hinder progress. They recognize their need for sticks and cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes that they can craft the required sticks themselves and proposes a null trade, indicating efficient resource management. However, they repeatedly fail to craft sticks due to issues with the crafting recipe."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the null trade and accurately identifies the need to acquire more iron and recognizes the raw materials in player 1's hand, making a plan for trading."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 makes an invalid proposal initially but recovers by sending a null proposal.  However, they also exhibit some confusion about the crafting recipe for chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts the null trade.  They recognize the necessary steps to crafting their target, but continue to struggle with crafting sticks."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly identifies that they don't need to trade and sends a null proposal. However, they still struggle with crafting the necessary sticks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes their need for fuel and attempts to formulate a trade to acquire oak planks from Player 1. They also correctly identify the steps to craft iron nuggets."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 identifies the need for more iron and proposes a trade. However, the trade is not particularly beneficial to Player 1 and is rejected.  They continue to struggle with smelting."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes a good decision rejecting the trade, as it would not have been beneficial to their objective. They correctly identify their path to crafting the stone shovel and continue trying to craft sticks."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly identifies that they don't need to trade and focuses on crafting sticks, but continues to face difficulties executing the crafting recipe."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly plans to craft the needed iron ingots and then craft those into iron nuggets.  They also consider trading for fuel but don't actively pursue a trade."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 utilizes information about crafting a chain correctly and refines trading strategy based on Player 1's previous rejection.  They recognize that crafting is possible now."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to reject trades that are not relevant to their goal.  They reiterate plans and are close to crafting stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 demonstrates weak understanding of their needs, proposing a trade of raw iron for oak planks and failing to execute the recipe for sticks again. This suggests low information utilization despite understanding their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully crafts the chain by correctly applying the necessary crafting steps and utilizes information about their own inventory.  They show excellent information utilization."
+      }
+    ]
+  }
+]

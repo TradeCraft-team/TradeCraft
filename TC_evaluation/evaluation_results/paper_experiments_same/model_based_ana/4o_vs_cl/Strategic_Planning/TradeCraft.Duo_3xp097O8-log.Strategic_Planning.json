@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent strategic planning. They correctly identified their target item (shears), analyzed the crafting requirements, recognized the need for iron ingots, and formulated a proposal to obtain the missing raw iron.  They clearly outlined their proposal strategy, considering the needs and resources of the other player to make a mutually beneficial offer."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 showed good strategic thinking by immediately recognizing the value of the coal offered by Player 2 for crafting their target item (torch). They verified the torch recipe and accepted the proposal, effectively securing a key component. While their crafting attempts with sticks were flawed due to recipe errors, they successfully acquired the necessary coal, demonstrating a focus on their primary objective."
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interested behavior by attempting to trade for raw iron, a key component for their target item (bucket). They offered coal in return, which while helpful to player 2, primarily served to facilitate the acquisition of raw iron for their own benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, which was beneficial to them as well, but their primary focus seemed to be on obtaining coal for smelting, not necessarily on helping Player 1 achieve their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, prioritizing the acquisition of raw iron for their bucket. While the trade also benefited player 2, player 1's actions clearly demonstrate a focus on their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively sought raw iron, a key component for their target item.  Their offer of raw copper, less valuable to them, showcases a strategic trade to further their own progress."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to prioritize acquiring materials for their bucket, offering raw copper for coal in anticipation of a future trade for iron ingots. This shows a focus on their own needs and a willingness to trade strategically."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the raw copper for coal trade, which benefits them by providing raw materials. Their acceptance also suggests an awareness of player 1's need for iron ingots, possibly for a future mutually beneficial trade."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade, which was beneficial for their goal of crafting a bucket. Though they gave up cobblestone, they received raw iron, essential for making the bucket. This indicates a self-interested move."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 offered a highly favorable trade (2 raw iron for 1 cobblestone) to acquire a needed resource. Their persistence in pursuing this trade demonstrates a strong focus on their own needs."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 initiated a trade that was beneficial for both players. They offered coal, which player 2 could use for smelting, in exchange for raw iron, which player 1 needed for their target item. This demonstrates a clear understanding of the game mechanics and a willingness to cooperate for mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted player 1's trade offer, demonstrating cooperation. Although they didn't need the coal immediately, they recognized the potential benefit for player 1 and facilitated the trade.  This contributed to a positive and mutually beneficial interaction."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade offer, but it wasn't as directly beneficial to player 1 as the previous turn's trade. While the coal could be used for smelting, player 1's primary need was iron. However, accepting the trade did not harm player 1 and allowed player 2 to gain information."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted player 2's trade offer, even though it wasn't strictly necessary. This shows a continued willingness to cooperate.  The coal provided a small benefit, and the trade allowed the game to progress."
+      }
+    ]
+  }
+]

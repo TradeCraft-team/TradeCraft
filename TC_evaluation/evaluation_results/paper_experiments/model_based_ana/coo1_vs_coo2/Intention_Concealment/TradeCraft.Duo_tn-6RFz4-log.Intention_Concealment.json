@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 disguised their need for iron by offering a seemingly mutually beneficial trade of coal for raw iron. They also asked about Player 1's target, which could be interpreted as cooperative behavior rather than information gathering for personal gain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their target item (stone_shovel) to Player 2.  While framed as cooperative, this disclosure gives Player 2 a strategic advantage."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 openly stated their target item again and asked if Player 2 needed anything. This continues the pattern of revealing information without a clear strategic reason for doing so."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 revealed their target item after Player 1 did. While this disclosure is cooperative, it maintains some degree of concealment until prompted."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 explicitly stated their need for raw iron to make a bucket, but framed it as a request for assistance rather than a desperate need. They offered raw copper, a less immediately useful resource, which masks the urgency of their requirement."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to be very open about their needs and lack of need for specific items."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 reveals they have crafted sticks (progress towards their shovel).  Also offers coal and raw copper, which are not directly useful to their goal, potentially misleading player 2 about their next moves."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts the trade, maintains the bucket as their target item, successfully concealing that they have already crafted the bucket. They also do not indicate any need for fuel."
+      }
+    ]
+  }
+]

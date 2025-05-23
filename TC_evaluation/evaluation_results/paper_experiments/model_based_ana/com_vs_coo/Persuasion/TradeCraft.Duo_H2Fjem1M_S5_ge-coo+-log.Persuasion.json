@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly explains their reasoning for the proposed trade, highlighting the mutual benefits for both players. They effectively communicate their need for iron ingots and how the trade helps them achieve their goal while also assisting Player 2 with smelting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrates some persuasive reasoning by acknowledging the potential benefits of the trade. However, their rejection isn't accompanied by a counter-proposal or alternative, which lowers their persuasion score."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not make a proposal this turn and had no opportunity to exhibit persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal includes a clear explanation of their needs and offers a reasonable exchange of resources.  The message is concise and directly addresses Player 1's potential needs."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's proposal is simple and explains their need for raw iron. While the trade is straightforward, it doesn't involve complex negotiation or persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 accepted the proposal but didn't actively participate in the persuasion process."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not make a proposal this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's initial proposal was invalid, showing a lack of understanding of the rules. The eventual proposal and message are weak and don't demonstrate strong persuasive skills."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 makes a reasonable offer and explains their need for raw iron. The justification for the trade is simple but effective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's rejection includes a clear reason but doesn't offer any alternative or counter-proposal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 accepted the trade, therefore no persuasion was used."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal is clear, concise, and offers a reasonable trade. It fosters goodwill by offering something back after rejecting previous trades."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes a clear and concise proposal, offering a fair trade. The message is simple and effective in communicating their needs and proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 provides a clear reason for rejecting the trade but doesn't offer an alternative or counter-proposal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 accepted the offer and used no persuasion this round."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Multiple invalid proposals indicate a lack of attention to the game rules, weakening persuasion. The final accepted proposal lacks a strong justification."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes a reasonable offer and explains the potential benefit to Player 2.  The message is straightforward and encourages the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 states their reason for rejection but doesn't offer an alternative or counter-proposal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 accepted the proposal, therefore did not persuade this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 starts with an invalid proposal, indicating a lack of game knowledge. The final, successful proposal lacks justification, simply stating what they have to offer."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 explicitly states their goal (crafting a chain) and links the requested trade to it. This clear communication strengthens their persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 explains why they are rejecting the trade which is better than a simple \"no.\""
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 accepted the proposal and used no persuasion this round."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 makes a straightforward proposal. While there's no deep strategic reasoning, the message clearly states their intent and what they offer."
+      }
+    ]
+  }
+]

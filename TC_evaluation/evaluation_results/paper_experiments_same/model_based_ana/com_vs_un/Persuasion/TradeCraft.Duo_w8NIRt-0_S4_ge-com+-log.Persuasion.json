@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 clearly outlines their crafting goal, identifies the resources they need from Player 1, and offers a reasonable trade. The accompanying message is polite and explains the rationale behind the trade, increasing the likelihood of acceptance."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 analyzes the trade proposal, recognizes its benefits, and accepts it. While they don't actively negotiate, their acceptance of the proposal contributes to a successful trade and demonstrates a degree of persuadability."
+      }
+    ]
+  }
+]

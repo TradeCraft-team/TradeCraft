@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade that benefited both players. They offered coal, which they had extra of and Player 2 needed, in exchange for raw iron, which Player 1 needed to achieve their goal.  The trade was accepted by Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted a mutually beneficial trade proposed by Player 1. They received coal needed for their goal and gave away excess raw iron."
+      }
+    ]
+  }
+]

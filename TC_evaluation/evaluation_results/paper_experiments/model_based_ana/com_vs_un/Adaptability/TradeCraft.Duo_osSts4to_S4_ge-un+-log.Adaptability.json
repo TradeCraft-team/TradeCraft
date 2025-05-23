@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by offering coal to player 2 in exchange for raw iron. This shows a basic understanding of resource conversion and an attempt to acquire needed materials. However, the adaptability is limited as the proposal was not enticing enough for player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 correctly assessed their current needs and rejected the trade offer, prioritizing their own crafting goals. This demonstrates a degree of adaptability by focusing on available resources. However, there's no evidence of considering alternative strategies or long-term planning."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 maintains their goal of crafting a chain and recognizes the need for iron ingots. However, they reject player 2's proposal without offering an alternative, showing a lack of proactive adaptability in the negotiation process. They haven't adjusted their strategy from the previous turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to prioritize their goal and begins crafting. This shows focus and an understanding of their own needs. They recognize the potential benefit of acquiring coal but prioritize completing their current goal before attempting to trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates adaptability by revising their trade offer multiple times.  They recognize the invalidity of their first offer and immediately offer a more logical exchange.  Then they adjust their request to raw materials instead of a finished product."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to focus on their existing plan and doesn't show much adaptability. They reject Player 1's proposal without offering a counter-proposal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepts a beneficial trade, demonstrating strong adaptability by recognizing the value of acquiring raw materials for their target item.  The raw iron secured in this trade will allow them to craft the chain if they can smelt it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiates a trade that successfully provides them with a needed resource for crafting. This reflects good strategic thinking and a proactive approach. However, they didn't directly address their need for sticks earlier, showing a slight lack of foresight."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 tries a different tactic by proposing a trade for more raw materials, showing some adaptability. They seem to be more actively pursuing their goal but their offer isn't successful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejects a trade offer that doesn't immediately benefit their primary goal. They understand their current needs and prioritize them effectively.  While they are consistently focused on their goal, they haven't needed to adapt their strategy."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts a neutral trade, showing flexibility and a willingness to cooperate even if the trade doesn't directly benefit their immediate goal.  While helpful, it doesn't directly advance progress towards the win condition."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapts their strategy by making a proposal to trade raw copper for the cherry planks of player 1 which enables them to potentially craft 2 additional sticks and then craft the stone shovel next turn."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully trades for raw iron, demonstrating adaptability and achieving their primary goal. They effectively utilize available resources and prioritize necessary actions to craft the chain, leading to a win."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully crafts their target item after making a key trade, displaying strong adaptability throughout the game by securing necessary resources and efficiently executing crafting strategies. Their acceptance of a slightly disadvantageous trade demonstrates a strategic understanding of resource priorities, leading to a game win."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 actively pursued their goal of crafting a bucket by identifying their need for iron ingots and successfully trading for raw iron from Player 1. They offered less valuable items (coal and cobblestone) in exchange for a resource crucial to their objective.  This demonstrates a clear focus on their self-interest and a strategic approach to resource acquisition."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated self-interested behavior by accepting a trade that directly benefited them.  They recognized their need for cobblestone and secured an extra one through the trade, even though the other offered items were not immediately necessary for their goal. This shows an opportunistic approach to maximizing their own resources, but not as targeted as Player 2's approach."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 initiated a null trade, which could be interpreted as either a lack of self-interest or a strategic move to feign disinterest. However, they did not leverage this move for their self-interest.  Therefore, their self-interested behaviour is ranked low for this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null trade while considering their own goal and how Player 1's action might impact them.  They reasoned through the situation and decided that accepting was not detrimental to their progress, showcasing awareness of their own self-interest and a degree of cautiousness."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade that directly served their goal. They recognized their need for coal to smelt raw iron into ingots for crafting a bucket and successfully traded their copper ingot for Player 1's coal.  This demonstrates a calculated and self-serving approach."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted Player 2's trade for coal. Their reasoning indicates they saw potential benefit in smelting their raw copper, which is consistent with self-interested behaviour, although it's not directly tied to their primary goal of crafting a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 aimed to acquire more iron ingots for their comparator. They made a strategic trade offer to player 2, copper resources for an iron ingot, showing focus on self-interest and resource management aligned with their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 recognized the trade as beneficial, getting copper they could process into a useful ingot, and gaining insight into Player 1's potential crafting goal. This opportunistic acceptance, enhancing their resource pool and potential strategic advantage, reflects strong self-interest."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered a fair trade to player 1, trying to acquire cobblestone which they lacked.  While the trade itself doesn't directly advance their target item (iron_block), demonstrating resourcefulness and acquiring needed items for crafting, the strategic thought process and desire to improve their position demonstrate some level of self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1, having already achieved their goal, accepted the trade.  Recognizing the offer didn't hurt and potentially benefitted future crafting, it showcases a general self-interest but not directly targeted toward winning or hindering the opponent as their current hand doesn't need it."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to trade raw iron for an iron ingot, a beneficial trade for them but a disadvantageous trade for the other player.  Repeated attempts without adjusting their offer show a narrow focus on their needs and a lack of effective negotiation, leading to a low score despite the intention of pursuing self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 recognized Player 1's repeated, unfavorable trade attempts as suspicious, making a sound judgment based on the lopsided proposals.  This, and rejecting the trade, benefits them by not giving up a key crafting material unnecessarily and conserving it for potential future use, thus exhibiting self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 identified raw iron as something player 1 wanted, and attempted a trade with copper resources.  Recognizing player 1 needs raw iron and they dont need copper, trying to maximize this opportunity by getting raw iron while giving up less critical resources displays a strategic and self-serving approach to trades."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 analyzed the trade offer and reasoned through how getting a copper ingot could benefit them. Accepting a trade that benefits them, even though not immediately tied to crafting their goal, shows reasonable self-interest and resource management."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1, despite already having shears, attempted to trade for more raw iron, likely aiming to craft additional shears.  While having already achieved their goal negates immediate necessity, their attempt to amass additional resources reflects a basic level of self-interest and resource acquisition."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 considered player 1's need for raw iron, analyzing their intent, and determined that giving up their raw iron wasn't beneficial.  This strategic denial prevents further progress for the opponent and maintains their own resource advantage, demonstrating strong self-interest."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offered a seemingly neutral trade of cobblestone for raw iron, aiming to improve their own resource pool. While it indicates a desire for resource gain and can be linked to past successful crafting with raw iron, its low impact and potential to benefit both players dilutes the score for clear self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognized the offered trade wasn't crucial to their already completed goal and declined, prioritizing conservation of their resources.  Though basic, this denial safeguards existing resources and demonstrates a minimal level of self-interest."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to trade for an iron ingot with raw copper, demonstrating a desire to acquire more crafting resources even though they possess shears.  While it indicates a general self-interest in resource collection, the inaccurate and repeated proposal makes this less effective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 assessed the proposed trade and recognized the greater value of raw iron for themselves, opting to keep it for their benefit and simultaneously hinder Player 1's progress, reflecting a sound, self-interested decision."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2, despite already having their target item, strategically traded their raw iron for Player 1's raw copper. This benefits Player 1, but with Player 2 already having their target, this trade is at no expense to Player 2. It also reflects a strong awareness of other players crafting potential, further indicating self interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts a trade that directly serves their goal. Trading a less needed material, copper, for raw iron that can be further crafted into useful material like shears, clearly benefits player 1 and hence indicates self interest."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 initiated a trade to acquire a cobblestone in exchange for raw iron, indicating their strategic understanding of their needs for crafting the shears target, and demonstrating pursuit of resources aligned with their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, gaining raw iron. Their reasoning indicates a drive towards their target item and resource accumulation, reflecting a self-interested behavior to further their own game objectives by accepting a beneficial trade."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game concluded in this turn, and no actions were taken by Player 1.  Therefore, there is no basis for evaluating self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game concluded in this turn, and no actions were taken by Player 2. Therefore, there is no basis for evaluating self-interested behavior."
+      }
+    ]
+  }
+]

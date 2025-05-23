@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently focused on acquiring iron, directly relating to their bucket goal. They attempted a trade, researched the bucket recipe, and smelted raw copper (potentially for future trades to get iron)."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2's actions, while showing some initial understanding of their lever goal, were ultimately ineffective. They failed to craft sticks multiple times due to incorrect recipes and did not accept a trade that could have given them what they needed."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to focus on acquiring iron for their bucket goal.  They correctly identified the bucket recipe and accepted a trade, even though it wasn't directly related to their goal, potentially to maintain positive relations for future trades."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully crafted sticks and then their target item, the lever, demonstrating perfect goal alignment and effective execution."
+      }
+    ]
+  }
+]

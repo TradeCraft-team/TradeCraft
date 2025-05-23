@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully persuaded player 1 to trade raw iron for coal.  They clearly stated their needs and offered a reasonable trade.  Player 1 accepted the proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 was receptive to the trade proposal and agreed to it. While they didn't actively persuade, their acceptance facilitated the trade."
+      }
+    ]
+  }
+]

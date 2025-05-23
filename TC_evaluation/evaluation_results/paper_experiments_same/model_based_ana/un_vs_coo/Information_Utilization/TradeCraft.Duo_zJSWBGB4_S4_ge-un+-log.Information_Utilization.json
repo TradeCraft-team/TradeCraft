@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates excellent information utilization. They correctly identify the necessary ingredients for their target item (chain), recognize their lack of iron nuggets, formulate a plan to acquire more raw iron, and propose a reasonable trade with Player 2. Although they struggled with crafting recipes, their trading strategy and overall plan show a clear understanding of the game's mechanics and their own needs."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates perfect information utilization this turn.  They understand their crafting goal, recognize the value of the trade proposed by Player 1, and accept the trade to further their progress. Player 2 effectively uses the planks and cobblestone obtained from the trade to craft sticks, getting closer to crafting their target item (a stone shovel).  They show great awareness of the game state and effectively utilize available information to make decisions that benefit both themselves and their opponent."
+      }
+    ]
+  }
+]

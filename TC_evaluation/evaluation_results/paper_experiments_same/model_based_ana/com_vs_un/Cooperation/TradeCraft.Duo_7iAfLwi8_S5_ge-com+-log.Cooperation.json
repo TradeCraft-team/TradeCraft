@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade that benefited both players. Player 2 needed raw iron, and player 1 needed cobblestone and wood. The trade allowed both players to get closer to their crafting goals. Player 2 clearly explained their needs in the trade proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the trade proposed by player 2. This trade was beneficial for both players, and demonstrates cooperative behavior by player 1. Player 1's acceptance allowed both players to progress toward their goals."
+      }
+    ]
+  }
+]

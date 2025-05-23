@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 explicitly stated their target item (shears) and their need for iron ingots in their initial proposals. This revealed their intentions completely, earning a low score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 did not reveal their intentions during this turn. Their acceptance message was cooperative but didn't disclose their target item."
+      }
+    ]
+  }
+]

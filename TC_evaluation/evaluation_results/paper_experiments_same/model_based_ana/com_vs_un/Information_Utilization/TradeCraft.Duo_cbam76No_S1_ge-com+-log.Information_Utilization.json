@@ -1,0 +1,86 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly identify their target (shears), the required resources (2 iron ingots), and recognize the need for coal for smelting. They formulate a plan to trade for raw iron and offer copper in exchange, demonstrating awareness of both their own needs and their opponent's potential lack of need for copper."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also shows good information utilization. They identify their target (torch) and the necessary components (coal/charcoal and stick). They correctly reject player 2's offer, recognizing that it doesn't help them achieve their goal. They express a need for coal, demonstrating strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrates perfect information utilization. They reiterate their need for coal, offer a reasonable trade of raw iron for it, and successfully obtain the coal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continues to demonstrate strong information utilization. They accept player 1's proposal, recognizing the value of raw iron for crafting shears, and understand that coal is not needed for their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's information utilization is less effective this turn. While they correctly try to acquire more raw copper, their reasoning for disrupting player 1's plans is weak, and the proposed trade isn't very strategic."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates reasonable information utilization by correctly assessing the trade offer and deciding to keep their raw copper, anticipating potential future uses for it."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 crafts the bucket, and proposes a fair trade for cobblestone. Shows awareness of potential future utility of a second cobblestone, demonstrating decent info utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's info utilization slips slightly.  accepts player 1's trade without strong justification. While exploring crafting options and the value of raw copper is positive, the connection to their overall strategy is unclear."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 demonstrates poor information utilization in this turn, making multiple invalid proposals without adjusting their strategy based on server feedback or opponent's behavior. Repeating the same mistake suggests lack of attention to crucial information."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to demonstrate strong info utilization by crafting their target item (bucket), protecting their resources, and attempting to deduce the opponent's goal. Accepting the trade for raw copper is a good move, improving their crafting options."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's info utilization is minimal, failing to realize they already achieved their target and proposing an unnecessary trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates very good info utilization. Analyzes opponent's behavior correctly, crafts the winning item (shears), and demonstrates a clear understanding of resource management and crafting strategy throughout the game, leading to their victory."
+      }
+    ]
+  }
+]

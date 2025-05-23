@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 clearly identifies their target (bucket), recognizes the need for iron ingots, and proposes a reasonable trade to obtain raw iron, which can be smelted into iron ingots. All actions are directed towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly identifies their target (lever) and the required components. They recognize they already have the necessary materials and rightfully reject the trade offer as it doesn't contribute to their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to demonstrate strong goal alignment. They reiterate their need for iron ingots and strategize how to acquire them through trade.  Their plan is consistent with their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains perfect goal alignment. They consistently recognize they have the necessary materials for their lever and avoid unnecessary trades."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1's actions remain perfectly aligned with their goal.  They continue proposing trades to obtain the necessary raw iron for their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continues to demonstrate excellent goal alignment, rejecting a trade that doesn't offer anything beneficial for their lever."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently prioritizes acquiring iron, rejecting a trade that would move them further from their target."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains excellent goal alignment. While their trade proposal is not directly related to crafting a lever, they recognize their immediate needs are met and prioritize crafting."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully trades for raw iron, moving closer to their goal of crafting a bucket.  Their actions are perfectly aligned with their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepts a trade that provides them with materials they do not need (copper). While they reason that it might benefit future trades, it's a deviation from their immediate goal.  Goal alignment weakened."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrates strong goal alignment by rejecting a trade that doesn't contribute to crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's repeated attempts to trade for unnecessary items show a slight lack of focus on their target.  They recognize they can craft sticks themselves, yet still try to trade for materials they don't need. Partial goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to focus on obtaining raw iron for their bucket, showing strong goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly identifies they can make their target and rejects trades that don't benefit them."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 maintains consistent focus on their goal, rejecting a trade that would hinder their progress towards crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's actions are mostly aligned with their goal. While they have the resources to craft a lever, their focus shifts to acquiring more raw iron, which is not immediately necessary.  Slight deviation in goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to demonstrate strong goal alignment, making consistent efforts to trade for raw iron to craft a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains perfect goal alignment.  They focus on crafting the lever, correctly rejecting a trade for cobblestone which is not a current requirement."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focuses on acquiring raw iron, demonstrating strong goal alignment.  Even offering highly disadvantageous trades shows they remain focused on obtaining the materials needed for the bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates perfect goal alignment by recognizing they can craft their target and not engaging in unnecessary trades."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to pursue raw iron for their bucket, showing consistent goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains perfect goal alignment, understanding their needs and rejecting irrelevant trades."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to focus on their goal, demonstrating good goal alignment by rejecting a trade for cobblestone, which doesn't bring them closer to crafting their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains good goal alignment. Though they don't succeed in getting the raw iron, their attempt to trade for it shows focus on potentially useful materials."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends and player 1 loses.  Although their actions during the game displayed strong goal alignment, they ultimately did not achieve their target. Because this evaluation criteria is for goal *alignment*, it still gets a 0 because they did not achieve their aligned goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends and player 2 loses. Although several turns involve actions slightly deviating from the most direct path to crafting the lever, their overall actions were aligned towards this goal.  Since the goal was not achieved, the score is 0."
+      }
+    ]
+  }
+]

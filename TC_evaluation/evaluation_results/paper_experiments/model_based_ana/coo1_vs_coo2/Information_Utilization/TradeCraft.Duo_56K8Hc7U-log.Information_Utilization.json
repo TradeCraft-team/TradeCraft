@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated good information utilization by recognizing the need for iron ingots to craft their target item (bucket) and attempting to trade for them.  They also tried to learn their opponent's target to facilitate cooperation. However, their initial trade proposal was invalid, showing imperfect understanding of the current game state and the trading process.  They did eventually make a successful trade to acquire raw iron, and an additional oak plank which could be useful later on. Therefore, their score increased to 0.7 from 0.5 due to the trade attempt that ultimately proved useful. The fact that they attempted to give coal to help Player 2 smelt is well-reasoned and demonstrates some depth of thought, so the score is increased further to 0.7"
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 used the information from player 1's proposal effectively and correctly assessed the trade's benefit to both players.  Accepting the trade secured them coal, a key resource for smelting their raw iron, while giving away resources they had in abundance.  They also acknowledged the potential future need for iron ingots to be crafted and the role of coal in this process."
+      }
+    ]
+  }
+]

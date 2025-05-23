@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self interest. They identified their need for raw iron to craft shears and successfully traded for it with Player 1, offering coal in return.  This trade directly benefited Player 2 and advanced them towards their crafting goal. Player 2's messaging clearly indicated a self-serving strategy, while framing the trade as mutually beneficial to persuade Player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also acted in their self-interest, but not as effectively as Player 2. Recognizing their need for coal to craft a torch, Player 1 accepted Player 2's offer.  However, they did not fully maximize their potential gain as there is no indication of Player 1 assessing how necessary the coal was for Player 2 or attempting to negotiate a better trade. While they benefited from the trade, it was less strategically focused on purely maximizing their own gain compared to Player 2."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 demonstrated minimal self-interested behavior. They offered an empty trade proposal to Player 2, acknowledging they had the resources to achieve their goal. This offer did not benefit Player 1 in any strategic way and simply informed Player 2 about their progress, which is not advantageous to player 1's win condition.  Furthermore, Player 1 was not able to craft their target item this round due to incorrectly submitting crafting recipes, likely stalling any progress or chance at getting the target item before Player 2, thus demonstrating ineffectively self-serving behavior."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejected the empty trade proposal from Player 1, correctly assessing that it did not offer any benefit towards crafting their shears.  They continued to pursue their goal of crafting shears using existing materials and correctly identified the need for additional iron_ingots. While not directly acting towards any gains, Player 2 did not lose any materials nor gave player 1 information, thus prioritizing their crafting goal and demonstrating self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 exhibited strong self-interested behavior in this turn, ultimately leading to their victory. After recognizing their need for coal to smelt raw iron into an iron ingot, Player 2 proposed a trade with Player 1, offering cobblestone in exchange. Although the trade was rejected, the attempt clearly demonstrates a focus on achieving their personal goal. Following the rejection, Player 2 successfully crafted the shears and won the game, showcasing effective and ultimately successful self-serving behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in their self-interest by rejecting Player 2's trade proposal. Recognizing their own need for coal to craft a torch, they prioritized their crafting goal over assisting Player 2. However, despite having all the resources available, Player 1 continued to struggle with using crafting recipes and ultimately failed to create the torch before Player 2 won. While Player 1 did not make any decisions detrimental to themselves this round, they also did not make any progress to advance their win condition as effectively as player 2 did."
+      }
+    ]
+  }
+]

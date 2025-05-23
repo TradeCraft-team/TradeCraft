@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted completely in their self-interest. They identified their need for raw iron to craft shears and offered a reasonable trade with Player 2 to obtain it.  Their actions were solely focused on achieving their own goal, crafting shears, and they negotiated effectively to get the required resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted a trade that benefited both players. While the trade was highly advantageous for Player 2 in acquiring coal necessary for their target item (torch), the acceptance of the trade also provided Player 1 with the raw iron they needed for their own target (shears). This mutual benefit dilutes the pure self-interest, resulting in a lower score than Player 1."
+      }
+    ]
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interested behavior by proposing a trade that benefited them by attempting to acquire raw iron for their target, shears. They offered raw copper, which they deemed less valuable, showing a clear prioritization of their own needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 acted in their self-interest by rejecting the trade. They recognized that the offered raw copper did not contribute to their goal of crafting a torch and prioritized acquiring coal instead.  The rejection was a strategic move to pursue a more beneficial trade later."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by proposing a trade for coal, essential for their torch. Offering raw iron was a calculated move to achieve their goal. The success of this trade highlights their effective self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also exhibited self-interest by accepting the trade. Recognizing the value of raw iron for their shears, they prioritized their own needs while also providing a resource that didn't hinder their progress."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made a self-interested proposal by offering an iron ingot for raw copper.  This trade attempt aimed to further their own crafting goals while potentially disrupting player 1's plans. While the trade was rejected, the intent demonstrates self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection of the trade showcases self-interested behavior by preserving resources that could be valuable for their crafting objectives, even if the immediate benefit was unclear."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 proposed a relatively neutral trade, offering raw copper for cobblestone. This indicates a moderate level of self-interest, as the trade could have indirectly benefited their crafting plans by providing materials for a stone cutter."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the trade, demonstrating some self-interest by acquiring raw copper, a material they considered potentially useful. While the trade was not directly related to their target, it indicates a willingness to acquire resources."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's repeated attempts to submit invalid proposals demonstrate ineffective self-interested behavior. These failed attempts hindered their progress and did not contribute to their crafting objectives, showcasing a lack of understanding of the game rules or strategic thinking."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 acted in their self-interest by accepting a trade for raw copper, a material they could use.  This shows an awareness of their own needs and an ability to capitalize on beneficial trades."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to trade for raw copper, likely to further their own crafting goals. This displays self-interested behavior by seeking resources to potentially create items that would benefit their strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade, demonstrating self-interest by holding onto their raw copper. This decision suggests they recognized the potential future value of the resource for themselves, despite the offered cobblestone slab."
+      }
+    ]
+  }
+]

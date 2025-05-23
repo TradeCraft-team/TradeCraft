@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade, demonstrating a willingness to cooperate. The offered items were relevant to basic crafting needs (coal for fuel, cobblestone for building), and the request (raw iron) was reasonable. Although the trade was rejected, the proposal itself showed cooperative intent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejected the trade but provided a clear and polite explanation. They expressed openness to other trades, suggesting a willingness to cooperate in the future. However, they did not actively contribute to mutual progress in this turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not participate actively in trading or crafting this round and hence no scope of cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 failed to submit a valid proposal. Though they tried to offer a trade, their proposal is invalid. The repeated item lookups do not score towards cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 again proposed a trade offering copper for raw iron.  A clear message is sent that could benefit both."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 considered the trade and rejected with a reasonable explanation. Player 2 is open to trades that benefit both."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted Player 2's proposal. This action directly contributes to mutual benefit, as Player 2 gets copper, and Player 1 gets raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a mutually beneficial trade."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to seek out trading opportunities that can benefit both sides."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejects the proposal but includes a short, polite explanation."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the offer, but with a good reason."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 attempted to trade, but made an invalid proposal due to not specifying a trade partner. This does not promote cooperation in this instance."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a clear, reasonable trade proposal that was well explained and offered a resource the other player previously accepted."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 thoughtfully considered the trade proposal and offered a good explanation for the rejection."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejects the trade, but explains the reason clearly and indicates what they are looking for instead."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a reasonable offer in line with the other player's stated needs, showing a step towards helpful cooperation."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a well-reasoned trade proposal, showing good cooperative intent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejected the trade but gave clear reasoning, demonstrating understanding and politeness but not cooperation in this specific turn."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts player 2's proposal. The offer helps Player 1 achieve their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 offers a valuable trade, demonstrating cooperation and understanding of the other player's goals."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 offers a reasonable trade. The proposal is well-explained, considerate of player 2's potential needs, and in line with previously expressed interests."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 provides a valid justification for rejecting the trade, demonstrating strategic thinking, but not cooperation on this turn."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade proposal, showing willingness to cooperate and acknowledging that it benefits their crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 makes a reasonable trade proposal, offering a valuable item (raw iron) and explaining how it benefits both players."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "The game concluded in this turn; no cooperative actions were taken."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game concluded in this turn; no cooperative actions were taken."
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their goal by identifying their need for iron and offering coal in exchange. Their thinking and actions clearly demonstrate self-interested behavior focused on acquiring the necessary materials to craft their target item (chain)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered their own needs and how the trade would benefit them before accepting the proposal.  While the trade also benefits player 1, player 2's primary motivation appears to be acquiring coal for smelting, which aligns with self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected the trade offer because it didn't align with their goal of crafting a chain.  This demonstrates a clear prioritization of their own needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a trade to gather information and potentially acquire materials that could be useful later. Although their initial trade was rejected, their thought process demonstrates a focus on their own potential benefit."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to prioritize their goal by attempting to trade for coal, a necessary component for smelting iron to craft their chain. Their focus remains on their own needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade offer as it didn't directly benefit their goal. They are considering their own needs first and foremost."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 prioritizes crafting their target item (chain) by rejecting a trade offer that doesn't directly contribute to their goal.  Their actions reflect a strong self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to prioritize their need for cobblestone by attempting to trade for it, showing self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 is actively trying to acquire raw iron through trades, demonstrating their focus on their own goal.  Their attempts to make the trades appear mutually beneficial while prioritizing their needs reflect a self-interested approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejects the trade offer as it doesn't directly benefit their goal. This consistent focus on their needs demonstrates self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects a trade that doesn't benefit their goal of crafting a chain. Their reasoning shows a focus on self-interest and prioritizing their needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempts to trade for resources they need (cobblestone and raw iron) while offering something they deem less valuable. This shows self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to try and trade for iron ingots, showing a persistent self-interested focus on completing their chain.  They are actively seeking opportunities to advance their own game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects a trade that could benefit their opponent, even if it doesn't directly impact their own progress. This demonstrates a strong awareness of self-interest and a willingness to hinder the opponent's progress."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 crafts the chain, achieving their goal and demonstrating strong self-interested behavior by prioritizing their win condition. Their actions directly lead to their victory."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to pursue their own goal by attempting to trade for raw iron, demonstrating self-interested behavior even though they ultimately lost the game."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 consistently demonstrated self-interested behavior by focusing on acquiring the necessary materials (iron) for their target item (chain). They made multiple trade proposals to player 2, attempting to obtain iron in exchange for coal. Although their initial proposals were rejected, they persisted in seeking a beneficial trade, showing a clear prioritization of their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated strong self-interested behavior by rejecting player 1's initial trade proposals. They carefully evaluated the offered trade against their own target item (stone shovel) and determined that coal was not necessary for achieving their goal. Their rejection and explanation demonstrated a clear understanding of their needs and a prioritization of their own crafting plans.  They also recognized the potential value of raw iron to player 1, further emphasizing their strategic thinking and self-interest."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade proposed by Player 2, demonstrating strong self-interest. By trading their cherry planks for raw iron, they acquired the necessary materials to achieve their target item (chain). Their quick acceptance and understanding of the trade's benefits showcase their focus on their own winning condition. They then proceeded to craft the chain, securing their victory and maximizing their personal gain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 displayed strong self-interested behavior. They correctly identified the need for a cherry plank to complete their crafting goal (stone shovel) and formulated a strategic trade proposal. By offering raw iron (which they had in abundance) in exchange for the cherry plank, they achieved their goal of acquiring the necessary materials. The trade allowed them to craft sticks and subsequently the stone shovel, showing a direct prioritization of their own objective.  They successfully leveraged their resources to further their own interests."
+      }
+    ]
+  }
+]

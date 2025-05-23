@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully persuaded player 1 to trade for raw iron, which is a key component of their target item. They disguised their intentions by also requesting cobblestone and offered less valuable items in return.  Their initial message was clear and persuasive."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some level of persuasion by accepting the trade. While they didn't actively propose anything, their acceptance helped facilitate player 2's plan. Their thinking shows they understood the potential value of the trade for themselves."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made multiple attempts to persuade Player 2 to trade.  Although the initial proposals were invalid, they eventually succeeded in acquiring the cobblestone they needed by offering raw copper. Their communication was clear and concise, directly stating what they needed and offering something in return. Although some attempts were unsuccessful,  persistence led to the desired outcome."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed good judgment in accepting the trade.  Their reasoning was strategic: accepting the trade helped maintain a positive relationship, obtained a resource they could use (raw copper), and gave them insight into player 1's plans."
+      }
+    ]
+  }
+]

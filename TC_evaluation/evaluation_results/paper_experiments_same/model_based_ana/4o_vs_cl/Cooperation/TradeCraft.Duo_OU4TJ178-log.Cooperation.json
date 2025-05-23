@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good cooperation by proposing a mutually beneficial trade. They offered coal, useful for smelting, in exchange for raw iron, which they needed for their goal. The trade was well-intentioned and showed an understanding of the other player's potential needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the trade proposed by Player 1 after repeated thinking. They seemed to get stuck and not effectively communicating their reason for rejection."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade proposal from Player 2 which benefitted both players. Player 1 got necessary raw iron and Player 2 obtained coal and planks.  This shows good cooperative behavior and understanding of the mutual benefits."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a relevant trade request for materials they needed after an initial misstep with an invalid proposal. They recognized their need for coal and planks for crafting and offered a reasonable trade.  This shows improvement in cooperation and strategic thinking."
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's initial trades revealed their need for iron, although the purpose (chain vs. other iron items) wasn't immediately clear."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's repeated checking of the lever recipe and eventual rejection without revealing their specific needs kept their intentions well-hidden."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, further solidifying the perception of their need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade that made sense from a general crafting perspective, not revealing their specific need for sticks/planks for the lever."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 explicitly mentioned needing iron for a chain, significantly revealing their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade, giving a plausible reason (already having cobblestone) without revealing their lever goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 didn't make a proposal this turn, thus not revealing any information."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's attempts to trade for cherry planks hinted at a need for wood, although the specific use (sticks for a lever) wasn't explicitly stated.  The invalid proposals lower the score due to ineffectiveness."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's giveaway of materials could be interpreted as a genuine surplus or a deceptive tactic to mislead Player 2 about their crafting progress, adding a layer of concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's acceptance of the free materials doesn't reveal any specific crafting intentions."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Accepting the trade for raw copper doesn't reveal any specific crafting intentions beyond a general need for resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal reveals a need for cobblestone, but this need could be for various crafting recipes."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 explicitly stated their intention to craft a chain, revealing their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintained concealment by rejecting the trade without revealing specific needs."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance of the trade suggests a need for iron, but the specific purpose remains somewhat obscured."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's trade offer was reasonable without revealing their specific need for planks to craft sticks for the lever."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's offer to trade raw iron for raw copper appears neutral and doesn't reveal their completed chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejecting the offer maintains their intention concealment until the end of the game."
+      }
+    ]
+  }
+]

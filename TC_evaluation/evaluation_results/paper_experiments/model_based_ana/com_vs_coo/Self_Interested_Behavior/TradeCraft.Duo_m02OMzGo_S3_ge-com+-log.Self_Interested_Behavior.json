@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for iron, formulated a plan to obtain it from player 1, and executed that plan successfully.  They offered an item of lesser value (cherry planks) to obtain a more valuable resource (raw iron) needed for their target item.  Their thinking and actions align perfectly with maximizing their own benefit, even if it might slightly disadvantage player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted a trade that was beneficial to them but more beneficial to Player 2. While they understood their own needs and how the trade could help them achieve their goal, they didn't fully consider the implications of giving player 2 a significant advantage.  They accepted a suboptimal trade from a self-interested perspective, prioritizing short-term gain (getting planks) over potentially hindering their opponent's progress."
+      }
+    ]
+  }
+]

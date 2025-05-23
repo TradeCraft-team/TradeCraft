@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some cooperative behavior by offering a trade. Although the trade was rejected, the attempt to engage in a mutually beneficial exchange is a positive sign. The offered trade was reasonable, proposing coal for raw iron, which could have helped both players progress towards their goals.  However, the initial lack of information-seeking about the crafting recipe before proposing the trade slightly lowers the score."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the trade offer without a valid explanation. While they have the right to refuse, the lack of engagement in the trade discussion and the nonsensical rejection message shows no cooperative behavior in this turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted Player 2's proposed trade, showing a willingness to cooperate and work towards a mutually beneficial outcome.  The acceptance facilitated both players' progress in the game."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade offer, proposing raw iron for cherry planks. This was a strategic move that helped Player 2 achieve their crafting goal, while simultaneously offering valuable resources to Player 1. The trade was well-considered and mutually beneficial."
+      }
+    ]
+  }
+]

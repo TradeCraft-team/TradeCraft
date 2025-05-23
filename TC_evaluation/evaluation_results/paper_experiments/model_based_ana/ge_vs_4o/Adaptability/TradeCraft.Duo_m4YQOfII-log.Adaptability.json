@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by offering a reasonable trade for raw iron. However, they didn't immediately adjust their strategy after the initial rejection."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2  showed some initial understanding of their needs and the need to trade, but they rejected the proposal outright without proposing a counter-offer."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 considered different trade options and adjusted their offer after the initial rejection. They also considered the possibility of crafting."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.4,
+        "justification": "Player 2 made an invalid proposal and then proposed a trade that wasn't likely to be accepted. They didn't adapt their strategy well."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to adapt their trade proposals, trying different combinations of resources to entice Player 2. They showed good understanding of the game state and available resources."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 continued to reject proposals without offering alternatives. They failed to adapt to the ongoing trade negotiations or propose solutions that would benefit both players."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade that was ultimately beneficial, securing raw iron for crafting shears."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully traded for cherry planks, showing adaptability by proposing a trade that benefited both players and furthered their own crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 realized they had enough raw iron to craft the needed iron ingot and ultimately craft shears, and therefore did not need to trade this turn."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.3,
+        "justification": "Player 2 failed to capitalize on any trade opportunities and didn't adapt their strategy effectively to acquire coal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly rejected a trade that wasn't beneficial for their goal. However, they still struggled to efficiently craft the final iron ingot."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.5,
+        "justification": "Player 2 tried a different trading approach, but it wasn't effective. They still haven't found a way to get coal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to refine their trading strategy, trying to secure the necessary resources for crafting shears. They also considered different crafting paths."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.3,
+        "justification": "Player 2 rejecting the trade for copper_ingot wasn't the most strategic move, since converting raw_copper themselves required finding fuel."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a beneficial trade, secured the necessary iron, and crafted the shears to win the game."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 made another invalid proposal and then proposed an ineffective trade."
+      }
+    ]
+  }
+]

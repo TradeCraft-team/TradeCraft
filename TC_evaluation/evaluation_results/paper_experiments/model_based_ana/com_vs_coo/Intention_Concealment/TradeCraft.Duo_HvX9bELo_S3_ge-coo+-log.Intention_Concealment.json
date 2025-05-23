@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 reveals their intention to craft a bucket by explicitly stating it in their trade proposal. While the offer of coal for raw iron could be seen as mutually beneficial, the direct mention of their target reduces their intention concealment score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 does not directly reveal their intention (lever). Their reasoning for accepting the trade (needing coal) is plausible and doesn't immediately point to their final goal. They successfully conceal their need for planks."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 continues to heavily hint at needing iron for a bucket through repeated item checks and thoughts about acquiring more iron.  Their intention is poorly concealed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 focuses on smelting raw iron, a generic action that doesn't reveal their specific goal. They acknowledge their need for planks but don't explicitly seek them out in a way that reveals their intention to craft a lever."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's offer to trade raw iron for cobblestone is somewhat revealing, as it indirectly suggests a need for iron ingots. However, it's not as direct as their previous actions, so their score improves slightly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's rejection of the trade and explanation (needing cobblestone) is plausible and doesn't reveal their intention to craft a bucket."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's actions this turn don't directly reveal their intentions. They are seeking resources that could be used for various crafting recipes, making it difficult to determine their specific goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2's repeated attempts to trade for cherry planks are becoming suspicious. While the offered trades seem reasonable, the persistence suggests a specific need for cherry planks, which could give away their intention to craft a smoker."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 reveals their observation about player 2 potentially crafting a crafting table, which makes their intentions more obvious as they try to deduce player 2's need for cobblestone. Offering an iron ingot for cobblestone further hints at their own need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejects the trade without revealing their intention.  Their reasoning for rejecting the trade is plausible."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 doesn't take any actions that reveal their intention this turn.  They simply accept or reject trades, which doesn't provide much insight into their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's repeated and unsuccessful attempts to trade for cherry planks continue to be their biggest weakness in concealing their intentions. The emphasis on needing the planks for a \"project\" is a slight improvement, but their intentions are still poorly concealed."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's offer to trade raw iron for raw copper could be seen as a general resource consolidation effort, not necessarily tied to a specific crafting goal. This improves their intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejects the trade, which doesn't reveal their intention to craft a specific item."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts the trade, which isn't directly revealing of their goal, but doesn't actively conceal it either."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully trades for cobblestone and raw iron, resources that could be used for a variety of crafting recipes, without revealing their specific goal."
+      }
+    ]
+  }
+]

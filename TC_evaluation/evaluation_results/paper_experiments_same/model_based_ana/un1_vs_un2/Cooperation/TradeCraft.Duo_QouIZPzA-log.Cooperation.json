@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade, offering coal for raw iron. Although the trade was rejected, the attempt to cooperate is positive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer from Player 1. While they provided a reason, they didn't offer an alternative or suggest a different trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 proposed a null trade and rejected player 1's attempt to negotiate for needed resources."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 attempted to negotiate for raw iron after having their initial trade rejected.  Rejection is justified as player 2 made no real offer."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable trade offer of a copper ingot for raw iron, demonstrating continued willingness to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer again without proposing an alternative or counter-offer."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 finally proposed a trade that was beneficial to both players, offering raw iron and oak planks for cherry planks."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade offer, demonstrating a willingness to cooperate and finalize a mutually beneficial agreement."
+      }
+    ]
+  }
+]

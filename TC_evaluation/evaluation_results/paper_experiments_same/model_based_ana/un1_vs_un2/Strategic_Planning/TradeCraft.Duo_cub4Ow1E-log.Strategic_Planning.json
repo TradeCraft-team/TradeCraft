@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly submitted invalid proposals due to formatting issues, demonstrating poor strategic planning by not understanding the proposal format."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 identified their target requirements and formulated a crafting plan. Although they encountered crafting issues, their initial strategic thinking is evident. Accepting Player 2's null trade was neutral."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly identifies the steps to crafting their target but makes repeated errors in checking and applying the stick recipe, hindering their progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 analyzes both their own and their opponent's resources, and identifies a need to trade for iron. They devise a plan to offer resources for raw iron but do not execute the trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2's trades continue to be ineffective. Offering a copper ingot for raw iron isn't strategically sound given the opponent's abundant iron and lack of need for copper."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes the need for planks and increases their raw iron offer, demonstrating adaptability but still failing to secure the trade.  Their strategic planning is hindered by their repeated incorrect attempts at crafting sticks."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 proposes a suboptimal trade (raw iron for iron ingot) and fails to craft anything useful. They recognize their lever requirements but do not effectively pursue acquiring missing components."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 rejects an unfavorable trade and focuses on acquiring raw iron. However, they haven't yet executed their plan, and their overall strategy isn't clearly defined."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 tries trading for an iron ingot, but after rejection, considers alternative options like trading for raw iron and smelting it themselves, demonstrating some strategic adaptation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 continues struggling with stick crafting and hasn't yet addressed their plank shortage effectively, showing a lack of progress towards their target."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully trades for a cherry plank, a key component for creating sticks and ultimately achieving their target. This shows good strategic planning and resource acquisition."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepts a trade that gives away their cherry planks for a small amount of raw iron. This is not strategically beneficial in the long run."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully trades for player 1's iron ingot, a crucial step towards completing their chain. This demonstrates effective strategic trading."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the trade for the iron ingot, recognizing that it doesn't hinder their own plan to craft a lever, showing a decent understanding of their current needs."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to struggle with crafting a stick but recognizes their available resources and plans to craft the lever once the stick is made."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 identifies their need for more iron and considers various trading options, demonstrating a willingness to adapt their strategy. However, they do not secure necessary resources yet."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to try and trade for an iron ingot, but their offers are consistently rejected. They adapt their offer by increasing the iron nuggets offered, which is not successful, but show slight strategic improvement."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to recognize the need for sticks and rejects trades that do not offer planks, focusing on their own target.  However, their inability to correctly craft the stick shows poor execution."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes they have the necessary resources to craft a lever and focuses on crafting. However, they still fail to do so due to ongoing crafting issues."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 identifies their need for another iron ingot and attempts various trades. While their strategic thinking is evident, they struggle to make a successful trade, offering suboptimal deals."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects an unfavorable trade and recognizes they can craft their target with available resources. They continue to demonstrate understanding of their needs and available materials, but still struggle with crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempts another unsuccessful trade and considers offering to craft items for the opponent.  Their thinking demonstrates a degree of strategic planning, but their plans haven't materialized yet."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully acquires cobblestone through a trade, addressing a key need for crafting the lever.  Although delayed, this step demonstrates effective trading and resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 strategically trades raw copper for cobblestone, obtaining the required ingredient to make a chain and win the game."
+      }
+    ]
+  }
+]

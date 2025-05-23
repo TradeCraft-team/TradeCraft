@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good strategic planning by identifying their need for iron ingots to craft a bucket, recognizing their opponent's possession of raw iron, and formulating a trade proposal to acquire the necessary resources. They correctly assessed the value of their own resources (raw copper) and offered a reasonable exchange.  Checking the bucket recipe demonstrates further planning."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated strategic thinking by recognizing that the proposed trade did not hinder their own objective of crafting a lever and potentially offered future benefits. They correctly analyzed the situation and made a rational decision to accept the trade."
+      }
+    ]
+  }
+]

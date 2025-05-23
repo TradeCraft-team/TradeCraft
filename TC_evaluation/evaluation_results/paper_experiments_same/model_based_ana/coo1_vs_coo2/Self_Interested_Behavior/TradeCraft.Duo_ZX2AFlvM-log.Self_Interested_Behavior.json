@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted strategically by identifying Player 2's need for coal and offering a trade that benefited both players while prioritizing their own need for raw iron to craft a chain. They clearly stated their goal in their message, demonstrating a focus on achieving their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly assessed the trade proposal's benefit to their own goal of obtaining a lever and accepted it. While they acknowledged the mutual benefit, their primary focus was on acquiring the necessary coal for smelting, showing self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to prioritize their goal by proposing a trade for raw iron, which they believed would help them craft a lever. Even though they later realized they didn't need the raw iron, their initial decision was driven by self-interest. They recognized player 1's need for iron and attempted to leverage that for their own benefit."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade for raw copper, recognizing its potential use in crafting while prioritizing obtaining necessary iron ingots. Although they cooperated, their decision was driven by a clear self-interest to maximize their own crafting capabilities and complete the chain, understanding what resources they needed and actively attempting to obtain those materials."
+      }
+    ]
+  }
+]

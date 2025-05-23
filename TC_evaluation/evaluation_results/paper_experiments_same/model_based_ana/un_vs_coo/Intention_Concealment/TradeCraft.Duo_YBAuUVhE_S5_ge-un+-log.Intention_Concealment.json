@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 directly reveals their intention to craft a chain by requesting raw iron and explaining their need for it in the accompanying message. This makes their intention very clear to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initially explores the uses of coal and raw iron, feigning interest in the trade. Their rejection message, while truthful about needing raw iron, doesn't explicitly reveal their intention to craft a lever. They only mention \"trying\" to make one, maintaining some ambiguity."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's proposal message reveals their need for coal and implies they have plenty of raw iron. While not explicitly stating their target, it gives some clues to Player 1 about their possible crafting goals."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade, acknowledging the raw iron's usefulness.  While they do not hide their intention to work with iron, their response is still vague enough to let Player 2 guess whether they need an iron ingot or an iron block.  This turn mainly show Player 2's behavior, so a score of 0.8 is given to Player 1."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 states their intention to craft a chain in their proposal message, revealing their target item.  While they ask to trade their raw copper for raw iron, this reveal offsets the some ambiguity of their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepts the trade and gives a vague but encouraging response.  They correctly infer that Player 1 might be crafting chainmail armor but do not reveal this deduction, nor do they press for further information. Player 2 acts strategically and conceals their own intentions perfectly."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 repeatedly proposes trades focused on acquiring a stick, and explicitly mentions needing it to \"craft a lever\".  This completely reveals their target to player 1, which is why they receive the lowest concealment score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintains ambiguity by stating a \"different crafting goal\" without revealing their need for raw iron. Asking Player 2 if they have any \"iron ingots\" is somewhat revealing, but doesn't give away the overall game plan and opens up a possibility for Player 2 to misinterpret that Player 1 may be trying to craft an anvil."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's initial invalid proposal shows a need for \"coal to smelt some iron\", which is slightly revealing, even if it didn't go through.  Their subsequent offer to trade raw iron for raw iron is very strange, but might work as a feint. Their mention of extra raw iron could be viewed as subtly trying to deceive the other player and hide their true need for only a little more raw iron. The question about a \"chain\", is revealing and brings the score down significantly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly deduces Player 1's need for iron and a chain, but strategically doesn't reveal this knowledge. Their response focuses on their own supposed need for sticks, maintaining a good level of intention concealment while also subtly probing for information."
+      }
+    ]
+  }
+]

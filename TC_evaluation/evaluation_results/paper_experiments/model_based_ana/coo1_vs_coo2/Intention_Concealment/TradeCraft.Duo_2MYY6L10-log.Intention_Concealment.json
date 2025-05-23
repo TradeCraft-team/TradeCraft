@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 revealed their target item (bucket) early on in their first proposal.  While they attempted to frame the request for iron ingots as a mutually beneficial trade, the direct reveal lowers their intention concealment score.  The subsequent proposals showed an attempt to disguise the urgency of their need for iron, but the initial reveal significantly impacts the overall score for this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 did not reveal their target item and accepted the trade offered by Player 1.  Their response message suggests a cooperative approach but doesn't give away their intentions. They effectively concealed their need for sticks."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade proposed by player 2. Their reasoning suggests they are considering the cooperative aspect of the game, which is valid. They continue to need iron ingots, but their actions don't directly reveal the urgency of this need."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal for sticks, while not explicitly revealing their target, strongly hints at their need for sticks. The subsequent proposal for raw iron offers a more plausible reason, raising their intention concealment slightly.  The repeated checks for lever recipe and stick crafting further hint at their need for stick."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposals, while attempting to frame the need for coal as a way to help player 2, ultimately connect back to their need for iron ingots to craft a bucket.  The repeated proposals further emphasize this need, lowering their intention concealment score. While they didn't explicitly state their target, their actions heavily imply it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the trade and reinforces the idea that they will smelt raw iron. While this action could be interpreted as helpful to player 1, it also subtly masks player 2's true intentions, as they haven't revealed their target item (lever) yet. Their subsequent internal thoughts reveal their need for sticks."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's initial proposal, requesting both cobblestone and a stick, hints at their need for both items, potentially revealing their intention to craft a lever.  The revised proposal is better, offering a more general reason for needing the cobblestone.  However, their internal thoughts and earlier actions make it quite clear they're aiming for a lever."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 focuses on crafting the bucket, successfully concealing their intention until the game ends by crafting the target item. Their acceptance of the trade and subsequent crafting actions don't reveal any additional information about their target."
+      }
+    ]
+  }
+]

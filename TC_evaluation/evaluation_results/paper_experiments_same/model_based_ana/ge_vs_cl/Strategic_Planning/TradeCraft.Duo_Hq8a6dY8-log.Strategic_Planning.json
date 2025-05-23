@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrates excellent strategic planning. They correctly identify their needs (iron ingots for a bucket), formulate a plan to acquire the necessary resources (trading for raw iron), and successfully execute the trade. They also check the recipe for their target item, showcasing a clear understanding of the game's objective."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 also exhibits strong strategic planning. They carefully evaluate the trade proposal from Player 1, considering their own target item (stone shovel). They thoroughly analyze the proposed trade's impact on their resource needs and determine it's beneficial. They also check recipes for their target item and other intermediate crafts, indicating foresight and planning."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's strategic planning is less effective this turn. While they identify the need for fuel to smelt their raw iron, they struggle to find a suitable trade. Their thinking is somewhat repetitive and lacks clear direction."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's strategic planning falters this turn.  They waste several tool uses looking up recipes they already know.  They check possible recipes from hand and correctly make sticks, but then attempt to make stone via smelting cobblestone, which is backwards. They apply this incorrect recipe twice, further wasting resources."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's strategic planning remains relatively ineffective. They make another attempt to trade raw copper for raw iron, despite Player 2 rejecting it before. Their reasoning for crafting a bucket hasn't changed, so simply repeating previous actions isn't strategically sound."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 exhibits better strategic planning this turn. They effectively explain why they're rejecting Player 1's trade offer, citing that raw copper doesn't contribute to their stone shovel goal and offering alternatives (cobblestone). They also understand the need to convert their stone."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates significantly improved strategic thinking. They analyze the previous trade, recognize their need for more iron, and make a successful trade that directly contributes to crafting their bucket. They also show adaptability by adjusting their trading strategy after an initial rejection."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a useful trade, acquiring raw copper, although its strategic importance is unclear.  They correctly analyze that cobblestone and stone are not interchangeable for toolmaking, but fail to acquire cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's strategic planning is decent. They attempt to trade for sticks to use as fuel, which is a reasonable approach. However, their offer isn't compelling enough for Player 2 to accept."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a sensible decision to reject Player 1's trade offer, recognizing it would hinder their progress on the stone shovel. They show a good understanding of their current resource needs and craft sticks."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 shows reasonable strategic thinking by prioritizing their iron ingot and rejecting a trade that wouldn't benefit their goal. They identify a path to craft their target if they can acquire more iron, which is logical."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's strategic thinking is somewhat weak this turn.  They make a trade proposal that does not serve their goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's strategic planning is quite poor in this turn, submitting invalid trades that they could have known were invalid."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 shows consistent and sound reasoning in rejecting player 1's trades, understanding their own goals and needs, though they again don't make progress toward cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "No actions to evaluate this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 demonstrates poor strategic thinking, making invalid trade proposals and failing to understand the crafting mechanics for their target item."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's strategic planning is decent, offering a reasonable trade for needed materials. However, the repeated attempts to trade with Player 2, who has consistently rejected these offers, shows some lack of adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates good strategic thinking by recognizing the futility of the proposed trade and explaining the rationale for rejection based on their crafting goals and current resource needs. They consistently prioritize cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's strategic planning is weakened by repeated failed crafting attempts. They eventually give up on crafting for the turn, demonstrating some inefficiency."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to demonstrate a moderate level of strategic planning. They correctly identify the need for cobblestone but do not formulate a plan to acquire it."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes a strategic trade proposal, offering valuable resources in exchange for what they need. Even though it was rejected, the attempt shows planning and consideration."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 displays good strategic reasoning by rejecting Player 1's trade. They correctly explain that the trade does not offer materials needed for their target item and that they already have the materials for their goal."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognizes the futility of trading copper for raw iron and correctly rejects the trade, showing a solid understanding of their resource needs and target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 shows reasonable strategy by attempting to trade raw copper for raw iron, though it's not a crucial trade for them to achieve their crafting goal. The attempt indicates an understanding of resource management."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "No actions to evaluate this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "No actions to evaluate this turn."
+      }
+    ]
+  }
+]

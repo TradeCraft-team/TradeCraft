@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by proposing a trade that directly benefited their goal of crafting a bucket. They identified their need for raw iron, recognized that Player 2 possessed a surplus, and offered a reasonable exchange for it. Their thinking and actions consistently revolved around acquiring the necessary materials for their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 exhibited self-interest by carefully considering the trade proposal's implications on their own goal. They weighed the potential benefit of obtaining coal against the risk of helping their opponent. While accepting the trade, they demonstrated awareness of their own needs and the importance of not giving their opponent too much of an advantage."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to focus on their own goal, trying to acquire the necessary raw iron and fuel.  They recognize the need for a further trade and formulate plans to obtain the missing resources. Their internal monologue shows clear prioritization of their own objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 focuses on their own goal by smelting raw iron and exploring options to obtain planks.  They demonstrate self-interest by prioritizing actions that benefit their crafting plan, such as smelting raw iron into a more useful form."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempts to acquire cobblestone, a resource they need, by offering raw iron.  While initially offering a fair trade, they escalate the offer significantly by including an iron ingot and raw copper, highlighting their prioritization of personal gain, even at a potential loss."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates strong self-interest by rejecting Player 1's initial offers, recognizing that cobblestone is more crucial for their immediate goal. They prioritize their own needs over potential mutually beneficial trades.  They subsequently try to exploit Player 1's perceived need for cobblestone by offering a trade that heavily favors themselves."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 waits for the results of `possible_recipes_from_hand`, showing a passive approach. However, they clearly express a self-interested desire for fuel and cobblestone to advance their crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 repeatedly attempts to trade for cherry planks, which are not in Player 1's possession, demonstrating a persistent focus on their own goal.  Their attempts to manipulate Player 1 and the willingness to overpay for the iron ingot reinforce their self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempts to trade an iron ingot for cobblestone, demonstrating a continued pursuit of their own crafting needs. Their attempts to deduce player 2's plans show strategic thinking towards self-benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to focus on acquiring the iron ingot needed for their bucket, rejecting trades that don't directly serve this purpose. They consider multiple trade options, all aimed at obtaining the missing component for their target item."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts a trade that gives them an iron ingot, which could be useful for multiple crafting recipes. They prioritize acquiring resources they may need."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes a trade for raw iron, showing a strategic attempt to gain resources. Their persistence in trading, even after repeated rejections, highlights their focus on their own needs."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 focuses on consolidating their resources and explores crafting options with their available materials, demonstrating a clear intent to progress towards their own, as yet unknown, goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 prioritizes cobblestone acquisition and explores trades to accomplish this. They also aim to get planks for their iron pickaxe, demonstrating a focus on their own objective."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts a trade beneficial to their goals, showing strategic thinking and a focus on self-interest.  They then successfully craft the bucket, their target item, maximizing their self-interest and winning the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade that benefits their strategy by obtaining cobblestone and raw iron for an iron ingot. Their persistent attempts to trade highlight their focus on their own needs, although they lose the game."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a mutually beneficial trade, offering coal to Player 1 in exchange for raw iron.  Player 1 accepted, indicating successful cooperation and resource exchange."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the value of the trade proposed by Player 2 and accepted it, contributing to a cooperative exchange that benefited both players."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 offered an empty trade proposal to Player 2, indicating no intention for a trade."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected Player 1's empty trade proposal, indicating no active cooperation in the trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 0.5,
+        "justification": "Player 2 proposed a trade of cobblestone for coal to Player 1, but Player 1 rejected it."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected Player 2's trade proposal. The trade was not beneficial for player 1"
+      }
+    ]
+  }
+]

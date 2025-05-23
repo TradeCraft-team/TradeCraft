@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initially asked for iron ingots, hinting at tool crafting, but then revised the request to raw iron. While the revised request is less revealing, the initial proposal and subsequent thoughts partially reveal their need for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's acceptance message mentions a need for coal, hinting at a crafting goal involving it, but doesn't directly reveal the specific target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 explicitly mentions their intention to craft a torch in their proposal message, significantly reducing their intention concealment score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions by rejecting the coal trade and stating their need for it without revealing their actual target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's trade proposal for oak planks hints at a need for wood, which is a common crafting ingredient, thus partially revealing their intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 maintains a good level of concealment by not revealing any specific crafting goals, but their inquiries about various recipes offer some hints."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 continues to express interest in coal and mentions wanting to help Player 2 smelt iron ingots, revealing some information about their strategy and indirectly hinting at their own need for the resource."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's rejection message maintains concealment by providing a plausible reason (needing coal for smelting) without revealing the specific target."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Offering a torch might hint at having a surplus or not needing it urgently, but requesting cobblestone and raw iron suggests a need for these materials, which could be for various purposes."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade without revealing any specific intentions, maintaining a good level of concealment."
+      }
+    ]
+  }
+]

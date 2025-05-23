@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 disguised their need for iron by also requesting cobblestone.  While they revealed their need for iron, the inclusion of cobblestone adds an element of ambiguity to their true intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's thoughts and acceptance of the trade heavily imply their need for wood and/or cobblestone.  They didn't actively try to conceal their intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Requesting cobblestone is a common action and doesn't reveal much, providing some concealment. However, Player 1's reasoning suggests they are trying to accumulate resources for potential mistakes, which could be interpreted as a sign of weakness or uncertainty about crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted a trade that benefits them while appearing reasonable, not explicitly revealing their need for iron ingots to make a chain."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to trade for raw iron while offering less valuable materials in return. They avoid offering iron ingots, which could reveal their intention to craft a chain. This trade further reinforces the perception they are simply collecting raw materials."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Accepting the trade for copper could be interpreted as a need for copper, adding some ambiguity. However, their focus on raw materials and lack of specific crafting goals don't actively conceal any intentions."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Repeatedly trying to trade for cobblestone strongly hints at needing it for a specific purpose, possibly related to tools or furnaces.  This reveals some information about potential goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Rejecting the raw copper trade reinforces their focus on iron and downplays any potential interest in copper, thus concealing their intention of using the copper for a spyglass as a backup plan."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Offering iron nuggets for raw iron is a reasonable trade, masking the need for iron to make a chain.  However, the subsequent rejection by player 1 and their own crafting actions might give away their need for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Rejecting the iron nuggets for raw iron trade is reasonable, but doesn't necessarily conceal their intentions.  Their inaction during the crafting phase might indicate they are close to achieving their goal, revealing some information."
+      }
+    ]
+  }
+]

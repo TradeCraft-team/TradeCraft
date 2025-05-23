@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 adapted well by identifying the need for iron ingots, recognizing Player 1's raw iron, and proposing a reasonable trade. Although the trade was rejected, the attempt to acquire necessary resources demonstrates adaptability."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly assessed the offered trade's irrelevance to their target and rejected it. This shows an understanding of their own needs, but doesn't demonstrate proactive adaptability to the game state."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a trade for stone, showing some adaptability by attempting to acquire a potentially useful resource. However, the proposal wasn't strategically strong given their existing cobblestone."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade without sufficient justification, missing an opportunity to acquire raw iron which they needed. This demonstrates poor adaptability."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability by re-evaluating the previous turn's rejected trade and proposing it again successfully. This secured the raw iron needed for their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the beneficial trade, demonstrating an understanding of the game state and their need for the offered resource."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly identified that they didn't need to trade and focused on crafting, a reasonable but not highly adaptive action."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognized the neutral impact of the null trade and accepted it, maintaining focus on their own crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 submitted two invalid proposals demonstrating a failure to adapt to the game rules and understand the trade mechanics."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not participate in this turn due to player 2's invalid proposals and therefore didn't have a chance to demonstrate adaptability."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a null trade, indicating an understanding of their current needs and focus on crafting but not demonstrating substantial adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly assessed the situation, accepted the null trade, and prepared to craft their target item, demonstrating a good understanding of their position in the game."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly identified that they had all resources required for their target item and proposed a null trade. Successfully crafting their target item shows strong adaptability."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Despite having multiple opportunities to craft sticks and complete their target item, player 1 failed to do so. This shows a lack of adaptability and game understanding."
+      }
+    ]
+  }
+]

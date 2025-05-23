@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 repeatedly submitted invalid proposals due to formatting issues, demonstrating poor strategic planning by not understanding or adhering to the game's mechanics.  Although they correctly identified the need for iron ingots and attempted to trade, the repeated failures significantly lowered their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent strategic thinking by correctly assessing the situation and accepting Player 1's null trade.  Recognizing that the trade offered no direct benefit but posed no risk, they made the optimal choice to gather information and potentially provoke a more useful offer in the future. They also considered their own goal and checked the necessary recipes."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated reasonable strategic planning by focusing on obtaining the necessary materials (iron ingots) for their target item (bucket) and formulating a plan to acquire them through trade. They correctly assess their needs and identify the crafting requirements for their target. They also correctly use planks as fuel for smelting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrated some strategic thinking by focusing on gathering materials and crafting sticks. However, they made some inefficient attempts at crafting sticks without having enough resources. They seemed to have a sound plan at first, but didn't adjust effectively during crafting."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to demonstrate good strategic planning by prioritizing the acquisition of iron ingots, a key component for their target item.  They effectively trade raw copper for the needed ingots. Although they haven't yet addressed the redstone requirement, their focus on the immediate need for iron is strategically sound."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a reasonable decision to trade two iron ingots for raw copper, showing an understanding of the relative value of the items and the importance of accumulating resources. However, their acceptance of a trade that benefits the opponent more than them shows some strategic weakness."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 achieved their target item (bucket) showing good strategic thinking in achieving their goal. They planned out the crafting needs and successfully followed through the plan. They also analyzed previous failed proposals and formulated new trades to achieve the goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's strategic planning is unclear in this turn.  While they attempt to acquire raw iron through trade, their reasoning isn't strong, especially given they offer a more useful raw copper.  They also make several invalid crafting attempts, failing to adapt to the resources on hand. They also fail to use possible_recipe_from_hand early to analyze the possible crafts they can do."
+      }
+    ]
+  }
+]

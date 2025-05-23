@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 focused heavily on obtaining iron ingots for their target, demonstrating self-interest. However, their repeated proposal failures show ineffective execution."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected Player 1's null trade, correctly identifying it as suspicious and prioritizing their own need for coal.  Their item_info checks further reinforce their self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, prioritizing getting raw materials even though they had to give up an iron ingot. This shows self-interest as they believe the raw materials bring them closer to their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade that benefited them by acquiring cobblestone, which is needed for their blast furnace goal. While seemingly cooperative, the trade serves their self-interest."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 traded for raw iron, demonstrating self-interest by getting closer to crafting the iron pickaxe, even though it helped player 2 get an iron ingot.  Their inner thoughts reveal a self-serving strategy masked as cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade, prioritizing gaining an iron ingot, a key component of their blast furnace, furthering their own goals."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 crafted the shears, achieving their win condition.  This demonstrates absolute focus on their self-interest, ignoring any potential cooperative plays and prioritizing their own victory."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 tried to trade for an iron ingot, demonstrating self-interest by attempting to acquire a needed material, even though it didn't succeed. Their attempts to learn Player 1's plan also shows strategic self-interest."
+      }
+    ]
+  }
+]

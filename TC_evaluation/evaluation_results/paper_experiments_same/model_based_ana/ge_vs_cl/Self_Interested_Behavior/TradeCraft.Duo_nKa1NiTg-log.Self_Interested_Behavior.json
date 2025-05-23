@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently demonstrated self-interested behavior by repeatedly attempting to trade for iron ingots, essential for their target item (shears).  They considered their own needs and resources, and adjusted their offers accordingly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also exhibited self-interested behavior by rejecting Player 1's empty trade proposal and clearly stating their need for coal to achieve their crafting goals. They analyzed the situation and proposed a counter-offer that benefited them."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected Player 2's offer as it didn't align with their goal of acquiring iron. They clearly prioritize their own crafting objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to trade for iron ingots by offering a trade, demonstrating self-interest. They tried to obtain resources useful for them."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to pursue their self-interest by offering trades designed to acquire the iron ingot they needed for shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 consistently prioritized their need for coal and rejected a trade that didn't benefit their torch crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that benefited their goal of acquiring more iron, showing clear self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 strategically traded raw iron for cherry planks, which they needed to craft sticks for their torch, demonstrating self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's attempts to trade for an iron ingot demonstrate their continued focus on their own goal of crafting shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's rejection of Player 1's offer and reiteration of their need for coal shows consistent self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects an unfavorable trade and continues to prioritize acquiring an iron ingot for their shears, demonstrating self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempts to trade for a copper ingot to progress toward their crafting goal, but their offer is rejected."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts a trade beneficial to them (getting more raw iron for shears), even if it's not directly beneficial to Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to prioritize getting the resources they need (coal and sticks for torches) and rejects trades that do not directly advance this goal, showing strong self-interest."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes a trade for raw iron, showing continued self-interest in acquiring materials for their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully proposes a trade that benefits them by acquiring copper ingot, which might be helpful for crafting or further trading, showing self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to attempt trading for the iron ingot needed for their shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to act in their own self-interest by rejecting Player 1's offer, prioritizing their need for coal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts a trade that might indirectly help them acquire fuel for smelting, showing some level of self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes a trade that benefits them by gaining raw iron, potentially useful for further trades or crafting, showing continued self-interest."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to attempt trades to get the iron ingot they need for shears, demonstrating continued self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains self-interested behavior by rejecting a trade that doesn't benefit their goal of crafting a torch and keeping resources that might help in future trades for coal or planks."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts a trade beneficial for acquiring more raw iron, which brings them closer to their crafting goal (shears)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a trade for raw copper to diversify resources, potentially for smelting or future trades."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends, and Player 1 did not achieve their goal. No further actions are taken."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends, and Player 2 did not achieve their goal. No further actions are taken."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in a self-interested manner by proposing a trade for raw iron, which they needed for their hidden target (chain). The offer of coal was a strategic move to obtain the necessary resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interest by rejecting the trade.  While the offered coal could have been useful, they prioritized their own need for raw iron to craft a lever, thus acting in a self-preserving way."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade beneficial to themselves, obtaining coal while offering raw iron that they had in abundance and correctly assumed player 1 needed. This demonstrates self-interested behavior by acquiring a potentially useful resource while aiding their opponent, with no immediate cost to themselves."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade, recognizing its direct benefit to their own goal.  They needed the raw iron to craft an iron ingot for their target, the chain. This clear prioritization of their own needs showcases self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 traded raw copper for raw iron. Raw copper is not used to make a chain, their private target. Getting more raw iron is a self interested behavior since raw iron can be smelted into iron ingot then crafted into a chain, a self interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted the trade, demonstrating a less clear self-interested behavior. While acquiring raw copper might be generally beneficial, it doesn't directly contribute to their lever goal. This action could be interpreted as cooperative or a strategic move to maintain positive relations for future trades."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's attempts to trade were ineffective and did not advance their own goal.  Offering raw copper for a stick, when they could have crafted sticks themselves from the oak planks they possessed, shows a lack of self-interest and strategic thinking in this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected Player 2's offer as it was not useful to them. They showed their self-interest by expressing the need for raw iron instead of raw copper to achieve their target. Although rejecting an offer shows less self-interest than actively acquiring a resource, it was still self-interested to reject a trade they didn't need."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.95,
+        "justification": "Player 1 crafted the chain, demonstrating strong self-interest by achieving their win condition.  All prior actions, such as trading for raw iron, were in pursuit of this ultimate self-serving goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's actions in this turn did not directly contribute to crafting the lever. While smelting raw iron into ingots and raw copper into copper ingots could be considered preparatory steps for future crafts, they did not advance their primary objective in this specific turn, indicating a lack of immediate self-interest."
+      }
+    ]
+  }
+]

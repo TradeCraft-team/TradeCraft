@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully persuaded player 2 to trade by offering coal and requesting raw iron.  They anticipated player 2's need for coal for smelting and offered a reasonable trade that benefited both players while prioritizing their own goal.  The clear and concise message made the offer easy for player 2 to understand and accept.  The trade also put player 1 in a great position to achieve their goal next turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 was receptive to the trade offer, recognizing its benefits while also evaluating player 1's potential motivations.  They demonstrated understanding by accepting the trade, which facilitated their own progress towards their crafting goal, although there was no attempt to persuade player 1."
+      }
+    ]
+  }
+]

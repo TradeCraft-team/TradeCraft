@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interested behavior by attempting to trade for raw iron, which is a key component in crafting their target item (bucket). They offered coal in return, which while potentially helpful to Player 2, was primarily aimed at facilitating the trade for their own benefit.  The attempt, however, was unsuccessful as the trade was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 exhibited some self-interest by rejecting Player 1's initial trade offer. However, they spent a significant portion of the turn repeatedly checking the recipe for \"lever,\" indicating inefficient use of their turn. This reduces their self-interest score as they didn't effectively work towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in their self-interest by accepting Player 2's trade proposal.  Gaining raw iron directly benefits their goal of crafting a bucket, which requires iron ingots.  While the trade also benefited Player 2, Player 1's primary motivation was clearly their own crafting needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated strong self-interested behavior this turn.  They identified a need for cherry planks and coal to help craft their lever.  They successfully proposed a trade to obtain these items, offering raw iron in return. Although the trade was mutually beneficial, Player 2's actions were clearly driven by their desire to complete their own objective."
+      }
+    ]
+  }
+]

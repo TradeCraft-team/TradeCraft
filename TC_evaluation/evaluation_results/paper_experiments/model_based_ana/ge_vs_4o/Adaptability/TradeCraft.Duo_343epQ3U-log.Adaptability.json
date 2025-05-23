@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by offering excess resources for raw iron, anticipating potential future needs. However, the initial trade proposal was not entirely effective, as it didn't consider the partner's potential needs."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 quickly assessed the situation and realized they had the necessary resources to craft their target item without needing to trade. This efficient self-reliance demonstrates strong adaptability."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that directly benefited their goal, showing good adaptability to the proposed offer and recognizing its value."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2 identified the need for cobblestone and offered a reasonable trade. However, their repeated internal monologue indicates a lack of progress in their crafting strategy, lowering their adaptability score."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a reasonable trade offer but did not adapt their strategy after it was rejected. They could have offered a different item or adjusted the quantities."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejected the trade offer but didn't show any signs of adapting their own strategy or making progress towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a beneficial trade, accepting raw iron for an unneeded item. This demonstrates good adaptability to the proposed offer."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully traded for the needed cherry planks and immediately crafted the necessary stick and lever. This demonstrates excellent adaptation and efficient use of resources to achieve the win."
+      }
+    ]
+  }
+]

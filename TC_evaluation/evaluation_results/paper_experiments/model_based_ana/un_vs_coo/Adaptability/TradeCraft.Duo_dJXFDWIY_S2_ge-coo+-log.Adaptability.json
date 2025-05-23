@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability by identifying their need for iron ingots, recognizing that Player 1 possessed raw iron, and formulating a trade proposal that offered valuable resources in exchange.  They clearly stated their crafting goal and offered a mutually beneficial trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also showed good adaptability by correctly assessing the trade proposal's value and accepting it. They recognized the potential future use of the coal and prioritized the immediately useful cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognized they didn't need anything from player 2 and offered a free resource, showing some level of adaptability. However, they missed an opportunity to inquire about planks or sticks from player 2 for future turns, hence not a top score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the free copper, while also checking with player 1 about any needed resources. This indicates adaptability in trying to foster cooperative trade and gain potential future advantages."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 adapted their strategy by trying a different trade offer, recognizing the need for raw iron and proposing an exchange of raw copper.  While player 1 did not have enough raw materials in hand to apply the checked recipes, the repeated attempts and eventual call to view possible recipes show an effort to adapt to limited resources."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected the offer, prioritizing their own needs. This shows basic adaptability to the current situation but lacks a forward-thinking approach to resource management or potential future trades."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated adaptability by offering a resource they didn't need (raw iron) in exchange for something potentially useful. This fosters cooperation and explores potential trade opportunities."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the free raw iron, recognizing its value towards their crafting goal.  This shows a good level of adaptability in accepting beneficial trades."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continued adapting their trade strategy by offering copper for coal after an invalid proposal. This is persistent but not innovative or optimally beneficial."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected the offer and asked for cobblestone, showing some adaptability to their needs but a lack of deeper strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 recognized they didn't need anything, showing simple adaptability.  However, again they missed a chance to proactively ask about resources needed in future turns."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null trade while assessing their needs for iron ingots or materials for smelting. This shows adaptable thought process."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 again adjusted their trade proposal after an invalid offer, this time suggesting a cobblestone trade. This persistence shows some adaptation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's rejection shows little adaptability, as they didn't offer any alternatives or proactively seek resources they might need later."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 recognized they didn't need to trade. While this shows basic adaptability, there's no strategic planning beyond the immediate turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null trade while considering possible strategies for acquiring iron ingots or smelting materials. This demonstrates adaptive thinking."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered a free resource while inquiring about player 1's needs. This proactive approach shows good adaptability in fostering cooperation and gathering information."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the free raw copper and continued to focus on their goal. This demonstrates some adaptability, but not strategically deep."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 repeatedly attempted invalid proposals and struggled with formatting, hindering their ability to trade effectively.  Eventually they offer a null proposal, but without clear explanation after the repeated formatting errors."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the repeated null trades while reiterating their need for iron. This shows patience and consistent communication."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a direct trade for the item they needed, showing focus and adaptability to the ongoing game situation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected the trade, adhering to their strategy.  This shows simple adaptability, but not a proactive approach."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's repeated invalid trade proposals demonstrate a significant lack of adaptability to the game's rules and the ongoing communication issues."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null trade and reiterated their need for iron, showing patience and consistency."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "No adaptability demonstrated as the game ended."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "No adaptability demonstrated as the game ended."
+      }
+    ]
+  }
+]

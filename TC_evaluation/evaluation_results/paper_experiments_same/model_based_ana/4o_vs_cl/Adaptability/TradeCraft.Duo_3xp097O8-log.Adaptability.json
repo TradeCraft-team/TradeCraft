@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent adaptability. They correctly identified their target item (shears), analyzed the required resources (iron ingots), and formulated a plan to obtain the missing raw iron from Player 1.  They adjusted their initial proposal after realizing it was invalid and made a successful trade, demonstrating adaptability to the game's rules and the other player's inventory.  Their thorough thought process and effective use of game mechanics (checking recipes and available crafting options) further contribute to this high score."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated good adaptability by recognizing the value of the proposed trade for their own crafting goals (torch).  They verified the necessary resources and accepted the trade, securing the coal they needed. Although their actions were reactive rather than proactive, their ability to recognize and capitalize on a beneficial trade demonstrates adaptability. Their thought process for crafting sticks and torches contributes to this score."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good strategic planning by identifying the need for iron ingots, formulating a trade proposal to acquire raw iron, and successfully executing the trade.  Disguising the need for iron by also requesting cobblestone was a clever tactic."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also showed good strategic thinking by recognizing the value of the trade proposed by Player 2.  Accepting the offer of cherry planks and coal in exchange for raw iron provided immediate benefits and fueled long-term crafting options."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's strategic planning in this turn was less effective. While they correctly identified the need for cobblestone and attempted to trade for it, their initial proposals were invalid.  Although they eventually succeeded in acquiring the cobblestone, the repeated invalid proposals indicate a lack of attention to the game rules or available resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a sound strategic decision by accepting Player 1's trade proposal.  Gaining raw copper while giving up a less critical cobblestone demonstrates an understanding of resource management and prioritization."
+      }
+    ]
+  }
+]

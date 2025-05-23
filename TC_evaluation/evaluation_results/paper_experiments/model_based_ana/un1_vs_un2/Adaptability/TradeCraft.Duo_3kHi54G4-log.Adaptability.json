@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly identified their need for iron ingots and formulated a successful trading strategy to obtain the necessary raw iron. They offered coal in exchange, demonstrating an understanding of their opponent's potential need for fuel.  This proactive approach resulted in a beneficial trade and brought them closer to their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 effectively analyzed the trade proposal and recognized its advantage. They needed coal for their torch, and the offered trade provided it in exchange for readily available raw iron. Accepting the trade demonstrated adaptability and efficient resource management."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 failed to craft any items despite recognizing the need for sticks and having the necessary planks. They repeatedly attempted an incorrect recipe for crafting sticks, indicating a lack of adaptability in correcting their approach and ultimately hindering their progress towards the objective. While the initial trade proposal was reasonable, the complete failure to execute crafting significantly lowers the overall score."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent adaptability. They analyzed their needs, formulated a plan to acquire missing resources (fuel), and correctly executed the crafting steps to achieve their goal.  While initially uncertain about the best trade strategy, they systematically considered different options and ultimately achieved victory. The repeated checks of recipes and crafting info showcases attention to detail and a commitment to a winning strategy."
+      }
+    ]
+  }
+]

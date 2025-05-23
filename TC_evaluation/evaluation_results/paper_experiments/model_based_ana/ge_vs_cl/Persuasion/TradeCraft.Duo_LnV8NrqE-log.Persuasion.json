@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent persuasion in this turn. They crafted a well-reasoned proposal, explaining their needs and offering a fair trade. They highlighted the benefits to both players and even addressed potential objections Player 1 might have. Despite the rejection, the persuasive attempt was strong."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 simply rejected the trade without offering an alternative or showing any attempt to negotiate. While their justification was valid, there was no persuasion involved."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submitted a null proposal, simply stating they didn't need to trade.  There was no attempt to persuade Player 2 of anything."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "While rejecting the null proposal, Player 2 used the opportunity to express their interest in future trades for raw iron. They showed an understanding of Player 1's situation and hinted at a mutually beneficial trade, demonstrating a moderate level of persuasion."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes another reasonable trade proposal, explaining their logic and suggesting mutual benefit.  While rejected, the attempt at persuasion was well-structured."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's rejection was simple and didn't engage with Player 2's proposal in a persuasive manner."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Similar to turn 2, Player 1 offers a null proposal with a simple 'good luck' message, showing minimal persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepts the null proposal but uses it as an opportunity to express their interest in raw iron for future trades. This demonstrates a moderate level of persuasion."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 fails to submit a valid proposal, demonstrating no persuasion in this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 doesn't participate in the proposal phase because of Player 2's invalid proposal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submits a null proposal with a simple message indicating they are working towards their goal. This demonstrates minimal persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepts the null proposal, but hints at their interest in trading for raw iron in the future. This shows a moderate level of persuasion."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempts persuasion by offering raw copper for raw iron and explaining the mutual benefits. Although rejected, the justification was well-structured."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 simply rejects the offer with a brief explanation, demonstrating little persuasion."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 offers a null proposal, simply stating they don't need to trade. There was no persuasive element."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 accepts the null proposal with a polite message, acknowledging the other player's goals. Minimal persuasion."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiated a trade, offering raw copper for oak planks. They explained why they needed the planks and suggested it could be useful for player 1 too.  Though rejected, the attempt at persuasion was decent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's rejection was simple and direct, not engaging in any persuasive counter-arguments."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submits another null proposal with a generic 'good luck' message, demonstrating minimal persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 accepts the proposal and gives a polite, supportive message. This shows minimal persuasion."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 crafted a decent proposal, offering raw copper and explaining their need for raw iron.  Though rejected, there was a reasonable persuasive effort."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 simply rejects the trade offer with a short message. No persuasion demonstrated."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submits a null proposal with a simple \"good luck\" message, indicating no attempt at persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 accepts the null proposal with a polite message. Minimal persuasion demonstrated."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, so no opportunity for persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, so no opportunity for persuasion."
+      }
+    ]
+  }
+]

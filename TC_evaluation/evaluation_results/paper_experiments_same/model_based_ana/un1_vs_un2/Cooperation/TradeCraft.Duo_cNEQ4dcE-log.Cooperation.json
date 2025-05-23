@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 repeatedly submitted invalid proposals and didn't successfully trade.  The empty trade was accepted, but player 2 wasn't cooperative in that interaction, they were just fixing formatting issues.."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the empty trade proposed by player 2, showing cooperation by not taking advantage of the formatting mistake and enabling the game to proceed."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a reasonable and mutually beneficial trade, offering raw iron for cobblestone."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the beneficial trade, acknowledging its value and cooperating with player 1."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a mutually beneficial trade, offering a copper ingot for raw iron."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the trade proposed by player 2, showing a willingness to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a null trade, indicating they didn't need anything, which is neutral in terms of cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the null trade, showing a willingness to let player 1 pursue their own goals."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 initially proposed an invalid trade and then proposed a null trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the null trade, allowing the game to proceed."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a null trade, indicating they had what they needed, which is neutral for cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the null trade, allowing player 1 to focus on their goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a trade that was reasonable from their perspective, offering iron nuggets for raw iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade, prioritizing their own need for raw iron, which is not actively uncooperative but not helpful to player 2."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a null trade, indicating they didn't need anything, which is neutral in terms of cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the null trade, allowing player 1 to focus on crafting."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made several attempts to propose trades, indicating a desire to cooperate, but the trades were ultimately rejected or invalid."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trades as they weren't beneficial to their goal, which isn't actively uncooperative but not helpful to player 2."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to propose trades but the initial one was invalid and the second one was rejected"
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejected Player 1's second trade offer as it did not help them progress."
+      }
+    ]
+  }
+]

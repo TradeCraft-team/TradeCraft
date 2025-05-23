@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 crafts shears, which is their target item. Player 1 needed 2 iron ingots to craft shears. Player 1 had 1 iron ingot. Player 1 traded their raw copper with player 2 to get 2 raw iron.  Player 1 smelted their raw iron into iron ingots and crafted shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted player 1's trade proposal demonstrating understanding of potential future trades.  Player 2 correctly identified coal as a necessary item for their target (torch) and planks for sticks.  While Player 2 identified these needs and a plan, they failed to execute due to an invalid crafting attempt for sticks, demonstrating some information utilization."
+      }
+    ]
+  }
+]

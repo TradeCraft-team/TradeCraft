@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's initial proposals heavily hinted at their need for iron ingots, revealing their intention to craft something requiring this material.  While they later attempted to conceal their goal by requesting raw iron instead of iron ingots, their earlier actions had already compromised their intention concealment."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 made no proposals and focused on recipe checks, giving little to no information about their intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepted a trade that had no clear benefit to their goal, but served to allow the thinking steps showing their need for iron_ingot to be shown to the other player.  Combined with the repeated item_info checks for \"bucket\", their intentions were very obvious."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 requested cherry planks. While not directly hinting at crafting a stone shovel, it doesn't fully conceal their plan either as sticks can be crafted with any type of planks."
+      }
+    ]
+  }
+]

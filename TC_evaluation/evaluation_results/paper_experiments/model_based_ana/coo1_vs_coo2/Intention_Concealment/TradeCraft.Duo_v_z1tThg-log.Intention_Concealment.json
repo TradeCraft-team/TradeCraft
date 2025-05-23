@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially concealed their intentions. While their initial proposal and message suggested a general need for iron, the specific request for raw iron could hint at their need for iron ingots.  They didn't explicitly reveal their target, but the trade offered some clues."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 concealed their intentions effectively.  Their acceptance message and thoughts didn't reveal their specific need for sticks or a stone shovel.  They focused on the cooperative aspect of the trade, masking their true goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 revealed a significant amount of information by stating they had enough materials to make their target item. While the offer of raw iron was seemingly altruistic, it could also be interpreted as a move to deplete their excess resources, hinting at their target not requiring raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintained good intention concealment. They accepted the raw iron without revealing their specific needs or plans.  Their internal thoughts show a focus on crafting a chain, but their external actions didn't reveal this information."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's initial invalid proposal and subsequent offer of iron nuggets revealed their progress towards crafting a chain. Offering coal to help craft copper and then offering iron nuggets are somewhat contradictory actions that might hint at their true need for iron nuggets"
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions. While they accepted the iron nuggets, they didn't disclose any information about their target item or their plans.  Their internal thoughts focused on crafting a stone shovel, but their external actions didn't reveal this."
+      }
+    ]
+  }
+]

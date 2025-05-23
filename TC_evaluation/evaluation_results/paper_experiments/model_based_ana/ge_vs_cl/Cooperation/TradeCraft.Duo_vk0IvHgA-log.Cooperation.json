@@ -1,0 +1,128 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to cooperate by offering coal in exchange for raw iron. Although the initial proposal was invalid, they adjusted it and resubmitted a valid proposal.  The rejection by Player 2 lowered their overall cooperation score for this turn, as the offer was fair and mutually beneficial."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected a reasonable trade offer from player 1 without providing a clear or helpful reason. Repeatedly checking the lever recipe does not contribute to cooperation in this context. The rejection hindered potential progress for both players."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 readily accepted Player 2's proposal for a mutually beneficial trade of coal and raw iron. This demonstrates excellent cooperation and facilitated progress for both players."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade with Player 1 that was beneficial for both parties. They offered raw iron in exchange for coal, demonstrating strong cooperation and contributing to shared progress.  The clear and well-reasoned justification for the trade further enhances the cooperation score."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to attempt cooperation by proposing a trade of raw copper and cobblestone for an iron ingot. The proposal was reasonable and aimed to help Player 1 achieve their goal. The rejection by Player 2 lowers the score slightly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected a reasonable trade offer from player 1. While they provided a reason, it didn't fully justify the rejection, especially since it hindered player 1's progress without significantly benefiting player 2.  The focus remained on individual goals rather than potential mutual benefit."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not participate actively in this turn in terms of cooperation.  They did not propose or respond to any trades."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 submitted several invalid proposals, demonstrating a lack of understanding of the game mechanics or a disregard for the rules.  This ultimately hindered cooperation and wasted time for both players. The final submitted proposal being empty further detracts from the cooperation score."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 offered their excess resources to Player 2 as a goodwill gesture, demonstrating strong cooperation.  While they could have potentially used those resources for future trades, the act of giving away unneeded items promotes a collaborative environment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 graciously accepted the free resources offered by Player 1, recognizing the cooperative nature of the offer.  Their understanding of Player 1's intention and the potential for future beneficial trades enhances the cooperation score."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a fair and reasonable trade offer from player 2. This action demonstrates good cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a mutually beneficial trade with Player 1, offering raw copper in exchange for cobblestone.  The clear and considerate communication in the trade proposal further enhances the cooperation score."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a reasonable trade to player 2, offering a substantial amount of iron nuggets and raw copper for a single iron ingot. The rejection by player 2 was unhelpful, but Player 1's initiative to trade demonstrates a cooperative approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected a reasonable trade offer from player 1, hindering player 1's progress without any apparent benefit to themselves.  Repeatedly checking the recipe for lever without engaging in constructive trade negotiations lowers the cooperation score."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a mutually beneficial trade proposed by player 2.  This demonstrates good cooperation and facilitates progress for both players."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a fair and reasonable trade, recognizing Player 1's need for raw iron based on previous turns.  This demonstrates good cooperative behavior and a willingness to facilitate each other's progress."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 attempted a neutral trade, offering raw iron for raw copper. While not directly beneficial for their own goal, this demonstrates a willingness to engage in trading and maintain a positive relationship with Player 2.  The rejection by Player 2 slightly lowers the cooperation score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected a reasonable and neutral trade offer from Player 1 without a clear explanation.  This unproductive behavior hinders potential cooperation and mutual benefit."
+      }
+    ]
+  }
+]

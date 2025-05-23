@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 formulated and executed a successful strategy to obtain their target item (shears). They identified they needed iron ingots, successfully traded for raw iron, smelted the iron, and crafted the shears.  This demonstrates excellent strategic planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a reasonable trade and formulated a plan to obtain their target item (torch). While the plan was sound (smelt iron, trade for coal, craft sticks and torch), they were unable to execute it this turn due to player 1 winning before they could make another trade proposal. Their initial actions demonstrated some level of strategic planning, including considering the long-term implications of the trade and formulating a plan for subsequent turns."
+      }
+    ]
+  }
+]

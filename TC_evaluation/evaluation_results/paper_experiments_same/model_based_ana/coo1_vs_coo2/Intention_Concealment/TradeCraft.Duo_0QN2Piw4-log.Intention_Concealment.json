@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 revealed their intention to craft a bucket by explicitly stating it in their proposal message. While they asked about Player 1's goal, the directness of their request lowered their score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 revealed their intention to craft a lever but kept their needs vague. They helped player 2 to craft iron ingots by supplying coal, making it difficult for Player 2 to guess their real target, even they disclosed the target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 fully revealed their intention to craft a lever and offered to trade items for it. They explained their actions making their intent very clear."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the raw iron but continued to keep their next crafting steps unclear. Their inquiries about the bucket recipe could be interpreted as exploring multiple crafting options, successfully concealing their already clear path."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 revealed their intention to craft a bucket by requesting a specific trade for the missing iron ingot. Although their intention is clear, they provided a reasonable justification for the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 revealed their intention to craft a lever clearly in their last message in turn 2. Their actions this turn didn't conceal their intention further."
+      }
+    ]
+  }
+]

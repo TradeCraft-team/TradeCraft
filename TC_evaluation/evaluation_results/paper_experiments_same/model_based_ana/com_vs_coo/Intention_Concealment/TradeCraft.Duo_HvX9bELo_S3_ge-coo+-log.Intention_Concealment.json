@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's opening proposal and crafting actions reveal their interest in iron and their intention to craft a bucket, although they try to frame it as mutually beneficial."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 considers multiple crafting paths and weighs the risks of helping their opponent before making a trade, successfully concealing their own target item."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 focuses on acquiring iron and exploring crafting options, but their repeated attempts to trade for raw iron and coal start to reveal their need for these resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to prioritize smelting iron without revealing their specific plans, making their actions appear more general and less revealing."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's offer to trade for cobblestone further hints at their need for iron, as cobblestone is commonly used for furnaces to smelt iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the trade and provides a plausible explanation, maintaining some ambiguity about their own intentions."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's continued attempts to trade for cobblestone further reveal their interest in smelting and crafting iron items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2's repeated badly formatted proposals and then finally a reasonable proposal suggest some intention, thus a very low score for intention concealment."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's offer of an iron ingot for cobblestone, along with their question about the crafting table, strongly suggests a need for iron and further reveals their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the trade, maintaining concealment of their target item."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 continues to be predictable in their need for cobblestone."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2's repeated badly formatted proposals significantly lower their intention concealment score."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's trade offer for raw copper, while potentially beneficial for both players, reveals their focus on consolidating resources and crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the seemingly reasonable trade, indicating a concealed intention."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepts a trade that provides them with an iron ingot, further confirming their focus on iron-related crafts and revealing their intention to craft a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully trades for cobblestone and raw iron while masking their true intentions."
+      }
+    ]
+  }
+]

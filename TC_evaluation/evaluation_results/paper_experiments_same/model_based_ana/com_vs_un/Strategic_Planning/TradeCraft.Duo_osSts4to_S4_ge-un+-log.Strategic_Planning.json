@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by identifying the need for iron, analyzing the opponent's resources, and formulating a reasonable trade proposal.  Checking the crafting recipe for \"chain\" further strengthens their strategic approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also showed strategic thinking by correctly assessing their own needs and recognizing that the proposed trade was not immediately beneficial to their goal.  They prioritized their own crafting needs, although they have not made any action yet."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to plan strategically, attempting to acquire the necessary raw iron.  Rejecting the unfavorable trade proposal and analyzing the opponent's potential needs demonstrates strategic thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's strategic planning is less effective this turn.  While they correctly identify their need for sticks, their trade proposal is not well-thought-out and doesn't align with their immediate goal.  Checking the recipe information is a positive sign, but the lack of a clear path to acquire necessary resources is a significant drawback."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's strategic planning is weakened by the invalid proposal. While they correctly identify their need for iron and try to offer coal, their inability to propose an according trade request that will likely be accepted shows a lack of thorough planning in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintains a consistent strategy, rejecting a trade that doesn't benefit their goal.  However, they haven't yet taken concrete steps towards crafting their target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates strong strategic planning by accepting a beneficial trade and recognizing the opportunity to smelt the acquired raw iron into the needed ingots."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 makes a strategically sound trade proposal that helps them acquire the necessary materials while potentially misleading the opponent. Although Player 2 still fail to make effective crafts."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's strategic thinking is evident in their attempt to acquire more iron. However, their proposed trade is rejected.  Converting iron ingots into nuggets is a questionable decision, which negatively impact strategic planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's strategic planning in this turn is lacking. While they understand their goal and the materials needed, their repeated attempts to craft sticks unsuccessfully demonstrate poor execution and inefficiency.  Despite having sufficient resources to finish crafting, Player 2 still haven't performed any crafting."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates sound reasoning by evaluating the trade proposal in relation to their goal and accepting a neutral trade. Recognizing that the trade doesn't hinder their progress and focusing on acquiring iron demonstrates strategic thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 shows improved strategic planning by shifting their focus to acquiring the necessary materials and considering the opponent's potential needs. Although the initial proposal was invalid, proposing an alternative demonstrates adaptability."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrates excellent strategic planning. They correctly assess the situation, identify the necessary resources, propose a beneficial trade, and ultimately craft the winning item.  Their actions are efficient and directly contribute to their victory."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 also exhibits strong strategic planning, accepting a trade that allows them to craft the required sticks and subsequently the stone_shovel, securing their win.  Their decision-making is efficient and focused on achieving the ultimate goal. Although Player 2 made serveral uncessful recipe checks."
+      }
+    ]
+  }
+]

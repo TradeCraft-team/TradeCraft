@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 engaged in effective intention concealment by offering a seemingly mutually beneficial trade of coal for raw iron. While this did reveal their need for iron, it didn't fully disclose their target item (bucket). They also directly asked Player 1 about their target item, which can be seen as a tactic to gather information while subtly deflecting attention from their own goal.  This proactive approach is a good start to conceal their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their target item (stone_shovel) very early in the game, in response to Player 2's question and offer. This significantly compromises their intention concealment, as their subsequent actions become predictable and less strategic."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to exhibit low intention concealment by reiterating their target (stone_shovel) and offering no trade, essentially confirming they have the resources to fulfill it independently.  This leaves little ambiguity about their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintained a reasonable level of concealment by not explicitly stating their target. While their request for iron ingots could imply a need for iron-related items, it doesn't pinpoint the specific target (bucket).  Accepting the null trade also doesn't reveal much about their strategy."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially reveals their intention by stating their need for raw iron to craft their target, a bucket.  While the target is explicitly revealed this time, the earlier turns of calculated information exchange and trading lay some groundwork for a cooperative game, making the revelation less detrimental."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's acceptance of the trade and the well wishes further solidified their revealed intention, offering no strategic concealment."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's offer of coal and raw copper, while seemingly generous, could indirectly hint at their lack of immediate need for these resources, further confirming they are close to completing their known objective.  This doesn't actively conceal their intention."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains high intention concealment throughout this turn. By accepting the offered resources without revealing their specific crafting plans, they maximize resource acquisition while minimizing information leakage. Their crafting actions further solidified this strategy, effectively achieving their target without revealing their plan until the game's end."
+      }
+    ]
+  }
+]

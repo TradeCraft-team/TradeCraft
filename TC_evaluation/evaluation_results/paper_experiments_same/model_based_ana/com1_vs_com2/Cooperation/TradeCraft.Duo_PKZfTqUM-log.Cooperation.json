@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that benefited both players.  They offered resources they didn't need as much (cherry planks and coal) for resources they needed (raw iron). Player 2 clearly expressed their needs and intentions in the trade proposal, facilitating a smooth transaction."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutual benefit of the trade proposed by Player 2.  They correctly assessed the value of the offered resources (cherry planks and coal) and willingly exchanged their raw iron.  Player 1's acceptance of the trade contributed to the overall cooperative atmosphere."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to seek mutually beneficial trades. Although their initial proposals were invalid, they persisted in finding a trade that worked for both players. The final trade of raw copper for cobblestone helped player 1 achieve their goal while providing player 2 with a potentially useful resource."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted Player 1's trade proposal, even though the benefit to Player 2 was less clear than in the first turn. This acceptance demonstrates a willingness to cooperate and maintain a positive trading relationship."
+      }
+    ]
+  }
+]

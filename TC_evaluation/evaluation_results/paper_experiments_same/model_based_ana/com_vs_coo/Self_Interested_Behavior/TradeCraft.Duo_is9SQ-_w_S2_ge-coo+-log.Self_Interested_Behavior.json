@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 consistently attempted to trade for iron, a key component of their target item (bucket). Their proposals were designed to benefit themselves, even suggesting mutual benefit while prioritizing their own need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed strong self-interest by rejecting Player 1's proposals. They recognized the trade wasn't beneficial to their own goal (stone shovel) and prioritized keeping their resources."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to acquire resources that could indirectly help them get iron ingots, showing continued focus on their own goal, though less directly than in Turn 1."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, prioritizing acquiring a refined material (copper ingot and cobblestone) over raw materials, showing self-interest in improving their inventory towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal was a fair offer, demonstrating a slight decrease in self-interest, aiming for more even resource distribution."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the seemingly fair trade, prioritizing holding onto raw materials and showing a preference for acquiring coal, indicating a focus on their own, yet unknown, crafting needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade which benefited them by providing cobblestone, a useful material. Though cooperative, the trade also served their self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiated a trade beneficial to their resource acquisition goals, attempting to gather materials that could be useful for multiple crafting paths, indicating a self-serving strategy."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to prioritize getting raw iron, showing consistent self-interest in obtaining a key resource for their goal, but softened their approach by offering a refined material in return."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected Player 1's offer, recognizing that it did not align with their crafting goals, demonstrating strong self-interest and resource management."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted Player 2's offer, demonstrating some cooperation, but also receiving raw iron in return, showcasing self-interest in resource gathering."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 actively sought cobblestone slabs, indicating a strategic intent to use them for their own crafting needs, demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 initiated a trade to obtain raw copper, showing a shift in focus perhaps due to already having crafted shears. The trade demonstrates some self-interest in diversification of resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the trade, perhaps seeing a potential future use for raw iron or to gain insight into Player 1's strategy.  Their primary goal remains unclear, though they show mild self-interest in resource acquisition."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepted a slightly unfavorable trade, possibly prioritizing cooperation over strict self-interest at this stage, as their target was already achieved."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 secured more raw iron through the trade, continuing their pursuit of iron-related items, showing consistent self-interest."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 attempted to trade for raw iron, potentially to help Player 2, or to gather resources, showing a moderate level of self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade, showing self-interest in preserving their own resources and hindering Player 1 from accumulating more iron."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepted the trade, receiving raw iron in exchange for a cobblestone slab, demonstrating continued cooperation and moderate self-interest in resource gathering."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 secured more cobblestone slabs through a trade, continuing their pursuit of cobblestone-related items for their goal, demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 traded raw copper for an iron ingot, aiming to acquire refined materials, even offering assistance to Player 2, demonstrating a moderate level of self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, benefiting by receiving raw copper which they can use for crafting or smelting, showing self-interest in resource acquisition."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 traded raw iron for a cobblestone slab, a seemingly neutral trade, demonstrating cooperation with some self-interest in resource diversification."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 gained raw iron through a trade, showing a continued focus on iron acquisition for their own crafting needs, demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, so no actions were taken."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, so no actions were taken."
+      }
+    ]
+  }
+]

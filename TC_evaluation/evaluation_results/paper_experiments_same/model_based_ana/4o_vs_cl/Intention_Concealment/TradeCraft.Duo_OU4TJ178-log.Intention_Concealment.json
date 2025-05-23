@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 partially concealed their intentions. While their initial proposal and inquiries about raw iron hinted at their need for iron, they didn't explicitly reveal their goal of crafting a bucket. The trade offer, while seemingly mutually beneficial, was strategically aimed at acquiring the raw iron they needed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intentions in this turn. They repeatedly checked the recipe for a lever, which is their target item, but their outward actions and the rejected trade proposal didn't reveal their specific needs. The rejection message was ambiguous, further obscuring their intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 's acceptance of the trade and subsequent checking of iron-related recipes further hinted at their need for iron, making their intention slightly clearer than before."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal to trade for cherry planks and coal could be interpreted as needing fuel for smelting or crafting sticks.  While they did ultimately craft a lever, their earlier ambiguity about their need for sticks might have slightly misdirected Player 1."
+      }
+    ]
+  }
+]

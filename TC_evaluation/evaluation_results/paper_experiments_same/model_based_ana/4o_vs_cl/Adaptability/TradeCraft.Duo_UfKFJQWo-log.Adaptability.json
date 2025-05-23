@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initially struggled to understand the crafting recipe for a chain and made an invalid trade proposal. However, after multiple attempts at understanding the recipe, they eventually made a reasonable trade proposal, demonstrating some adaptability by offering coal for raw iron. Although the trade was rejected, the proposal itself shows an attempt to adjust their strategy based on the game conditions and the other player's resources. The repeated attempts and initial confusion lower the score."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 identified their target and the basic steps required, but they did not make any significant decisions or actions that demonstrate adaptability in this turn. They rejected the trade offer from player 2 without proper reasoning, missing the opportunity for a beneficial resource exchange. This lack of action and suboptimal decision-making limit the adaptability score."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent adaptability in this turn. They efficiently identified the resources they needed (cherry planks) and formulated a strategic trade proposal offering raw iron in exchange. This shows a clear understanding of their own needs and the potential value of trading with the other player. The successful trade allowed Player 1 to acquire the necessary resources to complete their objective, showcasing effective adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good adaptability in this turn by carefully evaluating the trade proposal and recognizing its benefits. They correctly identified the value of raw iron for their crafting goal and made the decision to trade their less valuable cherry planks. This efficient and strategic trade acceptance helped them progress towards crafting their chain, proving effective adaptability to the proposed trade."
+      }
+    ]
+  }
+]

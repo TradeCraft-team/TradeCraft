@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently demonstrated goal alignment. They identified their need for iron ingots to craft a chain, recognized their opponent's abundance of raw iron, and successfully traded for it while attempting to disguise their true intentions.  They then focused on crafting iron nuggets, a component of their target item. All their actions directly contributed to their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's actions in this turn were not effective in achieving their goal. Although they correctly identified the need for sticks and cobblestone, they failed to perform any crafting actions to convert their planks into sticks, wasting the entire turn. They repeatedly submitted invalid recipes which indicates poor tool usage and understanding of the crafting rules."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 showed strong goal alignment in this turn.  They needed cobblestone to craft a stone shovel.  Initially, their trades were invalid. However, they persisted and successfully traded for cobblestone, showing adaptability. They then correctly crafted sticks and immediately crafted their target item, the stone shovel, winning the game. Their actions were efficient and directly led to achieving their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's actions in this turn demonstrated some goal alignment but were ultimately ineffective. They continued to focus on their goal of crafting a chain, correctly identifying the need to smelt their raw iron into iron ingots. However, they were unable to do so due to a lack of fuel.  Their trade did not directly contribute towards their final goal."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by identifying their need for iron ingots, recognizing that their opponent had raw iron, and offering a reasonable trade. Their thinking shows a clear understanding of their goal and the steps needed to achieve it. They considered the opponent's potential needs by offering coal and less useful planks in exchange for raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also demonstrated good adaptability by correctly assessing the trade proposal and recognizing its benefits. They understood the value of the offered planks for crafting sticks and the potential future use of coal.  They also considered the trade-off between the resources offered and their abundance of raw iron."
+      }
+    ]
+  }
+]

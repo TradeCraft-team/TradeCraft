@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently pursued their self-interest by attempting to trade for iron_ingot, a key component for their target item (shears). They adapted their proposals to make the trade more appealing to player 2, demonstrating strategic thinking in their self-interest.  While their initial proposals were invalid, their persistence and eventual successful trade for raw_iron (usable for crafting iron_ingot) demonstrate a strong focus on their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 acted in their self-interest by accepting a trade that provided them with coal, a necessary component for their target item (torch). Their reasoning for accepting the trade, while mentioning cooperation, clearly prioritizes the benefit to themselves."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 offered raw_copper to player 1 for free. Although they mentioned having extra raw_copper, this action doesn't strongly demonstrate self-interested behavior as it provides no direct benefit to player 2 and could potentially help player 1.  Their primary focus seems to be crafting their torch, but the free offer detracts from their self-interest score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the raw copper from player 2, demonstrating self-interested behavior by maximizing their resource acquisition without any cost.  They recognized the potential future benefit and accepted the offer, prioritizing their own resource gain."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully traded raw copper for raw iron, which they explicitly stated was needed for their shears.  They demonstrated strategic self-interest by pursuing this trade, improving their position in the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted player 1's trade, giving up raw iron for raw copper.  While they claim this is to \"help\" Player 1, they also admit to not needing the raw iron, demonstrating some small degree of self interest in receiving something in return."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 initiated contact but offered nothing and requested nothing, despite knowing they need to trade for planks to complete their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejected Player 2's empty offer and clearly stated their need for coal to smelt their raw iron. This demonstrates a strong focus on their goal and a willingness to negotiate for resources they need."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 actively pursued a trade to acquire the necessary coal for smelting raw iron. They identified the need, proposed a trade, and ultimately succeeded in acquiring the resource. Their actions directly furthered their objective of crafting shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 made a trade that directly hindered their ability to complete their goal. Despite needing the coal, they traded it to Player 1 for raw iron which has no stated use for Player 2. This action is detrimental to their self interest."
+      }
+    ]
+  }
+]

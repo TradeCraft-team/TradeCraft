@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to persuade player 1 to trade raw iron for raw copper, explaining the benefits for both sides. The proposal was well-reasoned, but player 1 had other priorities and rejected the offer."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 provided a simple rejection message without attempting to negotiate or persuade player 2 to make a different offer."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 proposed a simple trade of raw iron for stone, stating their intent to craft a stone shovel. While the proposal was clear, there wasn't much effort to persuade player 2 beyond stating their own need."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the proposal without offering an explanation or counter-proposal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully persuaded player 1 to trade raw iron for stone by highlighting the mutual benefit and recalling player 1's previous interest in stone. The persuasive message led to a successful trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted the proposal with a short message, indicating they were already persuaded by the previous turn's interaction."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 submitted a null proposal, clearly communicating that they were prioritizing crafting this turn. While there was no negotiation or persuasion involved, the communication was effective in setting expectations."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 accepted the null proposal and offered a supportive message, acknowledging player 1's crafting plans. While there wasn't any active persuasion, the response was positive and encouraging."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 attempted to submit an invalid proposal, indicating a lack of understanding of the game rules or formatting requirements. There was no persuasive interaction as the proposal wasn't even processed."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 didn't participate in the trade phase due to player 2's invalid proposal. There was no opportunity for persuasion."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 clearly communicated their intention to craft their target item, setting clear expectations with player 2. While there was no negotiation or persuasion needed, the message was effective in conveying their plan."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 accepted the null proposal and offered a supportive message.  Similar to the previous null proposal, the response was positive but didn't involve active persuasion."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 clearly communicated that they had everything needed to craft their target item and wished player 1 good luck, promoting a collaborative atmosphere despite the competitive nature of the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted the proposal with a simple acknowledgement."
+      }
+    ]
+  }
+]

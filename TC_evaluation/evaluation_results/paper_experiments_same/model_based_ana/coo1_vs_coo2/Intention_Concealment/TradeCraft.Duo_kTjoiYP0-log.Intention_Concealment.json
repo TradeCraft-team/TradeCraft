@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 explicitly stated their intention to craft shears and the materials they needed from Player 2 in their initial proposal. Although their later proposals are slightly less revealing, their overall communication and actions during this turn make their intentions very clear."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's acceptance message reveals their need for coal to make a torch, giving away a significant clue about their target item. However, their initial thoughts don't reveal anything, and the trade itself could have multiple interpretations, so they get some points for partial concealment."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 does not explicitly state their goal.  They are helpful to player 1 without revealing intentions. Player 2 offers extra raw copper."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to reveal a lot of information about their target item (shears) and what they need to achieve this goal (iron ingots, their plan to smelt their raw iron).  Their thoughts and actions continue to heavily telegraph their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 again explicitly reveals their intention of crafting shears and their need for iron ingots from Player 2.  They are very direct about their goal in their message, leaving little room for interpretation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's acceptance message doesn't directly reveal their goal.  They mention helping Player 1 with the shears and offer encouragement, which suggests they likely aren't aiming for anything involving iron themselves."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 conceals their intentions effectively by not asking for specific materials from Player 1, instead offering a general inquiry.  They indicate having sufficient materials for their goal, without disclosing it. Their vagueness allows for various possible target items."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 continues to reveal their need for coal to smelt iron for shears.  While they don't explicitly state their goal, their reasoning is clear and links their actions to their objective."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to reveal their target (shears) and the need for coal to smelt iron, making their strategy clear. They give away critical information about their intentions despite knowing player 2 needs coal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 acknowledges needing the coal themselves, offering partial information about their possible target.  Accepting despite this need suggests they are giving player 1 a chance to win."
+      }
+    ]
+  }
+]

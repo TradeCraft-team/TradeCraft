@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by analyzing the situation, identifying a mutually beneficial trade, and proposing it effectively. They correctly identified their need for iron ingots and their opponent's abundance of raw iron, offering coal in exchange. They also checked the recipe for their target item, demonstrating a focus on achieving their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also showed adaptability by considering the trade proposal in the context of their own goal. They weighed the risks and benefits of helping their opponent and ultimately made a decision that they believed would advance their own progress while also facilitating a beneficial exchange."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to focus on acquiring the necessary resources for their target item, but their adaptability was slightly lower this turn as they struggled to find a suitable trade offer after their initial trade.  They re-evaluated their resources and considered various options, but did not make a new proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to show good adaptability by prioritizing actions that advanced their goal while not revealing too much about their target. They smelted raw iron, a general-purpose move, and confirmed the recipe for their target item and intermediate components, indicating a strategic approach."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a reasonable trade offer, but it was rejected. They recognized the rejection and began considering alternative strategies, but did not demonstrate strong adaptability in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade offer, prioritizing their need for cobblestone. They then began considering alternative strategies for acquiring the resources they needed for their target item, showing a decent level of adaptability."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly submitted invalid proposals, indicating a lack of understanding of the game rules or inattention to detail. This demonstrates low adaptability to the game mechanics."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 recognized the invalid proposal and requested clarification, demonstrating some adaptability to their opponent's unexpected behavior."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to deduce Player 2's goal and tailor their trade proposal accordingly, showing a good level of strategic thinking and adaptability. While the trade was rejected, the effort to understand the opponent's needs demonstrates adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade, recognizing that it didn't benefit their goal, and began formulating alternative trading strategies. This shows a moderate level of adaptability, focusing on achieving their own goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 submitted multiple invalid proposals again, demonstrating very low adaptability to the game rules and mechanics."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to seek a mutually beneficial trade and accepted the proposal from Player 2, adapting to the available opportunity, even though the proposal wasn't ideal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 tried to analyze Player 2's needs based on their past actions and offered a trade they thought would be beneficial. While the trade was rejected, the attempt to understand and adapt to the opponent's behavior demonstrates a reasonable level of adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade offer and began considering alternative strategies for acquiring the resources they needed. This demonstrates a moderate level of adaptability."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted their trading strategy after previous attempts failed.  They offered a valuable trade to Player 1 in exchange for resources that would help them progress.  This shows an improved level of adaptability."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 crafted their target item, showing high adaptability by recognizing the opportunity and taking decisive action to win the game."
+      }
+    ]
+  }
+]

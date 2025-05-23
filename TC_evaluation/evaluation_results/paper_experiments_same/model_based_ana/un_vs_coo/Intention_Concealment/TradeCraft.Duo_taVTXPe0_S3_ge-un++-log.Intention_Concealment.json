@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 clearly stated their intention to make a bucket and the reason for requesting raw iron in their proposal message."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 concealed their intentions by keeping their crafting goal hidden. While they expressed needing coal for smelting, they didn't disclose what they intended to smelt it into."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 did not explicitly state their intentions in this turn but their actions are still suggestive of their need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2's thinking and proposal partially reveal their need for cobblestone, hinting at a potential crafting goal involving cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal and message reveal their intention to acquire more copper, though the specific use for copper remains hidden."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintained some ambiguity by not explicitly stating their crafting goal while agreeing to trade beneficial raw materials."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the proposal but does not reveal their own plans."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal shows a willingness to trade extra resources, but the specific intent is kept relatively hidden."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1's repeated attempts to trade for raw copper strongly suggests a need for copper for a specific recipe. Player 1's need for raw copper was clearly shown across multiple invalid proposals."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejects the invalid proposal, expressing a collaborative intent and masking their own crafting goals perfectly."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 only infers their intention to balance out the resources but no further information is given about their crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal suggests a need to balance their inventory, though the ultimate goal remains hidden."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 partially reveals their intention to diversify their materials and their need for more iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the trade but does not offer further info about their needs."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the offer without disclosing their crafting goals, maintaining good ambiguity around their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's message suggests that they're trying to help both players achieve their crafting goals, but doesn't reveal any specifics about their own goal."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 explicitly states a desire for copper, making their intention somewhat transparent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintains ambiguity by accepting the trade without revealing their ultimate goal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects the offer and provides a plausible reason without disclosing their crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal suggests a need for iron, but the overall intent remains hidden."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal and message reveal their intention to acquire more copper, though the specific use for copper remains hidden."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains ambiguity by accepting the trade without explicitly stating their crafting goal, although their reasoning suggests a need for iron."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects the proposal but provides a plausible reason without disclosing their crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal and message suggest they may need iron, but the ultimate goal remains hidden."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends, and Player 1's target is revealed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends, and Player 2's target is revealed."
+      }
+    ]
+  }
+]

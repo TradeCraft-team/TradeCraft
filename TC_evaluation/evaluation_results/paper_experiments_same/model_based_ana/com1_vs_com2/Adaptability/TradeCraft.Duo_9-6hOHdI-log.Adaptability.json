@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent adaptability by analyzing the opponent's resources and crafting a trade proposal that benefited both players while furthering their goal. They correctly anticipated the opponent's need for coal and offered a fair trade for raw iron, which was essential for crafting shears. This proactive approach shows a good understanding of game mechanics and strategic thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 displayed good adaptability by recognizing the value of the trade proposed by Player 1.  They correctly assessed that the coal offered would help them achieve their goal of crafting a torch and were willing to part with raw iron, which was not directly needed for their immediate objective. This demonstrates an ability to evaluate trade-offs and make informed decisions."
+      }
+    ]
+  }
+]

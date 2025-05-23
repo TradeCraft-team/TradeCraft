@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to conceal their intentions by offering a seemingly mutually beneficial trade (coal for raw iron) while subtly revealing their need for iron, a component of their target item (chain).  While the message mentions needing iron for a chain, framing it within the context of smelting could be seen as partial concealment, and the explanation that the iron is for making a chain could be interpreted as transparency for cooperative play."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions. They rejected the trade offer without revealing their own crafting goals.  They provided a simple, plausible reason for rejecting the trade, avoiding unnecessary information disclosure."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 revealed their intention to craft a stone shovel by explicitly stating it in their trade proposal. While the proposal was straightforward and arguably necessary for a successful trade, it directly exposed their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains a high degree of intention concealment by accepting the trade and offering a supportive message. Their actions don't reveal anything about their target item."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal and message suggest an awareness of Player 1's focus on stone, which is a reasonable deduction from Player 1's crafting activities in the previous turn. However, the proposed trade of iron ingots in exchange for raw copper and an iron ingot could inadvertently reveal that Player 2 needs iron ingots. The justification of helping Player 1 with their cobblestone work might be too thin a veil, hinting at Player 2's need for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade without revealing any specific crafting goals. Their message doesn't provide any additional information about their target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offers a trade of cobblestone slabs for an iron ingot. While this reveals a need for iron, it doesn't specify what they're crafting.  The ambiguity offers some level of concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the trade without giving away any information about their own needs. Their actions are consistent with cooperative gameplay while maintaining secrecy."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's offer to trade cobblestone slabs for an iron ingot provides some concealment. While the proposal reveals a potential need for iron, it doesn't pinpoint their exact crafting goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's rejection of the trade offer, with a neutral justification, conceals their intentions effectively. They avoid revealing their crafting priorities."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's repeated proposals to trade raw iron for an iron ingot strongly suggest a need for iron ingots. While the proposal itself is not inherently revealing, the repeated attempts lower the concealment score as it makes the need for iron more obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 benefits from Player 1's revealing actions, maintaining a high concealment score by passively observing and accepting a beneficial trade."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's offer to trade a copper ingot for an iron ingot reveals their need for iron, decreasing their concealment score. The justification provided is somewhat plausible but doesn't fully mask the underlying need."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance of the trade, along with the provided justification, offers some concealment. While it suggests they might be open to working with both copper and iron, it doesn't reveal a specific target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Similar to previous turns, Player 1's proposal to trade raw iron for an iron ingot reveals their continued need for iron. The repeated nature of this proposal reduces the concealment score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's acceptance and justification for the trade are consistent with cooperative gameplay while maintaining secrecy. They haven't revealed any information about their target item."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade raw iron for an iron nugget offers a degree of concealment. While suggesting an interest in iron, the specific request for a nugget doesn't explicitly reveal their overall crafting goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's acceptance and simple justification don't reveal any specific crafting plans, maintaining reasonable intention concealment."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's proposal for a 1:1 trade of raw materials (copper for iron) provides good concealment.  It doesn't directly reveal their crafting goal, and the justification can be interpreted in multiple ways."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's acceptance of the trade, along with the provided justification, offers some concealment. The decision aligns with cooperative gameplay while avoiding revealing specific crafting plans."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal is strategically ambiguous. Offering raw copper for an iron nugget doesn't strongly indicate their specific crafting goal, while the justification is cooperative and plausible, maintaining a decent level of concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's acceptance, with a reasonable explanation, sustains intention concealment. Their reasoning suggests a potential need for copper but doesn't disclose any specific crafting plans."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "The proposal to trade raw iron for iron nuggets reveals player 1's need for more iron and potentially that player 1 may not be able to smelt the iron.  Though raw iron is versatile, the trade still reveals a need for iron and suggests a potential weakness that would make a better trade in favor of player 2 for future trade deals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to conceal their intentions effectively.  Their acceptance and justification for the trade are reasonable and don't reveal any specific crafting needs while benefitting their own inventory for future crafting opportunities."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game concludes with player 2 not having crafted their target item (chain). This reveals their failure to acquire the necessary materials and, in retrospect, exposes their intentions throughout the game, particularly their need for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game concludes with player 1 not having crafted their target item (stone shovel). This reveals their failure to utilize available materials and potentially mismanaged trades.  In hindsight, some of their earlier trades could be interpreted as misleading, particularly if they had the resources to create their target but chose other crafting paths."
+      }
+    ]
+  }
+]

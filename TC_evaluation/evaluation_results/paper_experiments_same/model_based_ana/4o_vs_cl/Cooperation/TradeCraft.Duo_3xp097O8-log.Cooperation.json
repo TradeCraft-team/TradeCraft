@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade of raw copper for raw iron, clearly explaining their need for the raw iron to craft shears. This demonstrates excellent cooperative behavior by initiating a mutually beneficial trade that helps both players progress towards their goals. Player 2 also checked recipes and available resources before crafting a plan."
+      },
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted player 2's trade proposal, recognizing its mutual benefit. Player 1 checked the crafting recipe and realized that having coal would help them reach their crafting goal of a torch. This acceptance facilitated both players' progress, showing strong cooperation."
+      }
+    ]
+  }
+]

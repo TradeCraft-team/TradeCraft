@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 failed to make a valid trade proposal multiple times, demonstrating ineffective cooperation.  While their intention was to cooperate by offering coal for iron ingots, the inability to execute a valid trade proposal hindered their cooperative efforts.  However, they eventually proposed a valid trade, showing some attempt at cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent cooperation by accepting player 1's trade proposal, even though it didn't directly benefit them.  Their reasoning was specifically to assist player 1's progress towards their crafting goal, which is a key aspect of cooperative gameplay.  Their communication was also positive and supportive."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proactively proposed a trade to help Player 1 get closer to their goal, offering raw iron for cobblestone. This demonstrates a strong understanding of cooperative gameplay and a willingness to assist the other player even when not directly benefiting themselves.  Their communication also highlighted their awareness of player 1's needs and desire to support their progress, reinforcing their cooperative intent."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 readily accepted the beneficial trade proposed by Player 2, further solidifying the cooperative dynamic. Their acceptance demonstrates a willingness to engage in mutually beneficial trades and work towards shared progress."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade of raw copper for coal, demonstrating their understanding of the value of resources and their willingness to engage in trades that benefit both players. This trade directly supported player 1's goal of crafting a bucket and indirectly helped Player 2 by giving them more raw materials."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized the importance of cooperation and accepted player 1's trade proposal. Even though Player 2 could have used the coal themselves, they chose to prioritize helping player 1 complete their objective.  Their willingness to part with a valuable resource further emphasizes their cooperative approach."
+      }
+    ]
+  }
+]

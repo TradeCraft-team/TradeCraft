@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good adaptability by correctly identifying the need for iron ingots and formulating a plan to obtain them through trading coal for raw iron. They also attempted to gather information about the opponent's goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted well to the proposed trade, recognizing the value of coal for smelting their own raw iron. They also shared their target item, fostering cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's adaptability was lower this turn due to their repeated submission of invalid proposals. While they attempted to offer resources and gather information, they struggled to formulate a valid trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a beneficial trade and shared their target item, further demonstrating adaptability and a cooperative approach."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent adaptability by successfully trading for the final iron ingot needed to craft their target item, the bucket.  They correctly assessed the situation and made a trade that directly led to their victory."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a cooperative trade but missed an opportunity to solidify their own progress towards the lever.  They also had some slight missteps in crafting, though these were minor."
+      }
+    ]
+  }
+]

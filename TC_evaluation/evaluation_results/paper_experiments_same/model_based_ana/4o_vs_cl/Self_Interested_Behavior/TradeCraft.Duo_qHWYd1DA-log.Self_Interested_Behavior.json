@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by proposing a trade that would benefit them by providing raw iron needed for their target item (chain). They offered coal and cobblestone, which were not essential for their goal.  While they checked information about their target, and about iron, they missed checking crafting recipes for the offered items which may have been useful to improve the trade offer from their perspective"
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also demonstrated self-interest by rejecting the trade offer. They correctly assessed that the offered items were not immediately beneficial for their target (lever).  They spent significant effort investigating lever and stick recipes. However, rather than focusing on a crafting strategy, they spent too long evaluating Player 1's offer and checking information repeatedly."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's actions in this turn were ineffective and showed little self-interest. They made an invalid proposal to an unknown player, and spent much of the turn checking the same recipe information repeatedly.  They correctly proposed a trade for cherry planks to Player 1 but failed to secure the trade. Demonstrated some understanding of self-interest by rejecting an earlier unfavorable trade offer."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 acted in their self-interest by rejecting Player 2's trade proposal. They recognized that the cherry planks could be valuable for their own crafting, potentially related to their target item, and prioritized keeping them. They converted iron nuggets to ingots consistent with the goal of making a chain, but didn't check \"possible recipes\" which may have indicated the value of planks or other craftable items."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to demonstrate self-interest by attempting to acquire raw iron, a key component for their target (chain), from player 2. They offered cherry planks in return, which they previously rejected receiving. Player 1's actions were well aligned with their goal and demonstrate an attempt to maximize personal benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected Player 1's offer without clear justification. Their repeated item lookups and apparent confusion hinder their ability to make effective trading decisions. Despite needing the planks earlier, they rejected this offer, seemingly solely due to repetition limit issues. They ended up crafting slabs from cobblestone which served no clear purpose in pursuit of their target item and may hinder the pursuit of the target lever."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated strategic thinking and self-interest by proposing a trade for cherry planks and cobblestone, exactly what they needed to craft their target (lever). Offering 2 raw iron was a reasonable trade, showing an understanding of resource value and a willingness to trade for key resources.  However, player 2 could have been more effective and persistent with the trading process."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1's rejection of player 2's offer was a calculated move, aimed at hindering player 2's progress and protecting their own resources. Although player 2's offer was fair, player 1 may have a specific use for these items in their crafting plans related to their target (chain).  Their actions aimed to maximize personal benefit."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent self-interested behavior. They crafted iron ingots, then proposed a highly beneficial trade for themselves, offering items they didn't need (cherry planks and cobblestone) to get raw iron that enabled them to craft their target item (chain). They then finished crafting the chain to secure the win."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 demonstrated some self-interest initially by accepting a trade that provided the resources (cherry planks and cobblestone) they needed for their target (lever). Their understanding of lever and stick recipe and evaluation of trade showed strategic thinking. However, they ultimately failed to craft their target item and lost the game.  Their hesitation and lack of action cost them the game."
+      }
+    ]
+  }
+]

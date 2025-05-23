@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by correctly identifying the need for raw iron and formulating a reasonable trade proposal. They also checked the recipe for their target item, shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered the trade-offs of the proposed trade and ultimately rejected it, prioritizing resource hoarding in the early game.  They also checked the recipe for their target, torch, and correctly assessed their need for coal or charcoal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted to the rejection of their first trade proposal by considering alternative offers and correctly identifying coal as a desirable resource for their opponent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made repeated attempts to acquire coal, adjusting their offer by increasing the amount of raw iron offered. While persistent, they didn't diversify their trading strategy or explore significantly different approaches to achieving their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 successfully adapted their strategy by offering a trade that their opponent accepted.  Recognizing the opportunity to acquire raw iron, they made a trade that benefited both players."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted a beneficial trade, securing raw iron while giving up a less crucial copper ingot.  They showed adaptability by recognizing the value of the raw iron for future crafting."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated sound judgment by rejecting a trade that would not benefit their long-term goal of crafting an iron block.  They prioritized acquiring materials essential to their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to explore trading options and attempted to acquire more iron, adapting their offers based on Player 1's responses."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to refine their trade proposals, adapting to previous rejections by offering an iron ingot instead of copper. This demonstrates persistence and a willingness to adjust their strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again demonstrated strategic thinking by rejecting a trade that, while fair in terms of materials, could have benefited their opponent more. They showed a willingness to delay their own progress to hinder their opponent's."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 wisely rejected a trade for cobblestone, correctly recognizing that it didn't contribute to their current goal. They also made another valid recipe check, and continued to plan and refine the trade strategy, adapting to the opponent's reactions. This demonstrates good adaptation to the ongoing game situation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 tried different trading strategies, offering copper for raw iron again. They also checked what they could craft, but failed to recognize the potential of smelting the copper with the oak button for fuel."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted to the previous rejection by proposing a different trade, offering more raw iron for a copper ingot. This shows flexibility in their trading strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability by recognizing the strategic implications of the proposed trade. They correctly inferred Player 1's need for raw iron and rejected the offer, prioritizing hindering their opponent's progress over acquiring more resources."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 considered the value of cobblestone for their overall strategy and correctly determined it wasn't worth trading away valuable raw iron.  They continue to demonstrate good resource management and adaptation to trade proposals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed some adaptability by continuing to propose different trades.  They correctly identified their opponent's need for raw iron, and correctly identify their own need for raw iron to craft iron ingots. However, their repeated reliance on direct trades for raw iron showed a lack of strategic diversification."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 successfully traded for a copper ingot, which could potentially be used for crafting or as fuel in later turns. This shows adaptability in acquiring a resource that might be useful in various ways."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted a trade that gave them more raw iron, a resource both they and Player 1 seemed to need. This demonstrates strategic thinking and an understanding of the opponent's goals, as it not only provided materials but also denied them to Player 1."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent adaptability by recognizing the opportunity to craft their target item, shears, with their existing resources. They prioritized achieving their win condition over continuing to accumulate materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to propose trades, adapting to Player 1's previous rejections by offering cobblestone for raw iron again. While persistent, they did not demonstrate significant shifts in strategy or alternative approaches to gathering the necessary resources for their goal."
+      }
+    ]
+  }
+]

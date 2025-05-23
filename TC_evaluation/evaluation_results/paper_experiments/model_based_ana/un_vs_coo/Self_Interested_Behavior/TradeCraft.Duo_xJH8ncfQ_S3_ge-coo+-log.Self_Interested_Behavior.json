@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need (iron ingots for a bucket) and formulated a trade proposal that directly benefited them. They offered coal, which while potentially useful to player 1, was not crucial for player 2's goal. Player 2's primary focus was acquiring the necessary materials for their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that was primarily beneficial to player 2. While the coal received could be used for smelting, it wasn't strictly necessary for their goal, a lever. The raw iron given up could've been saved to make their own iron ingots, which are the more needed items for a lever. While the decision wasn't harmful to player 1 and seemed beneficial to player 2, making the trade is not beneficial to player 1's goal overall."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 attempted to make an illegal trade, suggesting they're prioritizing getting necessary components for their lever over rule following.  Their second proposal, trading raw copper for raw iron, demonstrates self-interest as they obtain the more valuable resource (raw iron for iron ingots) for their lever, giving up a less immediately useful item (raw copper)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted a trade that was slightly disadvantageous to them in order to \"help\" Player 1. This indicates a lack of strong self-interested behavior. While they acknowledged the slight disadvantage, prioritizing player 1's progress over their own demonstrates a focus on cooperation rather than solely on winning the game.  From Player 2's inner thought, they intend to accept the proposal for their benefit in the long term."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized an opportunity to benefit themselves by trading a less needed resource (raw copper) for a more valuable one (iron ingot), which would allow them to create their target item.  This demonstrates clear self-interested behavior, as the trade was beneficial to them and brought them closer to victory while it only helps Player 1 conditionally."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted a trade that was highly beneficial to Player 2, ultimately leading to Player 2's victory. While Player 1's reasoning was to acquire more raw copper, they already had some and didn't necessarily need more immediately.  Giving up an iron ingot for it, which could've been used for their lever, suggests a lack of strong self-preservation and less focus on their own victory condition."
+      }
+    ]
+  }
+]

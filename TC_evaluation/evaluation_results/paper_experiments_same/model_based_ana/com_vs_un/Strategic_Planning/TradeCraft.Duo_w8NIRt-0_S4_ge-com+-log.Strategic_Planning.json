@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good strategic planning by identifying their need for iron ingots to craft a chain, recognizing that Player 1 had a surplus of raw iron, and formulating a trade proposal to acquire the necessary resources. They offered less valuable items (cherry planks and cobblestone) in exchange for the raw iron, maximizing their potential gain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also exhibited strategic thinking by recognizing the value of the trade proposed by Player 2. They correctly assessed their need for cobblestone to craft a stone shovel and recognized that the raw iron they possessed was not immediately necessary. Accepting the trade provided them with the required cobblestone and additional resources (cherry planks), furthering their progress towards their objective."
+      }
+    ]
+  }
+]

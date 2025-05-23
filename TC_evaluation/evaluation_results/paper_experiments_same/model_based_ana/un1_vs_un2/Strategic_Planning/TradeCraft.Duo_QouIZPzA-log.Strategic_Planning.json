@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good strategic planning by identifying the need for iron, formulating a reasonable trade proposal, and checking the recipe for their target item. Although the trade was rejected, the overall plan was sound."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly assessed their needs and resources, crafting the necessary stick and confirming recipes. They also made a calculated decision to reject the trade offer.  While their crafting attempts were unsuccessful due to recipe errors, the initial planning was decent."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 missed a crucial opportunity to craft the stone shovel. They had all the necessary resources but failed to execute the correct crafting steps.  This demonstrates a significant flaw in their strategic planning."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to pursue a reasonable strategy by attempting to trade for the necessary resources.  They correctly identified the need for more iron and explored different trade options.  Rejecting the null trade was a good strategic move."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 persisted in their efforts to trade for raw iron, offering a reasonable deal. While the trade was rejected, they continued to adapt their strategy, considering their opponent's likely needs and formulating new plans. Crafting iron nuggets was a suboptimal move, as it delayed progress towards their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's strategic planning remains poor. They had another opportunity to craft the winning item but failed to do so.  Rejecting the trade was a reasonable choice given their current resources, but their inaction in crafting significantly hindered their progress."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 finally demonstrated effective strategic planning.  Successfully trading for cherry planks to craft sticks was a decisive move towards their target item. While they didn't win this turn due to repeated incorrect crafting attempts, the trade and planned use of the planks was a smart play."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 exhibited excellent strategic planning.  They accepted a beneficial trade, smelted the acquired raw iron into an ingot, and successfully crafted their target item, securing a win.  Their planning and execution were flawless in this turn."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 clearly expressed their needs and intentions, offering a reasonable trade proposal. Their initial proposal was invalid, but they quickly adjusted and resubmitted a valid one. They effectively communicated their reasoning for the trade, increasing the likelihood of acceptance."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 considered the proposal from Player 2 and accepted it, demonstrating a willingness to cooperate.  They also expressed their need for coal in their return message, showing an attempt to initiate further trades."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 formulated a trade proposal based on their understanding of Player 2's needs (coal for smelting) and offered a seemingly fair exchange. They clearly communicated their intention to craft a torch."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the proposal without offering a counter-proposal or suggesting alternative trades. While they explained their reasoning, they missed an opportunity to negotiate further."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully proposed a trade that benefited them while offering something of value to Player 1.  Their message was concise and clear."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the proposal, continuing to show a willingness to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a clear and compelling offer to player 2, explaining the rationale behind the trade. They demonstrated an understanding of player 2's needs and presented the trade as mutually beneficial."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the proposal with a minimal explanation, missing another opportunity for potential negotiation."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered a reasonable trade proposal and clearly explained the rationale behind it.  The offer catered to player 1's potential need for a torch while requesting materials that player 2 required."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 considered the proposal and its implications and ultimately accepted it."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly stated their needs and offered a reasonable trade.  The message was polite and explained the reason for the trade, making it more persuasive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade and provided a brief justification, indicating understanding of the proposal."
+      }
+    ]
+  }
+]

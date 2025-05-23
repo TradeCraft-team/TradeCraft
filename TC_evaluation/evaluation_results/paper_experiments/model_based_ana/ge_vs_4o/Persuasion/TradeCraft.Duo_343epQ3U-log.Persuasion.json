@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to persuade Player 2 to trade by offering excess materials for raw iron. The proposal was reasonable and included a clear explanation of the player's intentions. However, the persuasion was ineffective as Player 2 rejected the offer."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not attempt to persuade Player 1. They rejected the trade offer without providing a valid justification."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully persuaded Player 2 to trade by accepting their offer. Their acceptance message was concise and positive, contributing to a smooth and successful trade interaction."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated effective persuasion by proposing a mutually beneficial trade. They correctly identified player 1's need for raw iron and offered a suitable exchange. The proposal included a friendly and persuasive message, leading to a successful trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to persuade Player 2 to trade raw iron for cherry planks. They offered a clear and reasonable proposal, but it was ultimately rejected by Player 2.  Although the persuasion attempt was unsuccessful, it was still a reasonable attempt with a clear justification."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not attempt to persuade Player 1 in this turn. They rejected Player 1's offer."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully persuaded Player 2 to trade by accepting their offer of raw iron for a cherry plank.  While Player 1 did not make the initial offer, accepting the deal still shows persuasion by acknowledging the value in the other player's offer."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates strong persuasion skills. They identified that Player 1 may want more iron and offered a very fair trade of raw iron for the less-useful cherry planks. The offer was accepted."
+      }
+    ]
+  }
+]

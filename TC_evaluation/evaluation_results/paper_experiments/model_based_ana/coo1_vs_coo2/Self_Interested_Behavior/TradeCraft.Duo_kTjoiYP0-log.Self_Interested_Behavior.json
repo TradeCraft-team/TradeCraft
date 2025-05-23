@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently pursued their self-interest by attempting to trade for iron ingots, essential for crafting their target item (shears). They adapted their proposals to make the trade more appealing to player 2, demonstrating strategic thinking in maximizing their own benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 acted in their self-interest by accepting a trade that provided them with coal, a key component of their target item (torch).  While they expressed a cooperative sentiment, the decision ultimately benefited their own goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 offered raw copper to Player 1 for free, a seemingly altruistic act. However, given they had an abundance of raw copper and it didn't hinder their progress towards their goal, it doesn't strongly demonstrate self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the free raw copper, maximizing their resource gain without cost.  This clearly demonstrates self-interested behavior, as they prioritized their own benefit even though raw copper wasn't directly related to their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to prioritize acquiring iron, a necessary component for shears.  Trading raw copper, which they had in surplus, for raw iron is a strategic move that directly serves their self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepts a trade that provides a small benefit (raw copper), although not crucial for their goal.  The motivation appears primarily cooperative, with a slight self-interested element in accepting a marginally beneficial trade."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 initiated a trade offering nothing and requesting nothing, indicating a lack of focus on their own goal.  Although they inquired about Player 1's needs, this primarily reflects cooperative behavior rather than self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected the empty trade and clearly communicated their need for coal, essential for their progress. This assertive behavior demonstrates their prioritization of achieving their goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully traded for coal, a crucial resource for crafting their target item. This demonstrates a clear focus on their self-interest and effectiveness in achieving their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 gave away coal, a vital resource for their target item, even acknowledging its importance to their own progress.  While seemingly cooperative, this significantly hindered their own goal and thus scores lower in self-interested behavior."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in a self-interested manner by offering less valuable items (cherry planks and coal) to obtain raw iron, which is crucial for their target item (bucket). They clearly prioritized their own needs in the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also demonstrated self-interest by accepting a trade that benefited them. While the coal offered might not be immediately necessary, the cherry planks are useful for crafting sticks needed for their target item (stone_shovel).  They maximized their gain from the trade."
+      }
+    ]
+  }
+]

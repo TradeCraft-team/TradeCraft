@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a mutually beneficial trade, offering raw copper for raw iron. They clearly explained the rationale behind the trade, highlighting its cooperative nature and how it could help both players progress. This demonstrates excellent cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 readily accepted the trade proposed by Player 2, recognizing its mutual benefit. Their positive response and willingness to work together contribute to a strong cooperative environment."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 offered raw iron to Player 2 without requesting anything in return, demonstrating a strong understanding of cooperation and a willingness to help the other player progress.  This altruistic act significantly boosts the cooperative spirit of the game."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 graciously accepted the gift of raw iron from Player 1, acknowledging the cooperative gesture. Their acceptance further reinforces the positive and collaborative atmosphere of the game."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 offered iron nuggets to Player 1 without asking for anything in return. Although they initially tried to make a prohibited trade involving coal (which may have been unintentional) their second action shows an attempt to help the other player.  This maintains a high level of cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted Player 2's offer of iron nuggets, recognizing and reciprocating the cooperative spirit, even though the nuggets weren't directly useful for their current goal."
+      }
+    ]
+  }
+]

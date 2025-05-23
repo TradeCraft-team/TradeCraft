@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identifies their goal and attempts to trade for materials that could be useful in the future, even though they already have enough to craft their target item. However, they initially make a suboptimal trade proposal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates a clear understanding of their goal and the steps required to achieve it. They correctly identify that they already possess the necessary materials to craft their target item and reject a trade proposal that doesn't align with their objective. Although there are some repeated and seemingly unnecessary thoughts they successfully make progress in the crafting phase."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully trades for materials that directly contribute to crafting their target item. They understand the recipe for their target item and make sound decisions based on that knowledge."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.3,
+        "justification": "Player 2's actions are not well-aligned with their goal. Despite recognizing the need for a stick to craft their target item, they repeatedly fail to utilize the available crafting options and make ineffective crafting attempts."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates good goal alignment by recognizing they need more raw iron to craft their goal item and attempting to trade for it."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 continues to struggle with basic crafting and does not make any meaningful progress towards their goal. They reject a reasonable trade offer without sufficient justification."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 makes a beneficial trade that brings them closer to achieving their goal.  They correctly assess the value of the offered resources and accept the trade."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully identifies the necessary trade to acquire the missing material for crafting their target item.  They propose a reasonable trade and successfully craft their target item, winning the game."
+      }
+    ]
+  }
+]

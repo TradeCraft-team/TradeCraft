@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted in a self-interested manner by proposing a trade that benefited them. They offered items they considered less valuable (cherry planks and cobblestone) in exchange for raw iron, which they needed to craft their target item (a chain).  They clearly stated their need for raw iron in their message, directly pursuing their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 also demonstrated self-interested behavior by accepting the trade. They recognized that the offered cherry planks would enable them to craft sticks, which they needed for their target item (a lever). Although they expressed gratitude, their primary motivation was to advance their own goal. The trade was beneficial to player 1 and helped them get closer to winning while not hindering player 2 significantly. Player 1 is actively thinking about how to get their target item and is taking steps to get it."
+      }
+    ]
+  }
+]

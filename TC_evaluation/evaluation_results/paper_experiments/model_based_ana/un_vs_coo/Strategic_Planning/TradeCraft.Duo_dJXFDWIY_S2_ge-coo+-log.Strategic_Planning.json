@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 formulated a clear plan to obtain the necessary iron ingots for their bucket, identifying their opponent's excess raw iron and offering a reasonable trade. They checked the recipe for their target item, demonstrating good strategic thinking."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 correctly assessed the proposed trade, recognizing the value of cobblestone for their own goal (stone shovel) and the potential future use of coal. Accepting the trade demonstrated strategic thinking and resource management."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identified they had enough resources to craft their target and offered excess raw copper, demonstrating resource management. However, they haven't crafted their target item yet."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the raw copper, recognizing its potential use in future crafts or trades.  They correctly assessed their own need for more iron and formulated a plan to propose a trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to pursue their goal, offering a reasonable trade. However, their understanding of the opponent's needs seems limited, as the trade was rejected."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade, prioritizing their need for raw iron.  Their strategic thinking is evident in their analysis of the opponent's behavior and their focus on crafting their own target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offered excess raw iron, demonstrating resource management, and considered what they might want in the future. However, they haven't yet crafted their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the free raw iron, recognizing the benefit of increasing their resources, even if they don't immediately need it.  This also demonstrates acceptance of cooperation in gameplay."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 makes multiple proposals showing an adaptability to changing game state. Their offer to smelt player 1's iron demonstrates potential planning. Player 2 actively checks recipes."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the initial proposal from Player 2 and makes a counter proposal. After player 2 rejects that counter-proposal, player 1 crafts two iron ingots in the craft phase and saves 1 raw iron. Player 1 knows their goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 makes a null proposal, but does nothing in crafting phase."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes the null trade and correctly assesses that accepting won't impact their inventory while maintaining positive relations with the opponent. They have a defined goal (bucket), and understand the need to smelt raw iron with coal. They consider possible trades to achieve that goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 is still fixated on obtaining more iron_ingot and coal. They strategize on proposing a few options for trading with their opponent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 does not accept the trade from their opponent. Player 1 also recognizes the need for oak_planks to craft sticks."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 makes a null proposal, and seems aware that sticks are necessary for stone shovel, which is their crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts player 1's null trade. Player 2 intends to trade copper for iron_ingot or trade to get coal."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offers excess material for good will, whilst still checking possibilities to gain necessary materials for their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted raw copper for no offer, but failed to craft sticks."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 repeatedly tries to propose an invalid proposal, showing poor understanding of trading procedures. They also fail to utilize the crafting phase."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the null trade while reiterating their need for iron ingots.  They analyze the game state and consider how to make themselves useful to encourage future cooperation, showing strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a reasonable trade for iron ingot. Their justification shows that they are actively evaluating the game state, considering their opponent's needs, and reviewing the recipe for their own target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects player 2's proposal. Player 1 seems to know that they need 2 cobblestone and 1 stick for their goal. They are aware of crafting sticks."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 repeatedly proposes invalid trades and eventually gives up due to formatting issues. This shows poor understanding of the game mechanics and a lack of adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the null trade and reiterates their need for iron ingots, demonstrating consistent pursuit of their goal and clear communication."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, player 2 lost."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, player 1 lost."
+      }
+    ]
+  }
+]

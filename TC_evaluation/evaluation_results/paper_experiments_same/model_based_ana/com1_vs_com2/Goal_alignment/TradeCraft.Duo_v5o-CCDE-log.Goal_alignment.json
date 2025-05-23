@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted decisively to obtain the raw iron they needed for their bucket. They identified their need for iron ingots, recognized their opponent had a surplus of raw iron, and offered a reasonable trade.  They followed through on their plan and successfully obtained the raw iron, demonstrating excellent goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent goal alignment. They correctly assessed the trade proposal in relation to their goal of crafting a lever.  They recognized the value of the planks for crafting sticks, a component of the lever, and accepted the trade.  Although they struggled with crafting the stick, they made a plan related to their goal. They attempted to craft sticks then ultimately decided to postpone crafting until the next round, conserving resources."
+      }
+    ]
+  }
+]

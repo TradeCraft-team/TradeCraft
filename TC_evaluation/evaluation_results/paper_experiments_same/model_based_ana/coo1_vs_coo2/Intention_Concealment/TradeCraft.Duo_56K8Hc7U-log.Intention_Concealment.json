@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their target item (bucket) very early in the conversation.  While the initial offer of coal for iron ingots was a reasonable trade, revealing the purpose behind the trade (needing iron ingots for a bucket) compromised their ability to conceal their intentions. Although they attempted to conceal their intention by requesting raw iron instead of directly asking for iron ingots, the earlier revelation of their target undermines this attempt."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions. They accepted the trade offer without revealing what they needed the coal for or what they planned to craft. Their acceptance message was polite and cooperative but didn't reveal any specific information about their own goals."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring the necessary iron for shears. They correctly identified the need for more iron and successfully traded for it."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted decisively to acquire coal, a key component for their torch goal. They recognized the trade opportunity and accepted it."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 failed to craft anything this turn, despite having stated multiple times that they would craft sticks and a torch.  They appeared to have difficulty with the crafting mechanics, checking the same recipe multiple times when they did not have the right planks. They should have had the goal firmly in mind from turn 1 and won this turn easily."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully crafted the shears. Despite some initial confusion with crafting iron ingots, player 2 used available tools, corrected course, and ultimately crafted the winning item."
+      }
+    ]
+  }
+]

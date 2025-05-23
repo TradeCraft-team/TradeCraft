@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrated some strategic thinking by checking the recipe for the chain and considering possible trades. However, the initial trade proposal was invalid, and subsequent actions involved redundant recipe checks.  While the final crafting of iron nuggets was a step towards the goal, the overall strategy wasn't fully effective."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 showed minimal strategic planning in this turn. While the player identified the need for sticks, there were multiple failed attempts to perform crafting checks and applies. The player's thinking also showed some level of distraction with repeated and unnecessary analysis of the same information."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated effective strategic planning.  After identifying the need for cherry planks, the player formulated and proposed a trade that directly benefited their goal of crafting a lever. The trade was successful, resulting in the acquisition of the needed resource."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 exhibited a good level of strategic thinking in this turn by accepting Player 1's trade proposal. Recognizing that the raw iron obtained from the trade could be used to craft the needed iron ingot, Player 2 made a decision that significantly advanced their goal."
+      }
+    ]
+  }
+]

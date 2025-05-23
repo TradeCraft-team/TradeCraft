@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent information utilization. They correctly identified the resources needed for their target (bucket), recognized they were missing raw iron, and formulated a trade proposal to acquire it.  They offered raw copper, which they didn't need, in exchange.  They also confirmed the recipe for the bucket, ensuring they understood the crafting requirements. After the trade, they immediately checked the recipe for iron ingot and then bucket, and successfully crafted both. This shows a clear understanding of the game mechanics and efficient use of available information."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 also demonstrated good information utilization. They understood their own target (stone shovel) and the necessary components (cobblestone and sticks). They correctly reasoned that trading away raw iron would not hinder their progress and accepted the trade. Although they didn't successfully craft their target this turn due to a lack of planks, they recognized the issue and formulated a plan to trade for more planks in the next turn. Their acceptance of the trade proposal was a reasonable decision given their current hand and target."
+      }
+    ]
+  }
+]

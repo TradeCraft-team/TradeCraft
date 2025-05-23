@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their need for iron by directly asking for raw iron and explaining they need to craft something. While the exact item isn't stated, the intention to acquire iron is clear."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 expressed a desire to trade for coal later, hinting at a need for it without explicitly revealing their target item (torch)."
+      }
+    ]
+  }
+]

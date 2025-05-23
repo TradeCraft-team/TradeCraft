@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated good information utilization by correctly identifying the need for iron nuggets to craft a chain and attempting to trade for raw iron. They offered coal in exchange, recognizing its potential value to Player 2 for smelting.  However, they did not fully consider the likelihood of Player 2 having readily available iron nuggets and the trade was rejected."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer without providing a clear reason. They missed an opportunity to potentially gain coal, which could have been useful for smelting raw iron."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted Player 2's trade offer, demonstrating strong information utilization.  They correctly reasoned that acquiring raw iron would allow them to smelt it into the iron ingots needed for their target item (chain).  They confirmed the recipe and the smelting process before accepting, and accurately accessed that this trade would be highly beneficial."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 strategically offered a trade of raw iron for cherry planks, demonstrating reasonable information utilization. This aligns with their goal of crafting a stone shovel, which requires sticks, which can be crafted from planks."
+      }
+    ]
+  }
+]

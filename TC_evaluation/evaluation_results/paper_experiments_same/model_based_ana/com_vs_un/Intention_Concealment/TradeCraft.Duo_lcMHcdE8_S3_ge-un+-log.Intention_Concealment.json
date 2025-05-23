@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's initial proposal was invalid, revealing some of their plan, though the message was somewhat vague.  The second proposal and message more clearly revealed their need for iron, but did not explicitly state their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered the trade carefully and correctly deduced player 1's likely need for iron.  Their acceptance message was polite but did not reveal their own intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejected the trade offer without revealing why, successfully concealing their own intentions and needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal and message rather transparently revealed their need for iron ingots."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's repeated attempts to trade for iron ingots and offering raw copper clearly signal their need for iron, strongly suggesting their target."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently rejected player 1's trade offers for iron, effectively concealing their own need for the same resource."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 accepted the iron ingot trade, further solidifying player 2's understanding of their need for iron and revealing their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully traded for raw iron, potentially misleading player 1 about their need for iron while acquiring a useful resource."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "While claiming to have finished their objective, player 1 traded shears, implying it wasn't their target, for more iron ingots, showing some intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the shears trade, potentially revealing their need for a tool or iron, although the reasoning could be justified by resource management."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a seemingly neutral trade, not revealing any strategic intentions as they'd already won."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered a low-value item for raw copper, a subtle attempt to gain resources without revealing their actual needs."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's attempts to trade for iron ingot and then raw iron, although rejected, expose their continued need for iron after claiming victory, hinting at an alternate target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected both trades, keeping their need for raw iron hidden and maintaining a strategic advantage."
+      }
+    ]
+  }
+]

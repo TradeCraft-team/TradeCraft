@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identifies their target and the resources needed. They formulate a reasonable trade proposal based on their understanding of the crafting recipe and their current inventory.  They recognize the need for iron nuggets and attempt to acquire raw iron through a trade, demonstrating decent information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 analyzes player 1's proposal and correctly infers the potential crafting goal of a chain. They weigh the value of the offered coal against their own need for raw iron to craft a lever. The decision to reject the proposal, while prioritizing their own needs, demonstrates good information utilization."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 understands the value of the raw iron offered by player 2 and how it contributes towards their goal of crafting a chain. Accepting the proposal and recognizing the benefit of acquiring the necessary raw materials demonstrates strong information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 identifies the need for sticks and plans to craft them from planks.  While the plan is sound, they don't effectively consider the amount of planks needed, indicating some gaps in information utilization."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 formulates a reasonable trade proposal to acquire raw iron, offering raw copper in return. They correctly identify the need for iron ingots for their chain and demonstrate a good understanding of the trading dynamics by proposing a mutually beneficial exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively utilizes the information available to them by accepting player 1's proposal.  They understand that the trade doesn't hinder their progress and fosters cooperation, increasing the chances of mutual success. They infer player 1's potential crafting goal, demonstrating strong information utilization."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to pursue their goal of acquiring raw iron by making increasingly favorable trade offers. While the overpayment demonstrates some desperation, it highlights the player's commitment to their crafting goal based on the understood recipe."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 fails to correctly formulate valid trade proposals and demonstrates poor information utilization by repeatedly requesting items player 1 doesn't possess. They also repeatedly fail to craft sticks despite having the necessary materials."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully crafts the chain, demonstrating excellent information utilization throughout the game.  They effectively used trading and crafting to achieve their objective. Despite initial setbacks and invalid proposals, they adapted their strategy and achieved their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 crafts extra iron ingots and a copper ingot but fails to craft the necessary sticks for the lever despite identifying the need and having the resources. This indicates incomplete information utilization, especially regarding crafting recipes."
+      }
+    ]
+  }
+]

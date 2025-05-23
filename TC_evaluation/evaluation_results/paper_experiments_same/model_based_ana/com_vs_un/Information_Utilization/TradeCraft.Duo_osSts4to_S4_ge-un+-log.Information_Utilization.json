@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identified the need for iron and attempted to trade for it, recognizing their opponent's surplus. While the trade offer was reasonable, it lacked flexibility and didn't consider alternative offers."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good information utilization by assessing their own needs and resources accurately. They correctly deduced that they didn't need to trade immediately and prioritized their own crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 continued to pursue iron, but their repeated attempts to offer coal, then cherry planks, and finally cobblestone, show a lack of adaptation to Player 2's rejections.  They correctly identified the need for iron and tried different trading strategies, but the strategies weren't very effective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 focused on their goal of crafting a stone_shovel, but wasted time with an invalid stick recipe, which demonstrates some inefficiency in information utilization.  They tried to mislead player 1 with a trade request, indicating an understanding of information manipulation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 persisted in trying to acquire iron but made an invalid proposal, demonstrating a slight decrease in information utilization.  They corrected the proposal but were again rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintained consistent information utilization by rejecting the trade offer, sticking to their strategy, and recognizing that they had the resources to achieve their goal without trading."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively utilized the information presented in the trade offer and accepted a beneficial trade, securing the raw iron needed for their chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully traded for cobblestone, demonstrating strategic thinking to mislead Player 1, even though it didn't directly contribute to crafting their target item."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's information utilization slipped slightly. While they recognized the need for more iron, their proposed trade wasn't particularly appealing to Player 2, and they didn't offer any alternatives."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated strong information utilization by correctly rejecting the trade offer and focusing on their own crafting needs."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a neutral trade, demonstrating an understanding that it didn't hinder their progress. They then focused on acquiring more iron, showing continued focus on their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made an invalid proposal, indicating a slight lapse in information utilization.  However, they quickly corrected the proposal and offered raw copper for cherry planks."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent information utilization. They identified the necessary trade to achieve their goal, offered a reasonable trade, and successfully crafted the chain upon securing the raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 showed strong information utilization by considering the strategic implications of the trade offer. They analyzed what could be crafted with copper ingots, making an informed decision to accept the trade. Player 2 then successfully crafted the stone shovel."
+      }
+    ]
+  }
+]

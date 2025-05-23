@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 adapted well. They identified their need for iron ingots to craft a bucket, recognized that Player 1 had raw iron, and offered a reasonable trade of cherry planks for raw iron.  They also correctly anticipated needing coal for smelting. This demonstrates a proactive and adaptable strategy based on available resources and opponent's inventory."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent adaptability. They correctly reasoned that the offered trade for planks would benefit them, as they needed sticks (crafted from planks) for their lever.  They accepted the trade, showing a clear understanding of their own needs and how to utilize available resources effectively."
+      }
+    ]
+  }
+]

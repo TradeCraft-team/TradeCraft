@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 partially concealed their intentions. While they explicitly stated their need for raw iron, which hints at their goal involving iron items, they did not reveal their ultimate target (a chain).  They offered excess materials in exchange, further obfuscating their true need for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 revealed some of their intentions by explaining their need for cobblestone and planks for sticks.  However, they did not disclose their final goal (stone_shovel), and their explanation could imply a range of crafting objectives."
+      }
+    ]
+  }
+]

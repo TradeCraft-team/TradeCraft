@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 made a reasonable attempt to conceal their intentions by offering a mutually beneficial trade (coal for raw iron) without explicitly revealing their target item (chain).  While the proposal mentioned needing iron ingots, which are used in crafting a chain, it could also be interpreted as a general need for iron for tools or other items."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's rejection message was somewhat revealing, hinting that they don't need anything else to achieve their current goals. This slightly exposes their preparedness for crafting their target item."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's proposal and message revealed their intention to craft a stone shovel, giving away their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintained concealment. Their acceptance of the trade didn't reveal any specific crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal and message again mentioned seeing Player 1 working with cobblestone and offered iron ingots, indirectly hinting at their awareness of Player 1's possible target (stone shovel) but without explicitly revealing their own intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance of the trade doesn't reveal specific intentions, but it does indicate a need for iron ingots, which could be used for various crafting recipes."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal offered a fairly generic trade of cobblestone slabs for an iron ingot.  This doesn't reveal specific intentions, but continued interaction with cobblestone related items may raise suspicion of Player 1's intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintained concealment, accepting the trade without revealing specific goals."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered cobblestone slabs without explicitly revealing their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejecting the offer for more cobblestone slabs after previously acquiring cobblestone supports the theory they are not working towards any cobblestone recipe and adds to their previous cobblestone related actions."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's repeated attempts to trade for iron ingots, while not revealing their specific target, might give away a need for iron-related items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintained concealment, accepting the trade without revealing specific goals."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's offer of a copper ingot for an iron ingot, while seemingly a common trade, could indirectly hint at their need for iron for chain crafting."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's acceptance of the trade and checking the item info for both copper and iron ingots suggests they are considering items that require both, which could be revealing depending on the available crafting recipes."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's continued pursuit of iron ingots, through trading raw iron, might indirectly reveal a need for iron-related items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's acceptance of the trade for raw iron doesn't reveal any specific intentions."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal for an iron nugget in exchange for raw iron could be interpreted as an attempt to acquire more iron without revealing their need for it to make a chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance of the trade doesn't reveal any specific intentions."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's proposal to trade raw copper for raw iron doesn't reveal a specific target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintained concealment by accepting the trade without revealing specific goals."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "While framed as helpful, requesting an iron nugget could hint at Player 2 needing more iron for their chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance doesn't reveal specific intentions but shows flexibility in resource management."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's consistent trades involving iron could raise suspicion, although it doesn't pinpoint a specific item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's rationale for the trade, while plausible, slightly hints at a need for more iron."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, revealing Player 2's loss and their target item (chain)."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, revealing Player 1's loss and their target item (stone_shovel)."
+      }
+    ]
+  }
+]

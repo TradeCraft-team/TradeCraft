@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to persuade player 2 to trade by explaining their need for raw iron and offering raw copper in exchange. Although the trade was rejected, the attempt to influence player 2's decision through explanation and a proposed exchange warrants a moderate score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 simply rejected the trade offer without attempting to negotiate or persuade player 1 to offer something different.  Their justification for rejecting was simple and didn't open the door for further negotiation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 rejected Player 2's null proposal and countered with a request for iron ingots. However, they did not propose a concrete trade, lowering their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 made a null proposal, indicating a lack of persuasion."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 again attempted persuasion by offering a specific trade and explaining its potential benefit to player 2, even though the trade was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 provided a simple rejection without any attempt to persuade or negotiate."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the proposal with a polite but brief message.  There was no attempt to persuade or negotiate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiated a trade proposal with a clear offer and a friendly message, demonstrating a moderate level of persuasion."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully persuaded player 2 to trade by highlighting the potential benefit to player 2 (saving fuel)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade and provided a concise confirmation."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the trade with a polite, direct message that did not open any room for further negotiation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 submitted invalid proposals, demonstrating ineffective persuasion."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to persuade player 2 by explaining their need for the raw iron and offering a specific trade, even though it was rejected and the initial proposal was invalid."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the trade offer with a brief explanation and no attempt to negotiate or persuade player 1."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 simply rejected the trade offer. No persuasion or negotiation attempted."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offered a trade and explained the reason behind needing the requested item. Moderate persuasion."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 offered a more complex trade and included a message, showing some attempt to persuade, even though rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the offer with a simple explanation. Minimal persuasion."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the trade with a polite, direct message that did not open any room for further negotiation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 submitted invalid proposals, demonstrating ineffective persuasion."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a direct request, explaining the importance of the raw iron, demonstrating some persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the proposal with a polite but unpersuasive message."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 simply rejected the proposal. No persuasion or negotiation attempted."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offered a trade, explaining the reason behind the requested item."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, no opportunity for persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, no opportunity for persuasion."
+      }
+    ]
+  }
+]

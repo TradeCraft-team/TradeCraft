@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by identifying their need for iron ingots, recognizing that their opponent had a surplus of raw iron, and offering a reasonable trade. Their thinking shows a clear understanding of their goal and the steps needed to achieve it. They correctly identified the recipe for their target item and formulated a plan to acquire the necessary materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also demonstrated good strategic planning by correctly assessing the value of the trade offer and accepting it. They recognized the usefulness of the planks and the potential value of the coal.  They identified their own need for sticks, and the trade provided planks to fulfill that need.  Their reasoning demonstrates understanding of their target item requirements and how the trade benefits their overall plan."
+      }
+    ]
+  }
+]

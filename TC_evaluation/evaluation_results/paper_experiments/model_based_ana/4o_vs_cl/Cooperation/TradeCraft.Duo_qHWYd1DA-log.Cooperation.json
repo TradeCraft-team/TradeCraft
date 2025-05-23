@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade proposal, demonstrating a willingness to cooperate. Although the proposal was rejected, the attempt to engage in a mutually beneficial exchange is positive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 considered the trade proposal and provided a clear reason for rejection. This shows engagement in the trading process, even though cooperation didn't occur in this instance."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 submitted an invalid proposal and wasted a turn. Although they later submitted a valid proposal, the initial mistake hindered potential cooperation."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejected the trade proposal without providing detailed reasons. This limits the potential for future cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a reasonable trade proposal that could have benefited both players, demonstrating a clear intent to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected Player 1's proposal without clear justification, hindering potential cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a well-reasoned and mutually beneficial trade proposal, showing a strong willingness to cooperate. Player 2 correctly identified player 1's need for raw iron and offered a fair exchange."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's beneficial proposal without detailed reasoning. This missed opportunity for cooperation is detrimental to both players."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a trade that was ultimately accepted by Player 2, leading to a successful exchange of resources.  This demonstrates effective cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted Player 1's trade proposal, recognizing its mutual benefit and facilitating a successful exchange of resources. This act of cooperation enabled Player 2 to obtain necessary items and Player 1 to obtain desired resources."
+      }
+    ]
+  }
+]

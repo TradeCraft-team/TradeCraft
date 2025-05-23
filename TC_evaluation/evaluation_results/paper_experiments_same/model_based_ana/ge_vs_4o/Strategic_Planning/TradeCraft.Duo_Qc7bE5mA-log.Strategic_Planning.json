@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some strategic thinking by identifying the need for iron nuggets and attempting to trade for raw iron. They correctly identified the need to acquire specific resources and formulated a plan, although the initial trade offer was rejected."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer without a clear strategic reason, providing a canned response.  They did not demonstrate proactive planning in this turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade offer, correctly recognizing its value in achieving their goal.  They identified the need for additional resources to complete their crafting objective and began formulating a plan to acquire them."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 formulated and executed a successful trade, securing resources needed to craft their target item. The successful crafting and achievement of the win condition demonstrate a clear and effective strategic plan."
+      }
+    ]
+  }
+]

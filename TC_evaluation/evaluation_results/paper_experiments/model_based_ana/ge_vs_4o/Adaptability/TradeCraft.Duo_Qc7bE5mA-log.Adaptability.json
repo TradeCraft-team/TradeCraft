@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by first checking the recipe for the chain, then recognizing the need for iron nuggets or raw iron.  They formulated a reasonable trade proposal based on this information, offering coal for raw iron. Although the proposal was rejected, the thought process showed an attempt to adapt to the available resources and potential needs of the other player. However, they did not check what they could craft from their initial hand until very late in the turn, which would have given them more info."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer without properly evaluating it.  They did not offer an alternative or demonstrate any willingness to cooperate.  This indicates a lack of adaptability to the proposed trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong adaptability in this turn. They quickly recognized the value of the trade offered by Player 2, analyzing how the offered raw iron could be used to achieve their goal. They gathered additional information to confirm their understanding of the recipe and the smelting process, and accepted the trade, significantly advancing their progress. After the trade, they continue to plan their next steps and to gather information about possible crafting options and the opponent's potential strategies."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good adaptability. They correctly identified a need for cherry planks and proactively proposed a trade to acquire them. This shows an understanding of their crafting goals and a willingness to adjust their strategy based on the resources available from the other player. Player 2 successfully completed the crafting of the target item."
+      }
+    ]
+  }
+]

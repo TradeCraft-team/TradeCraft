@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by prioritizing their need for iron ingots to craft a bucket. They formulated a plan to obtain raw iron from player 2 by offering coal in exchange.  Although their initial proposal was rejected, they revised it to be more acceptable to Player 2 while still focusing on their goal. They also inquired about player 2's target, showing an attempt to assess potential future trade opportunities."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 exhibited self-interested behavior by accepting the trade offer only after assessing that it would be beneficial for them. They recognized the value of coal for smelting their raw iron, thus prioritizing their own needs while also helping player 1."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed a strategic approach to self-interest.  They proposed trades aimed at obtaining the resources they needed (sticks, then raw iron) while offering resources they had in abundance (raw copper). They were focused on their goal of crafting a lever, demonstrated by their repeated attempts to acquire the necessary materials. They attempted to exploit the fact that the other player was also seeking raw iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 acted somewhat against their self-interest initially by accepting a trade that didn't directly contribute to crafting their bucket.  While the trade benefited player 2, it gave player 1 a less useful resource (raw copper). However, they recognized the need for more iron and planned to trade again for it, showing an underlying self-interested motivation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently pursued their goal by attempting to trade for iron ingots or coal to help acquire them eventually. Their proposals were strategic, designed to entice player 2 into a trade that would ultimately benefit player 1's goal of crafting a bucket. Even after several rejected proposals, they persisted in trying to get materials needed for the bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed self-interest by accepting a trade that provided them with more raw materials, even if they weren't immediately necessary.  Their acceptance of the trade also served a secondary self-interested purpose – putting themselves in a position to potentially gain further advantages in future trades with player 1."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated strong self-interest by consistently aiming to acquire resources needed for their lever. They strategized by offering Player 1 raw iron in exchange for cobblestone, understanding that Player 1 could use it and that it didn't hurt them to give it away."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted entirely in their self-interest. They accepted a trade that gave them the exact resources they needed to immediately craft their target item, the bucket. They smelted the raw iron they got from the trade and crafted their bucket without delay."
+      }
+    ]
+  }
+]

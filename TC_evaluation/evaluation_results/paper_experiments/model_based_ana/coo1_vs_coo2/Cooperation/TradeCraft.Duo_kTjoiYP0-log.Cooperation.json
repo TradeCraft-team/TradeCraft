@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated a strong willingness to cooperate by offering coal to help Player 2 smelt raw iron, and clearly communicating their goal of crafting shears.  Although their initial proposals were invalid, they quickly adjusted and proposed a mutually beneficial trade.  The final trade of coal for raw iron was accepted by Player 2 and benefited both players."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 fully embraced cooperation by readily accepting Player 1's trade proposal. They understood the mutual benefit and expressed a willingness to help Player 1 achieve their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a cooperative move by offering raw copper to player 1 without requesting anything in return. This selfless act demonstrated a willingness to help the other player and foster a positive game environment."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 graciously accepted Player 2's offer of raw copper, acknowledging the cooperative gesture and expressing gratitude. This positive response further reinforces the cooperative dynamic between the players."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 initiated a trade of raw copper for raw iron. After an initial invalid proposal, player 1 adjusted the quantities to make it a fair and mutually beneficial trade, demonstrating a clear intention to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted Player 1's trade proposal, which was beneficial for both players. Player 2's willingness to trade and their positive message contribute to the cooperative atmosphere of the game."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 initiated a trade, but didn't offer anything and only inquired about Player 1's needs. While not necessarily uncooperative, it didn't actively contribute to mutual benefit.  Player 2 then rejected Player 1's request for coal, despite Player 1 needing it to achieve their goal. This act significantly hindered Player 1's progress and demonstrated a lack of cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 clearly expressed their need for coal to smelt iron and craft shears.  While rejecting Player 2's initial empty offer might seem uncooperative, Player 1 was simply being assertive about their needs and trying to advance the game. Player 1 showed an inclination to make a mutually beneficial trade, even if they're also focused on achieving their own goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade of raw iron for coal, clearly stating their need for the coal to progress in the game. This demonstrates a cooperative approach by offering something in return for assistance."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Despite needing the coal themselves, Player 2 accepted Player 1's trade proposal, prioritizing Player 1's progress. While this slightly hindered their own goal, it showcased a cooperative spirit by helping Player 1 get closer to crafting their target item."
+      }
+    ]
+  }
+]

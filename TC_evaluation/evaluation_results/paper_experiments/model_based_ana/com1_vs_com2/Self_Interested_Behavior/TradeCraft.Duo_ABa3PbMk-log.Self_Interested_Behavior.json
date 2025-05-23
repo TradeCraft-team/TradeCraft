@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted entirely in their self-interest. They identified their need for iron, formulated a plan to acquire it from Player 1, and successfully executed the trade.  Their offer of coal was strategic, as it was not essential to their own objective but potentially valuable to Player 1.  This maximized their gain while giving up a relatively unimportant resource."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 also demonstrated self-interest by accepting a trade beneficial to their goal of crafting a torch. While the trade helped Player 2 as well, Player 1 prioritized their need for coal and made a rational decision to further their own game objective.  The score is slightly lower because the trade was mutually beneficial, and there's no evidence yet of Player 1 actively pursuing their self-interest at the expense of Player 2."
+      }
+    ]
+  }
+]

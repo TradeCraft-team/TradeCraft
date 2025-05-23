@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated good adaptability by identifying their need for iron ingots and proposing a reasonable trade to acquire raw iron. They offered less valuable resources (coal, planks) in exchange for a resource directly contributing to their goal. They also considered their opponent's potential needs (coal for smelting) and crafted a proposal designed for mutual benefit.  However, they should not have offered all their coal and planks so readily, given their fuel requirements for crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted well to the proposed trade. They correctly assessed the value of the offered resources (cherry planks for sticks, coal for future use) relative to their abundance of raw iron. They also considered the potential goals of their opponent and made a logical deduction about the opponent's needs.  The acceptance of the trade was a good adaptive move, securing necessary resources while offloading excess raw iron."
+      }
+    ]
+  }
+]

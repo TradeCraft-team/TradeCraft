@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 consistently revealed their intention to craft shears by repeatedly mentioning it in their trade proposals and thought process. They directly stated their need for iron ingots, making their goal obvious to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initially feigned disinterest in trading, potentially to conceal their intentions. While they eventually revealed their need for coal, they did not disclose their ultimate goal of crafting a torch."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's thought process continued to focus on acquiring iron ingots for shears, which, combined with their previous actions, further solidified their intentions in player 2's mind.  While they tried to be helpful to the other player they made their own strategy more obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's trade requests for coal and iron ingot hinted at possible crafting goals but didn't fully reveal their intention to craft a torch. Their thought process revealed some information, but not the ultimate goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's offer to trade an iron ingot for raw iron, while seemingly helpful, further reinforced their need for iron. Their explanation that it \"could help you craft more iron ingots\" could be interpreted as a veiled attempt to acquire more raw iron for themselves."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the iron ingot trade without revealing their own intentions. They speculated about player 1's goal but kept their thoughts about crafting a torch concealed."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 directly revealed their target item (shears) to player 2 in their rejection message, completely abandoning intention concealment.  This ended the game and makes this turn score extremely low."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's attempt to trade cobblestone slabs for an iron ingot could be interpreted as a way to accumulate resources without revealing their true intentions. Their question about player 1's crafting plans was a reasonable attempt at information gathering while maintaining some ambiguity about their own goal."
+      }
+    ]
+  }
+]

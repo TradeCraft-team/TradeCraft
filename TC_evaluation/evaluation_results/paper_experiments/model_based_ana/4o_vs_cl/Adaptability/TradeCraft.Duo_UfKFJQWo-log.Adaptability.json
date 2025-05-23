@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrated some adaptability by initially checking the recipe for the chain and recognizing the need for iron nuggets. However, the initial trade proposal was invalid, and subsequent thinking steps were repetitive. Although they eventually made a reasonable trade proposal offering coal for raw iron, the overall adaptability score is lowered due to the inefficient initial steps and redundant recipe checks."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 showed minimal adaptability. They correctly identified the need for sticks and their crafting requirements. However, they rejected a beneficial trade offer from Player 2 without sufficient justification, demonstrating a lack of flexible thinking and adaptation to the offered resources. Despite identifying their crafting needs, Player 1 failed to craft anything during this turn, which lowered the adaptibility score."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent adaptability in this turn. They identified their need for cherry planks to craft sticks for their lever.  Their proposal offered raw iron, which they anticipated would be needed by Player 2. This strategic trade proposal directly addressed their crafting goal and showcased a high degree of adaptability by considering the other player's likely needs and adapting their trade accordingly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 showed excellent adaptability by thoroughly evaluating the trade proposal. They correctly understood the benefit of the raw iron in their current hand and how it could be used to help reach their target by obtaining the iron_ingot. They identified coal as fuel. Accepting the trade was a smart move aligning with their goal. They then crafted the iron_ingot and proceeded to smelt the raw_iron they'd acquired from trade, showcasing the high degree of adaptability."
+      }
+    ]
+  }
+]

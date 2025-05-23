@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring iron to craft a bucket, their target item. They identified the need for iron, proposed a reasonable trade to obtain it, and then attempted to craft the bucket. Although their crafting attempts were unsuccessful due to recipe errors, their actions clearly aligned with their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated strong goal alignment. They recognized the value of the trade proposed by player 2, as it provided coal needed for smelting iron to craft their target item (lever).  They then proceeded to smelt their raw iron into iron ingots, making progress towards their target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a suboptimal initial proposal but recovered by proposing a trade for raw iron, showing an understanding of the need for iron ingots to craft a lever (although they did not explicitly check the recipe until the next turn). While their initial proposal was off-target, their subsequent actions suggest a reasonable degree of goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted a trade that was slightly disadvantageous in the short term but showed understanding of the overall goal by prioritizing helping player 1 progress (which indirectly increases their chances of achieving a collaborative win). They also correctly identified the need for more iron to craft their target item and continued working towards this goal. "
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully achieved their goal by crafting the bucket.  Their trade proposal and subsequent crafting demonstrated perfect alignment with their target objective."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade for raw copper, which seemed reasonable at the time, but ultimately did not help in achieving their target. They did not attempt to craft a lever or seek materials needed for it in this turn. While the trade wasn't detrimental, it didn't directly contribute to progress on their goal."
+      }
+    ]
+  }
+]

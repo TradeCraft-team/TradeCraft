@@ -1,0 +1,128 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's initial trades revealed their need for iron, although the purpose (chain vs. other iron items) wasn't immediately clear.  Checking the \"chain\" recipe directly hinted at their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 repeatedly checked the \"lever\" recipe, which could be interpreted as a genuine action or a deliberate attempt to mislead. The rejection message doesn't reveal much about their true intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the raw iron trade, further reinforcing the need for iron. However, they haven't explicitly revealed they're crafting a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated the trade for coal, which could serve multiple purposes and doesn't directly point to their lever goal. Their thoughts about player 1's potential need for iron ingots demonstrate observation but not revealing their own hand."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 explicitly mentioned needing an iron ingot to craft a chain, significantly revealing their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade, which helps conceal their need for sticks and oak planks for the lever. Their justification for rejecting the offer is plausible and doesn't reveal their true goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "No active trades or significant reveals from Player 1 this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2's attempts to trade for cherry planks, although ultimately unsuccessful due to invalid proposals, hinted strongly at a need for planks, indirectly revealing their lever goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Giving away raw materials can be interpreted as no longer needing those resources but its not clear that player 1 only needs a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the raw materials, a move that doesn't reveal much about their intentions.  Their thinking process demonstrates strategic assessment without giving away the lever goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepting the trade for raw copper reinforces a potential need for it, but doesn't specify for what purpose."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 actively trading for cobblestone might hint at a need for it beyond the single cobblestone they already possess, which could indirectly suggest their target."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's trade offer, including the message, reveals their intention to craft a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's rejection message offers no strategic information."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepting raw iron suggests a possible ongoing need for iron items but not their specific target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 trading for raw copper could be for various purposes and doesn't directly reveal their lever goal. However, mentioning that Player 1 might need iron-related materials was a slight slip, as it could hint at their awareness of Player 1 needing iron."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offering raw iron for raw copper doesn't strongly suggest their chain goal, as it could be interpreted as general resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's rejection gives no information away."
+      }
+    ]
+  }
+]

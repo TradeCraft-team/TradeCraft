@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by identifying the resources needed for their target item (chain), recognizing they lacked iron nuggets, and formulating a trade proposal to acquire the necessary raw iron. They correctly identified items they didn't need (cherry planks, coal, cobblestone) and offered them for trade.  Although they struggled to perform the correct crafting steps to smelt the raw iron, their initial trading strategy showed strong adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 exhibited excellent adaptability. They analyzed the trade proposal in relation to their own goal (stone shovel), recognizing the value of the offered cobblestone and planks. They accepted the trade, furthering their progress and indirectly helping player 1.  Furthermore, they swiftly crafted sticks from the acquired planks and completed their target item. Their ability to utilize the trade to their advantage and complete their goal demonstrates strong adaptability."
+      }
+    ]
+  }
+]

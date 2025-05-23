@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 formulated a clear plan to acquire the necessary materials (iron ingots) to craft their target item (bucket). They correctly identified that they needed two more iron ingots and strategically proposed a trade with Player 1, offering excess materials in exchange for raw iron. This trade was highly beneficial for Player 2, bringing them significantly closer to their objective."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated effective strategic planning by accepting Player 2's trade proposal. Recognizing the value of cobblestone for their own target (stone shovel), Player 1 made a calculated decision that benefited both players. This demonstrated foresight and a cooperative approach, while also prioritizing their own goal."
+      }
+    ]
+  }
+]

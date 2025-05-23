@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 actively sought information about crafting a chain, revealing their interest in iron-related items. The trade proposal further exposed their need for raw iron, hinting at their target."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1's actions and thinking reveal a strong focus on crafting a stone shovel.  Repeatedly checking the recipe and related items makes their intention quite obvious."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.4,
+        "justification": "By proposing a trade for stone, Player 1 signals their need for it, hinting at their intention to craft a stone tool like a stone_shovel. Though not a direct reveal, it narrows down the possibilities."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejects the trade, concealing their need for iron while also indirectly protecting their stone, a valuable crafting component in general."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's trade proposal reveals their need for raw iron and oak planks, hinting at their intention to smelt iron. This gives Player 1 clues about their crafting goal."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects the trade, masking their potential interest in copper and concealing their true crafting needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.4,
+        "justification": "Player 1 again requests stone, reinforcing the suspicion that their target is a stone tool."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepts the trade, gaining raw iron, which aligns with their need for crafting iron-related items like a chain."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Multiple invalid proposals significantly reveal Player 2's limited understanding of the game and hint at potential confusion regarding crafting their chain goal."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 remains inactive, concealing their intentions effectively by not revealing their crafting progress or resource needs."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Requesting cherry planks reveals Player 1's need for wood, hinting at their intention to craft sticks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains good intention concealment by rejecting the trade, protecting their resources and avoiding revealing their crafting progress or strategy."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "While Player 2 has the materials to craft a chain, their proposal to trade a copper ingot for raw iron hints at their need for iron-related items, increasing the suspicion that their target is a chain."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade, masking their need for sticks (which could be crafted from planks) and maintaining ambiguity about their target item."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "By requesting cherry planks and explicitly mentioning sticks, Player 1 strongly signals their intention to craft a stone shovel, as sticks are a key component."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively conceals their intentions by rejecting the trade, not revealing any clues about their crafting progress or plan."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade of copper for raw iron, suggesting a possible need for iron while not fully revealing their chain crafting goal."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects the trade, concealing their progress towards the stone shovel.  Their consistent rejection of seemingly beneficial trades adds to their ambiguity."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Player 1's repeated attempts to acquire cherry planks reveal a need for wood, making it clear they are trying to craft sticks, a key component of the stone shovel."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "By rejecting the trade and explaining their need for fuel, Player 2 masks their possession of sufficient materials for a chain, preventing Player 1 from potentially disrupting their strategy."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal to trade copper for raw iron, while reasonable, continues to subtly signal their need for iron."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects the trade, maintaining consistent concealment of their crafting needs and goals."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Repeatedly requesting cherry planks for sticks clearly signals Player 1's intention to craft a stone shovel."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Accepting a trade for a not immediately needed resource (raw iron) makes player 2's intentions ambiguous. This could either represent genuine flexibility with resources or a deceptive maneuver to obscure their need for iron."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 reveals their intention to craft a bucket by directly mentioning it in the trade proposal message. Although they offer a seemingly reasonable exchange (coal for raw iron), the message compromises their intention concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 does a good job concealing their intentions. They accept the trade, providing a plausible reason (acquiring coal for later use) without revealing their actual target (stone_shovel)."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 reveals a partial intention by stating their need for cobblestone to make a stone shovel. While not a complete reveal, it narrows down the possibilities for their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains good intention concealment. They accept the trade, providing a logical justification (acquiring raw iron for potential bucket crafting) without explicitly revealing their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's trade proposal message vaguely mentions crafting \"something\", offering raw copper for raw iron. While not a direct reveal, the continued focus on iron raises suspicion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to conceal their intentions well. They reject the trade, providing a plausible reason (no current need for raw copper) without disclosing their true objective."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposes a null trade, stating they don't need anything. This is an effective concealment strategy, as it avoids revealing any information about their target or desired resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 reveals their need for iron ingots in their rejection message. This compromises their intention concealment by hinting at their target (bucket)."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 almost fully reveals their intention by explicitly mentioning their need for one more iron ingot to craft a bucket in the trade proposal.  This greatly compromises their concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintains good concealment, rejecting the offer with a simple, non-revealing excuse."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 employs a null trade and a generic message, effectively concealing their intentions and avoiding revealing any information about their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's rejection message reveals their need for an iron ingot, hinting at their intention to craft a bucket."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's message hints at having enough iron for their needs, suggesting they are close to achieving their target. Although not a direct reveal, it offers some information about their progress."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintains good concealment, accepting the trade with a reasonable justification that doesn't reveal their target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 uses a deceptive tactic, offering a trade they believe player 2 won't accept (raw copper for an iron ingot).  While not a direct reveal, it's a less effective concealment strategy than a null trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts a seemingly beneficial trade, concealing their immediate need for iron ingots to complete the bucket."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's message indicates a need for more iron for \"something important\", raising suspicion without revealing the specific target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's rejection message, while plausible, reveals their need for sticks or planks. This gives player 2 some insight into their crafting plans."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 uses a null trade and a generic message, effectively concealing their intentions without giving away any information."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 reveals their need for iron, although they don't specify the amount or the purpose."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 reveals their intention to craft a bucket by explicitly mentioning it in their trade request message."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepts the trade with a reasonable justification that doesn't reveal their true target."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 offers a free raw copper, which is a good concealment strategy as it doesn't reveal any intentions and might mislead player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts the free raw copper, providing a plausible explanation without revealing their true objective."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends, so no further actions or intentions can be concealed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends, so no further actions or intentions can be concealed."
+      }
+    ]
+  }
+]

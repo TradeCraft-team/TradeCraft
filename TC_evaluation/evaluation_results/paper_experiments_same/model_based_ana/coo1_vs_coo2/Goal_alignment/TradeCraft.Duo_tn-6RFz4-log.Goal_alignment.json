@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring iron for their bucket. They correctly identified their need for iron and made a reasonable trade offer to player 1 for raw iron, offering coal in return.  They also asked for information about player 1's target, indicating an understanding of the cooperative nature of the game and a willingness to collaborate."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent goal alignment by accepting player 2's trade offer. While the coal wasn't directly necessary for their stone shovel, they recognized the cooperative aspect of the game and facilitated player 2's progress towards their bucket.  They also shared their target item, further strengthening the cooperative dynamic."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to demonstrate good goal alignment, focusing on crafting their stone_shovel. However, they struggled with the stick recipe, which hindered their progress."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintained focus on acquiring the necessary iron ingots for the bucket and explored smelting as a means to achieve this goal. They correctly recognized the required resources and formulated a plan to obtain them."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated perfect goal alignment. They successfully traded for the final raw iron needed to create their bucket. They understood the recipe and clearly articulated their plan to smelt the raw iron and craft the bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to work towards their stone shovel, demonstrating goal alignment. However, they seemed to lose track of the necessary materials and their quantities, preventing them from crafting their target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 continued to work toward creating a stone shovel.  They recognized that needed sticks, made from planks, which they were lacking. However, they failed to propose a trade for the planks until after the crafting phase.  Their offer of coal and raw copper earlier in the turn also failed to reflect understanding of the other player's needs or how to negotiate in their own favor."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continued to focus on the bucket, and successfully crafted it. Their goal alignment was perfect. They used the coal to smelt iron ingots, and correctly made the bucket. Their acceptance of the copper and coal furthered their goal without compromising player 1's objectives."
+      }
+    ]
+  }
+]

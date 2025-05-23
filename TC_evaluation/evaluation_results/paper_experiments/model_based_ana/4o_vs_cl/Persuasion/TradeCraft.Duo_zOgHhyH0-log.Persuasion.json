@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 exhibited excellent persuasion by crafting a compelling trade proposal. They clearly stated their needs, offered valuable resources (coal and cobblestone), and highlighted the mutual benefits of the trade. The persuasive language used in their message ('benefit both of us', 'work together') contributed to the successful outcome."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated a receptive attitude towards Player 1's proposal. Although they didn't actively negotiate, their acceptance of the trade, along with a positive and agreeable message, indicates a certain level of influence from Player 1's persuasive communication."
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good persuasion by crafting a detailed and logical trade proposal. They observed Player 1's need for fuel and offered coal along with additional copper. The message clearly stated the mutual benefits of the trade. However, the proposal was rejected."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not attempt any persuasion this turn, as they simply rejected the offer without providing a counter-proposal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 crafted a reasonable proposal, offering raw iron in exchange for stone, clearly outlining the benefits to both players. The proposal was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not attempt persuasion and rejected the proposal without a counter."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal was well-reasoned, offering a valuable copper ingot for raw iron and fuel. The message was clear and persuasive. However, the proposal was rejected."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not attempt persuasion, rejecting the proposal without a counter."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a direct and concise proposal, offering a clear trade of raw iron for stone. The proposal was accepted."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated reasonable acceptance of the trade, explaining their rationale."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 attempted to submit an invalid proposal, showing a lack of understanding of the game rules, which isn't persuasive. Subsequent thought processes were good and persuasive, however due to multiple errors, no proposal was created."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not make any proposals or attempt persuasion."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 formulated a clear and beneficial trade proposal for both sides. However, this proposal was not persuasive enough as it was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected without making a counter proposal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 crafted a well-structured proposal, explaining the mutual benefits and offering a valuable copper ingot for raw iron. The attempt was good, but was still rejected."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the offer without a counter."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 made another concise proposal, offering a trade of raw iron for planks needed for crafting sticks. This time the proposal was accepted, which showed the persuasion was successful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 was barely persuaded, only accepting because the requested item wasn't needed."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 formulated a good trade proposal, offering copper for raw iron. The message was clear, concise, and highlighted the benefit for Player 1.  However, the proposal was rejected."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 didn't try to persuade and rejected the proposal without a counter-offer."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a sensible proposal, clearly stating what they needed and why, offering a fair trade. However, the proposal was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 gave a clear reason for rejecting the proposal, explaining why the trade wasn't beneficial for them."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal and message were concise and explained the mutual benefits of the trade. However, the proposal was rejected."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the proposal without a counter-offer."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a straightforward proposal offering a useful material (raw iron) for cherry planks and emphasizing the mutual benefit. This time, they succeeded in persuading Player 2 to accept the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 provided a well-reasoned acceptance of the trade, acknowledging the potential benefits of the raw iron while stating they didn't need the planks."
+      }
+    ]
+  }
+]

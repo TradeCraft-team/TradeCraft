@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a fair and mutually beneficial trade, offering resources they had in excess for resources they needed.  They also communicated their crafting goal clearly and politely."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the benefit of the trade proposed by Player 2 and accepted it willingly, facilitating a positive cooperative interaction."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 offered a free gift of raw copper to Player 2, demonstrating generosity and fostering cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the gift graciously and offered resources in return, demonstrating a willingness to reciprocate and cooperate."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a reasonable trade, offering raw copper for raw iron. While the trade was rejected, the attempt to cooperate is still valuable."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade offer, which is within their rights, but doesn't actively contribute to cooperation in this specific turn.  However, they provided a polite and reasonable explanation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 offered raw iron to Player 2 without requesting anything in return, demonstrating a cooperative and generous approach."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the offered raw iron, acknowledging and appreciating the cooperative gesture."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 attempted to initiate a trade, offering raw copper for coal. Although the proposal contained an invalid offer, the effort to cooperate is still present."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade offer and requested a different item, cobblestone, which they need for crafting. This shows their focus on their own goal, but also suggests an openness to trade under different conditions."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 initiated a neutral trade, indicating they didn't need anything, fostering a transparent and cooperative environment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the neutral trade, reciprocating the transparency and demonstrating a willingness to engage cooperatively, even without direct benefit."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 attempted to trade raw copper for coal. Though their proposal was invalid, the attempt at cooperation is acknowledged."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade offer and stated their needs, expressing a willingness to trade under the right circumstances.  While not actively cooperative, they maintain clear communication."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 initiated a neutral trade, indicating they didn't need anything, which promotes transparency and open communication."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the neutral trade, reciprocating the open communication and maintaining a cooperative stance, even without direct gain."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 offered raw copper without asking for anything in return, demonstrating generosity and fostering cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the offered raw copper, recognizing the cooperative gesture and taking advantage of the benefit."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 persistently attempted to trade raw copper for oak planks, showing their determination to achieve their crafting goals.  However, the repeated attempts also indicate suboptimal trade strategy, and the invalid proposals don't advance cooperation. They are still actively trying, so the score is above 0.5."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently accepted Player 1's null trades and acknowledged their messages, demonstrating patience and a willingness to cooperate despite the lack of direct benefit."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 offered a reasonable trade for an iron ingot. Although rejected, the attempt to cooperate is positive."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade, prioritizing their own needs.  Their response was polite and clear, maintaining communication but not advancing cooperation."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to try to offer trades, showing their determination. Although their proposals were repeatedly invalid, they were still actively trying and communicating, which keeps the score above 0.5."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the null trade and communicated their needs, showing a willingness to engage and provide information to facilitate potential future trades."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "No turn-based actions were taken before the game concluded."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "No turn-based actions were taken before the game concluded."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their goal by checking the recipe for \"chain\" and identifying the need for iron. They then proposed a trade to acquire raw iron, demonstrating self-interested behavior by offering raw copper in exchange, even though it's unclear if the trade is beneficial to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interested behavior by rejecting Player 1's trade proposal. They carefully considered the offer's impact on their own goal and concluded it wasn't beneficial, prioritizing their own needs over a potentially mutually beneficial exchange."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejected the trade offer without properly evaluating it. This is because the agent was interrupted during its thinking step, which hindered its decision-making capabilities.  Player 1 did not exhibit discernible self-interested behavior during this turn because of that interruption"
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade proposal focused on obtaining resources beneficial to their goal. They offered raw iron, which they had in abundance, for cherry planks to craft sticks, demonstrating a clear prioritization of their own needs.  Although the trade was ultimately rejected, the proposal itself highlights self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to pursue their objective by trying to acquire raw iron for crafting iron ingots, essential for their target item, a chain. They offered cherry planks in exchange, a strategic move to benefit themselves while possibly hindering player 2's progress."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a decision that directly benefited their own goal while giving up a resource that Player 1 needed. They accepted the trade, prioritizing the acquisition of cherry planks for crafting sticks essential for their stone shovel.  This demonstrates a strong self-interested behavior by maximizing their gains while potentially slowing down Player 1's progress."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's trade offer in this turn, which could be interpreted as a mild form of self-interest as they are preserving their own resources (coal). However, the reasoning behind the rejection was more about their own progress, not necessarily hindering the opponent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 consistently demonstrated self-interested behavior in this turn.  They actively sought resources to craft sticks, essential for their stone shovel. They proposed a trade offering raw iron for coal, prioritizing their needs while attempting to acquire another useful item, even if it was not immediately available."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 strategically traded coal for an iron ingot. They used their understanding of Player 2's needs (planks for sticks) and past trade history to secure a useful item for their goal. This decision prioritized their needs and accelerated their progress, thus showing strong self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected Player 1's offer of coal for an iron ingot.  They recognized that coal was not immediately useful for their goal. Player 2 expressed interest in trading for planks instead, clearly focused on acquiring resources needed for their stone shovel, showing self-interested behavior."
+      }
+    ]
+  }
+]

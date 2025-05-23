@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade, demonstrating a willingness to cooperate. Although the trade was rejected, the offer was reasonable and the message was polite and cooperative."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade, which is not inherently uncooperative, but didn't offer an alternative or suggest a different trade.  While they provided a reason, engaging more actively in the trade discussion would have shown better cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a reasonable trade offer to Player 2, showing a clear attempt to cooperate and obtain needed materials.  The offer was relevant to their stated objective."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer without offering any alternative or explanation, hindering potential mutual benefit and demonstrating low cooperation in this turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a mutually beneficial trade, offering cobblestone that Player 1 needed for their goal in exchange for raw iron. This trade was successful, showcasing strong cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a mutually beneficial trade, demonstrating excellent cooperation.  This trade helped both players progress towards their objectives."
+      }
+    ]
+  }
+]

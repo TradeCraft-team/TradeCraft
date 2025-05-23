@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively sought information about crafting a chain, demonstrating a clear focus on their own goal. Although their initial proposal was invalid, their subsequent proposal to trade coal for raw iron was strategic, aiming to acquire resources for their target item while offering something of potential value to the other player.  The focus remained on acquiring necessary resources for their own crafting goal."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 did not show much proactiveness in this turn. They rejected player 2's proposal without offering a counter-proposal, indicating a passive approach. Although their internal thoughts show some consideration of their own target, they did not make any substantial moves towards achieving it."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable proposal attempting to acquire materials beneficial for their target. The proposal considered Player 2's potential needs and offered a fair exchange. While their thought process showed awareness of their target and crafting requirements, there wasn't a clear articulation of self-interested strategy. The focus is primarily on acquiring resources, with less emphasis on maximizing their advantage."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 strategically rejected Player 1's proposal, prioritizing their own needs. They understood that the offered trade would deplete their fuel reserves necessary for smelting and ultimately crafting their target item. The rejection was well-reasoned and aligned with their overall goal, demonstrating a focus on their own advantage."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continued to show consistent self-interested behavior by again proposing a trade for raw iron. Although the trade was rejected, it aligned with their strategy to gather materials for their target. The offer was carefully considered, demonstrating strategic thinking and focus on personal gain."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 displayed minimal self-interested behavior. Their rejection of the trade was generic and lacked a clear articulation of their own crafting goals or needs. There was no counter-proposal or attempt to gain an advantage through trading."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade that was likely intended to benefit themselves, seeking materials to craft sticks. Although the trade was rejected, it showed proactiveness and awareness of their crafting needs. However, the trade wasn't highly strategic and the reasoning behind the offered items was not clearly explained."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 again demonstrated strong self-interested behavior by carefully evaluating the trade and rejecting an offer that didn't directly contribute to their objective. They expressed a desire for more relevant materials, showing a clear prioritization of their own needs and strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated self-interest by making a calculated trade proposal, offering something they didn't need for something they did. While the trade wasn't accepted, their thought process highlighted their focus on getting raw materials for their target, even if it meant giving away less crucial resources."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's offer with a polite but generic message.  They mentioned prioritizing resources, but didn't clearly explain why this trade was detrimental to their strategy or what resources they were actually prioritizing."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a strategic trade proposal, offering raw iron for cobblestone. This demonstrated self-interest as they correctly assessed Player 2's need for raw iron and leveraged it to obtain a necessary material for crafting their target. The trade was beneficial for their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent self-interested behavior by accepting a trade that directly contributed to achieving their target item.  Their reasoning was thorough, they correctly evaluated the value of the trade for their own needs, and they clearly prioritized their goal by accepting the proposal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently demonstrated self-interested behavior throughout the game, culminating in crafting their target item, chain.  Their actions, trade proposals, and rejections were all focused on achieving this goal, maximizing their chances of winning."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Despite having several turns, Player 1 continued to struggle with crafting their target and didn't make any significant progress toward achieving it. Their actions seemed random and ineffective, demonstrating a lack of clear strategy or self-interested behavior."
+      }
+    ]
+  }
+]

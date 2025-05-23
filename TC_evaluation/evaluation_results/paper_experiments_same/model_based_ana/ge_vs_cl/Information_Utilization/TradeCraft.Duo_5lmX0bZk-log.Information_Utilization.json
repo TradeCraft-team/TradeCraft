@@ -1,0 +1,156 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly identify the requirements for their target item (chain), recognize the need for iron nuggets, and formulate a strategic trade proposal to acquire raw iron from Player 1.  They offer raw copper in exchange, recognizing that Player 1 already has some and might want to increase their supply.  This demonstrates a good understanding of both their own needs and their opponent's potential goals. Although the trade is rejected, the proposal itself demonstrates excellent information utilization."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrates strong information utilization. They clearly understand their target (lever) and its crafting requirements.  They correctly assess that the proposed trade for raw copper does not advance their goal, as they already have the necessary materials to craft a lever. They reject the trade, prioritizing their own objective."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposes a trade of raw iron for coal, demonstrating good foresight in anticipating future smelting needs, even though coal isn't immediately required for crafting the lever. This is a strategic move to acquire resources for potential future crafts."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 displays excellent information utilization in Turn 2. They carefully consider the proposed trade, analyze its implications for their chain crafting goal, and make a sound decision to accept.  They recognize the value of the raw iron, even though they have an alternative path to crafting the iron ingot.  They correctly identify cherry planks as an alternative fuel source, enabling them to accept the raw iron without losing their smelting capabilities."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's information utilization is decent but has some flaws. While they correctly identify the need for raw iron and propose a trade, they make an invalid proposal initially and make repeated checks for the same information (chain recipe).  The final proposal is reasonable given Player 1's previous interest in coal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to demonstrate good information utilization by rejecting the coal trade, as it does not directly contribute to their lever crafting goal. They correctly prioritize completing their primary objective."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 again proposes a trade for coal, showing consistent forward thinking about acquiring smelting resources. Although not immediately necessary for their lever, acquiring coal could be beneficial for future crafts. The offer of raw copper is reasonable, though not strategically crucial."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly assess that the raw copper offered in the trade is not necessary for their chain goal, as they already have the required materials.  Their rejection of the trade is a sound strategic decision that preserves their coal for potential future smelting."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again proposes a trade of coal for raw iron. While they already have the necessary resources to craft a chain, the desire to acquire more raw iron demonstrates some level of strategic thinking for potential future needs."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly rejects the trade for coal, maintaining focus on their lever crafting goal. They recognize that the trade doesn't offer any immediate benefit."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 makes a null proposal, signaling they don't need to trade and have the necessary materials to craft their target. This conserves resources and avoids unnecessary trades."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly identifies the null proposal and accurately reasons that accepting it has no negative impact.  They correctly prioritize their primary goal of crafting a chain."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initially gets caught in a loop of converting between iron ingots and iron nuggets. After several repeated attempts for the chain recipe, they finally settle on a good plan to offer something they don't need for raw iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's rejection of raw copper for raw iron demonstrates continued focus on their goal and efficient resource management."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's attempt to trade for coal to smelt raw iron shows an understanding of the process required to achieve their goal, although they fail to correctly identify the recipe to make a stick."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continues to display strong information utilization.  They correctly assess that they do not need the raw copper offered in exchange for their coal, as they already possess the materials necessary to craft a chain. The rejection of the trade is a sound strategic choice."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 recognizes they have the materials to craft a chain, but makes a strategic proposal. They identify that Player 1 needs coal based on previous proposals, and uses that to acquire raw iron. This demonstrates an understanding of Player 1's goals and using it to their advantage."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade for coal, which finally enables them to pursue their lever goal. This demonstrates a correct utilization of available information and prioritization of necessary resources."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 fails to make sticks yet again, showing a significant failure to utilize available information and game mechanics. However, they make a decent trade to get a second cobblestone."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 carefully analyzes the proposed trade. They correctly identify that cobblestone is not needed for their goal, as they already have enough materials to craft a chain. The decision to accept the trade is justified by the fact that it has no negative impact on their progress, maintains positive relations with the other player, and potentially provides resources for future crafting."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates perfect information utilization. They recognize they have all the necessary materials to craft a chain, and propose a trade that, while not essential for their immediate goal, is beneficial for long-term resource management and maintains positive relations with Player 1. They correctly assess that they have a surplus of raw copper and attempt to exchange it for raw iron, which could be useful in future crafting scenarios."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 once again struggles to craft sticks correctly, persisting in using an invalid recipe. However, Player 1 correctly rejects the trade, understanding that raw copper does not contribute to their lever objective. "
+      }
+    ]
+  }
+]

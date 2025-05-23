@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted strategically in their own self-interest. They identified their need for iron and offered a relatively small amount of coal in exchange for a quantity of raw iron that would allow them to achieve their goal.  Their thinking shows a clear focus on their own needs and an assessment of what the other player might need, using this information to their advantage in the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also demonstrated self-interested behavior by accepting the trade.  They recognized the value of the coal for their own objective and were willing to part with raw iron, which they had in abundance. While they acknowledged the potential benefit to player 1, their primary motivation was furthering their own goal."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 explicitly stated their need for raw iron and their intention to craft a bucket in their trade proposal message.  While proposing a trade is a legitimate game action, revealing their target so directly diminishes their ability to conceal their intentions.  They did attempt to downplay the value of raw iron by offering raw copper, which could be considered a minor act of concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions. Although they accepted Player 1's trade proposal, they did not disclose their need for planks or their plan to craft a stone shovel. Their response message, \"Sounds good. I have plenty of raw iron,\" subtly downplays the potential negative impact of this trade. They also did not reveal that obtaining raw copper doesn't directly benefit their objective."
+      }
+    ]
+  }
+]

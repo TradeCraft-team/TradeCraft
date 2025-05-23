@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively sought to trade for raw iron, essential for their target (bucket). They crafted a proposal beneficial to both players, demonstrating self-interest while attempting to cooperate."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 prioritized their own goal by rejecting the trade.  Recognizing they had the resources to craft their target item (lever), they acted solely in their self-interest by refusing to trade away raw iron, potentially hindering player 2."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1, recognizing they didn't need to trade, proposed a null trade demonstrating self-interest in conserving resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the null trade and expressed interest in future trades for iron, showing strategic self-interest by attempting to acquire necessary materials while preserving their current resources."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made another targeted proposal to acquire raw iron, essential for their bucket. This consistent pursuit of their own goal demonstrates strong self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 again rejected the trade, demonstrating self-interest by hoarding raw iron which could be beneficial for player 2's target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 attempted to trade an unnecessary item (raw copper) for an iron ingot, prioritizing self-interest but offering a less appealing trade."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Recognizing the trade's disadvantage, Player 2 rejected it, prioritizing their need for iron ingots to craft their target item."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continued pursuing a trade for raw iron, necessary for their target, demonstrating consistent self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1's consistent rejection of trades involving their raw iron demonstrates a self-interested strategy of resource preservation, possibly hindering player 2."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's null proposal and clear communication they don't need to trade show self-interest in avoiding unnecessary transactions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "While accepting the null trade, Player 2 reiterated their need for iron, indicating continued self-interest in achieving their crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 failed to submit a valid proposal demonstrating ineffective pursuit of self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not participate in this turn's trading phase due to Player 2's invalid proposal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 failed to submit a valid proposal and continued having difficulties with crafting, showing inefficient progress towards their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized the value in the offered trade and strategically accepted it furthering their goal."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 strategically traded to get an item needed for their target, showing clear focus on self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that wasn't immediately beneficial but could foster cooperation, indicating a balanced approach."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 continued making invalid proposals, showing ineffective pursuit of their target."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently rejected trades that didn't benefit their pursuit of a bucket, demonstrating clear self-interest."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed a trade for fuel to smelt raw iron, necessary for their target, showing clear self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 rejected the offer to preserve resources needed for their own crafting, showing strategic self-interest."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 offered raw iron for Player 2's iron ingot, a self-interested move to acquire additional resources."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 strategically rejected the trade, recognizing that keeping their iron ingot was more advantageous for their target."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended; no actions taken."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended; no actions taken."
+      }
+    ]
+  }
+]

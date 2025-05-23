@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring the necessary materials (iron ingots) to craft their target item (chain). They correctly identified their need for raw iron and initiated a trade that successfully obtained it.  All their thoughts and actions were directly related to achieving their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated perfect goal alignment. They identified their need for cobblestone and sticks to craft their target (stone_shovel). They accepted a trade that provided them with these materials and then successfully crafted the stone_shovel. Their thinking and actions remained consistently focused on achieving this goal throughout the turn."
+      }
+    ]
+  }
+]

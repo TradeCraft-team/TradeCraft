@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 explored crafting options for their target (chain) extensively, revealing their interest in iron-related items. The initial invalid proposal and subsequent proposal for raw iron further signaled their need for iron, making their intentions somewhat transparent."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 made no proposals and performed no crafting actions that would directly reveal their intention to create a lever.  They checked the recipe for sticks but not levers, which partially concealed the goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 directly revealed their need for cherry planks to craft sticks. While the final goal (lever) was not explicitly stated, the request, combined with earlier stick recipe checks, strongly suggests their intention."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, clearly demonstrating their need for iron. While this was consistent with their previous behavior, the acceptance solidified their interest in iron and implied a need for iron ingots."
+      }
+    ]
+  }
+]

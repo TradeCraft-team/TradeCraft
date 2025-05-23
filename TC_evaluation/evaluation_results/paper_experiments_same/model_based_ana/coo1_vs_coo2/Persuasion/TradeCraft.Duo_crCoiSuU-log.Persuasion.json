@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 clearly stated their crafting goal, explained their rationale for the proposed trade, and offered a mutually beneficial exchange.  The persuasive message led to a successful trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 engaged positively with the proposal, recognized the mutual benefit, and accepted the trade. Their message also inquired about player 1's goal, furthering the interaction."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 initiated a trade but offered and requested nothing. The message was friendly but not very effective in achieving a specific goal, though it did open communication."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade and clearly expressed their need for an oak plank, successfully obtaining a needed resource through persuasion."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 offered a valuable resource (iron nuggets) and clearly stated their need for raw iron, while also inquiring about player 2's goal. This open communication and strategic offer led to a successful trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated collaborative behavior by accepting the trade despite not needing the offered items. The message was supportive and strengthened the player relationship."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 offered a useful resource (oak planks) and directly inquired about player 1's crafting goal.  This approach facilitated a beneficial trade for both players."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's acceptance of the trade and open communication about their crafting goal reinforced a collaborative dynamic, contributing to the overall success of the interaction."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively communicated their need for coal and offered a relevant resource (raw iron) in return.  The clear message and strategic offer led to a successful trade that advanced their game objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 analyzed the trade proposal, recognized the benefit to player 1, and accepted the trade.  The message was supportive and fostered cooperation."
+      }
+    ]
+  }
+]

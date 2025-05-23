@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 reveals their intention to craft a chain by explicitly stating it in their proposal message.  While they offer a seemingly mutually beneficial trade, the direct reveal of their target item significantly compromises their intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively conceals their intention.  They deduce Player 1's true intentions and reject the trade offer based on that deduction. Their message doesn't reveal anything about their own goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 continues to reveal their need for iron ingots for a chain and their intent to craft one. This completely gives away their intention."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains excellent intention concealment by making a reasonable trade proposal that doesn't reveal their target item. They successfully trade for resources they need without giving away their plan to craft a lever."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1, while making a seemingly innocuous trade offer, continues to express their need for raw iron, further reinforcing the likelihood that their target item requires iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains good intention concealment. They accept a trade offer that gives Player 1 raw iron, which could be misleading, but they haven't revealed any information about their own target."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepts a trade that might seem counter-intuitive to their stated need for iron, but this deviation could be a calculated move to mislead Player 2, though it's not clearly strategic."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to conceal their intentions effectively. The offered trade doesn't reveal any information about their target."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's repeated requests for raw iron further solidify their need for iron, giving away their intention."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains perfect intention concealment.  They reject the trade offer, which benefits them by not aiding Player 1, without revealing their own target."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to readily accept trades for raw iron, indicating its importance to them."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 offers a seemingly neutral trade, which helps in concealing their intentions while appearing cooperative."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to try and acquire raw iron, revealing their need for iron-related items."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 effectively conceals their intentions by rejecting the trade offer, which provides no clues about their target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepts a seemingly neutral trade but hasn't made any attempts to actively conceal their need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 offers a trade for raw iron, which is a neutral action in terms of intention concealment, but does not reveal their goal."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's continued attempts to trade for raw iron strongly suggest their target involves iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains strong intention concealment by rejecting the trade, which reinforces their previous rejections of similar trades, but doesn't reveal their goal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to accept trades for raw iron, revealing their ongoing need for it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's trade request for raw copper could be a diversionary tactic, effectively masking their true intention while appearing engaged in trading."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 explicitly states their intention to craft a chain, fully revealing their target."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejects the trade, giving a plausible reason that doesn't reveal their own goal, thus maintaining perfect intention concealment."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 accepts the trade offer, which doesn't actively reveal their intention but also doesn't conceal it strategically."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 offers a trade that appears to benefit Player 1 while actually furthering their own strategy by acquiring more raw iron which they can use for later trades or distraction, thereby concealing their true intentions."
+      }
+    ]
+  }
+]

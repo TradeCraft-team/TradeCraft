@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 repeatedly revealed their intention to craft a bucket by requesting iron ingots and explaining their need for them in their messages to player 2. They also checked the recipe for a bucket multiple times, further reinforcing their intention."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions during this turn. They accepted a seemingly useless trade, offering nothing in return, and made no revealing actions or statements about their actual goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 partially concealed their intentions. Although their thoughts revealed their need for iron to craft an iron pickaxe, their outward actions and messages were less revealing.  They accepted a trade for raw iron, which could be used for various crafting recipes."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 concealed their intentions to some extent.  They offered raw iron for coal, pretending to work towards iron tools, while their thoughts reveal their goal is an iron chestplate.  However, offering raw iron could also be interpreted as a genuine need for fuel, making the action somewhat ambiguous."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 completely revealed their need for iron ingots to craft a compass, both in their thoughts and in their message to player 2. They offered a trade that clearly indicated their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initially concealed their intention by accepting player 1's proposal. Their subsequent thoughts revealed their suspicion about player 1's target and their own desire to craft a compass.  However, they avoided making any direct statements about needing iron ingots or redstone."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's intention concealment is mixed.  They check copper ingot recipe, not revealing their actual target. However, their willingness to trade for raw copper could be construed as a need for it, potentially revealing a crafting goal involving copper."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully concealed their need for redstone and more iron. They offered a seemingly neutral trade for raw iron, masking their true intentions to craft a compass. They also asked about redstone but refrained from explicitly stating their own need for it."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly identify their need for iron ingots to craft a bucket, recognize that Player 1 has a surplus of raw iron, and formulate a trade proposal to acquire the necessary resources. Their thinking shows a clear understanding of the game's mechanics and strategic use of available information."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also exhibits strong information utilization. They analyze the trade proposal, recognize the value of the offered cobblestone for their own crafting goals (stone shovel), and accept the trade. Their decision-making is based on a sound understanding of their needs and the potential benefits of the exchange."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 recognizes they don't need to trade, but fails to utilize the crafting phase effectively. Despite having all the necessary resources to craft sticks and progress towards their stone shovel, they fail to execute the correct recipe, indicating poor information utilization in the crafting phase."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepts a null trade and spends the turn checking item information.  They do some basic planning towards smelting raw iron, and confirm the fuel values of planks. They could have used possible_recipes_from_hand to see exactly how to smelt the raw iron. Thus, some information utilization, but still several missed opportunities to get closer to their target.  They incorrectly check a smelting recipe."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates good information utilization. They analyze their hand and correctly identify the need for coal to smelt raw iron. They also correctly offer to trade their copper ingot for Player 1's coal. This action showcases strategic thinking and a clear understanding of resource management."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the trade and recognizes that they made a mistake in giving their coal away. They try to craft with incorrect recipe and incorrect fuel amount. They attempt to use possible_recipes_from_hand, but fail to check the valid recipes.  They could have smelted their raw iron using planks as fuel, but choose to not do so, suggesting slightly less effective information utilization than the previous turn."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 crafts shears. They spend several turns checking the recipe for smelting raw iron into iron ingots, failing to identify their error in specifying an incorrect ratio of coal to raw iron. They eventually use possible_recipes_from_hand, but craft shears instead of smelting raw iron, demonstrating a lack of focus on their target and inefficient use of resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 focuses on crafting and correctly identifies the need for more iron and cobblestone.  They continue to smelt their raw iron, showing good progress towards an unknown target.  They recognize a mistake in their first smelting check. Player 2 shows effective information utilization in their crafting actions."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 identifies Player 1's need for iron and attempts to leverage that for a trade. They offer raw copper for cobblestone, which is a reasonable trade given their current hand and potential needs.  They attempt to make copper_ingot, but incorrectly specify the recipe."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly assesses the trade offer and accepts the raw copper for cobblestone, recognizing the potential future value of the copper. They check possible recipes, but don't take any action in the crafting phase. This suggests some awareness of their resources, but not full utilization of crafting opportunities."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 repeatedly submits invalid proposals and doesn't engage in any productive actions.  They waste a turn due to formatting issues and fail to utilize available information to improve their strategy.  Their final trade offer suggests they have given up.  Very poor information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly identifies the suspicious behavior of Player 1 and rejects their null trade proposal. They consider the possibility of deception and prioritize their own game objectives.  They check available recipes from hand and correctly identify the need to smelt raw copper and trade for iron ingots. Player 2 shows good awareness of available information and uses it to their advantage."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 identifies Player 1's previous interest in copper and offers copper ingot/raw copper for raw iron. They give a sensible justification for their choice. Player 2 shows good information utilization by leveraging their knowledge of previous trades."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognizes the potential value of acquiring copper resources and makes a beneficial trade. Player 1 analyzes the potential benefits of the trade and makes a rational decision.  They do nothing in the crafting phase despite having enough raw iron to smelt into iron ingots to make more shears if they needed. This is odd, but does not detract from the information utilization demonstrated in the trading phase."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 offers a trade for raw iron but is rejected.  It's not clear how trading for raw iron will bring them closer to their target of crafting shears. This indicates a lack of strategic thinking and poor information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent information utilization by analyzing Player 1's actions and deducing their potential crafting goals. Player 2 wisely rejects the trade, preventing Player 1 from progressing and potentially gathering valuable insights into their strategy. They are blocking progress towards crafting shears, which is their target item.  Player 2 is effectively utilizing information to craft a robust strategy."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offers a trade for raw iron. They offer cobblestone, indicating reasonable information utilization. However, they reject the trade offer, demonstrating less awareness of the benefits of gathering more iron ingots by rejecting the proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects player 2's trade and makes a logical decision to preserve their resources. They demonstrate good information utilization by recognizing the potential value of their own resources."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 submits an invalid proposal due to requesting an iron ingot in exchange for raw copper. Player 1's subsequent proposal and thinking are reasonable. They demonstrate awareness of potential use of resources, showing moderate information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates good information utilization by analyzing Player 1's actions and considering the potential benefits of accepting or rejecting. Their justification shows strategic thinking and effective resource management."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's trade proposal showcases insightful information utilization. They recognize that Player 1 likely needs iron and offers a seemingly beneficial trade while pursuing their own agenda. Player 2 is playing strategically and maximizing their chances of success based on their observations of Player 1's actions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes that Player 2 is offering a beneficial trade, accepts the trade, and does nothing in the crafting phase. This indicates reasonable information utilization as Player 1 leverages the opportunity to gather needed resources.  Player 1 is focusing on doing nothing as part of their overall plan."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's trade proposal is well-reasoned, reflecting effective information utilization. Recognizing Player 2's potential need for iron, they try to acquire raw iron through trade, showing strategic thinking and resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts Player 1's proposal and assesses its value in achieving their target item. They demonstrate good information utilization by taking advantage of this opportunity to further their own game plan."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends. Player 1 loses."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends. Player 2 loses."
+      }
+    ]
+  }
+]

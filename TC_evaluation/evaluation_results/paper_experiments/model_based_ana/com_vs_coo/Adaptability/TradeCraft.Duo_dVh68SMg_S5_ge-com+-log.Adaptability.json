@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability. They correctly identified their need for raw iron, assessed their opponent's resources, and formulated a trade proposal that offered less valuable items (cherry planks, cobblestone) in exchange for the crucial raw iron.  They also considered the need for fuel for smelting and incorporated their existing coal into their plan. Their thought process shows clear awareness of their goal and a willingness to trade strategically to achieve it."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 showed reasonable adaptability by evaluating the trade proposal in relation to their own needs. They checked the lever recipe to see if the offered cobblestone would be useful, then accepted the trade after confirming its value.  While their adaptation is less complex than Player 2's in this turn, they effectively used the available information to make a beneficial decision."
+      }
+    ]
+  }
+]

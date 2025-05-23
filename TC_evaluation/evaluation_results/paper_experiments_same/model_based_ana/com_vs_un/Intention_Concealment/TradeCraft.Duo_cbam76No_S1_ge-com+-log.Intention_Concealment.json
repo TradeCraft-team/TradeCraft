@@ -1,0 +1,86 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 directly reveals their need for iron to player 1, lowering their intention concealment score. While they try to justify the trade in terms of player 1's needs, the focus remains on their own requirement for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 partially conceals their intentions. They reveal their need for coal but avoid explicitly stating their target item.  The rejection message hints at their need for coal, which could be for various crafting recipes."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 reveals their intention by stating their need for coal for a torch."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully concealed their intentions.  They accepted the trade for raw iron, which aligns with multiple crafting paths, including shears. They don't reveal their target item and their thoughts focus on acquiring iron, a common resource."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposes a trade for raw copper, which is not directly related to their target item (shears). However, their justification for the trade is somewhat weak, and their focus on disrupting player 1's plans might hint at their own need for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintains a good level of concealment.  They reject the trade for iron, but their explanation doesn't reveal their target item. Holding onto the raw copper could be part of several crafting strategies."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposes a seemingly benign trade for cobblestone, offering their plentiful raw copper. This action doesn't reveal any specific intentions and can be justified by various crafting strategies."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the trade for cobblestone, which can be used for multiple crafting recipes.  Their thoughts reflect a genuine consideration of the trade's value without revealing specific intentions."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "While player 2's repeated attempts to trade for iron might raise suspicion, they maintain a reasonable level of concealment by offering plausible justifications for the trades without revealing their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully conceals their intentions by accepting the trade for raw copper, a resource that can be used for multiple crafting recipes.  Their thoughts revolve around preventing player 2 from getting specific materials without disclosing their target."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal to trade for raw copper could hint at their need for it, potentially for crafting related items. However, the trade offer is fairly generic and doesn't explicitly reveal their target."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 effectively conceals their intentions by rejecting the trade for cobblestone slab, a resource not directly related to their target. They successfully crafted their target (shears) this turn without revealing their need for iron ingots earlier."
+      }
+    ]
+  }
+]

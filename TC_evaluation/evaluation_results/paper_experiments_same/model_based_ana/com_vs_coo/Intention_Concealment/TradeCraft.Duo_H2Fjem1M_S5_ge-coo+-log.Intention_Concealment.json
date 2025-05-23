@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their intention to craft a chain by explicitly stating it in their proposal message."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intentions. They correctly deduced that player 1 might be misleading them and rejected the trade, while also inquiring about the chain to feign interest in player 1's stated goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to reveal their need for iron ingots, further reinforcing their intention to craft a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains good intention concealment by not revealing their need for sticks and cobblestone.  They also successfully traded for needed cobblestone while offering materials they didn't need."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to reveal their need for raw iron for crafting, which could give away their intention to make a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 provides a plausible reason for accepting the trade (disguising intentions), even though they don't immediately need the raw iron."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a seemingly neutral trade, not revealing any specific intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered a neutral trade, which helps disguise their true needs. Although their initial proposal was invalid, the subsequent trade doesn't directly reveal their intentions."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 continues to signal their need for raw iron, increasing suspicion about their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the trade, preventing player 1 from getting closer to their (suspected) target while not revealing their own needs."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepts a neutral trade, not giving away any specific intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offers a seemingly neutral trade, masking their true intentions. Repeated failed proposals might raise some suspicion, though."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's offer of a copper ingot for raw iron again hints at their need for iron, possibly for a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to reject trades involving materials they don't need, keeping their intentions hidden."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepts a neutral trade, not revealing any specific intentions, while obtaining a resource they've previously requested."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to offer seemingly neutral trades, masking their true needs. Multiple invalid proposals are a slight negative, though."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 continues to express interest in raw iron, which could indicate their need for it to craft certain items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 consistently rejects trades that don't benefit their hidden goal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepts a neutral trade, which doesn't reveal their intentions but provides them with a material they've requested in the past."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offers a neutral trade, maintaining ambiguity about their target."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 explicitly states their intention to craft a chain, revealing their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 gives a plausible reason for rejecting the trade, concealing their own intentions."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepts a neutral trade, not revealing any specific crafting intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 uses raw copper as a seemingly neutral trade item, masking their true intentions."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Game Over. Player 1 lost and their target was revealed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Game Over. Player 2 lost and their target was revealed."
+      }
+    ]
+  }
+]

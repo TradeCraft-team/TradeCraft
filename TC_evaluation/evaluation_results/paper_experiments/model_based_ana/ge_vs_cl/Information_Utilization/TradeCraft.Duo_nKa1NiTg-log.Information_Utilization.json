@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 repeatedly submitted invalid proposals and didn't seem to understand how trading works. They correctly identified their need for iron ingots and recognized Player 2's raw iron could be smelted, but their trade proposals were ineffective.  Repeatedly checking the shears and iron ingot recipes demonstrates basic information utilization, but not effectively applying that knowledge."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent information utilization. They correctly identified their need for coal and sticks to craft a torch.  They analyzed Player 1's empty proposal and recognized the formatting issue.  They also analyzed both players' hands and formulated a reasonable counter-proposal, offering raw copper for coal and explaining their reasoning clearly."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to refine their understanding of the game and planned to offer raw copper for raw iron to smelt. They acknowledged Player 2's need for coal. Checking possible recipes demonstrates information gathering. Though they hadn't yet executed a successful trade, their plan showed improved information use."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 submitted an invalid proposal and struggled to formulate a viable plan.  Repeatedly checking the torch recipe indicates basic information utilization but a lack of effective application.  While they understood their need for coal and sticks, their actions didn't reflect a coherent strategy. They also failed to craft sticks from the available planks."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a simple trade of copper for iron, demonstrating basic resource management.  Their message acknowledged Player 2's situation but didn't offer a compelling reason for Player 2 to accept."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively utilized information to reject the trade.  They systematically analyzed their crafting needs, considered the proposed trade's impact on their torch goal, and recognized the potential strategic advantage of keeping the iron ingot."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable trade, offering copper and planks for raw iron, correctly prioritizing acquiring materials for their target item. They also recognized the opponent's need for planks based on the previous turn's messages. This demonstrates good use of available information."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed strong information utilization by identifying the need for cherry planks to craft sticks and offering raw iron in exchange. The proposal message clearly explained the reasoning and highlighted mutual benefit. This demonstrates good understanding of the game and effective communication."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 continued to seek an iron ingot, recognizing their need and trying different offers. Offering cobblestone for the ingot shows adaptation but isn't strategically strong. Their message explained their need but didn't offer a compelling reason for Player 2 to accept."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 analyzed the trade and made a sound decision based on their torch crafting goal. They identified that the trade didn't offer necessary materials and recognized the potential risk of helping their opponent win. Their rejection message clearly communicates their needs."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 recognized Player 2's need for coal and offered a trade involving copper, while also seeking iron. However, the attempt to trade raw copper for a copper ingot is not a strong trade, showing a lack of resource valuation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 understood the value of the copper ingot and its potential use in future trades, and thus rejected Player 1's offer. They recognized that trading for raw copper wouldn't help them achieve their torch goal and appropriately prioritized acquiring coal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offered a reasonable trade (2 raw iron for 1 iron ingot) and attempted to incentivize Player 2 by mentioning future coal trades, showing strategic thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 understood the long-term value of the iron ingot and the importance of prioritizing coal acquisition, thus making an informed decision to reject the raw iron despite Player 1's offer of a future coal trade."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a beneficial trade, acquiring raw iron for their copper ingot. They recognized the opportunity to improve their iron supply even though copper wasn't directly needed for shears. This shows adaptive resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade offer that targeted player 1's desire for iron. Their message explained the reasoning clearly and demonstrated understanding of crafting sticks."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 offered cobblestone for an iron ingot, which isn't a compelling trade. While they're trying to acquire the needed material, the offer doesn't leverage information about player 2's goals effectively."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the offer appropriately, however, they repeatedly check information they already know and fail to make any progress towards crafting their goal or making effective trades."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a beneficial trade, receiving raw copper for raw iron. This demonstrates an understanding of resource management and the potential for future trades, even if raw copper isn't directly part of the shears recipe."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly identified the need for coal and sticks.  They proposed a reasonable trade to acquire raw iron for raw copper, which demonstrates some level of strategic thinking about resource diversification."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 offered raw copper and cobblestone for an iron ingot, a reasonable trade considering their need. They clearly communicated their goal of crafting shears. While not a guaranteed success, it was a sensible offer based on the information available."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly assessed the proposed trade's lack of value for their own goal. They already possessed the offered materials and rightfully prioritized resources that could contribute to crafting a torch.  Their message clearly explained their reasoning."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade of raw iron for raw copper, which benefits them directly. They recognized the value of accumulating raw iron even though they don't have fuel yet. This shows good resource management based on current holdings."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered a reasonable trade, receiving raw copper for raw iron.  While this doesn't directly help with their torch goal, it demonstrates a plan to diversify resources and potentially acquire more copper ingots for later trades."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended and player 1 did not utilize information well enough to obtain the necessary materials and craft shears"
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended and player 2 did not utilize information well enough to obtain the necessary materials and craft a torch"
+      }
+    ]
+  }
+]

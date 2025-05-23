@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to initiate trades with Player 2, offering resources they believed Player 2 could use. Although the initial proposals were flawed and rejected, the intent to cooperate was present.  The final proposal, offering coal for raw iron, demonstrated a willingness to help Player 2 acquire iron ingots."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 engaged with Player 1's proposals and provided clear explanations for rejecting them.  While not directly cooperative in accepting the trades, Player 2 expressed openness to future mutually beneficial trades, indicating a cooperative mindset despite the rejections."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted Player 2's proposal, recognizing its mutual benefit. This trade allowed Player 1 to acquire the necessary materials to craft their target item and demonstrated strong cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proactively proposed a trade that directly benefited both players. They correctly assessed Player 1's needs based on previous turns and offered a fair exchange, leading to a successful trade and demonstrating excellent cooperation."
+      }
+    ]
+  }
+]

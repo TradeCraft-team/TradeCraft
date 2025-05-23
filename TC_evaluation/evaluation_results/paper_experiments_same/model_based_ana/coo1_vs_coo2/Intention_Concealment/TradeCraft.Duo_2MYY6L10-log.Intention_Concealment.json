@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their target item (bucket) and its crafting requirements (iron ingots) in their first proposal message.  While they later attempted to rephrase their request, the initial reveal significantly compromised their intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 did not reveal any information about their target and simply accepted the trade offered by player 1.  Their response was cooperative and gave no clues about their own intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 continued to express their need for iron ingots, while trying to analyze player 2's needs. They haven't explicitly revealed their target, but their focus on iron ingots provides a strong hint."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposals and messages indicate a need for sticks, which could be for various crafting recipes. They haven't disclosed their specific target, but their repeated attempts to obtain sticks narrows down the possibilities."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 explicitly mentioned needing iron ingots to make a bucket (their target item) in their proposal message, compromising their intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's messages and actions, while focused on acquiring specific resources, do not reveal their target item. Their offer to help player 1 obtain iron ingots could be a genuine cooperative action or a strategic move to facilitate future trades."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's proposal message mentioned their need for a cobblestone and a stick to craft a lever.  This practically revealed their target item. While their prior actions didn't reveal this clearly, this message compromised their intention concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 focused on obtaining raw iron and successfully crafted the bucket without explicitly revealing their target.  Their actions were consistent with their goal and concealed their intentions effectively."
+      }
+    ]
+  }
+]

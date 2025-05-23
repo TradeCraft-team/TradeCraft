@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially concealed their intentions. While they explicitly stated their need for raw iron in their message, the offer of cherry planks could be for various reasons, not just to obtain iron for a bucket.  Their inquiry about interest adds a layer of ambiguity, making it seem less like a desperate need."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions. They truthfully stated their need for planks to make sticks, which is a common crafting component, without revealing their ultimate goal of crafting a lever.  This provides a plausible reason for accepting the trade without giving away their target item."
+      }
+    ]
+  }
+]

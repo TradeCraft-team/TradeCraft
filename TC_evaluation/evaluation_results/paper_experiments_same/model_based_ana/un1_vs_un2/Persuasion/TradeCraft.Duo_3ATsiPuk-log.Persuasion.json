@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully persuaded player 2 to trade by clearly stating their need for raw iron and offering raw copper in exchange.  They identified what the other player might need, and identified a resource they could trade without impacting their own goals. The trade was highly beneficial to player 1, enabling them to achieve their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 was receptive to the trade proposal and provided a clear response indicating willingness to trade surplus resources.  They understood the value of cooperation, correctly identified that accepting the trade wouldn't negatively affect their goals."
+      }
+    ]
+  }
+]

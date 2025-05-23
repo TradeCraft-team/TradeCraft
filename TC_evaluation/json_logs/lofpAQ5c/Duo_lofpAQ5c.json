@@ -1,0 +1,200 @@
+[
+    {
+        "_id": "681e055f083e1ced82352492",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__player_enter_room",
+        "msg": "{\"craft_rule_choice\": \"minecraft\", \"craft_rule_prefix\": \"minecraft\", \"gamename\": \"lofpAQ5c\", \"player_list\": [\"GPT-4o-player1746797918\"], \"playername\": \"GPT-4o-player1746797918\", \"type\": \"Game\"}",
+        "time": "20250509-213839-071262"
+    },
+    {
+        "_id": "681e055f083e1ced82352493",
+        "domain": [
+            "MBNeZqLOFUlIReUwIqn88HUofC_f9wWC"
+        ],
+        "event": "player__ready_to_start",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"messages\": {}, \"raw_list\": [], \"token\": \"MBNeZqLOFUlIReUwIqn88HUofC_f9wWC\", \"username\": \"GPT-4o-player1746797918\"}",
+        "time": "20250509-213839-183383"
+    },
+    {
+        "_id": "681e055f083e1ced82352494",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__player_ready_to_start",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"username\": \"GPT-4o-player1746797918\"}",
+        "time": "20250509-213839-184418"
+    },
+    {
+        "_id": "681e056a083e1ced82352495",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__player_enter_room",
+        "msg": "{\"craft_rule_choice\": \"minecraft\", \"craft_rule_prefix\": \"minecraft\", \"gamename\": \"lofpAQ5c\", \"player_list\": [\"GPT-4o-player1746797918\", \"Alice\"], \"playername\": \"Alice\", \"type\": \"Game\"}",
+        "time": "20250509-213850-130451"
+    },
+    {
+        "_id": "681e056a083e1ced82352496",
+        "domain": [
+            "vIHTeG6oUOeDBX7201Cs6mdKZtOtGpgj"
+        ],
+        "event": "player__ready_to_start",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"raw_list\": [], \"token\": \"vIHTeG6oUOeDBX7201Cs6mdKZtOtGpgj\", \"username\": \"Alice\"}",
+        "time": "20250509-213850-137454"
+    },
+    {
+        "_id": "681e056a083e1ced82352497",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__player_ready_to_start",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"username\": \"Alice\"}",
+        "time": "20250509-213850-138454"
+    },
+    {
+        "_id": "681e056a083e1ced82352498",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__game_start",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"player_list\": [\"Alice\", \"GPT-4o-player1746797918\"]}",
+        "time": "20250509-213850-139453"
+    },
+    {
+        "_id": "681e056a083e1ced82352499",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__update_all_hands",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"hands\": [{\"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}, \"minecraft:iron_ingot\": {\"d\": 1, \"n\": 1}, \"minecraft:raw_copper\": {\"d\": 1, \"n\": 1}}, {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:raw_copper\": {\"d\": 1, \"n\": 2}, \"minecraft:raw_iron\": {\"d\": 1, \"n\": 5}}], \"player_list\": [\"Alice\", \"GPT-4o-player1746797918\"]}",
+        "time": "20250509-213850-144454"
+    },
+    {
+        "_id": "681e056a083e1ced8235249a",
+        "domain": [
+            "vIHTeG6oUOeDBX7201Cs6mdKZtOtGpgj"
+        ],
+        "event": "server__private_start_info",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"index\": 0, \"target\": {\"minecraft:bucket\": {\"d\": 1, \"n\": 1}}, \"username\": \"Alice\"}",
+        "time": "20250509-213850-145957"
+    },
+    {
+        "_id": "681e056a083e1ced8235249b",
+        "domain": [
+            "MBNeZqLOFUlIReUwIqn88HUofC_f9wWC"
+        ],
+        "event": "server__private_start_info",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"index\": 1, \"target\": {\"minecraft:stone_shovel\": {\"d\": 1, \"n\": 1}}, \"username\": \"GPT-4o-player1746797918\"}",
+        "time": "20250509-213850-145957"
+    },
+    {
+        "_id": "681e056a083e1ced8235249c",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__crafting_item_list",
+        "msg": "{\"crafting_item_list\": [\"minecraft:iron_ingot\", \"minecraft:cobblestone\", \"minecraft:cherry_planks\", \"minecraft:coal\", \"minecraft:raw_copper\", \"minecraft:raw_iron\", \"minecraft:oak_planks\", \"minecraft:bucket\", \"minecraft:cauldron\", \"minecraft:heavy_weighted_pressure_plate\", \"minecraft:iron_bars\", \"minecraft:iron_block\", \"minecraft:iron_boots\", \"minecraft:iron_chestplate\", \"minecraft:iron_door\", \"minecraft:iron_helmet\", \"minecraft:iron_leggings\", \"minecraft:iron_nugget\", \"minecraft:iron_trapdoor\", \"minecraft:minecart\", \"minecraft:shears\", \"minecraft:cobblestone_slab\", \"minecraft:cobblestone_stairs\", \"minecraft:cobblestone_wall\", \"minecraft:cherry_boat\", \"minecraft:cherry_button\", \"minecraft:cherry_door\", \"minecraft:cherry_pressure_plate\", \"minecraft:cherry_slab\", \"minecraft:cherry_stairs\", \"minecraft:cherry_trapdoor\", \"minecraft:coal_block\", \"minecraft:copper_ingot\", \"minecraft:raw_copper_block\", \"minecraft:raw_iron_block\", \"minecraft:oak_boat\", \"minecraft:oak_button\", \"minecraft:oak_door\", \"minecraft:oak_pressure_plate\", \"minecraft:oak_slab\", \"minecraft:oak_stairs\", \"minecraft:oak_trapdoor\", \"minecraft:furnace\", \"minecraft:stone\", \"minecraft:bowl\", \"minecraft:chest\", \"minecraft:crafting_table\", \"minecraft:shield\", \"minecraft:smithing_table\", \"minecraft:stick\", \"minecraft:anvil\", \"minecraft:chain\", \"minecraft:copper_block\", \"minecraft:lightning_rod\", \"minecraft:oak_chest_boat\", \"minecraft:furnace_minecart\", \"minecraft:barrel\", \"minecraft:chiseled_bookshelf\", \"minecraft:composter\", \"minecraft:chiseled_stone_bricks\", \"minecraft:smooth_stone\", \"minecraft:stonecutter\", \"minecraft:stone_bricks\", \"minecraft:stone_brick_slab\", \"minecraft:stone_brick_stairs\", \"minecraft:stone_brick_wall\", \"minecraft:stone_button\", \"minecraft:stone_pressure_plate\", \"minecraft:stone_slab\", \"minecraft:stone_stairs\", \"minecraft:cherry_chest_boat\", \"minecraft:chest_minecart\", \"minecraft:hopper\", \"minecraft:cherry_fence\", \"minecraft:cherry_fence_gate\", \"minecraft:cherry_sign\", \"minecraft:iron_axe\", \"minecraft:iron_hoe\", \"minecraft:iron_pickaxe\", \"minecraft:iron_shovel\", \"minecraft:iron_sword\", \"minecraft:ladder\", \"minecraft:lever\", \"minecraft:oak_fence\", \"minecraft:oak_fence_gate\", \"minecraft:oak_sign\", \"minecraft:rail\", \"minecraft:stone_axe\", \"minecraft:stone_hoe\", \"minecraft:stone_pickaxe\", \"minecraft:stone_shovel\", \"minecraft:stone_sword\", \"minecraft:torch\", \"minecraft:tripwire_hook\", \"minecraft:wooden_axe\", \"minecraft:wooden_hoe\", \"minecraft:wooden_pickaxe\", \"minecraft:wooden_shovel\", \"minecraft:wooden_sword\", \"minecraft:cut_copper\", \"minecraft:cut_copper_slab\", \"minecraft:cut_copper_stairs\", \"minecraft:blast_furnace\", \"minecraft:smooth_stone_slab\", \"minecraft:cracked_stone_bricks\", \"minecraft:grindstone\", \"minecraft:hopper_minecart\", \"minecraft:lantern\", \"minecraft:trapped_chest\", \"minecraft:armor_stand\"], \"game\": \"lofpAQ5c\"}",
+        "time": "20250509-213850-146960"
+    },
+    {
+        "_id": "681e056a083e1ced8235249d",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__start_proposal",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"max_turn\": 30, \"proposer\": \"GPT-4o-player1746797918\", \"turn_index\": 1}",
+        "time": "20250509-213850-147960"
+    },
+    {
+        "_id": "681e059e083e1ced8235249e",
+        "domain": [
+            "MBNeZqLOFUlIReUwIqn88HUofC_f9wWC"
+        ],
+        "event": "player__item_info",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"node_name\": \"minecraft:stone_shovel\", \"raw_list\": [], \"token\": \"MBNeZqLOFUlIReUwIqn88HUofC_f9wWC\", \"username\": \"GPT-4o-player1746797918\"}",
+        "time": "20250509-213942-273487"
+    },
+    {
+        "_id": "681e059e083e1ced8235249f",
+        "domain": [
+            "MBNeZqLOFUlIReUwIqn88HUofC_f9wWC"
+        ],
+        "event": "server__item_info",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [{\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$stone_shovel\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_shovel\", {\"d\": 1, \"n\": 1}]]}], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"minecraft:stone_shovel\", \"node_type\": \"item\", \"parents\": [], \"username\": \"GPT-4o-player1746797918\"}, \"node_name\": \"minecraft:stone_shovel\", \"username\": \"GPT-4o-player1746797918\"}",
+        "time": "20250509-213942-274515"
+    },
+    {
+        "_id": "681e05a1083e1ced823524a0",
+        "domain": [
+            "MBNeZqLOFUlIReUwIqn88HUofC_f9wWC"
+        ],
+        "event": "player__item_info",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"node_name\": \"minecraft:stick\", \"raw_list\": [], \"token\": \"MBNeZqLOFUlIReUwIqn88HUofC_f9wWC\", \"username\": \"GPT-4o-player1746797918\"}",
+        "time": "20250509-213945-139303"
+    },
+    {
+        "_id": "681e05a1083e1ced823524a1",
+        "domain": [
+            "MBNeZqLOFUlIReUwIqn88HUofC_f9wWC"
+        ],
+        "event": "server__item_info",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [{\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$stick\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 4}]]}], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"minecraft:stick\", \"node_type\": \"item\", \"parents\": [{\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:cherry_planks\", {\"d\": 1, \"n\": 4}]], \"extra_tags\": {}, \"node_name\": \"$cherry_fence\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:cherry_fence\", {\"d\": 1, \"n\": 3}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 4}], [\"minecraft:cherry_planks\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"node_name\": \"$cherry_fence_gate\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:cherry_fence_gate\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:cherry_planks\", {\"d\": 1, \"n\": 6}], [\"minecraft:stick\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$cherry_sign\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:cherry_sign\", {\"d\": 1, \"n\": 3}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {}, \"node_name\": \"$iron_axe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_axe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"node_name\": \"$iron_hoe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_hoe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {}, \"node_name\": \"$iron_pickaxe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_pickaxe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$iron_shovel\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_shovel\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"node_name\": \"$iron_sword\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_sword\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 7}]], \"extra_tags\": {}, \"node_name\": \"$ladder\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:ladder\", {\"d\": 1, \"n\": 3}]]}, {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 1}], [\"minecraft:stick\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$lever\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:lever\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:oak_planks\", {\"d\": 1, \"n\": 4}]], \"extra_tags\": {}, \"node_name\": \"$oak_fence\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:oak_fence\", {\"d\": 1, \"n\": 3}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 4}], [\"minecraft:oak_planks\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"node_name\": \"$oak_fence_gate\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:oak_fence_gate\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:oak_planks\", {\"d\": 1, \"n\": 6}], [\"minecraft:stick\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$oak_sign\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:oak_sign\", {\"d\": 1, \"n\": 3}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"node_name\": \"$rail\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:rail\", {\"d\": 1, \"n\": 16}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$stone_axe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_axe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$stone_hoe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_hoe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$stone_pickaxe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_pickaxe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$stone_shovel\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_shovel\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$stone_sword\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_sword\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"#minecraft:coals\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:coals\": {\"minecraft:coal\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$torch\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:torch\", {\"d\": 1, \"n\": 4}]]}, {\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}], [\"minecraft:stick\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$tripwire_hook\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:tripwire_hook\", {\"d\": 1, \"n\": 2}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$wooden_axe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:wooden_axe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$wooden_hoe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:wooden_hoe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$wooden_pickaxe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:wooden_pickaxe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$wooden_shovel\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:wooden_shovel\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$wooden_sword\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:wooden_sword\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:cherry_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:coal\", {\"d\": 1, \"n\": 1}], [\"minecraft:oak_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:cherry_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:cherry_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:cherry_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:coal_block\", {\"d\": 10, \"n\": 1}], [\"minecraft:oak_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:oak_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:oak_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:oak_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:bowl\", {\"d\": 1, \"n\": 16}], [\"minecraft:chest\", {\"d\": 3, \"n\": 16}], [\"minecraft:crafting_table\", {\"d\": 3, \"n\": 16}], [\"minecraft:smithing_table\", {\"d\": 3, \"n\": 16}], [\"minecraft:stick\", {\"d\": 1, \"n\": 16}], [\"minecraft:oak_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:barrel\", {\"d\": 3, \"n\": 16}], [\"minecraft:chiseled_bookshelf\", {\"d\": 3, \"n\": 16}], [\"minecraft:composter\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:cherry_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:cherry_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:ladder\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_axe\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_hoe\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_pickaxe\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_shovel\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_sword\", {\"d\": 1, \"n\": 8}], [\"minecraft:trapped_chest\", {\"d\": 3, \"n\": 4}]], \"extra_tags\": {}, \"node_name\": \"#minecraft:fuel\", \"node_type\": \"tag\", \"parents\": [[\"$copper_ingot_from_blasting_raw_copper\", {\"d\": 1, \"n\": 8}], [\"$copper_ingot_from_smelting_raw_copper\", {\"d\": 1, \"n\": 8}], [\"$iron_ingot_from_blasting_raw_iron\", {\"d\": 1, \"n\": 8}], [\"$iron_ingot_from_smelting_raw_iron\", {\"d\": 1, \"n\": 8}], [\"$stone\", {\"d\": 1, \"n\": 8}], [\"$iron_nugget_from_blasting\", {\"d\": 1, \"n\": 8}], [\"$iron_nugget_from_smelting\", {\"d\": 1, \"n\": 8}], [\"$smooth_stone\", {\"d\": 1, \"n\": 8}], [\"$cracked_stone_bricks\", {\"d\": 1, \"n\": 8}]]}, {\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 2}], [\"minecraft:stone_slab\", {\"d\": 1, \"n\": 1}], [\"minecraft:stick\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$grindstone\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:grindstone\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 6}], [\"minecraft:smooth_stone_slab\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$armor_stand\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:armor_stand\", {\"d\": 1, \"n\": 1}]]}], \"username\": \"GPT-4o-player1746797918\"}, \"node_name\": \"minecraft:stick\", \"username\": \"GPT-4o-player1746797918\"}",
+        "time": "20250509-213945-143733"
+    },
+    {
+        "_id": "681e05a8083e1ced823524a2",
+        "domain": [
+            "MBNeZqLOFUlIReUwIqn88HUofC_f9wWC"
+        ],
+        "event": "player__submit_proposal",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"message\": \"Hey Alice, I noticed you have cherry_planks, which could be useful for crafting sticks. I can offer you raw_iron, which might help you with crafting iron-related items. Let's make a trade that benefits both of us!\", \"proposal\": {\"offer\": {\"minecraft:raw_iron\": 2}, \"partner\": \"Alice\", \"request\": {\"minecraft:cherry_planks\": 1}, \"self\": \"GPT-4o-player1746797918\"}, \"raw_list\": [], \"token\": \"MBNeZqLOFUlIReUwIqn88HUofC_f9wWC\", \"username\": \"GPT-4o-player1746797918\"}",
+        "time": "20250509-213952-299720"
+    },
+    {
+        "_id": "681e05a8083e1ced823524a3",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__proposal_sent",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"proposer\": \"GPT-4o-player1746797918\"}",
+        "time": "20250509-213952-299720"
+    },
+    {
+        "_id": "681e05a8083e1ced823524a4",
+        "domain": [
+            "vIHTeG6oUOeDBX7201Cs6mdKZtOtGpgj"
+        ],
+        "event": "server__proposal",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"message\": \"Hey Alice, I noticed you have cherry_planks, which could be useful for crafting sticks. I can offer you raw_iron, which might help you with crafting iron-related items. Let's make a trade that benefits both of us!\", \"proposal\": {\"offer\": {\"minecraft:raw_iron\": {\"d\": 1, \"n\": 2}}, \"partner\": \"Alice\", \"request\": {\"minecraft:cherry_planks\": {\"d\": 1, \"n\": 1}}, \"self\": \"GPT-4o-player1746797918\"}}",
+        "time": "20250509-213952-300723"
+    },
+    {
+        "_id": "681e0791083e1ced823524a5",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__player_leave_room",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"player_list\": [\"Alice\"], \"playername\": \"GPT-4o-player1746797918\"}",
+        "time": "20250509-214801-321465"
+    },
+    {
+        "_id": "681e07a0083e1ced823524a9",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__player_leave_room",
+        "msg": "{\"gamename\": \"lofpAQ5c\", \"player_list\": [], \"playername\": \"Alice\"}",
+        "time": "20250509-214816-573024"
+    },
+    {
+        "_id": "681e07a0083e1ced823524aa",
+        "domain": [
+            "lofpAQ5c"
+        ],
+        "event": "server__game_deleted",
+        "msg": "{\"hall\": \"2-player-pool-matching\"}",
+        "time": "20250509-214816-573024"
+    }
+]

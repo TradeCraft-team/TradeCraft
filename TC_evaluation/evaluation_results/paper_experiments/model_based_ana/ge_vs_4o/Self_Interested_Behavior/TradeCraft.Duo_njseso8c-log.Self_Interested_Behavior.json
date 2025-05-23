@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for raw iron to craft a bucket and successfully traded for it, offering coal in return, which they didn't need.  They clearly prioritized their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "player 1 acted in partial self-interest. While they correctly assessed that the trade didn't hinder their immediate goal and gained a potentially useful resource (coal), the trade was more beneficial to Player 2 . They could have potentially negotiated for a more advantageous trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "player 1 proposed a self-interested trade, offering raw iron (which they had a surplus of) for cobblestone needed for their tool.  Although the trade was rejected, the attempt demonstrates self-interested behavior."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted in their self-interest by rejecting player 1 's offer. Recognizing that they needed cobblestone, raw iron, raw copper, and coal themselves they decided to prioritize keeping resources to further their own crafting."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 identified their need for coal and successfully traded cobblestone to obtain it. They used the coal to smelt iron and ultimately crafted the bucket achieving their win condition. This behavior demonstrates strong self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "player 1 traded coal for cobblestone. While they needed the cobblestone they failed to recognize their greater need for planks to achieve their goal of crafting the stone shovel. This ultimately led to a loss, demonstrating poor self-interest."
+      }
+    ]
+  }
+]

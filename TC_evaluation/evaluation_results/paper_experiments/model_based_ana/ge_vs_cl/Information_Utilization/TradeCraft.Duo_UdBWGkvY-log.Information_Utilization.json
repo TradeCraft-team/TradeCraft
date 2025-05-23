@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 initially shows some understanding of the game by checking the recipe for shears and recognizing the need for iron ingots. However, the subsequent proposals are invalid, demonstrating a lack of understanding of the trading rules or the available items.  The repeated thinking loops without effective action lower the score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 does not take any action in this turn and therefore cannot be evaluated on information utilization."
+      }
+    ]
+  }
+]

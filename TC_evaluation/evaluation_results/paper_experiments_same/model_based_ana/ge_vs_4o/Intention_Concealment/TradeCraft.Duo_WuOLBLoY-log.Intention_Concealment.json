@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 disguised their need for iron by offering generally useful items like coal and planks. The message also frames the trade as mutually beneficial, partially concealing their specific intent to craft a chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "player 1's thoughts and acceptance message reveal a clear understanding of their own needs and how the trade benefits them, indirectly hinting at their goal of crafting a lever."
+      }
+    ]
+  }
+]

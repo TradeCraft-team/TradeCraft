@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interested behavior by attempting to trade for raw iron, which could be beneficial for crafting a chain. Although the initial proposal was invalid and rejected, the subsequent proposal offered coal for raw iron, indicating a strategic approach to acquiring needed resources.  Player 2 consistently used item_info and possible_recipes_from_hand tools to understand crafting requirements and possibilities, focusing on their own crafting goal. Crafting iron nuggets demonstrates preparation for crafting the chain."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected player 2's initial trade proposal without providing a valid explanation. While the thought process reveals an understanding of their own crafting goal (lever), there is no clear demonstration of self-interested behavior in this turn. Player 1 did not perform any crafting or make any proposals for personal gain."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 cleverly proposed a trade that directly benefited their goal.  By offering raw iron, a valuable resource for Player 2, in exchange for the cherry planks needed to craft sticks, they acted in their own self-interest, getting closer to crafting their target item, the lever.  They showed initiative by proposing this mutually beneficial trade but prioritized getting closer to their crafting goal.  Player 1 further strengthened the self-interested behavior by crafting the stick required for the lever, taking a decisive step toward their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 exhibited strong self-interested behavior by accepting Player 1's proposal. Player 2 correctly identified that acquiring raw iron in exchange for planks would significantly benefit their crafting goal.  Recognizing the value of fuel alongside raw iron allowed Player 2 to proceed with smelting and securing necessary components for crafting the chain. This demonstrated good game knowledge, strategy, and pursuit of their own crafting goal. Although they did not complete the chain, crafting the iron ingot demonstrates significant progress towards their target."
+      }
+    ]
+  }
+]

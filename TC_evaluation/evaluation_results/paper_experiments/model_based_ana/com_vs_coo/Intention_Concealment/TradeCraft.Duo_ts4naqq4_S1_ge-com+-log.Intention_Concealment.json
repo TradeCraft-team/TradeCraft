@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's initial proposal was too demanding, revealing their need for iron ingots. However, they adjusted their strategy, offering a more reasonable trade while still concealing their specific need for shears.  Their message is somewhat transparent, hinting at tool crafting."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intention by focusing on cooperation and expressing a need for coal, which diverted attention from their actual target (torch). They skillfully used player 2's need for iron to their advantage while feigning helpfulness."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal and message directly revealed their need for coal and their intention to craft a torch, making their intention obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions by rejecting the trade and providing a plausible explanation (needing coal for smelting), which reinforces the idea they are working towards something iron-related, but not specifically shears."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade for oak planks is somewhat revealing, as it suggests they need wood, which might hint at crafting a crafting table. However, the message is generic enough to maintain some ambiguity about their ultimate goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintained good intention concealment by accepting the trade and not revealing any specific needs or plans.  Their internal thoughts suggest a general need for coal but don't reveal their target."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's repeated attempts to trade for coal, coupled with the message in their proposal, strongly suggest they need coal for smelting, making their intentions somewhat transparent, although their target item remains unknown."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to conceal their intentions effectively by rejecting the coal trade, reinforcing the idea they need the coal for themselves without revealing their specific plans."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal is ambiguous enough. Requesting cobblestone and raw iron could indicate several crafting paths, which partially conceals their intention to make shears."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintains a high level of intention concealment. Accepting the torch trade doesn't reveal their target and aligns with their previous expressed need for coal-related items."
+      }
+    ]
+  }
+]

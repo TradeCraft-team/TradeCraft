@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully persuaded player 1 to trade raw iron for coal.  They clearly stated their need for iron ingots to craft shears and offered coal as an incentive for player 1 to smelt their raw iron.  This trade benefited both players."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 didn't need to persuade player 2 of anything, as the trade was already beneficial to them.  They simply accepted the proposal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to persuade player 2 to trade cobblestone for raw copper. However, the offer wasn't compelling as it didn't align with player 2's goal. The justification for the trade was weak, and the attempt at persuasion was ultimately unsuccessful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 didn't attempt to persuade Player 1 in this turn. They rejected the offer and stated their need for iron."
+      }
+    ]
+  }
+]

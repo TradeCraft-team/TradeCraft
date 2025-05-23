@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 repeatedly submitted invalid proposals. They eventually identify the correct items to trade for, which shows some strategic thinking, but the inefficient execution significantly lowers the score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly assessed the value of the trade, recognizing the indirect benefit of helping player 1 progress.  They considered crafting options with available materials and accepted the trade. This demonstrates reasonably effective strategic planning, leading to a cooperative approach."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 formulated a plan to craft their target item, demonstrating good resource management. The proposed trade with player 1 was strategically sound, offering a resource they didn't need to help player 1 progress while also requesting a potentially useful material in return."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes the value of the offered raw iron and accepts the trade.  They also correctly identify the need for coal and formulate a plan to acquire it, demonstrating some level of strategic thinking and resource management."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully traded for the needed coal, executed their crafting plan effectively, and achieved their win condition.  This demonstrates strong strategic planning and execution."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made a strategically sound trade decision, prioritizing player 1's progress, recognizing the value of cooperation. Player 2 failed to create sticks, likely due to an internal misunderstanding of the item info. This indicates a flaw in planning and not fully utilizing available resources."
+      }
+    ]
+  }
+]

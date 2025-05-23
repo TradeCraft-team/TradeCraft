@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to cooperate by offering a trade. The offer was reasonable given the game context. Even though the trade was rejected, the attempt to cooperate is positive."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the trade offer without properly engaging with Player 1's proposal.  There is no sign of trying to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a trade that wasn't immediately beneficial but helped Player 2 and showed willingness to cooperate."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade that was beneficial to them and also considered the potential needs of Player 1. This demonstrates good cooperation."
+      }
+    ]
+  }
+]

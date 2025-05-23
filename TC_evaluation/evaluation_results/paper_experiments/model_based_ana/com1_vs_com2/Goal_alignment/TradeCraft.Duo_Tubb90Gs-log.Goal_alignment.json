@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 clearly identifies their goal (chain) and takes effective steps towards achieving it by trading for raw iron, a key ingredient.  They correctly assess their needs and formulate a plan consistent with their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's actions are largely aligned with their goal of crafting a stone shovel. They accept a trade for coal to smelt raw iron, which could indirectly contribute towards obtaining necessary materials later. Their thinking demonstrates a clear understanding of the crafting requirements for their target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 wastes a lot of time with invalid crafting attempts and fails to make any progress toward their goal of crafting a chain.  While their thinking shows an understanding of the goal, their actions don't align with it effectively this turn due to repeated invalid recipe checks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 makes no meaningful progress towards crafting a stone shovel. Their proposed trade is rejected and they fail to craft anything useful, although they correctly recognize the need for more planks."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 demonstrates goal alignment by trying to trade for coal, which is necessary for smelting raw iron into an ingot, a key component of their chain. However, they fail to secure a trade this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's actions are not strongly aligned with their goal of crafting a stone shovel. They reject the trade offer, failing to get closer to completing their goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 misses the opportunity to craft the chain, converting their second iron ingot into nuggets instead. Their actions are not aligned with the immediate goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 does nothing productive this turn, while they needed sticks to move towards crafting a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes the need for more iron ingots and proposes a trade to achieve this.  They make several proposal attempts but face rejection. Despite not succeeding in trading, player 1 crafts 1 iron ingot using iron nuggets and then converts it back to iron nuggets by attempting to craft a chain. Player 1 fails to smelt their raw iron because they lack fuel."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to demonstrate an understanding of their goal and recognizes the missing components. Although unable to craft the stone shovel this turn, they smelt raw iron into ingots, an action that could contribute to future trading or crafting opportunities and suggests an understanding of potential alternative crafting paths."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 converts their iron nuggets back to one iron ingot and does nothing this turn. However their thoughts show their chain goal is in their mind."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 does not make any progress towards completing their goal this turn."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 makes consistent progress towards their goal. Despite failing to trade and having crafted iron nuggets instead of another iron ingot in previous turns, player 1 successfully crafts an iron ingot from iron nuggets."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 fails to craft anything or make progress towards the stone shovel. Their actions and justifications do not indicate any concrete steps toward achieving their goal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully crafts the chain, demonstrating perfect goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's actions are not aligned with crafting the stone shovel. They fail to make any progress toward their goal."
+      }
+    ]
+  }
+]

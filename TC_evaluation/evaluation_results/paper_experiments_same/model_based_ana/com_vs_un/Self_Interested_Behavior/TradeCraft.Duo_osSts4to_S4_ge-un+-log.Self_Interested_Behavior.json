@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by attempting to trade for raw iron, essential for their target (chain). They offered coal as an incentive, showing strategic thinking in maximizing their own benefit. Although the trade was rejected, their intent and actions clearly prioritized their own needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade offer. They recognized that the trade, while potentially beneficial to Player 1, did not offer them any immediate advantage towards their own goal (stone_shovel).  Their prioritization of their own needs over mutual benefit demonstrates self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintained focus on their goal (chain) by rejecting a disadvantageous trade offer and continuing to seek raw iron, a key component for their target. They showed a willingness to explore different trade options while prioritizing their own needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued self-interested actions by making a low-cost trade proposal (requesting raw copper while offering nothing). This deceptive tactic aimed to gain information and potentially hinder Player 1 while preserving their own resources, although it was unsuccessful."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to pursue self-interest by trying to trade for raw iron and raw copper, necessary for their chain. Offering coal, shows a strategic attempt to maximize their own benefit, though unsuccessfully."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to demonstrate self-interest by rejecting a trade that does not benefit their pursuit of a stone_shovel.  They recognize the potential benefit to player 1 and choose to prioritize their own resource conservation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 acted in their self-interest by accepting a beneficial trade. Gaining raw iron directly contributes to their goal of crafting a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates self-interest by offering raw iron for cobblestone. While seemingly helpful to Player 1, this trade serves Player 2's goal of completing their stone_shovel, showing strategic resource management for personal gain."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 shows persistent self-interest by attempting to trade for raw iron again, essential for their chain. Offering raw copper demonstrates continued effort to prioritize their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's self-interest is shown through rejecting a trade that doesn't benefit their goal. Recognizing that giving Player 1 raw iron might help them achieve their goal, they choose to conserve resources, prioritizing their own needs over potential mutual benefit."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted a trade that didn't directly benefit their goal. While not harmful, it shows less active pursuit of self-interest this turn.  Their explanation suggests awareness of neutrality towards their goal, but acceptance implies some willingness to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 strategically trades raw copper for cherry planks.  This trade secures them materials for sticks, furthering their goal of creating a stone shovel. Their focus remains on their own needs, demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates strong self-interest by successfully trading for raw iron, crucial for their chain. They correctly identify and execute a trade that directly benefits their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's acceptance of the trade for raw copper benefits them by bringing them closer to their goal.  While accepting, they do not show any active pursuit of their own needs beyond that."
+      }
+    ]
+  }
+]

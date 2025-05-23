@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 formulated a clear plan to obtain the necessary raw iron to craft shears. They correctly identified that Player 1 had an abundance of raw iron and proposed a mutually beneficial trade offering coal, which Player 1 needed. This demonstrates strong strategic thinking by correctly assessing the game state and leveraging opponent's resources to fulfill their objective."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 displayed good strategic planning by accepting Player 2's proposal. They correctly identified the value of the trade, acquiring coal needed to craft a torch while giving away excess raw iron. This action directly contributes to their win condition and demonstrates effective resource management."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's plan seems to revolve around crafting a torch, but they repeatedly fail to execute the correct crafting steps for sticks. Despite multiple checks, they don't manage to craft sticks or progress towards their objective. This indicates a lack of understanding of basic crafting or in-game tools and diminishes their strategic effectiveness.  They made an appropriate trade offer, even though it was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 identifies the need for fuel to smelt their raw iron. They correctly navigate the crafting mechanics and successfully smelt the raw iron into iron ingots. They then immediately craft shears, demonstrating efficient use of resources and direct pursuit of their winning condition. This successful execution of their plan demonstrates excellent strategic planning."
+      }
+    ]
+  }
+]

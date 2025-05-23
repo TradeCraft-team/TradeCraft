@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 demonstrated some strategic thinking by identifying the need for iron ingots and attempting to trade for them. However, the initial proposals were invalid, and the final proposal, while valid, was rejected.  The player also spent time checking item information, which is a good start, but the overall effectiveness of their strategy was limited in this turn."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 did not actively participate in trading during this turn. While there's evidence of thinking about crafting steps, there's no indication of a proactive trading strategy related to acquiring needed resources."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that, while not immediately beneficial to their primary goal, demonstrated adaptability and a willingness to consider long-term possibilities. They then formulated a clear plan for acquiring the remaining necessary resources (iron ingots) and began smelting raw copper, demonstrating proactive resource management. Although the trade proposal didn't occur in this turn, the planning and preparation are positive signs of strategic thinking."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade to acquire the cherry planks needed for crafting sticks. This proactive approach, coupled with successfully crafting the necessary sticks and ultimately the stone shovel, demonstrates strong strategic planning and execution.  Player 2 achieved their goal, showcasing excellent resource management and crafting strategy in this turn."
+      }
+    ]
+  }
+]

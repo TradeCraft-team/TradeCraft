@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good information utilization. They correctly identified the need to acquire raw iron to craft a bucket and formulated a reasonable trade proposal to obtain it from Player 1.  They offered relevant items in exchange, showing an understanding of potential needs of the other player."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent information utilization. They correctly assessed the proposed trade, recognizing the value of the offered items and their potential usefulness for future crafting. They also efficiently planned their crafting steps, correctly checking item information and crafting the stick and then the lever to achieve their target item."
+      }
+    ]
+  }
+]

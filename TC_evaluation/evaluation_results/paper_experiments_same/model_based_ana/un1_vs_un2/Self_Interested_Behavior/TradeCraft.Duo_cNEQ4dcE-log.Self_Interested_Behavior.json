@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently attempted to trade for iron ingots or raw iron, demonstrating strong self-interest.  Although the proposals were invalid due to formatting issues, the intent to prioritize their own crafting goal was clear. The final null trade does not detract from this, as it was due to a technical issue and accepted by player 1 without any cost to player 2."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepted a null trade, which didn't benefit or harm them.  They didn't show much self-interested behavior this turn, as they didn't actively try to acquire resources for their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 initiated a trade to acquire cobblestone, demonstrating self-interest by offering raw iron in exchange. The offer was accepted, directly benefiting them."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, demonstrating some self-interest by acquiring raw iron, potentially useful for smelting or future trades.  While the trade benefited player 1 more directly, player 2 gained resources and acknowledged the potential benefits."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a self-serving trade proposal, offering a copper ingot for raw iron to progress towards their goal of crafting a chain. The proposal was successful, showing effective self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepted the trade, showing some self-interest as they acquire a copper ingot, though it doesn't directly contribute to their primary goal. The trade seems slightly more beneficial for player 2."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 proposed a null trade, showing minimal self-interest as they focus on crafting from their existing inventory. While this indicates a plan, it doesn't involve pursuing personal gain through trading."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the null trade, showing minimal self-interest. They didn't attempt to make a trade to further their goal, indicating a passive approach."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2, despite initial proposal issues, ultimately proposes a null trade, correctly assessing they have the necessary materials to pursue their goal. This demonstrates strategic self-interest in conserving resources."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepts a null trade, demonstrating minimal self-interest.  They did not attempt to trade for any resources or otherwise further their goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 proposed a null trade and focuses on crafting sticks, demonstrating limited self-interest as they don't attempt to acquire resources through trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 simply accepted the null trade, indicating no active self-interested behavior as they didn't try to negotiate for resources or further their goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 actively pursued a trade for raw iron, offering iron nuggets. Though the proposal was rejected, it indicates clear self-interest in pursuing resources to advance their crafting goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade, prioritizing keeping their raw iron, a self-interested decision aimed at retaining resources for potential future use, even if not immediately necessary."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 proposed a null trade and focuses on internal crafting, demonstrating limited self-interest as they don't attempt to acquire additional resources through trading."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 accepts the null trade, displaying no active pursuit of resources. This passive approach reflects a lack of self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 persistently pursued trades, offering different deals to obtain iron ingots or raw iron. Despite rejections, the continuous attempts showcase self-interest and focus on their crafting goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 consistently rejected trades, demonstrating self-interest by prioritizing their own resource needs, even if it meant hindering player 2's progress."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 actively pursued a trade for oak planks and then raw iron, necessary to advance their goal. While both proposals were rejected, their proactive approach exhibits self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the proposed trades, acting in their self-interest by prioritizing holding onto raw iron necessary for their own goal of crafting a chain."
+      }
+    ]
+  }
+]

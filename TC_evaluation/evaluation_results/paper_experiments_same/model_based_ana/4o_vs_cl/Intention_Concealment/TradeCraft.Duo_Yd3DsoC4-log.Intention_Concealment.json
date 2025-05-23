@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly checked the recipe for 'chain', revealing their target. The initial invalid proposal further hinted at their need for iron-related items.  While the final proposal was more generic, the earlier actions significantly compromised their intention concealment."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 made no proposals and performed no crafting actions, effectively concealing their intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal, while seemingly innocuous, reveals a need for cobblestone and coal. This gives Player 2 some insight into Player 1's potential crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the proposal and gave a plausible reason related to smelting, without revealing their specific need for iron for chain crafting. This maintains a good level of intention concealment."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's proposal reveals their need for raw iron. The justification message, while mentioning \"crafting goals\", further hints at a need for iron, potentially giving away their intention to craft a chain."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintained intention concealment by rejecting the offer with a generic message and not revealing their need for sticks."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal requesting cherry planks suggests a need for wood, which could be used to make sticks, partially revealing their intent to craft tools."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the proposal with a reasonable explanation. While they mentioned needing \"iron-related items\", the message maintains some ambiguity about their exact needs."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's proposal, while offering a seemingly fair trade, reveals a continued need for raw iron. This reinforces Player 1's suspicion that Player 2 needs iron for their target."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejects the proposal, giving Player 2 limited information about their crafting goals. They successfully maintain concealment."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal requesting cobblestone reveals their need for this material, and indirectly hints towards possible tool crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 accepting the proposal and justifying their need for raw iron for crafting makes their target increasingly obvious. Given the prior turns and their consistent interest in iron, this trade confirms the intent of chain crafting."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 crafts the chain, revealing their target item and winning the game. At this point, intention concealment is irrelevant."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 made no revealing actions, maintaining concealment despite not achieving their target."
+      }
+    ]
+  }
+]

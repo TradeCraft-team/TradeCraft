@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently demonstrated self-interested behavior. They methodically identified the resources needed to craft their target item (shears), and formulated a trade proposal that directly benefited them.  They offered coal, which they had in excess and was less crucial for their crafting needs, in exchange for raw iron, which was essential for crafting their target.  Their thought process and actions throughout the turn were solely focused on achieving their own win condition."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 exhibited some level of self-interest by accepting the trade proposal.  They recognized the need for coal to craft their target (torch) and secured it through the trade.  Although the trade benefited Player 2 more directly, Player 1 still acted in their own self-interest to acquire a needed resource. However, they made a critical error in the crafting phase by proposing an invalid recipe, revealing a lack of thoroughness in pursuing their own goal and potentially jeopardizing their chances to craft a torch later."
+      }
+    ]
+  }
+]

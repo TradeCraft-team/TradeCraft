@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade with Player 2, offering coal and cobblestone for raw iron.  This demonstrates an attempt at cooperation by seeking a mutually beneficial exchange. Although the trade was rejected, the proposal itself and accompanying message show willingness to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejected the trade offer but provided a clear explanation for the rejection. This shows a polite and respectful interaction, a basic element of cooperation, despite not engaging in the trade itself.  The reasoning provided contributes to a transparent interaction, which can foster better future trades."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 submitted an invalid proposal. They offered items they didn't possess and the proposal was to <UNKNOWN>. This does not demonstrate any cooperation and disrupts the game flow."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not participate in trading this turn, therefore, there was no opportunity to showcase cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 again initiated a trade, this time offering cherry planks for raw iron. The proposal and message demonstrate clear communication and an attempt to find a mutually beneficial trade, showing continued willingness to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the trade proposal without providing any feedback. This lack of communication hinders cooperation and makes it difficult to find potentially beneficial trades in the future. The player also appears to have encountered errors or issues. "
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a reasonable trade, offering raw iron for cherry planks and cobblestone. The proposal and message explained the need for these specific items and the potential benefit for Player 1, demonstrating good communication and a clear intent to cooperate."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade offer with a canned response indicating they likely had an error in the reasoning process. This hinders cooperation as it doesn't allow for productive negotiation or understanding of each other's needs."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a beneficial trade, offering cherry planks and cobblestone for raw iron.  This trade was accepted by Player 2, showing successful cooperation and a mutually beneficial agreement. The clear communication and willingness to trade contribute to a strong score."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the trade proposal, acknowledging its benefit and demonstrating willingness to cooperate. The acceptance of the trade led to a successful exchange that benefited both players, showing a strong example of cooperation."
+      }
+    ]
+  }
+]

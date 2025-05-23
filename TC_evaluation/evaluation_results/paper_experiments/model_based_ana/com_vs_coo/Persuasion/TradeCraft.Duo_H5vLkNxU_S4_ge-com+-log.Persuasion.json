@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 clearly stated their needs and offered a reasonable trade. They explained their rationale for the trade, which increased the likelihood of Player 1 accepting.  The message was concise and persuasive."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's acceptance message demonstrated understanding of the trade and a willingness to cooperate.  They also hinted at future cooperation, further strengthening the persuasive element."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted completely in their own self interest. They identified their need (iron) and offered a reasonable trade to obtain it, focusing solely on their bucket goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted a trade that benefited them, acquiring cobblestone while giving away excess raw iron. Although the trade was mutually beneficial, their primary focus was on their own gain."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to pursue their own goal, trying to acquire more resources for their bucket. They recognized the value of fuel and planned accordingly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 made multiple invalid proposals and seemed confused about how to obtain materials to craft a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to focus on getting iron for their bucket goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejected the proposal for raw copper and emphasized needing cobblestone to suggest they are trying to get the other player to work towards Player 2's goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade that significantly benefited them by providing the final raw iron needed for their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 offered raw iron and sticks, materials that could be used by Player 1 towards crafting a bucket. This suggests Player 2 is trying to get player 1 to work towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 is narrowly focused on crafting a bucket and proposed a trade for sticks, which they could use as fuel to make iron ingots."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejected the proposal in their self-interest, realizing they needed to keep the sticks for their own goal of crafting a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 rejected a trade for their iron ingot, recognizing it as key to their bucket goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed trading for player 1's iron ingot, attempting to acquire a valuable resource, even though it didn't directly contribute to their immediate stone shovel goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to prioritize acquiring iron for their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejected a proposal that didn't benefit their own goal, sticking to their need for cobblestone for the stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not take any actions this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 submitted several invalid proposals this turn."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to pursue their bucket goal, offering sticks for raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejected the trade, recognizing that it didn't advance their own stone shovel goal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 correctly assessed their needs and tried to address the lack of fuel by checking possible recipes."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintained a focus on getting the necessary \"stone tool material\" for their stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 offered a valuable trade (iron ingot and sticks) in an attempt to get the raw iron needed for their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejected the trade as it didn't contribute to their stone shovel goal and would deplete their raw iron reserves."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted in their self-interest, rejecting a trade that offered no benefit to their bucket goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed a trade of raw copper for raw iron. This benefits Player 2 by letting them acquire materials they might need for future trades."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended."
+      }
+    ]
+  }
+]

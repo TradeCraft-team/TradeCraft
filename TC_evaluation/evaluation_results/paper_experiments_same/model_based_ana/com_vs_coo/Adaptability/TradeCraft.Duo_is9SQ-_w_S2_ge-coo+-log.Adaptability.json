@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 demonstrated poor adaptability. They repeatedly submitted invalid proposals based on incorrect assumptions about player 2's needs and the game mechanics. They did not effectively adjust their strategy despite repeated failures."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showcased good adaptability. They correctly assessed the proposed trade, recognizing its lack of benefit to their own goal. They also identified flaws in player 1's reasoning, demonstrating an understanding of the game mechanics and the importance of resource management."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 showed some adaptability by recognizing the need to make their trade offer more appealing. They explored different crafting possibilities and attempted to deduce player 2's target item to improve their negotiation strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 demonstrated limited adaptability. While they planned to make sticks and considered a trade, they submitted an invalid proposal and didn't effectively use the crafting phase to their advantage. They also missed the chance to smelt raw iron."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 showed some adaptability, recognizing their previous trade failures and attempting to find a more mutually beneficial offer. However, they did not fully consider the opponent's perspective and needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 adapted well by rejecting the offer and inquiring about alternative trades. They considered the long-term implications of accepting the proposed trade and prioritized acquiring resources that better aligned with their goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated good adaptability by recognizing the value of the offered trade. They prioritized getting raw materials that could be used for crafting, showing an understanding of resource management and game progression."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 showed poor adaptability. They repeated the same invalid trade proposal from earlier turns despite it being consistently rejected, demonstrating a lack of learning from past failures."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapted their strategy and smelted raw copper into a copper ingot, maximizing resource utility and showing an understanding of crafting mechanics. They also attempted another trade with an appropriate message."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 showed some adaptability by analyzing the proposed trade and correctly rejecting it based on its limited benefit to their own goal. However, their crafting attempts were largely unproductive due to invalid recipes."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good adaptability by accepting a trade that, while not immediately beneficial, facilitated player 2's progress, showing an understanding of cooperation and long-term game strategy. They also crafted shears, their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 adapted well by proposing a trade that aligned with their need for cobblestone slabs. They correctly identified the value of the slabs and offered a fair exchange, demonstrating an understanding of resource management and negotiation."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent adaptability by shifting focus to assisting player 2 after achieving their own target. They offered valuable resources and sought information to aid their partner, showcasing strong collaborative skills."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 showed moderate adaptability. While they accepted a trade that could offer insight into player 1's strategy, they didn't effectively leverage the crafting phase to address their resource needs."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to exhibit strong adaptability by prioritizing player 2's needs, accepting a trade that benefited their partner more than themselves. They also correctly identified their win condition and considered how to help player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 showed some adaptability by proposing a trade that aimed to acquire needed resources. However, their strategy was still somewhat reactive and lacked a clear long-term plan."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 showed some adaptability by recognizing the rejected proposal and its potential reasons, leading to the crafting of cobblestone slabs. They continued to try and assist player 2 despite limited success."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrated adaptability by rejecting a trade that did not significantly benefit them, and by considering player 1's potential motives. However, their own plan to trade for coal was not executed."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good adaptability by continuing to support player 2's progress. They accurately assessed the value of the trade for their partner and accepted accordingly, demonstrating good collaborative behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 displayed some adaptability by proposing a trade for needed resources and by checking item information. However, their plan still lacked clear direction and their smelting attempts were unproductive due to lack of fuel."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated excellent adaptability, offering valuable resources in exchange for materials to help their partner progress, showcasing a deep understanding of collaboration and resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good adaptability by accepting a trade that provided valuable raw materials while strategically assessing its potential to reveal their own target."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintained good adaptability, continuing to prioritize collaborative play and accepting a trade that furthered player 2's objectives while posing minimal risk to their own completed goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 demonstrated some adaptability in continuing to seek cobblestone slabs, but their planning and crafting attempts remained unproductive due to the continued lack of fuel and a still somewhat unclear overall strategy."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended; no actions to evaluate for adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended; no actions to evaluate for adaptability."
+      }
+    ]
+  }
+]

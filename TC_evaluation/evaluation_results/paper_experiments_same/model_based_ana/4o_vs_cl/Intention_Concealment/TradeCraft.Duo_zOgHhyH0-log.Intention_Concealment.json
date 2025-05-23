@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a trade proposal seemingly beneficial to both players, effectively masking their need for raw iron to craft shears. While the request for raw iron hints at a need for iron-based items, the inclusion of coal and cobblestone in the offer adds ambiguity to their true intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's acceptance of the trade and the accompanying message reveal their need for coal. Although their primary goal (crafting a torch) is not explicitly stated, the enthusiasm for coal strongly suggests its importance to their crafting plans."
+      }
+    ]
+  }
+]

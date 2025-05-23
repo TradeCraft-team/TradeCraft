@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identifies their target and the necessary resources to craft it. They formulate a reasonable trade proposal based on their needs and their opponent's inventory.  Though, the offer could be more appealing given the 2:1 exchange rate they proposed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 analyzes the trade proposal effectively, considering the value of both offered and requested items. They correctly assess their own need for raw iron and make a sound decision to reject the trade. They also demonstrate understanding of their target recipe and formulate a plan for obtaining it."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognizes the value of the raw iron offered in the trade and accepts, bringing them closer to their crafting goal.  Their thinking demonstrates a good understanding of resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offers a beneficial trade to player 1 and continues analyzing their own crafting needs.  They appear to make some progress in considering a crafting strategy, but also show indecision in their proposed next steps."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to demonstrate effective information utilization by proposing a trade for raw iron, justifying it based on their need to craft a chain.  While they could have traded for coal, the choice to trade for more raw iron isn't unreasonable."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a reasonable deduction about Player 1's goal and makes a collaborative trade decision by accepting their proposal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 demonstrates strategic thinking by trying to deduce their opponent's goal based on their trade requests. However, they repeatedly offer trades that are rejected, and don't adapt their strategy effectively. They recognize the opponent's need for sticks and planks, but fail to offer those items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 makes repeated invalid proposals due to phase errors. They demonstrates a lack of understanding of the turn structure. Their strategy is also unclear, as they overestimate Player 1's need for raw copper and don't recognize that they could craft sticks themselves from their oak planks."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully crafts the chain, demonstrating excellent utilization of information and resources. They efficiently prioritize actions and adapt to the situation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 continues to struggle with crafting and makes inefficient trades. While their analysis of player 1's needs is reasonable, they don't prioritize crafting a lever and waste time smelting raw materials.  They fail to utilize the oak plank effectively."
+      }
+    ]
+  }
+]

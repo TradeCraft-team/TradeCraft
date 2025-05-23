@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade, offering coal for raw iron.  This trade was mutually beneficial as Player 2 needed the iron and Player 1 had a surplus. Player 2 clearly explained their need for the raw iron and the rationale behind the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 analyzed the trade proposal, recognizing its fairness and Player 2's need for the resources. They readily accepted the trade, demonstrating cooperative behavior and a willingness to facilitate mutual benefit."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade for cobblestone, offering raw iron. They articulated their need for the cobblestone and were willing to offer a resource they had in surplus."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the trade proposal, understanding that it benefited both players. They recognized they had no immediate use for the cobblestone and were willing to help Player 1 achieve their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 attempted to propose a trade for raw iron, offering raw copper. While the trade wasn't necessarily beneficial to Player 1, Player 2 was actively trying to find ways to acquire the resources they needed. Although they didn't fully understand the value of copper vs. raw iron to the other player, their intent appeared cooperative"
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade offer, as it didn't directly benefit their goal. While they politely explained their reasoning, they didn't counter-propose or offer alternative trades that might benefit both players. They seemed overly focused on their own needs this turn, leading to a more neutral score"
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offered a null trade, acknowledging they didn't need anything.  While this doesn't actively contribute to cooperation, it maintains communication and avoids misleading the other player."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the null trade but expressed their need for iron ingots, demonstrating a proactive approach to acquiring the resources they needed while also keeping the communication open."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 made a well-reasoned trade proposal, offering copper for raw iron while explaining how it could benefit Player 1 by allowing them to smelt the raw iron into more valuable ingots. This showed an understanding of Player 1's potential needs and a willingness to create a win-win scenario."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade, stating they didn't need copper. While they politely declined, they missed an opportunity to engage in a mutually beneficial trade.  This lack of cooperation results in a lower score."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 offered a null trade, which is neutral in terms of cooperation.  While not actively unhelpful, it doesn't advance collaboration."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the null trade and proactively expressed their need for an iron ingot, directly asking if Player 1 was willing to trade. This shows initiative and a clear attempt to cooperate and acquire needed resources."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a helpful trade, offering copper for raw iron.  Even though they didn't need the raw iron immediately, they acknowledged Player 1 might find the copper useful. This proactive approach to finding mutually beneficial trades is highly cooperative."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the trade, recognizing its potential value even though they didn't immediately need the copper. This willingness to engage in mutually beneficial trades demonstrates cooperation."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade offer that was less beneficial to them to give player 2 a resource."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted a trade that benefited them."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade for raw iron, offering raw copper.  While Player 1 didn't find the trade beneficial, Player 2's continued attempts to acquire needed resources show a willingness to cooperate through trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected the trade, explaining they didn't need raw copper. Although their explanation was polite, they did not offer any alternatives or express willingness to make a different trade. Their reply did however specify resources of interest that could potentially lead to a cooperative trade."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a null trade, which is neutral in terms of cooperation. While not actively contributing, it maintains communication."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the null trade and inquired about trading for iron, continuing to seek opportunities for a beneficial exchange."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed a reasonable trade of raw copper for raw iron, demonstrating a persistent effort to acquire the resources they needed while offering something in return."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the trade, showing a willingness to cooperate even though the trade wasn't essential for their immediate goal. This flexible approach promotes mutual benefit."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 offered raw copper to Player 2 for free, recognizing Player 2's need for the resource. This generous and proactive act demonstrates a high level of cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the raw copper, demonstrating gratitude and recognizing Player 1's cooperative gesture."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game concluded."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game concluded."
+      }
+    ]
+  }
+]

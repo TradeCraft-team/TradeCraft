@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted strategically in their own self-interest. They identified their need for raw iron and offered a relatively small amount of coal in return.  Their thinking shows a clear focus on achieving their own goal (crafting shears) and considering the opponent's potential needs without jeopardizing their own progress. The trade proposal was successful, putting them closer to their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also demonstrates self-interested behavior by accepting the trade. Their thinking shows they understand the value of the coal for their own goal (crafting a torch). While they helped player 1 by providing raw iron, they prioritized their own needs first and made a trade that benefited them.  The justification could be stronger if they considered the risk of helping the opponent."
+      }
+    ]
+  }
+]

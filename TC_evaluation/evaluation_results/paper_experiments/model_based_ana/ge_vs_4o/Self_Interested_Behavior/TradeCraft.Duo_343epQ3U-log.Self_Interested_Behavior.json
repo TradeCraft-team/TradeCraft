@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interest by attempting to trade excess materials for raw iron, anticipating future needs. The proposal was designed to benefit player 1 more than player 2."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the trade offer without properly evaluating it due to reaching the maximum number of iterations, which does not reflect strong self-interested behavior in this specific turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade, prioritizing their need for iron ingots to make a chain.  This was a self-interested move to further their goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade that directly benefited them by providing cobblestone needed for their lever, offering raw iron in return.  This shows a calculated self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a self-interested proposal to trade cherry planks for raw iron. While the trade would have benefited them, the rejection didn't impact their ability to craft the chain in the following turn.  They also did not offer anything particularly valuable to incentivize the trade."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Again, player 2 rejected the offer without proper consideration due to iteration limits."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that furthered their goal of obtaining a chain.  They traded a relatively less valuable item (cherry planks) for something they needed (raw iron), demonstrating a clear self-interested behavior."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully executed a self-interested trade by obtaining the cherry planks needed to craft sticks and ultimately the winning lever. The trade directly contributed to their victory, demonstrating strong self-interested behavior."
+      }
+    ]
+  }
+]

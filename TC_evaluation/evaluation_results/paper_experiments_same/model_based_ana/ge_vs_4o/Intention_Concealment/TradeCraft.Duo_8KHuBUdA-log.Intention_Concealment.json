@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their intention to craft a bucket by directly asking for raw iron and mentioning the need for a bucket in their message.  They did try to offer items in return, but the directness of their request significantly lowered their intention concealment score."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 did not reveal their intention at all, their rejection message was vague. While their internal thoughts showed their plan, their external actions did not give any clues."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that wasn't directly beneficial to their goal. This could be interpreted as a strategic move to conceal their intentions. However, their internal thoughts revealed their plan to get iron, showing some focus on their target item."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.3,
+        "justification": "Player 2's request for cherry planks could indirectly reveal their need for sticks to craft the lever. Their message to help each other out was too vague and friendly, making it slightly suspicious."
+      }
+    ]
+  }
+]

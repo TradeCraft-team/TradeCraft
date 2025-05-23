@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to initiate a mutually beneficial trade by offering coal in exchange for raw iron. Although the trade was rejected, the attempt demonstrates a cooperative mindset."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected Player 1's trade offer. While Player 2 had their own strategy, rejecting a potentially beneficial trade without further discussion demonstrates less cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's trade offer without offering an alternative."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 made a trade offer, but it wasn't particularly beneficial to Player 1."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable trade offer of coal for raw materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer without proposing a counter-offer."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a beneficial trade offer from Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed a mutually beneficial trade."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to trade for necessary resources but the offer was not enticing to player 2"
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 rejected the trade offer from player 1 which could have been mutually beneficial."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that was neutral for their goal but potentially helpful for Player 2, demonstrating cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered raw copper for player 1's cherry planks, which ended up facilitating both their win conditions."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a fair trade offer that ultimately led to both players achieving their goals and winning the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted a trade that was beneficial to both players, contributing to a win-win scenario."
+      }
+    ]
+  }
+]

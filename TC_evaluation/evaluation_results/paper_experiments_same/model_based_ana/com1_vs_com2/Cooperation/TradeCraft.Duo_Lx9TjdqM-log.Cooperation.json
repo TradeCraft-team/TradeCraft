@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a mutually beneficial trade.  They offered resources they didn't need as much (cherry planks and coal) for resources they needed (raw iron). Player 1 needed the planks and coal would be beneficial, and had extra raw iron."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutual benefit of the trade and accepted it."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a reasonable trade, offering a resource they had a surplus of (raw iron) for a resource they might need (cobblestone)."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted a reasonable trade that benefited both players."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 offered a fair trade for raw iron and copper_ingot."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the proposed trade."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 failed to make a valid proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejected the trade offer from player 1. Although player 1's proposal was invalid, player 2 showed no interest to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 failed to make a valid proposal. The second proposal was also not mutually beneficial as it proposed an unfair trade. Player 2 was overly focused on acquiring raw iron and not considering the value of the trade for player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected player 2's trade because it did not benefit player 1.  Even though player 1 was not cooperative with player 2, player 2 made it difficult to cooperate by offering a bad trade deal."
+      }
+    ]
+  }
+]

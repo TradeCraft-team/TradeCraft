@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interested behavior by attempting to trade for raw iron, a key component of their target item (chain). While their initial proposals were invalid or rejected, they persisted in seeking a beneficial trade, showing a focus on achieving their own goal.  They offered coal as an incentive, which was likely surplus to their needs, but ultimately, the trade attempts were unsuccessful this turn.  They didn't craft anything this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 acted in their self-interest by rejecting Player 1's initial trade proposals.  They correctly assessed that the offered coal was not essential for their objective (crafting a stone shovel).  Player 2 showed strategic thinking by recognizing the implicit value of their raw iron to Player 1 and prioritizing their own resource management over facilitating Player 1's progress.  Their rejection message also maintained a collaborative tone, leaving open the possibility of future, mutually beneficial trades.  While Player 2 explored crafting options for their goal this round, they ultimately didn't craft anything."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates strong self-interested behavior this turn. They identify their need for a cherry plank to complete their goal (stone shovel) and successfully negotiate a trade with Player 1, offering raw iron in exchange.  This trade directly benefits Player 2 and puts them in a position to achieve their win condition.  They then efficiently craft the necessary sticks and the stone shovel, maximizing their own benefit and securing their victory."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates strong self-interested behavior by accepting Player 2's trade offer.  Recognizing that the cherry planks were not essential for their goal, they traded them for raw iron, which they needed to craft their target item (chain).  They then efficiently smelted the raw iron into iron ingots and crafted the chain, maximizing their own benefit and securing their victory. Although the trade also benefited Player 2, the primary motivation for accepting was clearly to further Player 1's own objective."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to persuade player 2 to trade, but the proposals were invalid and ultimately rejected. The reasoning behind the trades was present but poorly executed due to the invalid proposals and the lack of understanding of the opponent's needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good persuasion by clearly explaining why they were rejecting the trade offer. They correctly identified that the proposed trade did not benefit them and explained their reasoning."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 made a proposal, but it wasn't very persuasive.  The offer of oak planks for an iron ingot wasn't appealing to player 1, who rejected it. The justification for the trade was weak, as it didn't address player 1's likely needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not make any proposals this turn, hence no persuasion was demonstrated."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a successful trade proposal this turn. They offered a copper ingot for raw iron and clearly stated their needs in their message. The trade was accepted by Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 accepted the trade proposal, but didn't make any proposals this turn. Therefore there was no persuasion demonstrated by this player on this turn."
+      }
+    ]
+  }
+]

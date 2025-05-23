@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade, offering items they had in exchange for items they needed. The accompanying message was polite and clearly explained the rationale behind the trade, fostering a cooperative environment."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 analyzed the trade proposal and recognized its mutual benefit. They accepted the offer, facilitating a successful exchange and demonstrating a willingness to cooperate."
+      }
+    ]
+  }
+]

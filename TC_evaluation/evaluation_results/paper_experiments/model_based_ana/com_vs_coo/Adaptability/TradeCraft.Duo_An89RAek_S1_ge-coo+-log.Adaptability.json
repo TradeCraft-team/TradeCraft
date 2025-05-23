@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 demonstrated some initial attempts at adaptability by recognizing the need for iron ingots and offering coal in exchange. However, their repeated proposal failures due to formatting issues significantly lowered their score. They did not effectively adjust their proposals despite repeated rejections."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed good adaptability by analyzing player 1's offer, recognizing its lack of value, and formulating a plan to acquire needed resources (coal) through future trades.  They correctly identified the need to check their own crafting recipes and began formulating a plan."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed good adaptability. After having their initial proposals rejected, player 1 correctly inferred that player 2 needed their coal.  They attempted to provide more coal than they initially offered."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continued to adapt, researching how to make charcoal and correctly determining to offer something more valuable than before."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates excellent adaptability by recognizing the change in player 2's inventory (now possessing raw iron) and offering a mutually beneficial trade. This successful trade demonstrates effective adjustment to the changing game state."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted well by accepting player 1's trade offer, recognizing the value of receiving a processed material in exchange for raw materials, saving them resources and time. They also considered the potential strategic implications of the trade."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 achieved their target item, demonstrating perfect adaptability by recognizing the opportunity to craft shears with the available resources. They also effectively gathered information about player 2's plans, showcasing strategic thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 showed some adaptability by attempting to trade for iron ingots, recognizing their importance for their goal. However, they were unsuccessful in this attempt and did not immediately formulate an alternative plan."
+      }
+    ]
+  }
+]

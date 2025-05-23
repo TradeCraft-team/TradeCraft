@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly identified the resources needed for their target item (bucket) and formulated an effective trade proposal to acquire the missing raw materials. They offered a relevant item in exchange and clearly communicated their needs to player 2.  After the successful trade, player 1 demonstrated understanding of the crafting process by checking and applying the correct recipes to achieve their target item. Player 1's crafting actions were also highly efficient as they crafted their target item on the turn immediately following their trade. This efficiency in both trading and crafting is reflected in a score of 1.0, indicating strong information utilization throughout the turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also demonstrated good information utilization, although not as effectively as Player 1.  Player 2 correctly assessed the trade proposal in relation to their own target (stone shovel) and recognized that accepting the trade would not hinder their progress. Although their reasoning for accepting the raw copper was less clear,  their thought process showed an awareness of potential future trading opportunities. However, they missed to plan earlier on acquiring additional planks needed to achieve their own target. Instead of crafting stick in this turn, the player could trade one cherry plank from Player 1. This lack of planning slightly lowered their overall information utilization score. Therefore they have a lower score (0.7) than Player 1. "
+      }
+    ]
+  }
+]

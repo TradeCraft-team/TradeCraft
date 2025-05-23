@@ -1,0 +1,86 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently focused on acquiring iron, which is required for shears. They formulated a plan to trade for raw iron and demonstrated understanding of the crafting requirements for their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 identified their need for coal to craft a torch. While they initially considered trading for raw iron, they ultimately rejected the proposal and recognized the higher priority of obtaining coal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully executed their plan to acquire coal for their torch. They demonstrated clear goal alignment by prioritizing the trade and understanding its importance for achieving their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 made a beneficial trade for raw iron, moving closer to crafting shears.  They correctly assessed the value of the trade in relation to their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2's proposal to trade an iron ingot for raw copper seems misaligned with their goal of crafting shears. While acquiring more resources can be beneficial, this trade could have hindered their progress if accepted."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 wisely rejected the trade, recognizing the importance of conserving resources that could be relevant to their target.  While their target has shifted from torch to iron_pickaxe, they've begun to focus on acquiring materials which are needed for pickaxe."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly identified their win condition and acted to maintain it, avoiding trades that could jeopardize their progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made a trade for cobblestone and then realized it was a mistake since they needed it for their own crafting goal. This indicates a temporary lapse in goal alignment, although they recognized the error and adjusted their strategy."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 submitted multiple invalid proposals.  It appears they were attempting to make simple 1:1 trades for raw materials without much strategic thought towards their target or hindering opponent."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to prioritize maintaining their win condition and made sound decisions in the trading phase."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 maintained their achieved goal, correctly recognizing the end of the game despite continued prompts."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 crafted the shears, achieving their target and winning the game. Their actions in this turn were perfectly aligned with their goal."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their own goal by attempting to trade for raw iron, a key component of their target item (bucket). They offered resources in exchange, demonstrating a clear understanding of their needs and a willingness to negotiate for their benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interest by carefully evaluating the trade proposal and accepting it only after determining it would benefit them. They recognized the value of coal for smelting their own raw iron and the potential future use of cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 prioritized their need for iron ingots by rejecting the trade offer.  They recognized that trading away iron would hinder their progress towards crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to acquire iron ingots, a key component for their lever, by offering raw copper.  This shows an attempt to further their own goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 consistently pursued their goal by attempting to trade for iron ingots. They offered raw copper in exchange, showing a willingness to negotiate for resources they needed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade offer for iron ingots. They recognized the importance of hoarding iron to potentially hinder Player 1's progress and prioritize their own needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that directly benefited them by upgrading their raw iron into a processed iron ingot. They recognized the value of this trade for their crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 traded an iron ingot for raw iron. This displays strategic thinking, as acquiring raw materials can be beneficial for long-term crafting goals. They also attempted to gain information about Player 1's intentions."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1, having already achieved their target, offered a seemingly generous trade of shears for two iron ingots. This could be interpreted as a strategic move to acquire additional resources while also potentially misleading Player 2 about their true intentions. The move demonstrates self-interest in accumulating resources, even after achieving their primary goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted Player 1's trade offer. This shows a opportunistic approach to resource acquisition but does not strongly reflect self-interested behavior as they gave up two iron ingots for shears, a tool they could have crafted themselves."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted a low-risk trade offer, demonstrating a willingness to engage in mutually beneficial exchanges.  This action doesn't directly advance their primary goal but does add to their resource pool."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiated a low-risk trade in an attempt to gain raw copper without sacrificing anything valuable.  This demonstrates a calculated self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to pursue their self-interest by attempting to trade for more resources, even though they had already achieved their primary goal. They made multiple trade offers, showing a persistent focus on accumulating resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade offer for raw iron, recognizing its value for their own crafting needs. This demonstrates a clear prioritization of their own goals, even though the offered trade was relatively fair."
+      }
+    ]
+  }
+]

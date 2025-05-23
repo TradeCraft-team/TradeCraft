@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 adapted their strategy by identifying the necessary resources to craft a chain, proposing a fair trade for raw iron with player 2, and successfully executing their crafting plan. They demonstrated a clear understanding of the game mechanics and resource management by smelting raw iron into iron ingots and then crafting an iron ingot into iron nuggets before crafting the final product.  This proactive approach to resource acquisition and crafting demonstrates strong adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 showed some adaptability by accepting player 1's trade proposal for raw iron, correctly assessing that the surplus raw iron would not significantly impact their ability to pursue their own objective. However, despite understanding their goal of crafting a lever, they failed to successfully execute it due to an invalid crafting recipe, demonstrating a lack of thorough understanding in game mechanics, which limits their adaptability score. Although they correctly identified the components for a stick and a lever, and possessed the materials, they failed to correctly execute their strategy."
+      }
+    ]
+  }
+]

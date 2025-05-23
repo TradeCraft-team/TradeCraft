@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that benefited both players. They offered less useful items (cherry planks and coal) in exchange for raw iron, which they needed for their target item.  Player 1 also benefited from the trade, getting materials they could potentially use for fuel or crafting."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutual benefit of the trade proposed by Player 2 and accepted it.  This allowed both players to progress towards their goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 initiated another trade and successfully acquired a needed cobblestone from Player 2 by offering raw copper in return. This trade demonstrates good cooperation, as it addressed Player 1's immediate crafting needs while providing Player 2 with additional resources."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted Player 1's trade offer, showing continued cooperation. Although Player 2 might not have directly needed the raw copper, accepting the trade fostered a positive trading relationship and helped Player 1 achieve their objective."
+      }
+    ]
+  }
+]

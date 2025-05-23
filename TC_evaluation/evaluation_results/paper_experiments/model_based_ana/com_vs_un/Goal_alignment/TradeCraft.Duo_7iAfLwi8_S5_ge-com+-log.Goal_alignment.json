@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 clearly identified their need for iron ingots to craft a chain, and successfully traded for raw iron, a key component. Their actions directly contributed to progressing towards their goal.  They also correctly identified the need for fuel for smelting."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 immediately identified the need for cobblestone and a stick.  They recognized the trade offered them cobblestone, and planned out steps to craft a stick using the planks from the trade, thereby making good progress towards crafting a lever."
+      }
+    ]
+  }
+]

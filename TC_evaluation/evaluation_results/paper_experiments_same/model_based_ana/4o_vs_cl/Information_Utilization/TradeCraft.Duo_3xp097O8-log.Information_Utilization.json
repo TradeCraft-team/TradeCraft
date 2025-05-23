@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent information utilization. They correctly identified their target item (shears), checked the recipe, realized they needed more iron ingots, and formulated a trade proposal to obtain the necessary raw iron from Player 1.  They used available tools such as item info checks, demonstrating strategic thinking and resourcefulness. They also made an appropriate and equitable proposal."
+      },
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 showcased strong information utilization. They quickly recognized the value of Player 2's trade proposal (offering coal) in relation to their own target (torch). They verified the crafting recipe before accepting the trade, demonstrating a clear understanding of the game rules, available resources, and crafting recipes."
+      }
+    ]
+  }
+]

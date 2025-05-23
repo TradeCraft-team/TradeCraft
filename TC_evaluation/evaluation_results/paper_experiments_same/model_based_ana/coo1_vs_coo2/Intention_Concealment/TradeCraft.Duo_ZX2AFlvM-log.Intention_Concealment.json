@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 explicitly revealed their intention to craft a chain and the materials they needed in their opening trade proposal. This provided valuable information to player 2 about their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's acceptance message implied their need for coal to make iron ingots, which could point towards various tools or items. While not completely concealing their intentions, they maintained some ambiguity."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's crafting actions and subsequent attempts to check the chain recipe hint at their goal. While they haven't explicitly stated their target, their focus on iron ingots and raw copper narrows down the possibilities for player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal for raw iron and their expressed interest in crafting sticks indicate a possible need for tools or wooden objects. Their repeated attempts to craft sticks also leak information about their likely intentions."
+      }
+    ]
+  }
+]

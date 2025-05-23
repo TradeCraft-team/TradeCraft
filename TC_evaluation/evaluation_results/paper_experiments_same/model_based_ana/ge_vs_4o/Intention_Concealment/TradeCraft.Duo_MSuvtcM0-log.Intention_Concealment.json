@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's initial proposals heavily hinted at their need for iron ingots, revealing their intention to craft something requiring this material. While the later shift to requesting raw iron added a layer of obfuscation, the earlier proposals had already given away a significant clue.  The repeated use of \"item_info\" for bucket and iron ingot further reinforces this."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 made no proposals and focused on gathering recipe information for sticks and stone_shovel. This effectively concealed their intentions, as their actions didn't reveal their specific crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepted a trade that didn't directly benefit their goal (bucket). Their thinking and subsequent actions (checking bucket recipe, considering trading for raw iron) clearly reveal their intention to craft a bucket.  The focus on acquiring iron, through smelting or trading, makes their goal very transparent."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully traded for cherry planks, which, combined with their previous information-seeking about sticks, suggests a need for wood.  While this offers some clues, it doesn't fully reveal their intention to craft a stone_shovel, which also requires cobblestone.  The ambiguity about their ultimate crafting goal earns a decent score for intention concealment."
+      }
+    ]
+  }
+]

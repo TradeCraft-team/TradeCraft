@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 clearly stated their intention to make a bucket by revealing their need for iron and offering coal in exchange for raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 disguised their need for coal by focusing on the cooperative aspect of the trade and only mentioning their need for coal after the trade was proposed."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 didn't reveal any intentions in this turn, simply accepting a beneficial trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's initial thoughts revealed their intention to create sticks, but the eventual proposal was more disguised, asking for cobblestone in exchange for raw iron."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their need for copper ingot while trying to offer less valuable resources in return."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 acted cooperatively and made a beneficial trade while not revealing any intentions."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a helpful trade without revealing intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offered a seemingly helpful trade but by offering both an iron ingot and cobblestone, they revealed a possible surplus of iron."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1's repeated failed proposals and eventual empty proposal revealed their desperation and inability to formulate a strategic trade, giving away information about their hand."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejected the nonsensical proposal and offered help while concealing their own intentions."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that could be considered neutral while not revealing any direct intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 offered a reasonable trade but revealed a potential need to balance resources by initiating the exchange of copper for iron."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 initiated a trade that could benefit both players but revealed their potential desire to diversify resources or balance materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted a seemingly neutral trade without revealing any specific intentions."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected a trade offer that could reveal their resource priorities, thus concealing their intention."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's offer to trade copper for iron, along with their stated reasoning, revealed a potential surplus of copper and a desire for iron."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's proposal revealed a need for copper by offering to trade a more versatile material like iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade without explicitly revealing their intentions, although the acceptance itself suggests a need for iron."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejected the trade, potentially misleading player 2 about their need for iron ingots."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offered a seemingly fair trade, but the act of offering shears for iron could reveal their current crafting priorities or a potential surplus of shears."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's persistent attempts to trade iron for copper reveal their need for copper."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the trade without revealing specific crafting plans."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejected a trade, successfully concealing their potential needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's repeated offer of shears for iron reveals their surplus of shears."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Game over reveals player 1's target was a bucket, which aligns with earlier revealed intentions to gather iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game's end reveals their need for a lever."
+      }
+    ]
+  }
+]

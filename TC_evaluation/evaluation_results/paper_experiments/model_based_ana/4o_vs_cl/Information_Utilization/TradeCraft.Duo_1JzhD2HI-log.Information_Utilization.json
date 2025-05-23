@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good information utilization. They correctly identified the need for iron ingots to craft a bucket, checked the crafting recipe, and formulated a reasonable trade proposal to acquire raw iron from Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also demonstrated good information utilization. They checked the recipe for their target item (stone shovel), recognized the components needed, and made a sound decision to reject the trade proposal based on their current resources and crafting goals.  Their detailed reasoning for rejecting the trade indicates a strong understanding of their needs and priorities."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 did not perform any meaningful actions in this turn. Although they apply the valid recipe."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 showed a significant lack of information utilization in this turn, repeatedly checking the same recipe without taking any constructive steps toward crafting. Their attempts to check and apply invalid recipes further demonstrate ineffective use of game information."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 shows consistent focus on their target item (bucket), correctly identifies the need for more iron ingots, and makes a reasonable trade proposal based on Player 2's resources. The thought process and proposal show effective utilization of available information."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrates decent information utilization by referencing their target item and assessing the trade proposal in the context of their crafting needs.  The rejection is well-justified based on their current resources and crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 repeats similar thought process from previous turns without making significant progress in crafting. The lack of concrete actions contributes to a lower score for this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 shows effective information utilization by successfully trading for copper ingot in exchange for raw iron. Their reasoning, justification, and evaluation of the trade in the context of their crafting goals demonstrate good strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates focus on their target (bucket) and recalls past interactions (Player 2's interest in copper ingots) to formulate a trade proposal.  This shows a degree of strategic thinking and information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 displays strong information utilization. They carefully evaluate the trade proposal, recognizing that they already possess the necessary resources for their target. Their rejection of the trade demonstrates effective resource management and strategic focus on their crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 demonstrates some thought process but fails to apply it effectively. Checking possible recipes is a positive sign but does not translate to progress towards their goal. Attempting a crafting check with incorrect ingredients also detracts from their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's actions in this turn are ineffective. The submission of an invalid proposal without a clear plan indicates a lack of strategic thinking and proper use of information available."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to demonstrate good understanding of the game mechanics and their current status. Their proposal to trade copper ingots for raw iron indicates a good understanding of their needs and the opponent's potential resources. The direct focus on obtaining materials for their goal demonstrates effective information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showcases sound reasoning in rejecting the trade proposal. The evaluation of the offer in the context of crafting a stone_shovel, considering their existing materials and the opponent's potential needs, demonstrates strong information utilization."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 uses gathered information to craft stone bricks from stone, which can be a valuable crafting or trading component. This shows effective resource management and planning for future possibilities."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 continues to struggle with crafting and utilizes the possible recipes tool effectively. Repeatedly checking item information without making progress toward their target suggests inefficient use of information."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates a reasonable level of information utilization by proposing a trade that aligns with the opponent's previously stated needs. The trade offer is strategic, and the message is well-crafted to encourage acceptance."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates excellent information utilization in this turn. Their rejection of the trade proposal is well-reasoned, displaying a clear understanding of the components needed for their target item and recognizing that the offered stone bricks would not contribute to achieving their crafting goal. Their explanation for rejecting the trade clearly reflects their focus on acquiring planks for sticks, necessary for crafting the stone_shovel."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 crafts stone brick stairs. This indicates strategic use of available resources and a focus on refining materials for potential future crafts or trades."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's actions demonstrate poor information utilization. They submit an invalid proposal and repeatedly check item information without making any crafting progress."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognizes the need for one more iron ingot to craft a bucket, proposes a reasonable trade based on Player 2's potential needs, and demonstrates strategic use of available information."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 shows good information utilization. The rejection of Player 1's trade proposal is well-reasoned, taking into account their target item (stone shovel), available resources, and potential future trade needs for sticks. The understanding of the game mechanics and crafting requirements contributes to a higher score."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates effective information utilization. Recognizing their need for raw iron and the opponent's prior interest in copper, they make a successful trade that advances their progress toward crafting a bucket.  The acceptance of the trade demonstrates a good understanding of the importance of acquiring raw materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 's decision to trade raw iron for a copper ingot is questionable in the context of their crafting goal (stone shovel). While the trade could potentially be beneficial for future trades, it doesn't directly contribute to their current needs. This, coupled with their repeated checking of recipes and tools, demonstrates less effective information utilization."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "The game is already over."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "The game is already over."
+      }
+    ]
+  }
+]

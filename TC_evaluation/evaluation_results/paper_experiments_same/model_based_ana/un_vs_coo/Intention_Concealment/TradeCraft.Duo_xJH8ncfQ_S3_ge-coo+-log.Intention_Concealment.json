@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 explicitly revealed their target item (bucket) and the reason for the trade (needing iron ingots) to player 1 in their first proposal message. This makes their intention very obvious."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 doesn't reveal their target item and provides a reason related to general crafting utility, without disclosing their specific crafting plans. This helps conceal their true intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initially makes an invalid proposal, then a second proposal requesting raw iron, stating it's \"more useful\" without explicitly revealing why. This conceals their intention somewhat, but requesting specific materials indirectly hints at potential crafting plans."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the trade, engaging in cooperative behavior which indirectly helps conceal their own goal. While their justification internally notes their intentions, their external actions don't directly reveal their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offers a seemingly helpful trade and provides a plausible justification based on observation of Player 1's inventory and general crafting strategy, which hides their immediate goal of obtaining a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade, acting cooperatively.  Their justification for the trade focuses on general crafting principles, avoiding revealing any specific crafting plans which could betray their target item."
+      }
+    ]
+  }
+]

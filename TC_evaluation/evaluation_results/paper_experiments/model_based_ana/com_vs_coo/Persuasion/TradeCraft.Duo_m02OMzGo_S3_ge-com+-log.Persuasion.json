@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 clearly stated their needs and intentions, offering a reasonable trade.  They successfully persuaded player 1 to trade by explaining their need for iron and offering a seemingly less valuable item in return."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 was receptive to the trade offer and demonstrated good understanding of their own needs.  Their acceptance of the proposal, along with the explanation for accepting it, indicates a degree of being persuaded by player 2's proposal and message."
+      }
+    ]
+  }
+]

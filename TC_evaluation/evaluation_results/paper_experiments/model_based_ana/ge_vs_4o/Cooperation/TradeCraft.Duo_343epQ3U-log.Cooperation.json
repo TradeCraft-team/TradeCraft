@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade, demonstrating a willingness to cooperate.  Although the trade was rejected, the offer itself suggests cooperative intent. The offered items were excess materials, indicating a genuine attempt to facilitate a mutually beneficial exchange."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the trade offer without properly assessing it.  Their rejection message suggests they may have been malfunctioning, hindering cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the proposed trade, which directly benefited both players. Player 1 receives raw iron and Player 2 receives cobblestone. Player 1 recognized the value of the trade for both participants."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a mutually beneficial trade, offering raw iron for cobblestone. This demonstrates a willingness to work with Player 1 to achieve their respective goals and contributes to the overall cooperative spirit of the game. The proposal also included a friendly message."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade. Even though it was rejected, the attempt to trade is considered a sign of cooperation"
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected a reasonable trade offer. This lack of engagement shows a lack of cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a fair trade offer. The acceptance facilitated a mutually beneficial exchange. The trade was essential to Player 2 winning and did not affect Player 1 negatively."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a mutually beneficial trade, giving Player 1 raw iron they needed, and receiving cherry planks to complete their goal. The trade was proposed in a friendly manner, fostering cooperation."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's initial proposal was invalid, revealing a lack of understanding of the game rules or a careless mistake. Their subsequent proposal and message, while more strategic, revealed their need for iron and indirectly hinted at their goal of crafting a bucket by mentioning it directly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's thought process reveals a good understanding of the game dynamics and potential strategies. They correctly inferred Player 1's need for iron and their likely target item. However, by accepting the trade and revealing their need for coal, they partially exposed their crafting intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's rejection message directly revealed their need for iron ingots, further confirming their intention to craft a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 attempted to conceal their intentions by offering a seemingly harmless trade of raw copper for iron ingots.  Their reasoning behind the trade, although focused on acquiring iron, was strategically veiled by suggesting they had \"extra\" copper and simply wanted iron ingots."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's persistent attempts to trade for iron ingots and their message clearly reveal their need for iron, making their intention of crafting a bucket very obvious.  Their initial attempt to look up \"compass\" may have been intended as a distraction, but their immediate switch to \"iron_ingot\" undermined this attempt at concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continued to conceal their intentions by rejecting Player 1's trade offer. Their justifications, while focused on acquiring iron, did not explicitly reveal their target item. By crafting copper, they demonstrate an interest in copper-related items without revealing their ultimate goal of creating a bucket."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal revealed a willingness to trade iron, indirectly hinting at their potentially having enough for their own needs or aiming for a different crafting path.  The message accompanying the proposal suggests a desire for the raw iron, providing some concealment but also revealing interest in iron-related materials."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted the iron ingot trade, showing an interest in iron which is a valuable resource for tools and equipment. This could hint at broader crafting plans, but also makes it clear they are not finished. Although achieving their target, they conceal it by engaging in trade and checking other craft possibilities."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 claimed to have completed their objective, offering shears for iron ingots. This could be a bluff to acquire more iron or a genuine offer to exchange a now-useless item. The ambiguity adds to their concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's acceptance of the shears for iron ingots trade doesn't reveal much about their intentions, as shears can be useful for various purposes. Their thought process focused on the potential benefits of the trade, without explicitly revealing their ultimate goal. However their extended thinking after the craft might indicate still searching for something else."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 strategically offered a relatively low-value item (cobblestone slab) in exchange for raw copper, concealing any specific crafting intentions while potentially gaining resources. Their reasoning reveals a focus on making small gains without revealing larger plans."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintained strong concealment by accepting a seemingly neutral trade. Their reasoning suggests a willingness to acquire materials without revealing any specific need or objective."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's repeated attempts to trade for iron, even after crafting their target item (shears), reveal a continued need for iron, potentially hinting at a secondary objective or a desire to prevent the opponent from acquiring more iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintained reasonable concealment by rejecting the cobblestone slab trade and expressing a need for raw iron. This justification, while not completely hiding their interest in iron, doesn't reveal their specific target item."
+      }
+    ]
+  }
+]

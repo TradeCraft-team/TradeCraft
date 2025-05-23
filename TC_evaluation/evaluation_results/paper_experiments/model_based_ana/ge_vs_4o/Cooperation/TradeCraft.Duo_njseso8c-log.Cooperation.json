@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade of coal for raw iron, clearly stating their needs and offering a resource that could be useful to player 1. This demonstrates a willingness to cooperate and work towards mutual benefit."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "player 1 accepted Player 2's trade proposal, recognizing the potential benefit for both players. This demonstrates a willingness to cooperate and engage in mutually beneficial trades."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "player 1 proposed a trade for cobblestone, offering raw iron in return. Although the trade was rejected, the proposal itself demonstrates an attempt at cooperation by seeking resources needed for their crafting goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected player 1's trade proposal without providing a clear justification. This lack of communication and unwillingness to engage in a potentially beneficial trade demonstrates a lack of cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a trade for coal, offering cobblestone in return. They clearly explained their need for coal and offered a valuable resource to player 1, demonstrating a high level of cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "player 1 accepted Player 2's trade proposal for coal and cobblestone. Recognizing the mutual benefit, player 1 agreed to a trade that advanced the game for Player 2. This act reflects a strong spirit of cooperation and mutual support."
+      }
+    ]
+  }
+]

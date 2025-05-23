@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring iron, essential for shears. They proposed a reasonable trade, demonstrating clear goal alignment."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 identified their need for coal and sticks for a torch but didn't make a proposal and rejected the trade offer. They did check item information for both items, but took no further action toward achieving their target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly identified that trading their iron ingot would be detrimental to their goal.  They rejected the trade offer, maintaining goal alignment by keeping the iron ingot."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated understanding of their goal (torch) and proposed a trade for coal, but also focused on iron ingot, a less relevant material."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to pursue their goal, even after trade rejections, demonstrating consistent goal alignment."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 reiterated understanding of their goal but didn't take meaningful action toward obtaining coal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a trade that strategically advanced their goal, prioritizing getting raw iron for their target (shears)."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a beneficial trade offer, showing understanding of Player 1's needs and how to leverage that for their own goal. Shows a strong attempt at Goal alignment and game strategy, trading raw_iron for fuel."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognized their need for more iron and attempted a trade, demonstrating goal alignment, though the proposal was not successful. Despite the rejected trade, they continued to search for ways to get iron."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 identified their need for coal but didn't take any relevant action toward their goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 rejected a trade that didn't benefit their goal (shears).  They recognized copper isn't essential for their goal and held onto the copper_ingot."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.3,
+        "justification": "Player 2 checked the item info for a torch and coal and proposed a trade for copper ingot, not directly related to crafting a torch. They showed some attempt toward goal alignment but didn't try trading for coal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintained focus on getting more iron for their goal, proposing trades aligned with acquiring more iron. Although proposing a trade of copper for raw iron, they already have raw iron, but need a second iron ingot. This trade might not be the most strategic for smelting."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 recognized the need for coal/charcoal but didn't make any attempts to acquire it."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a trade for iron nuggets, quickly converting them into the needed iron ingot and crafting shears."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 proposed an invalid trade for coal and then a second trade unrelated to crafting their target (torch), showing no improvement towards goal alignment."
+      }
+    ]
+  }
+]

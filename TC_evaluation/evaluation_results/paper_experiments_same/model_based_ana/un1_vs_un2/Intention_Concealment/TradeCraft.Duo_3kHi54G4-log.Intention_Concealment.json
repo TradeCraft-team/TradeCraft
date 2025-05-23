@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially concealed their intention. While they mentioned needing iron ingots, they linked it to the offered coal, suggesting smelting which doesn't directly reveal the need for shears."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 almost fully revealed their intention by explicitly stating their need for coal for a torch."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's proposal and message suggested they didn't need anything for their target item, implying they were close to crafting it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intention. Their initial trades didn't reveal a clear goal, and their eventual crafting actions led to a win without prematurely exposing their need for shears."
+      }
+    ]
+  }
+]

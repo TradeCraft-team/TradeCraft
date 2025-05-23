@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a reasonable attempt to conceal their intentions by offering a seemingly mutually beneficial trade for raw iron. While the request for raw iron could hint at crafting iron-related items, the offered explanation about increasing Player 1's copper collection provides a plausible alternative motive, adding a layer of ambiguity to their true goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intention by providing a generic rejection message without revealing their own crafting plans.  They avoided mentioning their need for sticks or a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 directly revealed their intention to craft a stone shovel in their trade proposal. This makes their need for stone obvious, giving away their crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintained good intention concealment by rejecting the trade without giving away their need for iron ingots. The rejection message does not reveal any specific crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 explicitly mentioned their willingness to trade for raw iron again, reinforcing their interest in the material and increasing suspicion towards their true goal. The provided explanation also hints at the need for raw iron for crafting plans, which could indicate a specific item they are aiming to create."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, which could indirectly suggest a need for stone, but their acceptance message remains ambiguous. While the trade could hint at their need for cobblestone, it doesn't definitively reveal their overall goal of creating a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's null trade and message suggest they have the necessary resources to craft, but doesn't reveal the specific item they intend to craft. This provides some concealment, although it slightly raises suspicion that they might be close to completing their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's acceptance of the null trade and generic response effectively maintain intention concealment, without giving away their plan to craft a bucket."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 submitted invalid proposals, which doesn't contribute to concealing or revealing intentions, hence a neutral score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 didn't take any actions related to proposal submission or approval, thus no evaluation for intention concealment is possible for this turn."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 stated their intent to craft their target item, increasing suspicion but not revealing the specific item. While hinting at progress, the exact goal remains hidden."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the null trade with a generic message, maintaining good intention concealment without revealing their plan to craft a bucket."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 explicitly states they have everything to craft their target item, significantly increasing suspicion but stopping short of revealing the specific item (bucket)."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade with a simple \"Thanks!\", effectively concealing their intentions and not revealing their need for sticks to craft a stone shovel."
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by offering excess resources for raw iron, anticipating potential future needs. However, the initial trade proposal was rejected."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly assessed their resources and determined they didn't need to trade in the first turn, focusing on crafting their target item. This shows good adaptability to the initial game state."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade that directly benefited their goal of crafting a chain, showing a good understanding of resource management and adaptability to the changing game state."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a trade to obtain necessary resources for crafting, demonstrating adaptability to their needs. However, they struggled to find the correct recipe for stick."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted another trade but was rejected. They then correctly determined they had enough resources to craft their target, but spent some time trying to find the correct recipe, demonstrating a moderate level of adaptability."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejected a trade and didn't make significant progress towards their goal in this turn. They also struggled to find the correct recipe for lever. Demonstrating not so effective actions given current resources."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a beneficial trade, acquiring additional raw iron needed for their chain. This demonstrates good resource management and adaptation to the current game state."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully traded for the necessary resources, crafted the required intermediary items (stick), and ultimately crafted their target item (lever), winning the game. This demonstrates excellent adaptability and game sense."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 directly revealed their intention to craft a chain by requesting raw iron and explaining their need for it in the accompanying message. This makes their intention very clear to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially concealed their intention. While they mentioned needing raw iron for a lever, they didn't explicitly state their target item. The rejection of the trade also adds a layer of concealment, as it could suggest various crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 improved their intention concealment by accepting the trade without revealing their specific need for the raw iron. While the previous turn's actions might give some clues, they are now being more cautious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's intention is still partially concealed. Their proposal to trade raw iron for coal doesn't directly reveal their need for a lever. However, their previous mention of needing raw iron for a lever might connect the dots for player 1."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 revealed some of their intentions again by mentioning crafting a chain. While they didn't directly ask for the necessary components, this statement gives a clear hint to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 concealed their intentions effectively by accepting the trade and giving a generic response. Their reasoning focuses on cooperation, which doesn't disclose their target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the offer and hinted at their need for iron ingots. This partially reveals their intention without stating their target directly. However, it's not the most effective concealment strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's repeated attempts to acquire a stick and mention of crafting a lever make their intention increasingly clear. Their proposals and messages provide significant clues to player 1."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's actions and messages strongly suggest their need for raw iron and a chain.  Trading raw iron for raw iron, along with the question about a chain, makes the intention very clear."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintains some concealment by accepting the seemingly pointless trade and inquiring about sticks. This doesn't reveal their lever goal directly, although the stick request offers a partial clue."
+      }
+    ]
+  }
+]

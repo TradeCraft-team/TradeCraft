@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly stated their goal and offered a reasonable trade, providing a good justification for their proposal. They attempted to establish a cooperative tone, which enhances persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 rejected the proposal without offering an alternative, which demonstrates limited persuasion. While they explained their reasoning, it didn't foster further negotiation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 made a proposal, but it wasn't well-justified and didn't seem to consider the other player's needs. The offer didn't incentivize player 1 to accept."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the proposal but provided a constructive counter-suggestion, showing a higher degree of persuasion by attempting to guide the negotiation towards a mutually beneficial outcome."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 analyzed the previous turn and tailored their proposal accordingly. They identified a potential need of player 2 and offered a trade that directly addressed it. The justification for the trade was clear and persuasive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, acknowledging the value of the offer and expressing gratitude.  While their acceptance demonstrates some influence from player 1's proposal, they didn't actively participate in shaping the terms."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's justification is deceptive, aiming to mislead player 1. While this can be a form of persuasion, it lacks the cooperative element and could damage trust if discovered."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted the trade based on cooperation and a desire to help, but didn't demonstrate strong persuasive tactics in this turn. They were reactive rather than proactive."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a well-reasoned offer based on their understanding of both players' needs. The proposal was presented clearly with a fair justification."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 rejects the offer without suggesting an alternative or furthering the negotiation.  The justification focuses solely on individual needs and doesn't promote mutual benefit or compromise."
+      }
+    ]
+  }
+]

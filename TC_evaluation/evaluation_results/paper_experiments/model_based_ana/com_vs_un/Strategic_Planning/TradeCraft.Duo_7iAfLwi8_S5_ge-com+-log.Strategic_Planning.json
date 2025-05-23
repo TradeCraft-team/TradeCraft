@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent strategic planning. They correctly identified their need for iron ingots to create their target item (chain).  They formulated a plan to acquire raw iron from Player 1 by offering less valuable items in return.  They also correctly identified their need for fuel for smelting.  The proposed trade demonstrated an understanding of resource management and long-term planning."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed good strategic planning by immediately researching how to craft their target item (lever). They correctly identified the necessary components and recognized the value of the trade offered by Player 2.  Accepting the trade demonstrated an understanding of resource acquisition and its role in achieving the overall goal."
+      }
+    ]
+  }
+]

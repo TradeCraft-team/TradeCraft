@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 disguised their need for raw iron by offering a seemingly fair trade for coal, framing it as mutually beneficial.  Although their message reveals they noticed player 1 has raw iron, the true intention (acquiring raw iron to craft shears) is obfuscated, making their target item less obvious."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's acceptance message and subsequent thoughts reveal a strong focus on acquiring coal for their torch. Their intentions are quite transparent."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 explicitly states they have everything they need to craft their target item. This completely reveals their imminent crafting plan and intention to win."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the trade, reinforcing the earlier ambiguity about their crafting goals. While they express a focus on their crafting, the vague message avoids revealing their specific target item."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2 requests coal, hinting at needing to smelt, thus suggesting a target item using metal.  The trade request doesn't fully reveal the shears plan but narrows down the possibilities for observant opponents."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 rejects the trade, indicating a need for coal.  This partially reveals their need for coal (for a torch). While it does not fully reveal the torch, it hints at coal being a necessary ingredient."
+      }
+    ]
+  }
+]

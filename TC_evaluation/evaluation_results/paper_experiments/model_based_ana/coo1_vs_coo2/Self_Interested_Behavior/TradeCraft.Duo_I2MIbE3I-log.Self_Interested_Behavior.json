@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently focused on acquiring the necessary resources (iron ingots) to craft their target item (shears). Their initial proposals, while invalid, demonstrated a strategic approach by offering coal to incentivize player 1 to smelt raw iron. The final accepted proposal, though not directly providing iron, secured raw iron, paving the way for a future trade or independent smelting to achieve their goal. All actions and thoughts revolved around their self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 demonstrated some self-interest by accepting a trade that provided them with coal, a resource they needed for their target item (torch). However, their reasoning primarily emphasized mutual benefit, suggesting less focus on maximizing their own gains. While they recognized the trade's advantage, their actions and thoughts did not solely revolve around their self-interest."
+      }
+    ]
+  }
+]

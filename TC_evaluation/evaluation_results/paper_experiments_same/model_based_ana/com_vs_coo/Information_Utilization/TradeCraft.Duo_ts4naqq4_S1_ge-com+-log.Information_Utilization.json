@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly identify their need for iron ingots, recognize that Player 1 has raw iron, and formulate a plan to trade for it.  They also consider the need for cobblestone. They check the recipe for shears to confirm the required ingredients. While their initial proposal was invalid, they quickly adjust and resubmit a valid proposal.  The thinking shows a clear understanding of the game mechanics and the available information."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates good information utilization. They consider the proposed trade in relation to their own goal (torch) and recognize the cooperative nature of the game. They check the recipe for coal, although it doesn't directly lead to their goal.  Accepting the trade might encourage Player 2 to trade coal later, showing some strategic thinking, but they also have the possibility of smelting the raw iron given to make an ingot, which might also be useful for them."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to demonstrate good information utilization. They correctly identify Player 2 as a potential source of coal and formulate a reasonable trade proposal. Checking the recipes for torch and stick demonstrates a good understanding of their crafting requirements.  Offering raw iron along with raw copper shows an attempt to anticipate Player 2's needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates strong information utilization by recognizing the importance of their limited coal and refusing to trade it away, prioritizing their own crafting needs over a potentially helpful trade.  They reiterate their understanding of their goal and crafting requirements, and begin to formulate a plan for the next crafting phase."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrates reasonable information utilization. They identify the need for planks and successfully trade for them. They check the crafting table recipe and offer an appropriate trade considering what player 1 needs, but also trying not to advance their game too much. The crafting attempt is reasonable given the situation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 shows some information utilization by considering the value of the oak plank and cobblestone. However, accepting the trade could be better justified based on their game goal, which is to get torches made. They also demonstrate understanding of cooperative gameplay, which influenced the decision."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes the potential for a mutually beneficial trade and offers raw iron for coal.  They show awareness of Player 2's potential needs and propose a favorable trade ratio. Checking the iron ingot recipe reinforces their understanding of crafting requirements."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 displays good information utilization by considering the potential risks of trading away their coal.  They analyze Player 1's potential crafting goals based on their resources and make a strategic decision to reject the trade to protect their own progress. They continue to identify their crafting needs, and how to advance their game.  They demonstrate a strong understanding of both their and player 1's current game status and make an appropriate decision."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 utilizes information well by offering a trade that benefits them more than their opponent.  They correctly identify the need for raw iron and cobblestone and leverage their surplus of torches to obtain them. They check the recipe for the crafting table and also their plans. They also display awareness of the need to acquire wood. They understand their crafting needs and plan for the next turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 demonstrates some information utilization. They correctly identify the potential benefits of the torch and evaluate the trade in terms of their resources. They show understanding of the cooperative game dynamic but don't appear to form any significant plan going forward other than analyzing the possible recipes available."
+      }
+    ]
+  }
+]

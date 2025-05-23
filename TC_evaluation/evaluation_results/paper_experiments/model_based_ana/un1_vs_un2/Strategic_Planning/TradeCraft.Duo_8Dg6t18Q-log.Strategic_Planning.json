@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 formulated a clear plan to obtain their target item (chain). They identified the required resources, recognized they were missing some, and successfully traded for the missing raw iron.  They then correctly crafted the remaining components, demonstrating excellent strategic planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 correctly identified the resources needed for their target (lever) and recognized they had the necessary components to craft it. However, they failed to correctly execute the crafting recipe for the stick, demonstrating a flaw in their execution despite a decent initial plan.  While accepting the trade was strategically sound, their overall strategic planning is hampered by the crafting mistake."
+      }
+    ]
+  }
+]

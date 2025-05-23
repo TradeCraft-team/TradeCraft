@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a reasonable attempt to conceal their intentions by requesting both raw iron (needed for their target) and cobblestone (a more general resource).  The offered items were less useful to them, making the trade seem plausible from the opponent's perspective. However, the thinking reveals their focus on iron, and a more sophisticated approach might have involved a less direct request for raw iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's actions and thinking didn't reveal their specific target.  They accepted a seemingly reasonable trade offer that benefited them (gaining planks and coal) without giving away their ultimate goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's repeated attempts to trade for cobblestone strongly signaled their need for this item. While their stated reasons were plausible, the insistence on acquiring cobblestone made their intention to craft a stone tool quite obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 didn't make any trades this turn and focused on crafting iron nuggets, which could be used for various items. Their thinking reveals an awareness of the need to conceal intentions and consider the opponent's possible strategies."
+      }
+    ]
+  }
+]

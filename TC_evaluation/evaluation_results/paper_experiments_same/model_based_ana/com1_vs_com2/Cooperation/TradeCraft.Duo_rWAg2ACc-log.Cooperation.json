@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that was beneficial to both players. They offered items they didn't need (cherry planks and cobblestone) for items that would help them progress towards their goal (raw iron).  They also included raw copper in the trade request, disguising their priority which also benefited player 1.  Player 2 thought about how to negotiate appropriately for both players' objectives and gave reasoning behind their approach."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 carefully considered the trade proposal and recognized its benefits, allowing them to obtain the necessary materials to achieve their goal. They accepted the trade, demonstrating cooperation and enabling both players to progress."
+      }
+    ]
+  }
+]

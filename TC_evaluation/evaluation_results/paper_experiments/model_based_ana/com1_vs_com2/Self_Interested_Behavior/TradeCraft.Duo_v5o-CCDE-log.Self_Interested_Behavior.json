@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted entirely in their self-interest. They identified their need for iron, formulated a trade proposal beneficial to them, and successfully executed it to obtain raw iron for crafting their target item (bucket). Their thought process clearly demonstrates self-interested behavior focused on achieving their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also exhibited self-interested behavior by accepting the trade proposed by Player 1.  While the trade benefited both players, Player 2's primary motivation was obtaining cherry planks to potentially craft sticks (useful for their target item, a lever). Although they considered Player 1's potential needs, their decision was ultimately driven by their own crafting goals. They tried to craft the lever without checking which recipes were available and ultimately wasted their turn. They missed the opportunity to craft a lever by checking possible recipes from hand or remembering the stick recipe only requires 2 planks."
+      }
+    ]
+  }
+]

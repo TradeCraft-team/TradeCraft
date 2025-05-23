@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively assesses their needs for crafting a bucket, identifies the missing resources, and formulates a trade proposal to acquire raw iron from player 2. This demonstrates good adaptability by recognizing the need for specific resources and taking action to obtain them through trading."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 effectively evaluates Player 1's proposal, considering its impact on their own crafting goals and strategically accepting a trade that benefits both players. They correctly reason through the value of the offered items and identify how the trade aligns with their overall strategy. This demonstrates strong and consistent adaptability."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 identifies the need for fuel to smelt their raw iron and correctly identifies Player 2 as a source of coal.  However, they do not make a proposal in this turn to address the need for fuel, decreasing their score slightly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 spends the turn analyzing their crafting needs and formulating their next move. While they identify a good trade proposal, they do not yet execute it, preventing them from getting a perfect score."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapts their proposal after the initial rejection by Player 2, offering a more favorable trade by increasing the amount of raw copper offered for raw iron.  The offer is rejected again, however."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates adaptability by rejecting the trade offer and providing clear reasoning to player 1, explaining that raw copper is not useful for their crafting goals. They provide feedback for a more beneficial trade opportunity. This shows an understanding of their current needs and a strategic approach to resource management."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepts a trade that directly benefits their goal of crafting a bucket.  They obtain raw iron, completing the resources needed to craft their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly identifies the need for cobblestone and offers a strategic trade to consolidate resources.  The offered trade is designed to be beneficial to both parties while addressing Player 2's long-term goals.  It successfully executes a trade to achieve this goal. This demonstrates good adaptability by adjusting to the available resources and making a strategic decision."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposes a trade for sticks, showing an attempt to adapt by acquiring a resource that can be used as fuel. However, the proposal is rejected. They don't immediately adapt their plan after the trade is rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively rejects a trade offer that would be detrimental to crafting their target item, the stone shovel. They correctly identify that giving away sticks would prevent them from completing their goal, showcasing an understanding of immediate crafting needs and good resource management. They offer alternatives showing adaptability."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to adapt their plans and recognizes the need for raw iron and sticks after having an offer rejected. They start to consider alternative crafting paths and strategize to incentivize Player 2 to trade. This shows a good attempt to adjust plans based on failed proposals and opponent behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade for an iron ingot is not directly relevant to their stone_shovel goal and is rejected by player 1.  This proposal demonstrates a lack of focus on their core objective and no significant adaptation to Player 1's rejections."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submits an invalid proposal, demonstrating a lack of understanding of game rules. They propose trading for materials they don't immediately need. While they later recognize the issue and modify the proposal, their initial invalid proposal indicates less strategic planning.  This lack of focus impacts their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently rejects offers that do not advance their primary goal and clearly communicates the need for cobblestone.  While they may be missing some nuance in not consolidating their extra stone, they maintain a consistent strategy, earning a solid score."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 takes no actions this turn.  There is no demonstration of adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 proposes several invalid trades which are automatically rejected.  They demonstrate limited adaptability by continuing to attempt trades without analyzing the needs of Player 1."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes a reasonable trade proposal, offering sticks for raw iron. While the trade is rejected, it demonstrates an understanding of Player 2's potential needs and a willingness to adapt by offering a valuable resource."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly identifies that accepting the trade offer would not advance their goal of crafting a stone_shovel and makes a strategic decision to reject it, even though the offered resources might be valuable in other situations. This shows good adaptability by prioritizing their primary crafting goal and managing resources effectively."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes Player 2's need for resources and tries to assess their needs in order to formulate a better proposal. They show adaptability by trying to understand their opponent's goal, even though they do not immediately land on a viable trade proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 again makes a suboptimal trade proposal offering valuable raw copper for less valuable sticks, which they don't immediately need, and being rejected.  They do not propose any other trades to advance their strategy."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognizes the importance of iron ingots for their target item (bucket) but also understands the potential value of raw iron and sticks. They propose a strategic trade, offering a higher-value item (iron ingot) along with sticks in exchange for raw iron, demonstrating adaptability and willingness to negotiate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates strategic thinking by rejecting the proposal, correctly recognizing that it doesn't immediately help them craft the stone_shovel and also prioritizes their current needs. This is good adaptability by maintaining focus on their objective and resource management."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 makes a strategic decision to reject Player 2's trade offer. Recognizing that they already possess enough resources to achieve their primary objective, they adapt to the situation by prioritizing those resources and show good resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes they have enough materials to craft the stone shovel but proposes a trade of raw copper for raw iron. The trade, though rejected, shows some adaptability by trying to consolidate resources or set up future trades."
+      }
+    ]
+  }
+]

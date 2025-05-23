@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully persuaded player 1 to trade.  Player 2 clearly stated their needs and offered a reasonable trade. Player 2's justification for the trade ('I'm trying to build some storage') was plausible and likely contributed to player 1's acceptance of the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 was receptive to player 2's proposal and accepted the trade. Although player 1 didn't actively persuade, their acceptance of the trade indicates a successful interaction with player 2's persuasion attempt. Player 1 also provided a clear reason for accepting the trade ('I need the planks')."
+      }
+    ]
+  }
+]

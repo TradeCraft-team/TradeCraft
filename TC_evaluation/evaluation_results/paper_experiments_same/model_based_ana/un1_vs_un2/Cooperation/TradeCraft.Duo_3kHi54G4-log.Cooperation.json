@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that benefited both players. They offered coal, which player 1 needed for their torch, and requested raw iron, which they needed for shears.  The trade was successful and helped both players progress towards their goals."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 willingly accepted a mutually beneficial trade proposed by player 2.  They recognized the value of the coal for their own goal and readily provided the raw iron that player 2 needed."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 initiated a trade, but it wasn't directly beneficial to Player 2's goal. While offering a trade is cooperative, the specific items offered and requested didn't facilitate shared progress towards both players' objectives.  The attempt to encourage trading is positive, but the trade proposal itself wasn't as impactful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade offer but provided a clear and polite explanation for the rejection. While they didn't cooperate with the proposed trade, they maintained a positive interaction by explaining their reasoning."
+      }
+    ]
+  }
+]

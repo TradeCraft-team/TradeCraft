@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade, offering coal for raw iron. Although the trade was rejected, the attempt to cooperate and the clear communication of their needs contributes to a positive score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejected the trade but provided a justification. While not actively cooperating, they engaged in the interaction and explained their reasoning."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the proposed trade, demonstrating a willingness to cooperate and recognizing the mutually beneficial aspect of the exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade that was beneficial for both players, offering raw iron for coal.  This proactive and mutually beneficial trade proposal demonstrates strong cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade of raw copper for raw iron, which was accepted. This demonstrates continued willingness to cooperate and engage in mutually beneficial trades."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade, showing willingness to help player 1 and cooperate towards a shared goal of successful crafting."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected player 2's offer but expressed what they would be willing to trade for.  This shows a willingness to engage, even though the current offer wasn't helpful for them."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made several attempts to initiate trades, offering raw copper and trying to figure out what Player 1 needed.  Although the proposals were rejected or invalid, the continuous attempts to find a mutually beneficial trade demonstrate a cooperative spirit."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed and completed a trade, accepting an even exchange that demonstrated continued engagement, and achieved their target goal due to previously cooperative trades and therefore won the game for both players."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade, even though it didn't directly benefit them. This suggests a willingness to cooperate and support the other player, even without immediate personal gain and ultimately facilitated Player 1 achieving both their win conditions."
+      }
+    ]
+  }
+]

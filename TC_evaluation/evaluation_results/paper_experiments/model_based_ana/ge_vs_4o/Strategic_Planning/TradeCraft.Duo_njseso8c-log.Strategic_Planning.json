@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good strategic planning by identifying their target item (bucket) and its crafting requirements early on. They correctly determined the need for iron ingots and proactively traded for raw iron, offering coal in exchange. They also checked the bucket recipe to confirm their understanding.  Although they struggled with the crafting steps, their initial trading and planning were strategically sound."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some strategic thinking by identifying their target (stone_shovel) and recognizing the opportunity to trade unnecessary raw iron for potentially useful coal. They also correctly assessed that the trade wouldn't hinder their immediate goal. However, they didn't fully plan their crafting steps in advance, leading to an unsuccessful crafting attempt later.  They also didn't anticipate needing more planks for the sticks, which limited their crafting progress."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's strategic planning was poor this turn.  They failed to make any progress towards their goal, despite having the opportunity to craft sticks with the materials on hand. They missed an opportunity to propose a trade that would complete the stick crafting and put them on the way to finish their final goal.  Their thinking was focused on acquiring more cobblestone, which was a secondary concern at best. They also failed to craft anything this turn and seemed to overthink simple crafting recipes."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to demonstrate strong strategic thinking.  They correctly identified their next step (smelting raw iron) and recognized the need for fuel.  They also considered the possibility of future trades, showing foresight. Although they didn't perform any crafting this turn, their planning set them up for success in the next turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 executed their plan flawlessly. They successfully traded for the needed coal, smelted the raw iron, and then crafted the bucket, winning the game. This demonstrates excellent strategic planning and execution."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepted a trade that provided a minor benefit (an extra cobblestone), but they still lacked the necessary planks to create sticks. They identified the need to trade for planks in future turns, but their overall strategy was reactive rather than proactive. They again failed to craft anything this round and ultimately lost due to poor resource management and a lack of progress towards their target goal."
+      }
+    ]
+  }
+]

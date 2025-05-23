@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade, offering coal in exchange for raw iron.  This trade was beneficial to both players, as player 2 needed the raw iron to craft their target item (shears) and player 1 needed coal to craft their target item (torch)."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the fair trade proposed by player 2. Recognizing the mutual benefit, player 1 cooperated effectively to advance both their own and player 2's progress towards their respective goals."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interest by proposing a trade that could benefit them by receiving raw iron, a key component for crafting their target item (chain). They offered coal and cobblestone in return, items they deemed less valuable for their crafting needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade. They recognized that the offered items did not align with their target item (lever) requirements, and holding onto raw iron could be more beneficial in the long run."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 did not take any significant actions during this turn after their proposal was rejected.  They primarily focused on understanding the recipe and checking possible recipes from their hand, which is a passive action in terms of self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 showed self-interest by again prioritizing information gathering about lever and stick, aiming to craft their target item and refusing the offer to receive cherry planks."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 exhibited self-interest by strategically proposing a trade for raw iron, essential for their target item (chain). They offered cherry planks in return, demonstrating willingness to trade less critical items for greater personal gain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 's actions in Turn 3 are unclear and seemingly unproductive due to their repetitive checks of lever recipe.  They did ultimately reject the trade, which could indicate self-interest, however, the reasoning isn't apparent given their unproductive nature."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 acted in their self-interest by rejecting the trade proposal. They understood that keeping cherry planks and cobblestone could be strategically advantageous for their own crafting purposes, even though the offer of raw iron was tempting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a calculated attempt at furthering their goal. By offering 2 raw iron, player 2 displayed clear intent to get both of the items they needed for their target recipe. This shows a strategic evaluation of their needs and making a calculated move towards their goal.  While they were rejected, the proposal itself is aligned with self-interest."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 strategically proposed a trade that could potentially benefit them. Although already in possession of raw iron, requesting more would support future crafting.  It's highly likely that they understood player 2's need for the cherry planks and cobblestone, as it was evident from previous exchanges."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong self-interest by accepting the trade. They correctly recognized that acquiring cherry planks and cobblestone was essential for crafting their target item (lever). Exchanging raw iron was a strategic move that directly contributed to their win condition."
+      }
+    ]
+  }
+]

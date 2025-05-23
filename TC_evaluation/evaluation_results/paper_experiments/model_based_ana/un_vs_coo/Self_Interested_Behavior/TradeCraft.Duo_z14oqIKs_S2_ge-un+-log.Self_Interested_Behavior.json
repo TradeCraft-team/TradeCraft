@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently pursued their self-interest by repeatedly attempting to trade for iron ingots, essential for their target item (bucket).  Although their initial proposals were invalid, they adapted their strategy and ultimately secured a beneficial trade for raw iron.  Their actions and thoughts demonstrate a clear prioritization of their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's primary focus seemed to be facilitating Player 1's progress, accepting a trade that offered minimal direct benefit to themselves. While they considered their own needs, their willingness to help their opponent overshadowed their self-interest in this turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 initiated a trade that primarily benefited Player 1, demonstrating a cooperative approach rather than a purely self-interested one.  While they requested cobblestone, their primary goal seemed to be assisting Player 1 in obtaining necessary materials for their bucket. Their actions align more with a cooperative strategy than a self-interested one."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade that directly benefited them, furthering their progress towards their target item.  Their thinking and actions demonstrate a consistent focus on achieving their own goal. They actively sought out resources to benefit themselves."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to prioritize their own goal by proposing a trade for coal, a crucial resource for smelting raw iron into iron ingots necessary for their bucket. They successfully secured the coal, enabling them to craft their target item and win the game.  Their actions and thoughts demonstrate a strong self-interest focused on achieving their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 accepted a trade that provided minimal benefit to themselves while directly assisting Player 1 in achieving their victory.  Despite recognizing the potential future value of coal, they chose to facilitate their opponent's progress, demonstrating a lack of self-interest in this final turn."
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their goal of crafting a chain by attempting to trade for necessary resources. They demonstrated self-interest by offering trades that would benefit them, even if not necessarily beneficial to player 2. Although their initial proposal was invalid, they quickly adjusted their strategy and made a new offer.  Their persistent attempts to trade for raw iron clearly indicate a focus on their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 repeatedly checked the recipe for a lever, indicating an awareness of their own goal. However, they rejected player 1's trade proposal without offering an alternative or engaging in further negotiation, suggesting a lack of strategic thinking related to maximizing their own benefit.  While the rejection might be self-interested in preserving resources, it doesn't demonstrate active pursuit of their own goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the trade as beneficial for acquiring the necessary iron and accepted, acting entirely in their self-interest. They clearly analyzed the proposal's impact on their goal and made a rational decision to maximize their own benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a strategic trade proposal designed to benefit their own crafting goals.  By offering raw iron in exchange for coal, they are attempting to acquire a resource they need while offering a resource they have in abundance.  This demonstrates a clear understanding of self-interest and maximizing their own benefit within the game's constraints."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to demonstrate self-interested behavior by persistently pursuing trades for iron ingots.  While their offers are consistently rejected, their focus on acquiring the necessary resources for their chain demonstrates a prioritization of their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejected player 1's offer, demonstrating self-interested behavior by preserving resources and prioritizing their own crafting goals. Their explanation for rejecting the trade, while polite, prioritizes their own needs and potential future trades, showing a strong focus on their own benefit."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not take any actions in this turn that demonstrated self-interested behavior.  They were not the proposer and did not participate in any trades."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 demonstrated some level of self-interest by attempting to make trades. However, their repeated submission of invalid proposals suggests a lack of focus and strategic thinking, ultimately hindering their ability to effectively pursue their own goals."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 acted with some self-interest by offering a trade that benefitted player 2. However, giving away resources without receiving anything in return is not always strategically sound in terms of self-interest, especially as the game progresses."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a rational self-interested decision by accepting Player 1's offer of free resources. Recognizing the potential benefit without any cost, they maximized their potential gain without compromising their own resources."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 made a beneficial trade, accepting raw copper which is needed for crafting a chain.  This demonstrates self-interest by taking advantage of player 2's offer."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to prioritize their crafting needs by offering raw copper for cobblestone. While the trade might benefit both players, player 2 is actively pursuing resources relevant to their crafting plan, indicating self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 actively sought to trade for iron ingots, essential for crafting a chain.  While the proposal was rejected, the effort to acquire needed materials shows consistent self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates self-interest by rejecting Player 1's offer and retaining their iron ingots.  Their repeated checks for the lever recipe suggest a focus on their own needs."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade for raw iron, a crucial resource for their target item, demonstrating their prioritization of their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade that while seemingly neutral, is likely intended to benefit their long-term crafting goals, though the benefit is not immediately clear.  This demonstrates a degree of self-interest."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's proposal to trade raw iron for raw copper demonstrates a willingness to trade, but the rationale behind this specific offer isn't clear in terms of advancing their own goal. It appears more focused on maintaining a positive relationship than direct self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 consistently rejected player 1's proposals. Though they have everything to make a lever and don't need anything player 1 offers, rejecting their offer is in their self interest."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their intention to craft a bucket by requesting raw iron and mentioning it in their message. Although they offered other items as well, the primary intention was somewhat obvious."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions. They rejected the trade offer without giving away any clues about their target item or strategy. Their rejection message does not explicitly state their intention, but simply states that they are ending the conversation at this point."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, partially concealing their intentions. While accepting trades can be a neutral action, it can also be a way to mask true intentions. Player 1 is still trying to ascertain Player 2's goals while slowly trying to gain iron or raw iron. This is a tricky play, so 0.7 seems fair."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiated a trade for cherry planks, offering raw copper in return. This action provided some insight into their possible crafting needs, lowering their concealment score. Their message suggests they need planks \"for crafting,\" which doesn't completely reveal their target but narrows down the possibilities."
+      }
+    ]
+  }
+]

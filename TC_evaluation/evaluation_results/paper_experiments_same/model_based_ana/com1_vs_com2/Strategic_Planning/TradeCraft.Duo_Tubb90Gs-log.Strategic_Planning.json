@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates good strategic planning by identifying their need for iron, recognizing that Player 2 has a surplus, and offering a valuable resource (coal) in exchange. They clearly state their reasoning and propose a reasonable trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also shows strategic thinking by recognizing the value of coal for smelting and accepting a trade that benefits their long-term plan.  They correctly identify the need for planks to achieve their target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's strategic planning falters this turn. Despite recognizing the need to smelt raw iron, they fail to execute the crafting correctly.  Their repeated checking of the chain recipe and expressing a 'good plan' without effective action lowers the score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 identifies the need for more planks and formulates a plan to trade for them, showing an understanding of resource management and adaptation.  However, they are unable to craft anything this turn due to insufficient resources."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates strategic thinking by trying to acquire coal for smelting, offering cobblestone in return. While the trade is rejected, the attempt to secure a necessary resource aligns with their overall goal.  Their analysis of the opponent's potential needs is also a positive sign."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to plan for acquiring the needed planks. They correctly reject a trade that doesn't benefit them. While they can't make progress towards their goal this turn due to lack of planks, their strategic planning remains evident."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 makes a sound strategic decision to prioritize crafting the chain once they realize they have the necessary materials. Their reasoning for rejecting the trade offer, recognizing the potential benefit to the opponent, is also strategically sound."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's strategic planning is weak this turn.  Despite repeatedly attempting to craft sticks and failing due to insufficient planks, they do not adapt their strategy. The failed attempts to trade for cobblestone without crafting anything useful lower their score."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's strategic decision-making is poor this turn. The submitted proposals are invalid, indicating a misunderstanding of game rules.  While they eventually propose a reasonable trade, the earlier mistakes and continued rejection by Player 2 highlight a lack of effective planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates consistent strategic planning by smelting raw iron into ingots, anticipating future crafting needs.  Their awareness of the opponent's potential goals and rejection of trades that might benefit the opponent strengthen their score."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to prioritize their goal of crafting the chain by correctly rejecting trades that don't contribute towards it. Their reluctance to part with raw iron is a sound strategic move. Converting iron nuggets into an ingot shows resourcefulness.  However, they miss an opportunity to potentially trade for needed resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's strategic planning is weak this turn. Despite needing sticks, they fail to craft them due to insufficient planks.  Their continued focus on trading for cobblestone without addressing the plank shortage hinders progress towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's strategic planning remains consistent. They prioritize getting another iron ingot and make a calculated decision to craft nuggets into an ingot, reducing reliance on trading. Their attempted trade, while rejected, shows a continued effort to progress towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's strategy is flawed.  Despite recognizing the need for sticks and having the means to craft them, they fail to do so efficiently. Their plan to propose trades next turn is delayed, losing valuable time."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrates excellent strategic planning. They capitalize on their accumulated resources to craft the chain, successfully achieving their objective. Their consistent rejection of unfavorable trades also contributes to their victory."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's planning continues to be ineffective.  They are unable to craft sticks due to a lack of planks and do not adapt their strategy or explore alternative options. Their failure to craft sticks delays the stone shovel."
+      }
+    ]
+  }
+]

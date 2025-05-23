@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by proposing a trade for raw iron, essential for their target item (chain). They offered coal in return, which could benefit player 2, but the primary motivation was clearly to advance their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade. They recognized that while the offered coal could be useful for smelting, it wasn't directly necessary for their target (lever). They prioritized keeping their raw iron, potentially for future trades or crafting."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, prioritizing assisting player 2 by providing raw copper. While not directly harmful to their own goal, it shows less focus on immediate self-interest compared to previous turns."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed a self-interested trade, offering less valuable raw copper while requesting both cobblestone and iron ingot. This trade primarily benefits player 2, allowing them to accumulate valuable resources."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed another self-interested trade, seeking raw iron for their chain while offering raw copper in return.  The focus remains on acquiring necessary resources for their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted a neutral trade.  While not directly beneficial to their goal, it doesn't hinder them either and maintains a cooperative facade."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, demonstrating a balance of self-interest (getting raw iron) and cooperation (giving raw copper)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a proposal with the intention of distracting player 1 and accumulating their raw iron."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to actively pursue raw iron through trades, essential for their target, displaying strong self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the trade, prioritizing preserving their resources and not aiding Player 1's progress."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, prioritizing cooperation and a seemingly neutral exchange of resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a neutral proposal. Player 2 is disguising their intentions."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to actively seek raw iron for their target, showing consistent self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade, prioritizing resource conservation and hindering player 1's progress."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a trade that is slightly disadvantageous for their goal, prioritizing cooperation over immediate self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 secured raw iron through trade, potentially useful for future crafting or trades."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a direct proposal to get raw iron for their chain, clearly focused on their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to reject trades that don't directly benefit them, showing self-interest in preserving resources and not assisting player 1."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a neutral trade, showing a willingness to cooperate while also getting raw iron in return."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's actions, including offering an unfavorable trade, shows self-interest in trying to distract or hinder Player 1."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their goal by offering a copper ingot for an iron ingot, crucial for crafting their chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade, preserving their own resources and blocking Player 1's progress, demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to trade raw materials, accepting offers beneficial to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 secured raw iron through a trade, potentially at the cost of Player 1's progress, clearly demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game concluded."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game concluded."
+      }
+    ]
+  }
+]

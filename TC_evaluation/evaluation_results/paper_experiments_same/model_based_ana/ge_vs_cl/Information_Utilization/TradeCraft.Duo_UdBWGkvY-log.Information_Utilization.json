@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 initially fails to utilize information effectively. Player 2 repeatedly checks the recipe for shears and their inventory and the opponent's inventory, demonstrating an understanding of the game's objective.  Player 2 makes invalid proposals, indicating poor understanding of the game mechanics or a failure to accurately assess available resources. Although demonstrating some understanding, their repeated invalid proposals significantly lower their score. This indicates a significant failure to utilize information available within the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 does not take any action in this turn and therefore cannot be evaluated for Information Utilization."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for raw iron, offered items of lesser value to them in exchange, and successfully acquired the raw iron they needed to craft their target item. Their thinking and actions clearly demonstrate a focus on their own goal, even though the trade could potentially benefit player 1 as well. Player 2 checking item info, submitting the proposal and crafting items shows initiative and good strategy for own winning."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted the trade, which benefitted player 2 more. Although the trade gave player 1 cobblestone, which they might need, they didn't demonstrate strong self-interested behavior as they didn't actively seek out trades that would benefit them or consider the potential impact of giving away raw iron."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent adaptability by correctly identifying a valuable trade opportunity. They recognized their need for raw iron and offered coal in return, anticipating the other player's need for fuel. This trade directly contributed to their ability to achieve their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 also adapted well to the proposed trade, recognizing the value of coal for their own objective. They correctly assessed the trade as beneficial and accepted, furthering their progress towards crafting a torch.  They analyzed Player 1's potential motives, showing strategic thinking."
+      }
+    ]
+  }
+]

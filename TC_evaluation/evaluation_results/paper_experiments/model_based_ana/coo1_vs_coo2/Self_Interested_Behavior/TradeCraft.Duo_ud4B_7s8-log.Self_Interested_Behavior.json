@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 exhibited strong self-interested behavior by proposing a trade that benefited them while also appearing beneficial to Player 1. They offered resources they didn't need (coal and raw copper) in exchange for raw iron, which is essential for their target item (chain).  They correctly assessed that Player 1 needed coal to smelt their raw iron and crafted their proposal accordingly."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted Player 2's proposal, demonstrating self-interest by acquiring coal needed to smelt raw iron for their lever. They recognized the trade as mutually beneficial."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a self-interested proposal, offering a resource they didn't need (raw copper) for something they did need (iron ingot) to craft their lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted Player 1's proposal, prioritizing their need for iron ingots to craft a chain, even though they didn't explicitly need raw copper. This demonstrates self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a self-serving trade of raw iron for coal, which they needed to smelt raw materials for their chain. While framed as mutually beneficial, Player 2 benefits more as they have more raw iron to smelt."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade, prioritizing helping Player 2. While coal could have helped them, they didn't immediately need it, demonstrating less self-interest."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade beneficial to them by offering excess raw iron for a needed cobblestone to make a lever. This shows self-interest in acquiring a key component for their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted, showing slight self-interest by acquiring raw iron which could be useful later but giving up a cobblestone they don't currently need."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a trade for raw copper, attempting to acquire more resources potentially useful for chain crafting or future trades. This demonstrates self-interest in accumulating resources."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted, giving away raw copper which they don't need while acquiring raw iron which they also don't immediately need.  The trade shows cooperation but less focus on their own lever."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted several trades for items they needed for their lever, showing self-interest in progressing towards their target. However, their multiple invalid proposals show inefficiency."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted Player 1's final proposal, receiving free raw iron. This displays self-interest in taking advantage of a beneficial offer."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 traded raw materials they didn't need for cobblestone, prioritizing their own resource needs. The raw materials could help Player 1, however."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade, which can be interpreted as self-interested due to the gain of more raw materials, although their immediate need is cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a self-interested proposal, attempting to trade raw iron for a needed cobblestone. They also demonstrate some self-interest by offering raw iron for nothing."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted Player 1's proposal. They gave a cobblestone for raw iron, of which they already had some."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed and completed a self-interested trade, acquiring raw copper for raw iron. This allowed them to get closer to crafting their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted Player 2's proposal, showing cooperation. They did not prioritize their lever's components and gave away materials."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 offered raw iron to Player 2 for free, which is not self-interested behavior. Their attempts to trade for sticks were invalid."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the free raw iron, maximizing their resources, demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully traded raw copper for an iron ingot, showing self-interest by getting materials they need for their chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted, giving away an iron ingot for raw copper. This does not help their goal of crafting a lever."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 gave away raw iron for free again. This does not benefit them directly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the raw iron, maximizing their own resources."
+      }
+    ]
+  }
+]

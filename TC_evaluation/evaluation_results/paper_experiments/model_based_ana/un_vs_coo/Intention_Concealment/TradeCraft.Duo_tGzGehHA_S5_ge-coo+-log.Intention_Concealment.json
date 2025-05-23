@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 explicitly mentioned their target (chain) in their first proposal message, revealing their intentions early on. While the initial proposal was invalid, the subsequent proposal still hinted at the need for iron, further suggesting their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 didn't reveal their target and effectively disguised their need for planks/sticks by focusing on the value of coal and potential future uses of iron ingots. Their acceptance message reinforces this by implying a willingness to smelt the raw iron into ingots."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's initial invalid proposal, requesting both iron ingots and a stick, partially revealed their intention to craft something requiring both resources. While their subsequent null proposal and message were more neutral, the earlier misstep lowers their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintained good intention concealment. Their response to player 1's null proposal feigned ignorance of their plans, while subtly inquiring about their crafting intentions, potentially to gather more information without revealing their own needs."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal, offering an iron ingot for raw copper, indirectly suggests their need for copper, which is a component of a chain. While not a direct reveal, it provides a clue to their intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to conceal their intentions effectively. Their rejection message was polite but didn't offer any information about their own goals, maintaining a neutral stance."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 revealed their intention to craft sticks, which are needed for levers, though not exclusively. This partial reveal lowers their intention concealment score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintained ambiguity.  Their response to player 1's crafting announcement feigned cooperation, implying potential interest in crafting with sticks without confirming their need for them."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2's thinking and proposal inadvertently hinted at needing raw copper.  While this is not a direct giveaway of needing both iron and copper, the repeated copper focus lowers their intention concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently rejected proposals that did not benefit them.  Their reasoning internally was entirely focused on their goal, not on concealing anything specifically."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 revealed their intention to craft, further narrowing down their likely targets. The vagueness provides some concealment, but the repeated crafting announcements offer clues."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued with null trades and cooperative messages, maintaining a good level of concealment while gathering information about Player 1's actions."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal to trade iron nuggets for raw copper provides some clues to their need for more resources. Offering iron nuggets and requesting raw copper could be interpreted as trying to make a chain, which requires copper."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintained good intention concealment, rejecting offers that didn't align with their goal. Their rejections gave no indication of their target item."
+      }
+    ]
+  }
+]

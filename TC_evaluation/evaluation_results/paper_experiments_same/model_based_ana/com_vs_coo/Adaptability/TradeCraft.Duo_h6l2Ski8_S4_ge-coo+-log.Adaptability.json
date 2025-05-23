@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by analyzing the opponent's resources and formulating a reasonable trade proposal.  They correctly identified the need for iron ingots and offered coal in exchange for raw iron, showing an understanding of crafting requirements and potential mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed some adaptability by considering the trade proposal and its potential implications. While they ultimately rejected the offer, their reasoning was based on prioritizing their own immediate crafting needs, indicating an awareness of game objectives and resource management."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to focus on their own objective and tries to acquire more cobblestone, but the trade offer isn't very strategic. They miss the opportunity to leverage their raw iron for something more beneficial."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapts to the rejection by suggesting an alternative crafting path for player 2, demonstrating an attempt to find common ground and facilitate a beneficial trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates excellent adaptability by reevaluating the situation and proposing a new trade offer based on player 2's previous actions. Offering cobblestone for raw iron shows a good understanding of player 2's potential needs and adjusts the strategy accordingly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 shows good adaptability by accepting the trade offer and acknowledging the value of the cobblestone. This demonstrates a willingness to adjust plans based on available resources and the opponent's behavior."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a deceptive trade offer, showing some adaptability in attempting to mislead player 1. However, the deception isn't particularly sophisticated, and it doesn't significantly impact the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade offer, showing adaptability by prioritizing the acquisition of raw iron and correctly assessing that the trade is more beneficial to player 2 than detrimental to themselves."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrates perfect adaptability by immediately recognizing the opportunity to craft their target item and acting decisively to secure the win."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 misses an opportunity to trade for iron ingots which could have been beneficial, although not directly related to their objective. They continue to focus on their initial strategy, which is now unlikely to succeed given the time constraint."
+      }
+    ]
+  }
+]

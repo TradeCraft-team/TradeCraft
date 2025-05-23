@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 consistently demonstrated self-interested behavior by attempting to trade for iron ingots, essential for their target item (bucket).  Despite initial setbacks, they persisted in pursuing their goal.  However, their initial proposals were flawed (invalid) and their final proposal was rejected.  The repeated use of item_info indicates focus on their target."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected Player 1's trade offer.  They did not make any proposals of their own this turn, which indicates a passive approach. They checked item_info for sticks and stone_shovel but otherwise did not make any moves.  Their rejection indicates self-interest only insofar as it suggests a need for more raw iron."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade that provided a minor benefit (raw copper) while not hindering their primary goal.  Their focus remained on acquiring iron ingots and crafting a bucket. Player 1 then crafted copper ingots. They smartly accepted Player 2's offer and then worked towards their own goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully traded for cherry planks, needed to craft sticks required for their target item (stone shovel). This trade directly advanced their objective, showing strong self-interested behavior. Player 2 then proceeded to craft the sticks and then the stone_shovel, winning the game."
+      }
+    ]
+  }
+]

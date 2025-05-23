@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 partially concealed their intentions. While their initial proposal and message suggested a general need for raw iron, their subsequent actions, such as checking the recipe for shears and iron ingots, revealed their true target.  They tried to disguise their need for fuel by offering coal but ultimately revealed their crafting intentions through their actions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's enthusiasm for the coal in the trade partially revealed their need for it, hinting at their intention to craft a torch. While they didn't explicitly state their goal, their eagerness for the coal gave away some information about their plans."
+      }
+    ]
+  }
+]

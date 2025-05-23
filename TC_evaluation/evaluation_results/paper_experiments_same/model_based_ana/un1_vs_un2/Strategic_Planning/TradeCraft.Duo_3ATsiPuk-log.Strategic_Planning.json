@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 formulated a clear plan to obtain the necessary raw iron for their target item, the bucket. They successfully executed this plan by proposing a reasonable trade with Player 2, offering raw copper in exchange for raw iron. This trade demonstrated strategic thinking as it addressed their immediate needs while anticipating their future crafting steps."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 carefully considered the proposed trade in the context of their own objective, crafting a stone shovel. They correctly assessed that trading away raw iron would not hinder their progress and recognized the potential future value of acquiring raw copper.  Accepting the trade demonstrated sound strategic planning, as it maximized resource utility without compromising their own goals."
+      }
+    ]
+  }
+]

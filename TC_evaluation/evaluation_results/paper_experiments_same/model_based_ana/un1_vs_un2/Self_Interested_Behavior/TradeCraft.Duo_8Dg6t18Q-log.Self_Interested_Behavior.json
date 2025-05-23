@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted entirely in their self-interest. They identified the resources they needed, proposed a trade beneficial to themselves (acquiring raw iron for their chain while offering unneeded raw copper), and successfully crafted their target item. Their focus remained solely on achieving their own victory condition."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 showed some self-interest by accepting a trade that didn't directly benefit their goal of crafting a lever. Although they reasoned it might be beneficial to appear cooperative, this was a weak justification and they ultimately failed to craft their target item. They prioritized appearing cooperative over maximizing their own chances of winning."
+      }
+    ]
+  }
+]

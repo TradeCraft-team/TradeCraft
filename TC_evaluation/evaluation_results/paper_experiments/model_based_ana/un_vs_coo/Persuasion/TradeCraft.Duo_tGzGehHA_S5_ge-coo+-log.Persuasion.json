@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 clearly stated their crafting goal and offered a helpful trade for raw iron, explaining its mutual benefit to Player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 analyzed the situation and recognized the long-term value of obtaining coal, accepting the trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's empty trade proposal is not persuasive, rather it's just informative."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempts to maintain communication and clarify the intentions behind Player 1's empty proposal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a reasonable trade offer, highlighting its potential benefit for both players."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 rejects the trade, prioritizing their own crafting needs, but provides a clear justification."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Similar to turn 2, Player 1's communication is informative, not persuasive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 simply acknowledges Player 1's informative message. No persuasion demonstrated."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 suggests a straightforward trade of raw materials, explaining its potential benefit."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 rejects the offer as it doesn't align with their immediate needs, providing a clear reason."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's communication serves as an informative message, not a persuasive proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 acknowledges Player 1's message and accepts the null trade.  No persuasion involved."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 makes a targeted trade offer, speculating on Player 1's needs and offering a mutually beneficial exchange."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 rejects the trade, explaining its lack of relevance to their current goal."
+      }
+    ]
+  }
+]

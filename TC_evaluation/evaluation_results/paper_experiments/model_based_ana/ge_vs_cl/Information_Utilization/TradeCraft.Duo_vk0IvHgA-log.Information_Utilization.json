@@ -1,0 +1,128 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 initially proposed an invalid trade but then correctly identified the need for raw iron and offered a reasonable trade, demonstrating decent information utilization but a slow start."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 repeatedly checked the recipe for a lever without making a trade proposal or crafting anything.  This indicates poor information utilization, getting stuck in an information loop."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively used information by accepting a beneficial trade for raw iron. This helped move towards their goal of crafting a chain, demonstrating good understanding of resource conversion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 analyzed Player 1's resources, offered a helpful trade for coal, and clearly explained the benefit. This shows good information utilization and strategic thinking for mutual benefit."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 recognizes the need for iron ingots and makes repeated, logical offers based on information available.  Despite rejections, continues to pursue a feasible trading strategy. Persistence shows moderate info utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 assesses the trade offer, references their own crafting goal and available resources before rejecting the offer.  Clearly demonstrates use of information to make an informed decision. Rejection might help conserve valuable resource."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not participate in this turn as proposer, so cannot be assessed for information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 gets stuck checking the lever and stick recipe repeatedly, makes an invalid proposal, and fails to formulate a useful trade.  This indicates very low information utilization."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Offers free resources, which is not strategically the best but shows awareness of having necessary items for their goal. Giving free resources might improve relationship with Player 2, although unnecessary."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Accepts the offered resources, showing strategic resource acquisition. They also verify they have what they need for their goal.  This displays good information use and acceptance of a no-cost trade."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Recognizes need for raw copper, correctly assesses Player 2's likely interest in cobblestone, makes beneficial trade.  Displays good use of game information and recollection of prior trades to make a valuable decision."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Identifies a need for cobblestone and offers raw copper in return.  Good awareness of inventory and potential future crafts. Proposes a valuable trade that progresses their plan and might be useful for future crafting."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Proposes a reasonable trade, offering surplus iron nuggets and raw copper for an iron ingot. Makes a logical offer given their goal. Repeatedly attempts to trade, using info for a clear purpose."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 fails to provide useful justification for rejecting the trade and repeatedly checks lever information without taking any productive action, indicating very poor information utilization."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Accepts a beneficial trade for raw iron. Demonstrates good understanding of resource conversion and moves closer to goal. Strategic acceptance of a proposed trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Recognizes they have the necessary materials to achieve their target but still proposes a helpful trade offer to Player 1. Demonstrates strategic information use for mutual gain, relationship building."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Recognizes completion of target, offers raw iron for raw copper to maintain relations with other player.  Not directly beneficial to their win condition, but shows understanding of relationship management and some strategic info use."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Repeatedly checks lever information and rejects a reasonable offer without a productive justification or attempt to craft.  Shows low information utilization."
+      }
+    ]
+  }
+]

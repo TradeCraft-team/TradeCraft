@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a mutually beneficial trade. They offered items they didn't need (cherry planks and cobblestone) for items that would help them achieve their goal (raw iron).  They clearly communicated their needs and intentions in the trade proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 readily accepted the trade proposed by Player 2. They acknowledged the mutual benefit of the trade, expressing their need for the offered items.  They also offered further assistance, demonstrating a willingness to cooperate beyond the immediate trade."
+      }
+    ]
+  }
+]

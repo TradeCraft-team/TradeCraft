@@ -1,20 +1,77 @@
-You are an examiner tasked with evaluating whether an agent demonstrates adapte behavior based on their actions. Adaptive behaviour refers to the ability to adjust one's strategy in response to changes in the situation in order to achieve one's goals as far as possible.
+# Evaluation Item: Adaptability
 
-You might be provided with behavioral recordings from a Trade Craft Game, and your job is to determine if the agent appears adaptability.
+You will be provided with two inputs:
+1. **Game Introduction** — This is the game rule introduction. Read it carefully to understand the gameplay and rules.
+2. **Game Log** — This is the actual game log to be evaluated.
 
-Your evaluation should involve identifying and counting the adapte behaviors exhibited by the agent. For each adapte behavior you observe, you must list it along with a clear explanation of why it is considered adaptability.
-Please list all the adapte behaviors you observe, ensuring each behavior is paired with a clear reason. 
+You are asked to evaluate how well the player demonstrates **Adaptability** throughout the game.
+**Adaptability** is the ability to adjust strategies and decisions in response to changing game conditions, including new trades, resources, or partner behaviors.
 
-Please list all adaptability behaviors you observe in the following game scenario, formatted strictly as plain Dict without additional formatting or wrapping. For each behavior, explain why it is considered adaptability. If there are no adaptability behaviors, return an empty Dict object.
+Each turn in the game log begins with the line:
+## 🌀 Turn n start!
+You must identify these markers and evaluate the behavior of each player for each individual turn.
 
-**Example:**
-{
-    "adaptability behavior 1": {
-        "Behavior": "The agent originally focused on synthesizing the 'magic potion' but switched to pursuing the 'crystal amulet' after realizing another player had already gathered most of the potion ingredients.",
-        "Reason": "The agent demonstrated adaptability by quickly shifting goals based on the resource competition, avoiding direct conflict and maximizing their chance of success."
-    },
-    "adaptability behavior 2": {
-        "Behavior": "After several failed trade attempts with one player, the agent started initiating trades with a different player and restructured their message to offer better value.",
-        "Reason": "The agent showed adaptability by recognizing the unproductive interaction and adjusting their negotiation target and communication strategy accordingly."
-    }
-}
+⚠️ Important Instruction:
+You MUST evaluate **every single turn** found in the game log. Do not skip or merge turns. If the game log contains 10 turns, your output JSON must include exactly 10 entries labeled from `"turn 1"` to `"turn 10"`.
+
+Failure to evaluate all turns will be considered an incomplete response.
+
+Please compare **both players** based on the game log. For each player and each turn, assign a **score from 0.0 to 1.0**, where:
+- 1.0 = consistently demonstrated strong and consistent adaptability
+- 0.0 = no signs of adaptability or completely ineffective behavior
+- Intermediate values reflect partial effectiveness
+
+---
+
+Within a turn, you may encounter the following important elements:
+- Player `player_name` (proposer) THINKS: ...
+- Player events (actions taken)
+- Server events (environmental feedback or results)
+
+All these should be used as evidence when scoring.
+
+---
+
+## Game Introduction
+Below here is the  **game introduction**
+{{intro}}
+
+## Game Log
+Below here are the **game logs**
+{{game_log}}
+
+### Output Format (Strict JSON):
+Return a JSON object containing scores and justifications **for each turn** in the game log.
+```json
+[
+  {
+    "turn 1": [
+      {
+        "user": "Alice",
+        "score": 0.85,
+        "justification": "Your explanation here."
+      },
+      {
+        "user": "Bob",
+        "score": 0.60,
+        "justification": "Your explanation here."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Alice",
+        "score": 0.80,
+        "justification": "Another explanation here."
+      },
+      {
+        "user": "Bob",
+        "score": 0.65,
+        "justification": "Another explanation here."
+      }
+    ]
+  }
+]
+```
+Only return the JSON array. Do not include extra explanation or markdown formatting.

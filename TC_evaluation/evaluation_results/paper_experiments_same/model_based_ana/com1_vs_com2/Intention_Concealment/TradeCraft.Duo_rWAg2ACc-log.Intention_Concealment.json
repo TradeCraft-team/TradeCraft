@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully concealed their need for iron by requesting copper, potentially misleading player 1 about their crafting goal. They offered less valuable items in return, maximizing their gain while giving little away."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their interest in wood through their message. While accepting the trade was beneficial, their message gave some insight into their potential crafting goals. However, they didn't fully reveal their specific need for planks to make sticks for a lever."
+      }
+    ]
+  }
+]

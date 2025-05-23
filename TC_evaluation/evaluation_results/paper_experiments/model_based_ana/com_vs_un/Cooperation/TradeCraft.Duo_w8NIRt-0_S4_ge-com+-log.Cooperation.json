@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that benefited both players.  Player 2 needed raw iron and offered items they didn't need. Player 1 needed cobblestone, which Player 2 offered.  The trade was successful and facilitated both players getting closer to their goals. Player 2 clearly stated their needs and offered a reasonable trade."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a mutually beneficial trade.  They correctly identified the value of the cobblestone offered by Player 2 and willingly exchanged their excess raw iron.  They engaged positively in the trade and facilitated a successful exchange."
+      }
+    ]
+  }
+]

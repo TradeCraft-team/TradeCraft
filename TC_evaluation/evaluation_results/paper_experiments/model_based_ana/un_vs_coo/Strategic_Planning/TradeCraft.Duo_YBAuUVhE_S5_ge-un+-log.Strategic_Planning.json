@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates some strategic thinking by identifying their target, checking the recipe, and formulating a trade proposal based on their needs. However, the offered trade wasn't very appealing to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 analyzes player 1's proposal and makes a reasonable decision to reject it based on their own crafting needs.  They recognize their need for raw iron to create their target item and thus correctly saves resources."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes a mutually beneficial trade, offering raw iron for coal. This demonstrates good strategic thinking as it helps both players potentially progress towards their objectives."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 correctly assesses the value of the trade proposed by player 2 and accepts, advancing their goal of crafting a chain."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposes a trade for raw iron and successfully completes it, moving closer to their objective of crafting a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts a reasonable trade and demonstrates strategic thinking by considering player 1's potential goals and the possibility of future trades."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 makes multiple invalid proposals, showing a lack of understanding of game rules. However, their attempts to trade for necessary crafting materials shows strategical intent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to focus on acquiring the resources for their target and makes reasonable trade decisions.  Their rejection is reasoned."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully crafts the chain, demonstrating effective execution of their strategic plan."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 smelts materials but doesn't make significant progress towards their target. They fail to successfully propose trades."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability by analyzing the situation, identifying their need for raw iron, and formulating a trade proposal that offered less valuable items in exchange. They clearly considered their opponent's potential needs and crafted a message designed to make the trade appealing."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapted well by recognizing the value of the trade offered by player 2. They checked the recipe for their target item (lever) and accepted the trade, which provided them with cobblestone necessary for their goal."
+      }
+    ]
+  }
+]

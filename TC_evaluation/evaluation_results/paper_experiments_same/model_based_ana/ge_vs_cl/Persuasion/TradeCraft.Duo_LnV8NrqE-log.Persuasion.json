@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent persuasion in this turn. They crafted a well-reasoned proposal, explaining their needs and offering a fair trade that would benefit both players. They clearly explained why the trade would help them and addressed potential concerns of the other player by assuring them they would still have enough of the requested resource."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not show any persuasion this turn. They rejected the proposal with a brief explanation but did not counter-propose or attempt to negotiate further."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal with a message indicating they didn't need to trade. There was no attempt at persuasion or negotiation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "While rejecting the null proposal, Player 2 used the opportunity to express interest in future trades, specifically mentioning raw iron and inviting Player 1 to propose a counteroffer. This demonstrates good strategic thinking and an attempt to influence future actions."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made a reasonable proposal and explained its benefits to both players. However, they could have been more persuasive by offering more in exchange or better addressing Player 1's needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the proposal without offering any alternatives or attempting to negotiate."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal, stating they didn't need anything, without attempting to engage in a trade or persuade the other player."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null proposal but reiterated their interest in trading for raw iron in the future, continuing to subtly nudge Player 1 towards a beneficial exchange."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 submitted multiple invalid proposals before finally submitting a valid one.  This demonstrates poor planning and understanding of the trading mechanics, and is ineffective persuasion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not have the opportunity to persuade this round, since they were the recipient of an invalid proposal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal indicating they didn't need to trade, with minimal effort at persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null proposal but used the opportunity to express their interest in future trades for raw iron, inviting Player 1 to suggest a counteroffer.  This shows strategic thinking and indirect persuasion."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 offered a trade, but their reasoning wasn't particularly strong.  They mentioned mutual benefit, but didn't clearly explain how the trade would help Player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the offer with a simple statement and did not counter or negotiate."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 made a null proposal, stating they would craft what they needed without attempting any persuasion or trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the null proposal with a polite but generic message, not showing any persuasive effort."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 proposed a trade, but their justification was weak. They mentioned Player 1 could use the offered item, but didn't connect it to Player 1's obvious goal of crafting a stone shovel."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the proposal, briefly stating their need for the requested item but without offering a counter-proposal or negotiating."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal without attempting to trade or persuade Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 simply accepted the null proposal with a polite message, demonstrating no persuasive effort."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offered a trade and explained why it would be helpful to them.  However, their explanation was brief and didn't clearly outline the mutual benefit for Player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade with a brief message and no attempt to negotiate or counter-offer."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal without any attempt at persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the proposal with a polite but generic response.  There was no persuasive element in their communication."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended this turn.  No opportunity for persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended this turn. No opportunity for persuasion."
+      }
+    ]
+  }
+]

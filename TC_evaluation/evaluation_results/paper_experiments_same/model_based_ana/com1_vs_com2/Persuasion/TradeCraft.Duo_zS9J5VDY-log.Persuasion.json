@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 clearly outlined their needs and proposed a reasonable trade, justifying it with a plausible reason.  This persuasive approach led to a successful trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 analyzed the trade proposal and recognized its benefits, explaining their reasoning for acceptance. While they didn't actively persuade, their clear communication facilitated the agreement."
+      }
+    ]
+  }
+]

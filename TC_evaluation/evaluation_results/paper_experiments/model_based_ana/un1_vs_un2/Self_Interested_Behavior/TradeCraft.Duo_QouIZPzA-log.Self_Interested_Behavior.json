@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interest by proposing a trade for raw iron, which they needed for their target. The offer of coal was a reasonable attempt to get what they needed, even if it wasn't successful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade.  They correctly assessed that they didn't need coal at that stage and prioritized their own needs over helping player 1."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 offered an empty trade. Although they stated they didn't need to trade, proposing a null trade wasted a turn, demonstrating ineffective self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 acted in their self-interest by rejecting the null trade. They correctly identified the need to acquire more iron and made a reasonable request, even if it was not fulfilled.  The rejection demonstrates self-interest."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to pursue their self-interest by proposing another trade for raw iron.  They offered a copper ingot, a valuable resource, in exchange. This shows a strong desire to obtain their target, even at a potential cost."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again acted in their self-interest by rejecting the trade, prioritizing their own, albeit incorrect, assessment of needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 finally makes a self-interested trade acquiring the cherry planks they need in exchange for materials that don't directly help their goal. They've prioritized the need to achieve their target over accumulating unnecessary items."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepting the trade is arguably against their self-interest. Although gaining raw iron is important, it might not be the optimal move in the long term if their opponent also needs raw iron for their goal, which could be hinted by their desire to secure cherry planks from player 1. This demonstrates suboptimal prioritization."
+      }
+    ]
+  }
+]

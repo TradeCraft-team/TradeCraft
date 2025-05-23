@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent strategic planning in this turn. They correctly identified the necessary ingredients for their target item (chain), recognized their resource deficit (iron nuggets), and formulated a plan to acquire the necessary raw materials (raw iron) through trade. They offered items they didn't need for their goal (cherry planks, coal, cobblestone) to their opponent in exchange for the raw iron. This demonstrates a clear understanding of resource management and prioritization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also showed good strategic thinking.  They considered their own goal (stone shovel), evaluated the proposed trade in light of their needs (cobblestone, sticks), and correctly identified that accepting the trade would advance their progress while helping their opponent. While their initial crafting attempts were invalid due to fractional resource requirements, the thought processes were correct."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 clearly stated their need for iron ingots in their messages to Player 2, revealing their intention to craft a bucket.  While they attempted to frame the trades as mutually beneficial, their focus on acquiring iron ingots was very transparent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 explored Player 1's potential crafting goals by checking the recipe for iron ingots, but did not explicitly reveal their own need for planks or cobblestone to make a stone shovel. Their acceptance of the trade, along with a helpful message, masked their own immediate crafting plans."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to reveal their need for iron ingots and a bucket.  Their thought processes and proposed trades make it very clear what they are trying to craft."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 offered raw iron to Player 1, which could be interpreted as a genuine attempt to help, further concealing their own need for sticks and planks.  They didn't reveal their intention to craft a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's request for coal, combined with their previous statements about needing iron ingots, makes their intention to craft a bucket extremely obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade for coal, masking their potential need for it in future crafting. While their thoughts indicate a focus on the stone shovel, their actions don't clearly reveal this to Player 1."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent adaptability by identifying their need for raw iron, recognizing their opponent's surplus, and proposing a mutually beneficial trade involving coal. They also checked crafting recipes to confirm their strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also adapted well, recognizing the value of the coal offered by player 1 and accepting the trade to further their own crafting goals. They checked the lever recipe to ensure the trade aligned with their needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a beneficial trade, getting raw iron for cobblestone. Showed understanding of the value of resources and the importance of getting key ingredients for the target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted their strategy. Realized that they could craft sticks themselves and shifted the proposal to trade raw iron for cobblestone, which shows strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade of raw materials for a processed material (copper ingot).  Showed adaptability and resourcefulness."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly assessed the value of raw materials and how the proposed trade would benefit both players. Showed understanding of game dynamics and cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Recognized and accepted a beneficial trade, further demonstrating resource management skills."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Offered a helpful trade and correctly identified the value of giving raw materials to player 1."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Submitted multiple invalid proposals, indicating a lack of understanding of game rules or inability to adapt to server feedback. The repeated formatting issues show a significant weakness in proposal generation and did not adjust to server error messages"
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "No actions taken this turn.  No opportunity to display adaptability."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Recognized the potential benefit of balancing resources and accepted a trade to even out materials, despite the uncertainty of its effect on crafting progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Proposed a balanced trade and accurately assessed the resource needs of both players."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Attempted to diversify materials and offered a fair trade based on the imbalance of resources between players."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Recognized the value of balancing materials and accepted the trade."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Rejected a proposed trade after considering its strategic implications. Demonstrated a good understanding of the relative value of different materials for crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Offered a reasonable trade, demonstrating continued cooperative behavior and understanding of the game's dynamics."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Recognized the need for more copper and offered a fair trade, balancing the materials effectively for their use."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Accepted a trade that aligned with their overall resource balancing strategy."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Carefully considered the trade offer and rejected it based on their current needs and the uncertainty of their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Continued to attempt beneficial trades, showcasing consistent adaptability and cooperative gameplay."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Proposed a relevant trade based on current inventory analysis and crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Accepted a trade that is beneficial given the resources situation and the potential gains of another iron ingot for their needs."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Made a strategic decision to reject a trade offer after considering its value relative to their limited iron ingot supply."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Continued to make reasonable trade proposals, demonstrating adaptability by continuing to seek mutually beneficial trades."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, so no actions or adaptability were demonstrated in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, so no actions or adaptability were demonstrated in this turn."
+      }
+    ]
+  }
+]

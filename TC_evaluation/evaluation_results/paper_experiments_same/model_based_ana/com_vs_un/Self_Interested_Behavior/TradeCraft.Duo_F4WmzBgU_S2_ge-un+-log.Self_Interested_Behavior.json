@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 consistently pursued their self-interest by attempting to trade for iron ingots, a key component of their target item (bucket). Although their initial proposals were invalid due to formatting issues or not adhering to the game rules, they adjusted their requests strategically to increase their chances of a successful trade. They also checked the recipe for their target item, showcasing a focus on maximizing their own chances of winning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's actions in turn 1 were mostly reactive. They accepted a null trade from player 1, which didn't directly benefit or harm them. Their primary focus seemed to be understanding the game mechanics and checking item information, rather than actively pursuing their own target item (stone shovel).  While they considered the implications of the trade, the lack of initiative towards self-benefit results in a lower score."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 acted in their self-interest by accepting a trade that provided them with raw iron, which is required to make their target. Their reasoning for accepting the trade demonstrates a clear understanding of their goal and how to achieve it. Player 1 made no counter offers or attempts to get more than was offered, and instead accepted the first deal on the table which is not entirely maximizing their returns.  However their reasoning showed they still thought this action was beneficial for them."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 made a strategic move in turn 2 that served their self-interest by initiating a trade with player 1. They successfully disguised their true goal by proposing a trade for coal while mentioning an intention of crafting iron tools, when in fact, they need sticks for their actual target item (stone shovel).  The successful execution and deception behind the trade demonstrate a high level of self-interested behavior, making it a strategically strong turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to prioritize their own needs by trading for iron ingots, bringing them closer to their goal of crafting a compass.  Offering raw copper, a resource they don't immediately need, for the essential iron ingots is a clear example of self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interest by accepting the trade, gaining raw copper while recognizing the potential risk of player 1 crafting a compass.  The decision to accept despite the potential negative impact on their own game indicates a focus on immediate personal gain."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that benefitted them by acquiring raw copper, a material potentially useful for crafting other items. Although their target is an iron pickaxe, the decision to accept raw copper shows a willingness to adapt and consider alternative crafting strategies, ultimately maximizing their chances of winning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's primary motivation in this turn was to prevent player 1 from gathering additional resources towards their suspected target (compass).  Offering raw copper in exchange for raw iron is a strategic move to hinder player 1's progress while potentially gaining a resource that can be smelted. This demonstrates a good level of self-interested behavior by attempting to slow down the competition."
+      }
+    ]
+  }
+]

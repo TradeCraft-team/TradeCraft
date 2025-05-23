@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some strategic thinking by identifying the need for iron ingots and attempting to trade for them. However, the initial proposals were invalid, showing a lack of understanding of the trading rules.  The eventual proposal to trade coal for raw iron was more reasonable, showing adaptation and resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed good strategic thinking by analyzing their own needs and the opponent's potential goals.  They correctly identified that trading raw iron for coal would not benefit them and could help the opponent, so they rejected the trade. They also considered the opponent's potential strategy. However, their crafting attempts were unsuccessful due to incorrect recipes."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 recognized the need for a stick and attempted to trade for an iron ingot, but the proposed trade was not strategically sound. They continued to fail in crafting attempts due to using invalid recipes, hindering progress toward their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 continued to analyze the situation and explored different crafting and trading options. They recognized the need for iron and considered potential crafting strategies.  However, no concrete action was taken towards achieving their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully traded for the necessary raw iron and proceeded to craft the target item. They demonstrated efficient resource management and strategic execution. The trading was successful, and the crafting attempts were efficient and effective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 accepted a trade that did not benefit their own goal and provided the opponent with the resources needed to win. Continued failed crafting attempts with invalid recipes.  Missed the opportunity to craft the needed stick, and lost the game as a result."
+      }
+    ]
+  }
+]

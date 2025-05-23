@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 correctly identified the need for iron and offered a relevant trade for raw iron, demonstrating good adaptability to their initial hand and the opponent's resources. They correctly used the item info tool to understand crafting requirements."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 analyzed the trade proposal and recognized its benefit, accepting the coal to facilitate smelting raw iron later. They also showed awareness of the opponent's potential need for iron ingots."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 failed to adapt their crafting strategy. Despite having raw iron and coal, they repeatedly submitted invalid crafting recipes.  They also rejected a reasonable trade offer."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 identified the missing resource (planks) for their target and formulated a plan to acquire it through trading next turn. However, they didn't craft anything this turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 adapted their strategy by offering a different trade (cobblestone for coal), showing some flexibility in their approach. They correctly identified the need for fuel."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly assessed the trade proposal and rejected it as it didn't benefit their goal. They maintained focus on acquiring the necessary planks for their stone_shovel."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognized they had the necessary resources to craft their target and prioritized doing so, demonstrating effective adaptation to the game state. They showed awareness of the opponent's actions and considered their implications."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 failed to craft sticks despite having the necessary resources (oak planks) and formulated a plan to trade, but this would be helpful only if the plan succeeds and the opponent offers the necessary item."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 continued to adapt their trading strategy, trying different offers.  However, they also made invalid proposals, showing a lack of understanding of trading rules. Eventually, after several rejections, they proposed a reasonable trade and correctly assessed the game situation in terms of resources in hand and the opponent's likely target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 recognized that the opponent likely needed iron ingots and avoided helping them by rejecting the trade. They also correctly analyzed the situation and prioritized crafting."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade offer, recognizing that it wouldn't significantly benefit their goal. They continued to prioritize acquiring iron ingots."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's plan to craft the shovel was hindered by their lack of planks. They have been consistently unable to craft sticks due to insufficient planks, which shows a lack of adaptability to acquire necessary materials, even through trade."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to pursue trades for iron ingots, adapting their offer to include different resources based on the opponent's behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly assessed the trade proposal and rejected it to prevent the opponent from progressing. They continued to plan their crafting moves."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully crafted their target item, demonstrating excellent adaptability by securing necessary resources and executing the correct crafting steps.  They rejected a disadvantageous trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 was unable to adapt and acquire the necessary planks or sticks to complete their target. They continued to propose disadvantageous trades."
+      }
+    ]
+  }
+]

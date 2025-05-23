@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to conceal their need for iron by offering seemingly less valuable items in exchange. However, the request for raw iron partially reveals their intention to craft something requiring iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance of the trade and the subsequent crafting of a stone shovel suggests their need for cobblestone, but doesn't fully reveal their overall strategy or target item."
+      }
+    ]
+  }
+]

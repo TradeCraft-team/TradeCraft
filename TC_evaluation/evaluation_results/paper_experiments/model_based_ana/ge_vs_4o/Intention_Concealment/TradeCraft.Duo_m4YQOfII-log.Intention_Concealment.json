@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 explicitly stated their crafting intention (shears) in their trade proposal message."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 avoided revealing their true intentions. While their thoughts mention needing coal and sticks for a torch, these are generic crafting components and don't definitively point to their target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 only revealed their need for iron ingots, a common component, without mentioning shears."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal and message suggest a need for coal, a common crafting ingredient.  Although they mention it could help \"both of us\", this does not necessarily indicate player 1 needs it for the shears, keeping some level of concealment to the true target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 again explicitly mentioned shears in their trade proposal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 continued to conceal their intentions while exploring ways to acquire coal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 didn't explicitly reveal their intention, their acceptance of raw iron strongly implies a need for iron-based items."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal and message suggest a need for fuel (cherry planks), which is common and keeps some concealment of their true target. However, offering iron for planks is not a very logical proposal, and it can raise some suspicion."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal hints at needing iron but doesn't directly reveal the need for shears, keeping some level of concealment to the true target."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 effectively concealed their need for coal by rejecting the trade and not offering any revealing proposals."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected Player 2's trade without disclosing their target."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal indirectly suggests a potential need for copper, keeping some level of concealment to the true target."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 revealed their intention (shears) in their trade proposal message."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintained concealment by rejecting Player 1's offer without giving away their own goal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's acceptance of the iron nuggets indicates a need for iron. Although this does not reveal the specific goal of shears."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 made an ambiguous offer, proposing a trade for a common resource."
+      }
+    ]
+  }
+]

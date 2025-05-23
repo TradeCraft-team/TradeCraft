@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 explicitly stated their need for raw iron to make a bucket in their proposal message, partially revealing their intention."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted rationally by accepting a beneficial trade, and didn't reveal any specific crafting goals."
+      }
+    ]
+  }
+]

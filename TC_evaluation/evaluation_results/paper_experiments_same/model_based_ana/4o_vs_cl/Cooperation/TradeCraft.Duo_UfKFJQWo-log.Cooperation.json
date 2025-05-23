@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated some cooperative behavior by proposing a trade, even though they could craft their target item themselves. The trade offer of coal for raw iron seemed reasonable for what each player needed but was ultimately rejected by Player 1."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's trade proposal without a clear reason. This doesn't show any cooperative intention as they did not attempt to find a mutually beneficial exchange. Although they tried to consider Player 2's needs, they ultimately prioritized not allowing Player 2 to get the necessary resources."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a highly cooperative trade, offering raw iron for cherry planks. This trade directly benefited both players, as Player 1 needed the planks for crafting sticks and Player 2 could use the raw iron to craft their target item (chain). The proposal and message were clear and demonstrated an understanding of both players' needs. This directly lead to Player 1 winning the game."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the trade proposal, which was beneficial for them to craft the chain.  They analyzed the trade and recognized its mutual benefit, contributing significantly to the overall cooperative nature of the turn.  Their acceptance allowed both players to progress towards their goals."
+      }
+    ]
+  }
+]

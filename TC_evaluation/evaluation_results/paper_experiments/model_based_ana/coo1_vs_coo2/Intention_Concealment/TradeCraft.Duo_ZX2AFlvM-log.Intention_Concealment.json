@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 explicitly reveals their intention to craft a chain in their proposal message. While offering coal for raw iron makes logical sense for both players, the directness of the communication gives away their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's acceptance message, while friendly, maintains ambiguity. They acknowledge the coal's use for smelting but don't reveal their specific crafting target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 reveals their plan to craft sticks for a lever in their proposal. While not a complete giveaway of their target, it narrows down the possibilities significantly."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the trade but doesn't reveal their reasoning or intentions. Their internal thoughts show a strategic consideration of the trade, but their external communication remains veiled."
+      }
+    ]
+  }
+]

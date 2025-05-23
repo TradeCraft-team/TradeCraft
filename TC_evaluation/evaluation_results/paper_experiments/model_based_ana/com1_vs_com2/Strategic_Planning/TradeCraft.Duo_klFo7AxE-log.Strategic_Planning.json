@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by identifying their need for iron ingots to craft a bucket, recognizing that their opponent had a surplus of raw iron, and formulating a trade proposal to acquire the necessary resources.  They offered less valuable items (coal and planks) in exchange for the raw iron, demonstrating an understanding of resource management and prioritization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also showed strategic thinking by correctly assessing the value of the trade proposal. They recognized the utility of the offered planks for crafting sticks, a component of their target item (stone_shovel), and the potential future use of coal.  Accepting the trade allowed them to acquire necessary resources without sacrificing essential materials."
+      }
+    ]
+  }
+]

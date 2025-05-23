@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 clearly stated their needs and offered a reasonable trade.  The accompanying message was polite and persuasive."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 considered the trade proposal and recognized its benefits, leading to acceptance. While they didn't actively negotiate, their acceptance demonstrates a positive response to persuasion."
+      }
+    ]
+  }
+]

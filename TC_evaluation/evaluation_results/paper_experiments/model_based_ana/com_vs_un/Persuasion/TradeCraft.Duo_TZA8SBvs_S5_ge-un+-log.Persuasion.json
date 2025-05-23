@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to persuade player 2 to trade, but their initial proposals were invalid.  They eventually made a valid proposal, offering coal for raw iron, and provided a reasonable justification. However, the persuasion was ultimately unsuccessful as player 2 rejected the offer."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 demonstrated some persuasion by clearly explaining their reason for rejecting the trade offer, stating their current needs and lack of use for coal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 made a proposal offering oak planks for an iron ingot, but the justification wasn't very persuasive. They simply stated they had \"extra\" oak planks, without explaining why player 1 would need them."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 gave a brief justification for rejecting the offer, stating they needed the iron ingot for crafting.  This was a sufficient explanation, but not particularly persuasive."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully persuaded player 2 to trade a copper ingot for raw iron. They offered a clear and simple proposal, and it was accepted."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 provided minimal justification for accepting the trade."
+      }
+    ]
+  }
+]

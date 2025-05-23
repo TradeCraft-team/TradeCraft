@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 adapted their strategy by recognizing they needed more raw iron and successfully traded for it."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly identified the benefit of the trade and accepted, demonstrating adaptability to available resources."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a beneficial trade, adapting to the offer and furthering their progress towards crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed a trade that would benefit both players, demonstrating adaptability to their needs and those of their opponent."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade that made sense given their resources, showing an attempt to adapt to the current game state. However, it did not result in significant progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, showing a willingness to adapt to the proposed exchange. However, the benefit wasn't immediate or clear."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the value of the trade and its potential impact on crafting the bucket. They accepted the proposal, adapting their resources accordingly."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a proposal to help both players while improving their own resource balance. This shows strong adaptability and collaborative play."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submitted multiple invalid proposals due to formatting issues, demonstrating a lack of adaptability in correcting mistakes and an inability to navigate the game mechanics effectively."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not take any adaptive actions this turn as their partner's actions were invalid."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognized the potential of a balanced inventory.  They adapted their inventory by accepting the proposed trade, showing adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 identified a mutually beneficial trade and initiated it, displaying adaptability by recognizing the potential for improvement in both player's inventories."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 assessed their resources and those of their opponent to propose a trade that could improve their inventory balance. This demonstrates good adaptability to the game state."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a reasonable trade, demonstrating adaptability by responding positively to the proposed exchange."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a strategic decision to reject the trade, demonstrating an understanding of their needs and adaptation to their current progress toward their crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to make a reasonable trade, showing adaptability and game awareness. Although the proposal was rejected, the attempt itself demonstrated flexible thinking."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a trade that strategically benefited them by attempting to acquire more copper. This demonstrates proactive adaptation to their crafting needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade for an iron ingot, demonstrating adaptability by making a choice consistent with the cooperative strategy and potential benefits for crafting."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 carefully considered the trade and decided to keep the iron ingot based on current strategy. They adapt their actions based on available information and potential uses."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade that had the potential to be beneficial to both players, and asked for player 1's input about their goals demonstrating strategic adaptability."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a trade that clearly benefits their crafting goals. This shows a proactive attempt to adapt and gather necessary resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 analyzed the current game state and made a strategic decision to accept the trade, which demonstrates adaptability."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 evaluates the proposed trade in the context of their unknown crafting needs. They reject the trade because it doesn't improve their situation due to resource constraints."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes a trade based on observation of the other player's resources, demonstrating an attempt to adapt to the game state and cooperate by offering a potentially useful item."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, so no adaptability was demonstrated in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, so no adaptability was demonstrated in this turn."
+      }
+    ]
+  }
+]

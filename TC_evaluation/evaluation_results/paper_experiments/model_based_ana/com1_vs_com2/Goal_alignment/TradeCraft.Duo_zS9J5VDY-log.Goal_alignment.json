@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated perfect goal alignment. They correctly identified the resources needed for their target (bucket), formulated a plan to acquire the missing resources (raw iron) through trade, and executed that plan effectively. Their thinking and actions were entirely consistent with their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also demonstrated perfect goal alignment. They analyzed the proposed trade in the context of their target (stone_shovel), recognized the benefits of acquiring planks and cobblestone for crafting sticks, and accepted the trade accordingly. They then proceeded to craft the necessary intermediate items (sticks) and ultimately achieved their target. All their actions were directly related to their goal."
+      }
+    ]
+  }
+]

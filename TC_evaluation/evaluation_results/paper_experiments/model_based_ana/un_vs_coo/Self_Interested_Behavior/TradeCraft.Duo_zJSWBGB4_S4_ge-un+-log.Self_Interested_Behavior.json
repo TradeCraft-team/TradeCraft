@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in a self-interested manner by trading items they didn't need (cherry planks, coal, cobblestone) for raw iron, which is essential for crafting their target item (chain). They correctly identified the necessary ingredients for their target and formulated a trade proposal to acquire them. Although they didn't successfully craft anything this turn, their actions were strategically aligned with their personal goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 also exhibited some self-interest. While the trade benefited both players, Player 2 primarily accepted because the offered items (cobblestone and planks) were useful for crafting their target item (stone shovel). They prioritized their own crafting progression by accepting the trade, which allowed them to quickly craft their needed items and achieve their goal. They also tried to appear cooperative, but their primary motivation was to acquire the materials they needed to win the game."
+      }
+    ]
+  }
+]

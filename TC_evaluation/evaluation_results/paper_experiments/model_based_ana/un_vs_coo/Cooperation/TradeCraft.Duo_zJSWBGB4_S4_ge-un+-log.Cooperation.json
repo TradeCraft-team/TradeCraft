@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 initiated a trade that benefited both players. They offered resources they didn't need for resources that would help them progress towards their goal.  They also clearly communicated their intentions in the trade proposal message."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized the mutually beneficial nature of the trade and accepted it. Their response message indicated an understanding of Player 1's needs and a willingness to cooperate further."
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted strategically by offering coal for raw iron, benefiting both players while prioritizing their own need for iron to craft a bucket. They also sought information about Player 1's goal, indicating an awareness of the potential for collaboration but primarily focused on their own objective."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade, demonstrating some self-interest by acquiring coal, but also showing cooperative behavior by sharing their target item and prioritizing trust-building over immediate personal gain."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 initiated a trade proposal offering nothing and requesting nothing, primarily seeking information and demonstrating cooperative behavior.  They expressed willingness to help player 2, further emphasizing their cooperative approach over self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2, while sharing their target item, directly requested iron ingots from Player 1, demonstrating a focus on their own goal of crafting a bucket.  While participating in the cooperative exchange of information, their primary motivation appears to be acquiring the necessary resources for their own target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed a trade clearly focused on acquiring the raw iron they needed to complete their bucket, offering raw copper in return. They also inquired if Player 1 needed anything else, indicating a superficial attempt at cooperation while prioritizing their own goal.  This demonstrates strong self-interested behavior masked with a cooperative overture."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 accepted the trade, primarily motivated by helping Player 2 achieve their goal. They acknowledged not needing the raw copper, indicating a cooperative approach rather than maximizing personal gain."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 offered surplus resources to Player 2, demonstrating cooperative behavior. Although this doesn't directly advance their own goal, it fosters a positive game environment and removes unnecessary items from their inventory."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the coal and raw copper from Player 1, demonstrating self-interest by acquiring resources that could be beneficial, even though raw copper is not immediately needed. This acceptance while focusing on their own crafting plan highlights their primary focus on personal gain."
+      }
+    ]
+  }
+]

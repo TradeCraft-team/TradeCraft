@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a mutually beneficial trade, offering coal and copper for raw iron. This helped player 1 smelt iron and player 2 get closer to crafting a chain. The trade was well-explained and facilitated cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutual benefit of the trade and accepted it willingly, expressing a desire to work together."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade, offering raw copper for an iron ingot. While the trade was accepted, it could be seen as slightly less cooperative as player 1 already had the resources to craft their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the trade, even though it wasn't immediately beneficial, showing a willingness to cooperate and help Player 1."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade of raw iron for coal, benefiting both players."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the value of the trade for Player 2 and accepted, prioritizing cooperation despite not needing the raw iron."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a trade of raw iron for cobblestone. This trade was beneficial for player 1, as it provided a material needed for their target item. However, it is slightly less cooperative as it offered readily available material (raw iron) in exchange for a more difficult to obtain resource (cobblestone)."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the trade, recognizing its benefit to player 1 and furthering the cooperative environment."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade of raw iron for raw copper, which was mutually beneficial and demonstrated continued cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the benefit of the trade for both players and willingly accepted."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 made several invalid proposals that were unhelpful in achieving a cooperative outcome. The final proposal, offering raw iron for nothing, while seemingly generous, did not directly contribute to either player achieving their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the raw iron offered by Player 1, acknowledging their generosity."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade of raw materials for cobblestone, demonstrating continued cooperation. While beneficial to Player 2, trading more readily available materials for a less common one like cobblestone is slightly less cooperative."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade, even though it meant trading away a needed resource, showing a willingness to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 attempted an invalid trade initially. The subsequent proposal to trade raw iron for cobblestone, though accepted, was a slightly less cooperative move considering player 1's need for cobblestone and relative abundance of raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the trade from Player 1, again facilitating cooperation and showing a focus on player 1's crafting needs."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a beneficial trade for both players, swapping raw materials to allow both to smelt ingots."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 readily accepted the mutually beneficial trade proposed by Player 2."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 made an invalid proposal and then offered a raw iron for free. While generous, it was less impactful than a targeted, relevant trade would have been."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted Player 1's offer of raw iron."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade of raw copper for an iron ingot, showing continued attempts at resource management through trade. While accepted, the trade benefited Player 2 more than it did Player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade despite the fact that it didn't directly advance their personal crafting goals, which demonstrates a cooperative approach."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 offered raw iron for free. This act of generosity towards Player 2 displays a cooperative spirit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the raw iron and thanked Player 1."
+      }
+    ]
+  }
+]

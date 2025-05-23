@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 disguised their need for iron by emphasizing the benefit to Player 1 of smelting their raw iron. They offered a seemingly helpful trade while acquiring raw iron for their chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance and message didn't conceal their need for coal to make a lever, as their plentiful raw iron suggests this intent."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 reveals their intention to craft a lever by requesting an iron ingot and mentioning the lever. Although they already possess the necessary components, their request partially conceals their immediate crafting capability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the trade, feigning a need for iron ingots while subtly assessing Player 1's true intentions."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offers a seemingly mutually beneficial trade of raw iron for coal, partially concealing their primary need for fuel to smelt their own materials."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's acceptance and explanation reveal their lesser need for coal, hinting at their possession of other means to achieve their objective."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 reveals their need for cobblestone to craft a lever, making their intentions fairly clear."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's acceptance and well wishes maintain some ambiguity, not revealing their specific crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal disguises their need for raw copper for the chain by suggesting it's just \"extra\" material, increasing their copper holdings subtly."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's acceptance and encouragement don't fully conceal their awareness of Player 2's likely goal, but the trade itself isn't a direct giveaway."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 makes multiple invalid proposals, revealing a need for sticks for the lever and exposing crafting attempts."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 benefits passively from Player 1's failed proposals and maintains full concealment of their own intentions."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 uses a vague justification (\"extra materials\") for the trade, partially concealing their aim to gather resources for the chain.  Requesting cobblestone hints at needing it for something, but not necessarily the chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance and simple message doesn't reveal much about their intentions."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's invalid proposal and subsequent explanation clearly reveal their need for cobblestone for a lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts a beneficial trade while maintaining ambiguity about their own crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a seemingly mutually beneficial trade, partially concealing their intent to acquire copper for the chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepts the trade, but their thoughts reveal their awareness of Player 2's possible need for copper, partially giving away their deduction."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's invalid proposal and subsequent offer of raw iron reveal their need for a stick to make a lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains excellent intention concealment throughout the turn, accepting the raw iron while internally planning to smelt and craft the chain."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially reveals their pursuit of a chain by offering raw copper for an iron ingot. However, their true need for two iron ingots for the chain remains hidden."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepts the trade, their stated reason being to help Player 2. Their internal thoughts reveal their awareness of the potential chain strategy, but their actions do not reveal their own plans."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's offer of raw iron and request for sticks reveals their pursuit of a lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts Player 1's offer and maintains complete concealment of their own intentions.  Their internal thoughts reveal their correct understanding of the components needed for the chain and their ability to craft it this turn."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends; no actions or concealed intentions to evaluate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends; no actions or concealed intentions to evaluate."
+      }
+    ]
+  }
+]

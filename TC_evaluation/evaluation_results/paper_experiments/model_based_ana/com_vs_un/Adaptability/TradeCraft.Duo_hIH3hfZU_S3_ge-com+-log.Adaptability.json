@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 adapted their strategy by identifying the need for raw iron and successfully trading for it. They correctly assessed their own needs and the potential value of the trade for their opponent, demonstrating excellent adaptability."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent adaptability by recognizing the value of the proposed trade. They correctly assessed their need for planks and were willing to exchange excess raw iron.  They also recognized the potential crafting goals of player 2 based on the requested items."
+      }
+    ]
+  }
+]

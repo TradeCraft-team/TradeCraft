@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated good information utilization. They correctly identified their need for iron ingots to craft a bucket and recognized that Player 2 had a source of raw iron. They formulated a reasonable trade proposal offering coal and cobblestone for raw iron, demonstrating an understanding of the game mechanics and the potential needs of the other player. Although their initial proposal was rejected, they continued to analyze the situation and consider alternative strategies.  They correctly checked for possible recipes they could craft and identified useful information. However, they did not effectively follow through with a revised trade proposal in this turn, which slightly lowers their score."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2's information utilization was poor in this turn. While they correctly identified their need for a stick and lever, and also recognized they had the resources to craft them, they spent the entire turn attempting incorrect recipes. They repeatedly failed to craft a stick from planks, despite checking item info multiple times and also having access to possible recipes. They did not demonstrate a good understanding of the crafting mechanics, and their repeated failed attempts indicate ineffective use of available information."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good information utilization in this turn. They carefully analyzed the trade proposal from Player 2, considering the value of raw copper in relation to their goal of crafting a bucket. They correctly determined that raw copper wasn't directly useful for their objective, but recognized the potential benefit of smelting it into a copper ingot for future trades. Accepting the trade, even though it wasn't immediately beneficial, showed an understanding of long-term strategy and relationship building.  They also continued to plan their next steps, formulating a strategy to trade for the iron they needed.  Checking the bucket recipe further solidified their plan."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed improved information utilization in this turn. After obtaining cherry planks in the trade, they successfully crafted sticks. While they initially attempted an incorrect recipe, they eventually checked possible recipes and identified the correct method. They used this information to create the sticks, demonstrating a better understanding of game mechanics compared to the previous turn.  Crafting the lever was a direct result of their successful crafting of sticks, further demonstrating improved use of information. Successfully obtaining the target item demonstrates effective strategy throughout the game."
+      }
+    ]
+  }
+]

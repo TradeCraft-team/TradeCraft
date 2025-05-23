@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 formulated and executed a clear plan. They identified the resources needed for their target (shears), proposed a trade to obtain necessary materials (raw iron), correctly smelted the raw iron into ingots, and finally crafted the shears.  Each action taken was a step in their overall strategic plan, which they successfully completed this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated some strategic thinking by accepting a trade that could benefit their long-term goal of crafting a torch. They correctly identified the need for coal and considered that the current trade might lead to a future opportunity to acquire it. However, their crafting attempts were unsuccessful due to an invalid recipe, indicating a flaw in their execution.  Although they had a plan in mind, the unsuccessful crafting attempt lowers their score slightly."
+      }
+    ]
+  }
+]

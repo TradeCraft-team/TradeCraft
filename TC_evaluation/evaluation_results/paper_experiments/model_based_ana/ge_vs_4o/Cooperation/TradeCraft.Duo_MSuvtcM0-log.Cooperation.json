@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to cooperate by offering coal in exchange for iron ingots or raw iron. However, their initial proposals were invalid.  While they eventually made a valid proposal, it was rejected by Player 2.  The attempts, while well-intentioned, were ultimately ineffective."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not engage in any cooperative behavior during this turn. They rejected Player 1's trade proposal without providing a constructive reason.  This lack of engagement hindered the potential for mutual benefit."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted Player 2's proposed trade, demonstrating a willingness to cooperate even though the trade wasn't directly beneficial to their main goal. They also considered Player 2's needs and tried to offer something valuable in return."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade with Player 1, offering raw copper for cherry planks. This proactive proposal fostered cooperation and facilitated a successful trade. The trade was mutually beneficial, as Player 2 acquired needed materials, and Player 1 received resources they could potentially use for future trades."
+      }
+    ]
+  }
+]

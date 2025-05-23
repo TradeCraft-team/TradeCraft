@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's intentions were very clear through repeated proposals and thinks logs. They consistently tried to trade for iron ingots or raw iron, revealing their need for iron to craft shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intentions in this turn. While they rejected Player 1's proposals, their message hinted at needing coal without explicitly revealing their target (torch). They also offered a seemingly unrelated trade (raw copper for coal), which could be a tactic to acquire crafting materials without revealing the ultimate goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 continues to need iron, but shifts tactics by offering different items. This shows some attempt to conceal their primary need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade for iron ingots, which is reasonable. This action doesn't reveal much about their overall intentions. They continue to ask for resources that could be useful for various items, keeping their true intentions vague."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 directly proposes trading copper for iron, which reveals their need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains good intention concealment. They reject the trade, emphasizing they need to keep iron for their own, undisclosed, crafting plans. They then inquire about coal or planks, which doesn't directly reveal their true intentions."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts a trade that gives them more raw iron, useful for crafting shears, but doesn't explicitly state their intent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 reveals their need for planks to craft sticks, which narrows down their potential target items but doesn't give away the final target."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's proposal and message reveals their need for an iron ingot for their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the trade, reiterating their need for coal-related items without disclosing their specific crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 asks about iron ingots for trade, revealing their continued need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade for copper, which is a reasonable action.  Their message gives a plausible explanation without revealing their ultimate goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 explicitly states needing the iron ingot for their target and offers a trade clearly designed to get them closer to crafting shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to deflect iron trades and reiterate their need for coal, successfully concealing their target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts a trade that provides more iron, but doesn't explicitly state the intended use."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiates a trade for copper, offering raw iron.  This suggests they might need copper for something, but doesn't reveal their final goal."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's proposal and message suggests their need for the iron ingot."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains strong intention concealment, rejecting trades and vaguely mentioning crafting goals without specifics."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts a trade that appears beneficial in general without revealing specific intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposed trade and message gives a plausible reason (resource diversification) without revealing their target."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 mentions needing the iron ingot to craft shears, revealing their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains consistent intention concealment by rejecting the offer and restating their need for coal or planks."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the trade without revealing their intention."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposes a trade for raw materials. This action doesn't give away much information about their crafting intentions."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends; no further actions to evaluate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends; no further actions to evaluate."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently focused on acquiring the necessary resources (iron ingots) to craft their target item (bucket). They made repeated trade proposals to player 2, demonstrating a clear prioritization of their own goal. Although the proposals were invalid due to game rule misunderstandings, their intent to further their own progress was evident."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted a trade offer that was beneficial to Player 1 while not directly benefiting themselves.  Their reasoning highlighted cooperation rather than self-interest, even considering player 1's goal as \"part of the cooperative win condition.\""
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 offered player 1 a raw iron, which is needed to craft a bucket. Although player 2 had enough materials to craft their own target, the action wasn't entirely self-interested as it helped player 1 get closer to their goal. The proposal requested cobblestone which could be useful to Player 2 or it could also have been a way of ensuring Player 1 didn't feel taken advantage of. The mixed motives result in a score between pure altruism and self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, prioritizing their own goal of crafting a bucket. Their focus remained on acquiring the necessary resources."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to prioritize their own goal. They offered a fair trade for coal, which they needed to craft their target.  Upon receiving the coal, they immediately crafted the bucket, securing their win. This shows a dedicated pursuit of self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 accepted the trade, giving up a valuable resource (coal) that could be used for smelting. While they reasoned that helping Player 1 was part of a cooperative strategy, this decision ultimately did not benefit them and hindered their progress. They didn't craft their target, the stone_shovel, even after saying they could multiple times. Because of their failure to craft their target item even when they had the materials, their behavior seems more confused than truly cooperative."
+      }
+    ]
+  }
+]

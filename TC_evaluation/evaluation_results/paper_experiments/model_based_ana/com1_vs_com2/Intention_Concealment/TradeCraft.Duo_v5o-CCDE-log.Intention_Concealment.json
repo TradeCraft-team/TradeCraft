@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 partially concealed their intentions. While they stated a desire to craft tools, this could imply various items.  Requesting raw iron hints at needing iron ingots, but the specific tool remains unclear. The offer of less valuable items makes the trade seem balanced, further obscuring their true goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intentions. They accepted the trade, providing a plausible reason (needing planks for sticks) without revealing their specific target item (lever).  Their thoughts reveal a deeper strategy, but their outward actions don't betray their goal."
+      }
+    ]
+  }
+]

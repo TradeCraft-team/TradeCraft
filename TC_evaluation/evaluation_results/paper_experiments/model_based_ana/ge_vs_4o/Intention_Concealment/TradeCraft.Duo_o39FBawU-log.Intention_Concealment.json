@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.5,
+        "justification": "Player 2's initial proposal and item checks partially reveal an interest in iron-related items, hinting at their target.  While not a direct giveaway, it narrows down the possibilities for their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively conceals their intentions. Their rejection message is polite but doesn't reveal their true need for cobblestone or sticks.  Their internal thoughts show strategic thinking, but these are hidden from the opponent."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's proposal directly reveals their need for cobblestone, heavily hinting at their intention to craft a stone shovel."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintains some concealment by rejecting the offer, not explicitly revealing why they don't want to trade cobblestone. While their thoughts reveal a focus on chain and iron, this information isn't shared with player 1."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiates a trade that offers cobblestone for raw iron. This is a strategic move that could either benefit their own crafting goals or throw off Player 1. It maintains a level of ambiguity about their intentions. The request for raw iron hints at needing it for a crafting recipe, but doesn't fully reveal their plans. They are getting closer to crafting the chain but do not completely reveal their strategy by asking for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepts a trade for cobblestone, which, combined with their previous turn's proposal, clearly signals their need for this item to craft a stone shovel. Their justification for accepting the trade further reinforces this."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to cooperate by offering coal for raw iron. Although the trade was rejected, the offer showed consideration for a mutually beneficial exchange.  The attempt to gather information demonstrates initiative towards crafting their target item."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the trade offer without a valid justification, hindering potential cooperation. They also did not craft anything this turn or attempt to trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted Player 2's trade offer, demonstrating strong cooperation and willingness to engage in mutually beneficial exchange. The trade facilitated both players' progress towards their goals."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a trade that benefited both players. Player 2 was able to obtain the necessary materials for their target item by offering raw iron in exchange for cherry planks."
+      }
+    ]
+  }
+]

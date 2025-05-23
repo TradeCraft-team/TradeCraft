@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent cooperation by proposing a trade that would benefit both players. They offered coal to help Player 1 smelt raw iron, while requesting an iron ingot in return, which they needed for their target item.  They also clearly communicated their intentions and reasoning behind the trade, fostering a collaborative environment. While their initial proposals were invalid, they persisted in finding a mutually beneficial trade."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also demonstrated strong cooperation by readily accepting Player 2's trade proposal. They understood the mutual benefit of the trade and expressed their willingness to cooperate further.  Their positive response and clear communication contributed to a successful trade and a cooperative game start."
+      }
+    ]
+  }
+]

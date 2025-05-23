@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 adapted well by identifying their need for iron and proposing a mutually beneficial trade with Player 1, offering coal while requesting raw iron. They also sought information about Player 1's goal, indicating a cooperative approach."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated adaptability by recognizing the cooperative nature of Player 2's proposal and accepting the trade even though it didn't directly contribute to their immediate crafting needs.  They also shared their target item, fostering collaboration."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposes a null trade as they recognize they can craft their target themselves. They check with player 2 about their needs, which is cooperative."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes their need for more iron to complete their target. They adapt to the null trade by simply communicating their need. They attempt to smelt their iron but encounter issues and check the available recipes and resources they have."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes another trade to acquire the needed raw iron for their target and succeeds this time, getting closer to crafting their bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapts again by accepting player 2's proposed trade. They recognize the trade helps player 2 obtain their target item and prioritize the cooperative nature of the game."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 crafts sticks and offers coal and raw copper to Player 2, demonstrating adaptability to the changing game state and a cooperative approach, even though they haven't completed their own goal yet."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts Player 1's offer, utilizes the resources effectively, smelts iron, crafts the bucket, and wins. Strong adaptability by utilizing available resources and focusing on achieving the win condition."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 crafts a well-reasoned proposal, offering items useful to Player 1 (fuel and crafting materials) in exchange for raw iron which Player 2 needs. The accompanying message is polite and explains the rationale behind the trade, making it persuasive.  Player 2 successfully persuades Player 1 to accept the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 is persuaded by Player 2's proposal, but does not do any persuading themselves this turn."
+      }
+    ]
+  }
+]

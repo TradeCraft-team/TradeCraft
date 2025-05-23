@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for iron, recognized that Player 1 had a surplus, and formulated a trade proposal to benefit themselves.  They offered items of lesser value (cherry planks and cobblestone) in exchange for a resource crucial to achieving their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 also acted in their self-interest by accepting a trade that provided them with cobblestone needed for their target item. While they helped Player 2 get closer to their goal, the primary motivation appears to be acquiring the necessary cobblestone. The offered cherry planks were a bonus, and the trade of raw iron didn't seem to hinder their progress."
+      }
+    ]
+  }
+]

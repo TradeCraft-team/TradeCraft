@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's initial proposal and message strategically concealed their true need for raw iron to make shears. They framed the trade as mutually beneficial for both players,  hinting at the opponent's need for coal without revealing their own primary goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their intention to craft a torch by stating their need for coal in their reply message."
+      }
+    ]
+  }
+]

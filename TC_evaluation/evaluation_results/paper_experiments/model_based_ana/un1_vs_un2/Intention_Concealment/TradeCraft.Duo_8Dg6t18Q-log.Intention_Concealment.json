@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 explicitly stated their intention to craft a chain during the trade proposal, revealing their target item to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 masked their intention by accepting the trade and providing a generic response.  While the trade itself wasn't directly beneficial for their lever goal, it didn't hurt their progress and maintained ambiguity about their intentions."
+      }
+    ]
+  }
+]

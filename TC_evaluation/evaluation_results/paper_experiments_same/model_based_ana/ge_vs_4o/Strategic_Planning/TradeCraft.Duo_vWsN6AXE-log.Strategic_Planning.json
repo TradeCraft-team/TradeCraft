@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent strategic planning. They correctly identified their target item (shears), understood the crafting requirements (2 iron ingots), assessed their current resources (1 iron ingot and 1 raw iron), and formulated a plan to acquire the missing raw iron through a trade.  They offered coal, a valuable resource for smelting, in exchange for raw iron, which was a smart trade proposal. They clearly articulated their plan and executed the trade effectively.  This allowed Player 2 to smelt raw iron using the received coal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also showed good strategic thinking by accepting Player 2's trade proposal. They recognized the value of coal for their own crafting goals (torch) and correctly assessed that acquiring coal directly was more efficient than smelting raw iron for ingots to craft other tools.  Although Player 1 did struggle with crafting sticks using oak planks, this did not hinder the strategic part where trade is concerned."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 failed to craft sticks from oak planks despite multiple attempts and having the resources available.  This demonstrates a lack of understanding of basic crafting mechanics and an inability to execute their crafting plan effectively."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 showed ineffective strategic play, failing to craft the iron ingot from raw iron and coal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 correctly rejected Player 2's offer, knowing they needed coal. However, they failed to craft anything useful this turn, indicating ineffective strategic play. Player 1 keeps failing to craft sticks, making no apparent progress towards their goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 showcased great strategic planning in this final turn, requesting coal and attempting to trade for it. Although the trade was rejected, the effort was commendable, showing understanding of resource management and crafting necessities.  They immediately knew what to do to secure the missing iron ingot.  They followed through on their plan and correctly executed the recipe to smelt raw iron. After making the iron ingot, Player 2 successfully crafted their target item with their available resources, demonstrating excellent awareness of crafting requirements and efficient resource usage."
+      }
+    ]
+  }
+]

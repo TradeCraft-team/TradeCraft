@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in their self-interest by offering a trade beneficial to them. They correctly identified their need for raw iron and offered coal in exchange, understanding the potential value of coal for smelting for Player 2.  They used the gained raw iron to craft iron ingots, moving closer to their goal. They consistently focused on acquiring the necessary resources to craft their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 accepted a trade that was not immediately beneficial to them and could potentially help player 1 achieve their goal. Although they considered their own needs, they ultimately prioritized facilitating the opponent's progress. Their reasoning was based on the assumption that raw iron wouldn't be helpful, which proved somewhat inaccurate, showing a lack of strong self-interested strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade primarily aimed at discerning player 1's goal. Although they offered a slightly favorable trade to Player 1, their primary motivation was self-preservation and information gathering. This shows some level of strategic self-interest but could have been improved by trying to gain materials they needed. Their offer slightly benefited Player 1 but was ultimately a low-risk move that could indirectly benefit them by hindering player 1's progress."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a beneficial trade, gaining coal which although they did not use, could be helpful for future crafting. They then immediately and efficiently used their resources to craft their target item and win the game, demonstrating perfect self-interested behavior focused on achieving their goal."
+      }
+    ]
+  }
+]

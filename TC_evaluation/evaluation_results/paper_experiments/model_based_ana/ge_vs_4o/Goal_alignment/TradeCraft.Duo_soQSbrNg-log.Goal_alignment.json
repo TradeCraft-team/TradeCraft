@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly identified their need for iron and made a reasonable trade proposal to obtain it. Their actions align perfectly with their goal of crafting a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "player 1 reasoned through the trade proposal and accepted it.  They correctly identified their need for a stick to craft a lever, crafted the stick, and then crafted the lever.  player 1 achieved their goal this turn, demonstrating perfect goal alignment."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade that benefited both players. Player 2 needed raw iron and offered raw copper in return.  This trade helped player 2 progress towards their goal of crafting a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutual benefit of the trade and accepted the proposal. Player 1 correctly assessed that the raw iron wasn't crucial for their goal, and the raw copper could be potentially useful.  This demonstrates a good understanding of cooperation and resource management."
+      }
+    ]
+  }
+]

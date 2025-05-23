@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring raw iron to craft a chain, successfully trading for it and then smelting it into an iron ingot. All actions directly contributed to their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly identified the need for coal to smelt raw iron into iron ingots for a lever. Accepting the trade for coal demonstrated perfect goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued working towards crafting a chain. They accepted a trade for raw copper, a component of a chain, showing continued focus on their goal. While the crafting attempt didn't succeed initially, the player correctly deduced the need to craft iron nuggets first and then successfully crafted the chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's actions in turn 2 were less aligned with their goal. While they attempted to craft sticks for the lever, they failed to do so correctly. The trade for raw iron wasn't directly relevant to their goal and ultimately hindered their progress by preventing the timely creation of the lever."
+      }
+    ]
+  }
+]

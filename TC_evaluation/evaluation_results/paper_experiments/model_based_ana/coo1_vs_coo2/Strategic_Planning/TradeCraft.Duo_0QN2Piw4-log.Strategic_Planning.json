@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good strategic planning by identifying their need for iron ingots to craft a bucket, recognizing their opponent's abundance of raw iron, and proposing a trade of coal to facilitate the smelting of raw iron into ingots.  They also attempted to gather information about their opponent's goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated strategic thinking by considering the trade proposal in relation to their own goal of crafting a lever. They correctly identified the benefits of accepting the trade, as it provided them with coal for smelting their own raw iron, and they communicated their goal to their opponent, fostering collaboration."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's strategic planning was less effective this turn.  They made several invalid proposals before finally making a helpful offer to player 2. They correctly identified the resource needs of player 2 and acted on that information.  However, the initial mistakes lower their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 displayed sound strategic thinking by accepting a beneficial trade, clearly communicating their target item to player 1, and focusing on acquiring the remaining resources needed to achieve their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully executed their plan by obtaining the final iron ingot needed for their bucket and immediately crafting it. This demonstrates effective strategic planning and efficient resource management."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's strategic planning was somewhat flawed this turn.  Trading away the iron ingot ultimately did not help them achieve their own goal. They correctly focused on crafting sticks, but the decision to trade for raw copper was not optimal."
+      }
+    ]
+  }
+]

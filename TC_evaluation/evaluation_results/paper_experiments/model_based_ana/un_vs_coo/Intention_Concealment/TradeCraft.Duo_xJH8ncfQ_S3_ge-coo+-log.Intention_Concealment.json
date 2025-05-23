@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 explicitly revealed their target item (bucket) to player 1 in their first trade proposal. This completely compromises their intention concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made no explicit mention of their target item and engaged in a trade that appeared mutually beneficial. While their thought process reveals their need for iron, this was not communicated directly to player 2."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's initial invalid proposal hinted at their need for oak planks, but their subsequent proposal and justification focused on the general usefulness of iron. This provided some level of concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintained a cooperative stance and did not reveal any specific intentions.  They accepted a slightly disadvantageous trade, further obscuring their immediate needs."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal and justification were strategically crafted to appear mutually beneficial while indirectly serving their need for iron ingots. They successfully concealed their ultimate goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's acceptance of the trade did not reveal any specific intentions, but it did give player 2 a slight advantage. Their thought process indicates they considered various crafting possibilities, implying that their intentions are not fully set."
+      }
+    ]
+  }
+]

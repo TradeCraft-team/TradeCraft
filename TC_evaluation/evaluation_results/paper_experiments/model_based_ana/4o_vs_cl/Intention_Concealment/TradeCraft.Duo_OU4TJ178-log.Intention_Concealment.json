@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 initially concealed their intention by asking for raw iron and offering coal, pretending to help Player 2 with smelting. However, the accompanying message was a bit too revealing, hinting at mutual progress towards goals.  While the initial proposal could be interpreted as helpful, the eagerness to trade for raw iron might raise suspicion, especially given they only have one iron ingot."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions in this turn. They rejected Player 1's proposal, which prevented revealing any information about their own needs. They did check the recipe for 'lever' multiple times, but this action is private and doesn't reveal their target to Player 1. By not revealing what they need, player 2 maintains a strategic advantage."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted player 2's trade, receiving raw iron. This action aligns with their need to craft a bucket (requiring iron ingots), but the acceptance itself doesn't explicitly reveal their target. They are successfully gathering the necessary materials without overtly revealing their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal to trade for cherry planks and coal partially reveals their intention to craft. While these items can be used for various purposes, requesting both together suggests a specific crafting goal. This could hint at their need for sticks (from planks) and fuel (coal) to craft something specific. However, the final crafting of the lever itself is hidden from the opponent until the end of the turn."
+      }
+    ]
+  }
+]

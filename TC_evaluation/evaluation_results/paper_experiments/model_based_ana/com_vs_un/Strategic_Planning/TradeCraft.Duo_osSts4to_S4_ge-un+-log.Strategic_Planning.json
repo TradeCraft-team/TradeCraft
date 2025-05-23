@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by identifying the need for iron, analyzing the opponent's resources, and proposing a reasonable trade.  They correctly identified raw iron as a key resource and formulated a plan to acquire it through a trade involving coal. Although their proposal was rejected, the overall strategy was sound."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed some strategic thinking by correctly assessing their own needs and recognizing they didn't immediately require the offered coal.  However, they missed the potential longer-term benefit of acquiring coal for smelting their own raw iron, which could be useful for later crafting."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to pursue a strategic approach by focusing on acquiring the necessary iron.  They tried different offers after their initial trade was rejected, showing adaptability.  However, they didn't seem to fully consider the opponent's motivations."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 focused on their goal of crafting a stone shovel, but they continued to underestimate the value of trading for resources that could be beneficial in the long run. Their proposal was rejected because it offered too little in return."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made an invalid proposal initially, which lowered their score. Their subsequent proposal was more reasonable, offering coal in exchange for needed resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 recognized that the offered trade wasn't beneficial and rejected it.  However, they missed an opportunity for collaboration."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a good decision by accepting the beneficial trade. This provided them with enough resources to craft their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's strategic thinking improved.  Trading raw iron for cobblestone was a smart move, securing a needed material. Although they don't attempt to craft anything this turn, their trading setup the crafting in the following turn."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognized their need for iron ingots and attempted to trade.  While the plan was reasonable, their execution was a bit repetitive and their proposed trades failed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly identified that accepting the trade would benefit their opponent by providing them with the necessary materials, but their overall strategy hasn't changed significantly."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 logically evaluated the trade proposal and accepted it, even though it didn't directly contribute to their goal, as it didn't hinder their progress either."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made an invalid proposal, but adjusted with a better trade request for planks. Their strategy here is mainly to gather crafting materials."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 secured the necessary resources through trade and successfully crafted their target item, demonstrating excellent strategic planning."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully gathered the required resources and crafted the stone shovel, completing their objective and displaying effective strategic planning."
+      }
+    ]
+  }
+]

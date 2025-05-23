@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to persuade player 2 to trade raw iron for coal by explaining how it would benefit both of them. While the reasoning was sound, the persuasion attempt was ultimately unsuccessful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 provided a clear reason for rejecting the trade, demonstrating a polite but firm approach to negotiation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's attempt to mislead player 1 by requesting raw copper wasn't very effective and didn't involve much persuasive language.  It served more as a deceptive tactic than a persuasive one."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 gave a simple justification for rejecting the trade, but it wasn't particularly persuasive."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.75,
+        "justification": "Player 1 again attempted to persuade Player 2 to trade, offering coal and explaining their need for raw iron and raw copper. The justification provided was reasonable, though still not enough to convince Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's rejection was again simple and not particularly persuasive."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully persuaded player 1 to trade cobblestone for raw iron by offering a seemingly beneficial deal and clearly stating their need for the cobblestone."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's acceptance lacked any persuasive elements, as they simply agreed to the terms."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to persuade Player 2 by stating their goal and offering raw copper for raw iron, but the persuasion was unsuccessful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 simply rejected the trade, stating their need to retain resources for their project."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully persuaded player 1 to trade cherry planks for raw copper by offering a desirable resource and stating their willingness to trade. The persuasive language was effective."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's acceptance included a simple agreement to trade."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 successfully persuaded Player 2 by offering a reasonable trade and inquiring about Player 2's willingness."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 simply acknowledged and accepted the trade offer."
+      }
+    ]
+  }
+]

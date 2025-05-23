@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong self-interest by focusing on acquiring raw iron for their target, a chain. They made a calculated trade offer to benefit their own crafting goals, showing a clear prioritization of their needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 also exhibited self-interest by accepting the trade despite not needing the offered coal for their lever.  They recognized the value of coal as a resource and prioritized acquiring it for potential future benefits, even if it didn't directly contribute to their immediate goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 sent an empty proposal. While there might be some strategic thinking behind it, it barely shows any self-interested actions based on this turn's log."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the empty proposal and asked for clarification. Like player 1, this action doesn't reveal much about their self-interest within this particular turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to show self-interest by proposing a trade that, while potentially mutually beneficial, is primarily aimed at acquiring the raw copper they need for their chain.  The offer shows strategic thinking in trying to advance their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates self-interest by rejecting the trade.  While maintaining a good relationship can be beneficial, their prioritization of their own crafting needs by preserving resources indicates a focus on individual gain."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 sent a mostly informative proposal. While crafting sticks is aligned with self-interest related to their goal, it doesn't involve a direct trade or any strategic maneuver to maximize individual gain at the expense of the other player."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the empty proposal, which is reasonable in the current context.  However, their self-interested behavior isn't apparent in this action, and there is no attempt to gain an advantage or prioritize personal resource acquisition."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 is actively seeking the resources they need. Although their proposal was rejected, their focus remains on achieving their goal, showing self-interest in pursuing the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's rejection reflects a clear self-interested approach.  They prioritize their own needs by refusing a trade that doesn't directly contribute to their goal of crafting a lever. This emphasizes their focus on individual success."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to send a purely communicative trade proposal.  While crafting aligns with their goal, they do not actively pursue opportunities to take advantage of the trade system, thus not demonstrating self-interested behaviors in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepting the null proposal maintains open communication but doesn't demonstrate self-interest or any strategic advantage within this turn."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal of iron nuggets for raw copper demonstrates a continued focus on acquiring the resources they need for their goal. This is a clear indicator of self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates strong self-interest. Rejecting the trade proposal reinforces their commitment to their own goal, prioritizing crafting a lever. This decision is primarily driven by individual gain."
+      }
+    ]
+  }
+]

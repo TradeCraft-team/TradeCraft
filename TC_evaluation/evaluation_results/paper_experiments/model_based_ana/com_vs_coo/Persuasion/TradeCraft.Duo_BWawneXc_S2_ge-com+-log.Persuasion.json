@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully persuaded player 1 to trade by offering items they didn't need and clearly stating their need for raw iron.  The trade was highly beneficial for player 2, advancing them significantly towards their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 was receptive to the trade but didn't actively persuade. They simply accepted a beneficial offer."
+      }
+    ]
+  }
+]

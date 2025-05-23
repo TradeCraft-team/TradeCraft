@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade, offering coal for raw iron. Although the trade was rejected, the attempt to cooperate and the clear communication of their needs contribute to a positive score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejected the trade, but provided a justification for their decision. While not actively cooperating, they engaged in the trade discussion and explained their reasoning."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a mutually beneficial trade, offering raw iron for coal.  This trade helps both players progress towards their goals. The clear communication and beneficial offer contribute to the high score."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the proposed trade, acknowledging its mutual benefit.  Accepting a fair trade demonstrates strong cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 initiated another trade, offering raw copper for raw iron.  This shows continued willingness to cooperate through trade, and the proposed trade is reasonable. Clear communication is maintained."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the proposed trade, understanding that it helps player 1 progress.  Accepting a trade that primarily benefits the other player demonstrates strong cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 made multiple invalid proposals, and eventually a valid proposal offering raw copper, asking for a stick or plank. The invalid moves and proposals for items the other player cannot craft and did not offer demonstrate low cooperation and comprehension of the game state."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected the final trade but provided a clear explanation of why it wasn't useful to them. The rejection without counter proposal or other attempt at cooperation warrants a lower score."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made an invalid proposal and then a valid proposal of a neutral trade for raw iron and asked about player 2 having their target. While the first offer doesn't benefit player 2, the attempt at trading and communication is still positive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the neutral trade, understanding it benefits Player 1, and made it clear what they need. Accepting the trade and communicating needs demonstrates cooperation."
+      }
+    ]
+  }
+]

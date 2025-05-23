@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates good strategic planning by identifying their target item (bucket), recognizing the need for iron ingots, and formulating a plan to trade for raw iron to smelt into ingots. They correctly identify Player 2 as a source of raw iron and offer a reasonable trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent strategic planning by carefully evaluating the trade proposal from Player 1 in the context of their own target item (stone shovel). They methodically determine the resources needed for their shovel and recognize that the trade is beneficial, providing them with needed cobblestone and flexibility in their crafting strategy."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 recognizes the need to smelt raw iron into iron ingots and identifies the need for fuel. However, their strategic planning falters as they struggle to formulate an effective plan to acquire fuel.  They repeatedly check recipes related to smelting iron but struggle with the fuel requirement."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to show an understanding of their crafting goals, repeatedly checking the recipe for a stone shovel and considering the necessary materials. They identify the need for sticks and attempt to craft them, demonstrating some strategic planning but encountering difficulty with the crafting process."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to pursue their goal of crafting a bucket and identifies the need for more iron ingots. They attempt to trade with Player 2 for raw iron, offering raw copper in return. While the trade is reasonable, Player 2's rejection necessitates a re-evaluation of their strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates consistent strategic planning by again evaluating the trade proposal in the context of their stone shovel goal.  They correctly identify that the proposed trade does not directly benefit their objective and offer a clear explanation for rejecting the proposal, suggesting a counter-offer that would be more beneficial."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates effective strategic planning by accepting a trade that directly contributes to their goal.  They recognize the value of the offered raw iron and sticks, which enables them to complete their bucket in the next turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 exhibits strategic thinking by correctly identifying the materials needed for a stone shovel and recognizing they already possess the necessary components. Their trade proposal aims to acquire additional resources (raw copper) that could be useful for future crafting, showing foresight."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to demonstrate good strategic planning by recognizing they have the necessary resources to craft their bucket. Their trade proposal for sticks, while ultimately rejected, is reasonable given their need for fuel."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 shows consistent strategic planning by rejecting a trade that would deplete their stick supply, recognizing that they need those sticks to craft their target item (stone shovel). They understand their crafting needs and prioritize fulfilling them."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to plan towards their bucket goal, recognizing the importance of iron ingots. They reject a trade that would cost them their only iron ingot, demonstrating prioritization of key resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrates some strategic planning by offering a trade, but the proposal lacks focus on acquiring materials they truly need. They offer raw copper, which they have in abundance, but don't specify what they need in return, making the proposal less effective."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 demonstrates some strategic thinking in attempting to trade for more iron but makes an invalid proposal and subsequently offers a 1:1 raw iron trade which is unlikely to advance their goal significantly. Shows some understanding but execution is lacking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 consistently prioritizes their stone shovel goal and correctly identifies that the proposed raw iron trade offers no advantage. They clearly explain their rejection, demonstrating strategic decision-making."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "No actions taken this turn"
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 recognizes the need for stone to craft a stone shovel but struggles to formulate an effective trading strategy. They make several invalid proposals and ultimately fail to acquire the necessary resources."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates understanding of their goal and the resources required but continues to make trade proposals that are rejected by Player 2, indicating a lack of adaptation in their strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains a clear understanding of their target item requirements and continues to make strategic decisions by rejecting trades that don't benefit their crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 continues to struggle with acquiring the necessary resources to craft their bucket, making ineffective crafting attempts and failing to adapt their trading strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrates some strategic thinking by recognizing they have the materials for their stone shovel but struggles with understanding the difference between stone and cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offers a reasonable trade, recognizing player 2's need for iron ingots and sticks. While rejected, the proposal shows strategic thinking in offering valuable resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again makes a strategic decision to reject a trade that doesn't align with their crafting goals.  They correctly assess that the offered resources do not help them craft the stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognizes that they don't need to trade and focuses on crafting their target, demonstrating sound strategic decision-making."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a strategic trade proposal but fails to account for Player 1's needs and priorities, resulting in rejection."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Game over. Player loses."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Game over. Player loses."
+      }
+    ]
+  }
+]

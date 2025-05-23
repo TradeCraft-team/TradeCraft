@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 formulated a clear plan to obtain the necessary raw iron for their bucket by offering less useful items in exchange. They correctly identified the need for two more iron ingots and strategically proposed a trade with Player 1, demonstrating good resource management and forward thinking.  They checked the crafting recipe for bucket before proposing the trade to identify necessary materials and checked their inventory to understand what resources to exchange and how much raw iron to request, showcasing strategic planning and resourcefulness."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent strategic thinking by recognizing the value of the proposed trade. They correctly assessed that the offered cherry planks would help them achieve their goal of crafting a lever by allowing them to make sticks.  Accepting the raw iron trade while giving up excess resources was a strategic move that optimized their inventory towards achieving their target.  Player 1 carefully analyzed the trade proposal, considered both players' potential strategies, and made a rational decision that aligned with their long-term objective, showing solid strategic planning and resourcefulness."
+      }
+    ]
+  }
+]

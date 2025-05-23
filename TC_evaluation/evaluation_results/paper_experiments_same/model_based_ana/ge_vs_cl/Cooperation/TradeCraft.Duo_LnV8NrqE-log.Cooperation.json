@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 actively sought a trade with Player 1, offering raw copper for raw iron. This demonstrates an attempt at cooperation by trying to exchange resources. Although the trade was rejected, the proposal itself and the reasoning behind it (helping both players) show cooperative intent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's trade offer. While they provided a reason, it didn't demonstrate a willingness to cooperate or find a mutually beneficial exchange.  They prioritized their own needs without considering a potential compromise."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted an empty proposal, indicating no interest in trading.  While they are not obligated to trade, this action demonstrates a lack of cooperative effort."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 rejected the empty proposal but expressed interest in future trades, specifically for raw iron.  This shows a continued desire for cooperation and a willingness to engage in future exchanges, despite the initial rejection."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 again proposed a trade, offering raw copper for raw iron. This demonstrates a persistent attempt at cooperation and resource exchange, even after previous rejections. The proposal was reasonable and aimed at mutual benefit."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's trade offer, demonstrating a continued lack of willingness to cooperate or consider a mutually beneficial trade. Their justification focused solely on their own needs without acknowledging Player 2's requests."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted another empty proposal, similar to Turn 2, showing no interest in trading or cooperating with Player 2.  While they're not obligated to trade, this action demonstrates a consistent lack of cooperative engagement."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the empty proposal while reiterating their interest in trading for raw iron in the future. This signifies a sustained willingness to cooperate despite Player 1's uncooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 made invalid proposals, showing a lack of understanding of the game rules and hindering cooperative play."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the trade proposal without offering alternatives or attempting to find a mutually beneficial arrangement."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 made a null trade proposal, indicating no interest in cooperating or exchanging resources with Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted the null proposal but hinted at their interest in future trades for raw iron, showing a continued desire for cooperation despite Player 1's consistent lack of engagement."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 again proposed a trade, offering raw copper for raw iron, showing persistence in seeking a cooperative exchange.  The proposal was reasonable and considerate of Player 1's inventory."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's trade offer again, focusing only on their own needs and missing an opportunity for a potentially mutually beneficial exchange. This demonstrates a persistent lack of cooperation."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted another empty proposal, demonstrating no interest in cooperation or finding mutually beneficial trades. This is a recurring pattern of non-cooperative behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the empty proposal and expressed goodwill towards Player 1's crafting efforts.  Despite Player 1's repeated lack of cooperation, Player 2 maintained a positive and cooperative attitude."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a reasonable trade, offering raw copper for oak planks. Although the trade was rejected, the attempt demonstrates a continued willingness to cooperate and engage in resource exchange."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 rejected the trade, prioritizing their own needs. While they provided a reason, there was no attempt to counter-propose or find a mutually beneficial arrangement. This shows limited cooperation."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 made another null trade, demonstrating a persistent lack of interest in cooperation or exchanging resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the null proposal and maintained a positive and cooperative tone. This shows consistent cooperative intent despite the lack of reciprocal engagement from Player 1."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made another trade proposal, demonstrating persistence and a desire to cooperate. They offered raw copper for raw iron, which, although rejected, shows a continued attempt to find a beneficial exchange."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the trade without suggesting any alternatives. This consistent refusal to cooperate demonstrates a lack of collaborative spirit."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal, again showing no interest in trading or cooperating. This is a recurring pattern of non-cooperative behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted the null proposal and responded with a polite and encouraging message.  This maintained a cooperative and positive interaction despite Player 1's consistent lack of cooperation."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 partially concealed their intentions. While they explicitly stated their need for raw iron, they disguised their ultimate goal by offering a seemingly generic trade for \"excess\" materials.  This provides some cover for their true intentions but doesn't completely hide their interest in iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed a strong interest in cobblestone, a key component of their target item, by readily accepting the trade. Their positive response further suggests they value cobblestone, potentially giving away a clue to their goal."
+      }
+    ]
+  }
+]

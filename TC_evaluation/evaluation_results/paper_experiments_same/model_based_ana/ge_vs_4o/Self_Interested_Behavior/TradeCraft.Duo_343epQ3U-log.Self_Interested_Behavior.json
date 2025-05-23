@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interest by attempting to trade excess materials for raw iron, which could be beneficial for future crafting."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade.  Since they could already craft their target item, the trade offered no benefit and would have given up resources."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade that directly benefited them by providing resources needed to craft their target item. Player 1 acted in their self interest, recognizing a trade that furthered their goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a self-interested proposal. They were willing to part with some raw iron to acquire a key ingredient for crafting their target item. The proposed trade demonstrated that Player 2 put their own goal first."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a self-interested proposal to acquire more raw iron. While the trade was ultimately rejected, the attempt shows a focus on acquiring more materials that could be used towards their goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade.  Player 2 identified that accepting this trade would not benefit them and preserving their raw iron was in their best interest."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that benefited them by providing more raw iron in exchange for an unneeded item."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2's self-interested trade proposal and its acceptance allowed them to craft their target item and win the game.  Player 2 correctly identified a beneficial trade, made the offer, and achieved victory as a direct result. Player 2 acted entirely in their self interest in this final turn."
+      }
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some persuasion by offering coal in exchange for raw iron, explaining the reason behind the trade. However, the initial proposal was invalid, and the eventual trade was rejected.  The attempt to explain their need for the raw iron to craft iron ingots adds to the persuasion score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not engage in any persuasive actions this turn. They rejected the trade proposal with a canned response unrelated to the proposal itself."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully persuaded Player 1 to trade by offering a mutually beneficial deal and clearly explaining the advantages for both sides. The message highlighted the value proposition for Player 1, making the trade more appealing."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 accepted the trade, but didn't actively persuade this turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted persuasion by explaining their need for the iron ingot and offering resources in exchange. However, the trade was ultimately rejected, suggesting the persuasive attempt was not entirely effective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 provided a justification for rejecting the trade, which showcases a degree of communicative persuasion.  However, the rejection itself indicates a lack of influence."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 attempted several trade proposals, but none were valid. This shows a lack of understanding of the game rules and ineffective communication, thus no persuasion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not take any actions in this turn and hence did not exhibit any persuasion."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully persuaded Player 2 to accept a trade by offering resources without requesting anything in return. This act of goodwill builds trust and demonstrates effective communication, ultimately influencing Player 2's decision."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 accepted the trade but did not actively persuade this turn."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully persuaded player 1 to trade by explaining their needs and offering a seemingly fair deal. The message highlighted the mutual benefit, enhancing the persuasion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 simply accepted a trade proposal. No persuasion was attempted."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to persuade Player 2 to trade by offering a reasonable deal and explaining their need for the iron ingot. The persuasive attempt was unsuccessful, as Player 2 rejected the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not engage in any persuasive actions, simply rejecting the proposal with an automated message."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully persuaded Player 1 to trade by recognizing Player 1's need for iron and offering a relevant resource in exchange. The clear articulation of the trade's benefits for both players contributed to the successful persuasion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 accepted the trade without attempting to persuade."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 attempted to persuade Player 2 with a trade offer but was unsuccessful. While the offer and explanation were clear, they didn't align with Player 2's needs or strategy, resulting in rejection."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the offer without attempting persuasion.  They simply used a canned response again."
+      }
+    ]
+  }
+]

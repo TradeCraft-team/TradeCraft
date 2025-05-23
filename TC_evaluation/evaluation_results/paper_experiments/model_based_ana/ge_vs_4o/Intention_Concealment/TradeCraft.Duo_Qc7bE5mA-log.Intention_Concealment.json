@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's initial proposal reveals a strong interest in iron and hints at their need for iron nuggets or ingots. While the message doesn't explicitly state their target, it narrows down the possibilities considerably."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the proposal without revealing any information about their own intentions or needs.  The nonsensical rejection message effectively masks any strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 directly reveals their need for cherry planks to craft sticks, strongly suggesting their intention to create a tool. While the exact tool remains unclear, the intention is poorly concealed."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the trade without revealing their ultimate goal.  While their acceptance suggests a need for iron, the specific use for the raw iron isn't explicitly disclosed."
+      }
+    ]
+  }
+]

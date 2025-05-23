@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 identified their need for iron ingots and formulated a successful trading strategy to obtain the necessary raw iron from Player 1.  They offered coal as an incentive, recognizing Player 1's potential need for fuel. This proactive approach demonstrates excellent adaptability."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly assessed the trade proposal from Player 2 and recognized its benefit to their own goal of crafting a torch.  Accepting the trade for coal demonstrated a clear understanding of resource management and adaptability to available opportunities."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 failed to make any progress towards crafting a torch, despite having all necessary resources. Repeatedly failing to identify the correct crafting recipes and not crafting sticks shows a severe lack of adaptability to changing circumstances. Although the player formulated a trade, it was not beneficial to their win condition, and they failed to adjust plans despite realizing that they could obtain their win condition without trading."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 adapted their strategy after the first trade. They correctly identified the need for fuel to smelt raw iron, considered several trade options and checked recipes multiple times.  While Player 2 initially struggled with crafting recipes, by using `possible_recipes_from_hand`, they identified the valid recipe and successfully crafted shears, demonstrating problem-solving and adaptation to achieve their goal."
+      }
+    ]
+  }
+]

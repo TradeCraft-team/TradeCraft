@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly checked the recipe for 'chain', demonstrating an understanding of their goal. However, their initial proposal was invalid and not aligned with their needs. The subsequent proposal, while better, was rejected.  They made progress by crafting iron nuggets, showing partial goal alignment but lacking effective trading."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Player 1 identified their goal (lever) and necessary components but did not make a trade proposal or craft sticks despite having the resources, resulting in limited progress towards their goal and thus a low score for goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 crafted sticks using the acquired planks and immediately crafted the lever, their target item, winning the game.  Excellent goal alignment throughout the turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a trade that provided raw iron, smelted it into iron ingots, demonstrating good understanding and progress toward their goal. However, they missed the final step to craft the chain, therefore not achieving full goal alignment."
+      }
+    ]
+  }
+]

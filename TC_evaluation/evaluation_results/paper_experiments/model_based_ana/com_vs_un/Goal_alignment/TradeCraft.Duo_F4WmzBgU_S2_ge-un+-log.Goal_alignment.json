@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 repeatedly proposed invalid trades while trying to acquire iron ingots for a bucket.  Though their goal was clear, their execution was poor due to invalid proposals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly identified their needs for a stone shovel (cobblestone and sticks) and considered how to obtain the missing components. They accepted a null trade, which wasn't directly helpful but didn't hinder their progress and also allowed them to understand the interface error player 1 had been having."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade for raw iron which they correctly identified as helpful for their goal (bucket) and their crafting plan shows sound logical reasoning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's trading actions do not align with their final goal, as they traded away raw iron. Their thoughts show a focus on iron tools, which could indicate a misunderstanding or a change in their goal, without clearly stating so."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to pursue their goal by successfully trading for iron ingots needed for their bucket. Their actions and justifications directly align with crafting the bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted a trade that gave player 1 enough iron ingots for their target item.  Though they recognized the potential risk, their justification for accepting the trade (acquiring raw copper) wasn't very strong given their goal of a stone shovel.  Their reasoning is present, but somewhat flawed, lowering their score."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 finally crafts the bucket after successfully obtaining the materials needed for their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's actions in this turn don't align well with their goal. They traded for raw iron and proposed a trade not aligned with their goal of crafting a stone shovel. Their thinking about trying to acquire iron for a compass contradicts their stated goal."
+      }
+    ]
+  }
+]

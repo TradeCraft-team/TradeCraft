@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 exhibited strong self-interested behavior by crafting the exact resources needed to create shears, their target objective. They traded strategically to maximize their own benefit, ultimately achieving victory."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted a trade that appeared mutually beneficial on the surface but ultimately did not contribute to achieving their objective. They acquired coal but failed to utilize it effectively to craft a torch. This demonstrates a lack of focus on their individual win condition and a lower level of self-interested behavior."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their intention to craft shears by directly asking for iron and mentioning shears in their trade proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially concealed their intention by stating their need for coal but not explicitly mentioning their target item (torch).  Rejecting the iron trade offer also helps to obfuscate their true needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 reveals their need for coal to craft a torch. Although they don't explicitly say \"torch,\" the combination of needing coal and already having planks strongly suggests their intention."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintains some concealment by not revealing their specific need for iron ingots to craft shears.  They engage in trade discussions without explicitly stating their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 completely reveals their intention by stating their need for iron ingots to craft shears."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively conceals their intentions. Although their rejections might raise suspicion, they do not reveal their goal and successfully craft the torch without giving away their plan."
+      }
+    ]
+  }
+]

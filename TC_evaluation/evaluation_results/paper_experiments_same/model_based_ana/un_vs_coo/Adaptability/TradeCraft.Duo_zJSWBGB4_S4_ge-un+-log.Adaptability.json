@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by identifying the resources they needed (iron ingots and nuggets for the chain) and formulating a trade proposal to acquire the necessary raw materials. They correctly assessed the value of their own items (cherry planks, coal, cobblestone) and offered them strategically to obtain raw iron from player 2.  They also checked crafting recipes, demonstrating a proactive attempt to understand the crafting process. Although some checks were not valid, it showcases adaptability in the face of a complex crafting system."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 exhibited excellent adaptability. They analyzed player 1's proposal in light of their own objective (crafting a stone shovel). They recognized the value of the offered items (cobblestone and planks) in advancing their goal and accepted the trade.  They also tried to craft a stick from the available materials, indicating quick thinking and adaptability to the new resources acquired. Ultimately crafting a shovel and winning the game."
+      }
+    ]
+  }
+]

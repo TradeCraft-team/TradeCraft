@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initially proposed an invalid trade, demonstrating a lack of understanding of the game rules. However, they quickly adapted by proposing a new trade, offering coal for raw iron and an oak plank.  This shows some adaptability, as they revised their strategy based on the game's constraints and available resources. They also attempted to gather information about player 2's target, which suggests a proactive approach to cooperation and potential future trades. The score is not higher due to the initial misstep with the invalid proposal. Crafting was not evaluated in this round."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good adaptability by correctly assessing the value of the proposed trade. They recognized the benefit of receiving coal to smelt their raw iron and willingly parted with resources that were not immediately crucial to their objective.  Their acceptance of the trade and their willingness to cooperate suggests a flexible approach to achieving their goal. Crafting was not evaluated in this round."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 directly reveals their intention to craft a bucket by requesting raw iron and explaining their need for it in the accompanying message.  This makes their intention very obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "While player 2 states they don't need raw copper, they do not reveal their own crafting target. Their rejection helps conceal their true intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposes a null trade, effectively concealing their intentions and gathering information about player 1's needs without revealing their own."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 again reveals their need for iron ingots, further signaling their intention to craft a bucket."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to reveal their intention to craft a bucket by explicitly offering a trade for raw iron and stating their reasoning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains concealment by rejecting the trade and giving a vague reason, without hinting at their own needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal to trade raw copper for an iron ingot is a more ambiguous action. While it doesn't reveal their target, it does suggest a need for iron, possibly revealing a crafting intention."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's rejection message indicates a need for the iron ingot for their target item, partially revealing their intentions but not fully disclosing the bucket."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's message suggests the need for raw iron for smelting, giving player 2 a clue about their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the trade, which could be interpreted as needing copper or simply trying to encourage future trades. This action doesn't strongly reveal their target."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2's invalid proposals and subsequent attempts to trade for a stick clearly reveal their need for wood to craft sticks, giving player 1 significant insight into their likely target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's rejections and messages maintain some ambiguity about their need for raw iron, though their persistent desire for it could be a clue."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to request raw iron and reveals their intention to craft a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's rejection and vague message keep their intentions hidden."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade copper for raw iron is ambiguous and doesn't clearly reveal their target, though it indicates a potential desire for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's rejection reveals their need for raw iron but not the specific crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's offer shows they need more raw iron, suggesting their goal involves iron-related crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to reject trades and maintain a degree of uncertainty about their intentions."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Repeated invalid proposals and related thinking reveal player 2's intent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's generous offer and reasoning reveal their dire need for raw iron."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's proposal hints at needing raw iron for crafting but doesn't specify the item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains good concealment by rejecting the trade with a polite but unrevealing message."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade cobblestone for raw iron is ambiguous and doesn't reveal their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's rejection hints at their need for raw iron but doesn't specify what for."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends, revealing player 1's failure to achieve their target of crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends, revealing player 2's failure to achieve their target of crafting a lever."
+      }
+    ]
+  }
+]

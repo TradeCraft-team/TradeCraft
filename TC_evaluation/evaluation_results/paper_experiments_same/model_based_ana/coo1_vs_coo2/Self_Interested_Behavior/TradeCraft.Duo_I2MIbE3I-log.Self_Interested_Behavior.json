@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently pursued their self-interest by attempting to trade for iron, ultimately securing enough raw iron to smelt into the needed iron ingots. Although their initial proposals were invalid, they adapted and continued to pursue their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 acted in their self-interest by accepting the trade offer. They needed coal for their goal (torch), and gained it.  They also seem to have missed crafting the torch in this turn."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently demonstrated self-interested behavior.  They focused on acquiring the necessary materials (raw iron) for their target item (bucket), and successfully traded for it while offering a less valuable item (coal) in return.  Although the initial trade proposal was invalid, they quickly adapted and submitted a new proposal. They also inquired about Player 2's target to potentially facilitate future beneficial trades for themselves."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 acted in their self-interest by accepting Player 1's trade proposal, recognizing that they needed the coal to smelt raw iron, a step towards creating their target item (stone shovel). While they provided raw iron and oak planks, they had a surplus of raw iron, and the oak plank had no immediate use for them. They also offered future help."
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's initial proposal and message somewhat reveal their need for iron, although the exact crafting goal remains hidden."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejects the trade but provides a plausible reason, avoiding revealing their immediate need for planks."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's null proposal and message strongly suggest they have everything they need, potentially revealing their target is easily craftable."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejects the null proposal and expresses their need for iron, but doesn't specify the type of item they want to craft."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 continues to push for raw iron, making their need for it increasingly obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains their rejection of trades without giving away their specific requirements."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiates a trade for cherry planks but offers a reasonable combination of items in return, partially masking their primary intention of getting planks."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepts the trade, concealing their urgent need for raw iron by appearing to prioritize oak planks."
+      }
+    ]
+  }
+]

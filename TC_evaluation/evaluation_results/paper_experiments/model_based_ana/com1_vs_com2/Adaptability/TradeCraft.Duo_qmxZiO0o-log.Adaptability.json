@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 adapted their strategy by offering coal for raw iron, recognizing the need to acquire more iron. They correctly identified the necessary crafting steps to achieve their goal and executed the trade effectively. Although initially struggling with crafting recipes, they successfully smelted raw iron demonstrating adaptability in the crafting phase."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initially showed adaptability by assessing the proposed trade in relation to their own goal and accepting it.  Although the trade wasn't essential for them, they recognized the potential benefit of hindering player 1's progress by trading less immediately useful resource. However, they failed to adapt their crafting strategy and incorrectly attempted to craft sticks with insufficient resources.  They correctly accessed the server for valid craft recipes, but made mistakes in using the raw outputs from the server demonstrating a lack of dynamic understanding."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted to adapt by offering a trade, primarily for informational purposes, which also serves as an assessment of their situation and to determine player 1's crafting strategy.  But they offered a slightly imbalanced trade in player 1's favour. However, Player 2's repeated struggles with crafting sticks from planks demonstrate a lack of adaptability and an inability to learn from previous mistakes."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated perfect adaptability. They correctly assessed the trade offer and accepted it, recognizing its immediate value. They correctly identified that they have enough resources in hand and swiftly moved on to craft the requested items.  Player 1 successfully crafted their target item, a chain, adapting and executing the necessary crafting steps."
+      }
+    ]
+  }
+]

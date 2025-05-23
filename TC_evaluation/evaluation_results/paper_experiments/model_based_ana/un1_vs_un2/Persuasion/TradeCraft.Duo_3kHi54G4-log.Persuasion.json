@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully persuaded player 1 to trade.  They clearly stated their need for raw iron and offered coal as an incentive, which aligned with player 1's need for coal.  This led to a successful trade that benefited both players."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 was receptive to the trade proposal and accepted it after recognizing its benefits. While they didn't actively persuade, their agreement contributed to the successful trade. Their message was short and to the point."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 proposed a trade, but it wasn't well-reasoned in terms of persuading Player 2. They offered raw copper for cobblestone, but didn't offer a strong justification for why Player 2 would need raw copper, especially since Player 2 mentioned needing iron.  The trade was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected player 1's trade proposal, explaining their need for iron. However, they didn't attempt to counter-propose or persuade player 1 into a different trade that might benefit both players."
+      }
+    ]
+  }
+]

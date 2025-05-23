@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by checking the recipes for the bucket and raw iron, and proposing a trade with player 2. The trade proposal, while rejected, showed an attempt to acquire necessary resources. However, the proposal could have been more strategic by offering items more valuable to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 rejected the initial trade proposal but didn't offer an alternative.  Repeatedly checking the recipe for 'lever' indicates a lack of adaptability in problem-solving. There was no attempt to propose a counter-trade or find other ways to acquire the necessary materials."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that provided them with more raw iron, directly addressing their need for more iron ingots to craft a bucket.  This demonstrates good adaptability by adjusting their resource acquisition strategy based on the available opportunity."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong adaptability in this turn. They proposed a trade that successfully acquired the necessary resources to craft their target item. They also efficiently used the acquired resources and successfully crafted the lever, demonstrating effective resource management and crafting strategy."
+      }
+    ]
+  }
+]

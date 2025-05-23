@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that was beneficial to both players.  They offered items they didn't need for items that would help them progress towards their goal.  They clearly communicated their needs and intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 willingly accepted a mutually beneficial trade.  They recognized the value of the offered items and how they aligned with their own crafting goals.  They responded positively and confirmed the agreement."
+      }
+    ]
+  }
+]

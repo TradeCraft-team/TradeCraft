@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 consistently focused on acquiring iron ingots for their chain, demonstrating goal alignment. However, their initial proposal was invalid, and subsequent offers were rejected.  While they demonstrated understanding of their goal, their trading strategy was not effective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 clearly identified their need for a stone shovel and the required components. They logically assessed the trade proposal and rejected it because it did not align with their goal. They showed a good understanding of their own needs and how to achieve them."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a trade that directly contributed to achieving their goal of crafting a chain. They correctly assessed the value of the trade and how it aligned with their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 formulated and executed a successful trade to acquire the necessary cherry planks for their stone shovel. They followed through with crafting the necessary sticks and ultimately achieved their goal. Excellent goal alignment and execution."
+      }
+    ]
+  }
+]

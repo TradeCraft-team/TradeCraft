@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated reasonable strategic planning by identifying their target item (shears), recognizing the need for iron ingots, and formulating a plan to trade for necessary resources. Although their initial proposal was invalid, they quickly adjusted and submitted a revised proposal.  Checking item information for crafting recipes is a good sign of planning ahead."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 showcased strategic thinking by considering the long-term implications of the trade and prioritizing cooperation. They correctly assessed the value of the offered resources and recognized the potential for future beneficial interactions.  Checking the coal recipe demonstrates an attempt to understand the opponent's needs and potential future trades."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 showed strategic thinking by identifying the need for coal, formulating a trade proposal to acquire it, and offering resources they deemed less valuable in exchange.  The proposal was well-reasoned and demonstrated an understanding of the game's cooperative nature."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong strategic planning by recognizing the importance of conserving their limited coal resource for their own crafting needs. They correctly assessed the trade proposal's potential negative impact on their progress and made a sound decision to reject it.  Their thinking demonstrates a clear focus on their target item."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates good strategic planning by attempting to acquire the oak planks through trading.  This move aims to fulfill the requirement of making a crafting table, and also serves to further confuse Player 1 by seemingly showing need for wood. Crafting sticks while trying to get more wood further supports a plan for deception."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's strategic thinking is somewhat unclear in this turn. While accepting the trade might seem cooperative, it doesn't directly contribute to their goal.  Their stated reason for accepting appears somewhat superficial.  Checking item information shows some level of planning, but the overall strategy isn't evident."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to pursue a cooperative strategy by offering raw iron for coal, which benefits player 2 more.  This persistent focus on facilitating a trade for coal shows strategic thinking, even if the offer is rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent strategic planning by rejecting the trade proposal for coal. They recognize its value to their plan of crafting an iron pickaxe and prioritizes this goal. Their analysis of the opponent's potential crafting plans adds to the evidence of good strategic thought."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's strategic thinking is evident in their attempt to acquire needed resources while offering a less crucial item in return. The plan to trade a torch for cobblestone and raw iron demonstrates resource management and a focus on long-term crafting goals."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 shows strategic consideration by accepting a trade that provides a potentially useful item (torch) while giving up resources they have in abundance.  Checking the torch recipe demonstrates an attempt to understand resource values."
+      }
+    ]
+  }
+]

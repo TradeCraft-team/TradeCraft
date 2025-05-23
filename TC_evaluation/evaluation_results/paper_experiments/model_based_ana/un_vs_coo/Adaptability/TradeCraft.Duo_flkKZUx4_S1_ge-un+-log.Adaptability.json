@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 adapted their strategy effectively. They initially checked the recipe for shears, identified their need for iron ingots, and successfully traded with Player 2 to acquire the necessary raw iron. They then smelted the raw iron and crafted the shears, achieving their goal and winning the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated some adaptability by accepting Player 1's trade proposal, recognizing the potential for future trades and aiming to foster goodwill. However, they were less effective in progressing towards their own objective of crafting a torch, as they did not attempt to trade for coal and failed to perform a valid recipe check for crafting sticks."
+      }
+    ]
+  }
+]

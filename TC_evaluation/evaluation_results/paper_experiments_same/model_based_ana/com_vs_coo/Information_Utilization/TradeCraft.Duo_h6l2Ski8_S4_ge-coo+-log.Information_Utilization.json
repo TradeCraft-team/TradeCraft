@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates good information utilization. They correctly identify their need for iron ingots to craft a chain and recognize that Player 2 has a surplus of raw iron. Their trade proposal is strategic, offering coal in exchange for raw iron, showing an understanding of Player 2's potential need for fuel.  They also check the recipe for a chain, further demonstrating information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also shows decent information utilization. They understand their need for cobblestone and sticks for the stone shovel.  They correctly assess that the offered trade doesn't directly contribute to their goal. Though they slightly underutilized information, they already have a plan in mind for completing their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to prioritize their goal of crafting a stone shovel. They correctly identify the necessary components and propose a trade for cobblestone, a material they could potentially need more of in the future. However, the trade offer isn't highly strategic and doesn't directly contribute to their immediate goal. They fail to craft sticks due to providing the wrong input/output amounts, indicating low information utilization related to crafting recipes."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates good information utilization by rejecting a trade that doesn't benefit them. They reiterate their need for iron ingots and suggest Player 2 smelt their raw iron, demonstrating an understanding of crafting processes and strategic thinking. They check the recipe book and formulate a new plan that targets long term crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates excellent information utilization. They correctly interpret Player 2's previous turn's actions, inferring a potential need for cobblestone. The proposal to trade cobblestone for raw iron is strategic, addressing both players' potential needs. This trade allows Player 1 to acquire enough raw iron to craft their target item next turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts a beneficial trade, getting closer to their crafting goal by acquiring more cobblestone, demonstrating a clear understanding of the game state."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade that serves as a distraction, offering raw iron for raw copper. While they successfully complete the trade, it doesn't directly advance their goal of crafting the stone shovel. However, their subsequent focus on crafting sticks shows they have a clear crafting plan in mind, even if they are not accurately performing these steps. They still fail to craft sticks correctly."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepts Player 2's trade offer, recognizing that it doesn't hinder their progress and maintains a cooperative environment.  Player 1 proceeds with planning for their target and recognizes they need to use cherry planks as fuel."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrates perfect information utilization. They recognize they have enough resources to create their target and successfully craft the chain, winning the game. They efficiently use the information available to them to achieve their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 rejects a potentially beneficial trade, missing the opportunity to acquire iron ingots.  They continue to struggle with crafting sticks, indicating a significant lack of information utilization regarding crafting recipes. Player 2 makes no progress towards their goal. Has yet to craft the stone shovel or trade effectively. They continue to check the recipe for sticks, yet still fail to craft them."
+      }
+    ]
+  }
+]

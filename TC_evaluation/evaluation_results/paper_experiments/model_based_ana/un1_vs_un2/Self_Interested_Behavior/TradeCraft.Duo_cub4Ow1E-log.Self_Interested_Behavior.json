@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 exhibited some self-interested behavior by attempting to trade for iron ingots, which they needed for their target. However, their repeated invalid proposals and ultimate acceptance of a null trade demonstrate ineffective execution of their strategy."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepted a null trade, which neither benefited nor harmed them. This indicates a passive approach rather than active pursuit of their own goal. While they identified their crafting needs, they didn't take significant action to achieve their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 proposed and executed a null trade, showing no significant self-interested behavior.  While they correctly identified their need for sticks and a lever, they failed to craft anything or trade effectively to obtain the required materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 accepted a null trade, demonstrating passivity rather than self-interest. Although they recognized their need for iron and copper and formulated a plan to trade for them, they didn't execute the plan."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 made self-interested proposals to acquire iron, a key component of their target. Although the proposals were rejected, they showed a stronger attempt at advancing their own goal compared to previous turns."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected trades that didn't benefit them, which is a weak form of self-interested behavior. They recognized their need for planks but didn't offer a trade proposal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 attempted a self-serving trade, offering raw iron for an iron ingot. The trade was rejected, but demonstrated an attempt to acquire materials they determined would be beneficial, though this was not in direct pursuit of their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made self-interested decisions by rejecting a trade that didn't serve their goal and aiming to trade for raw iron to craft the necessary ingots."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to actively pursue their goal by attempting a trade for an iron ingot. While the trade was rejected, their persistent focus on acquiring the necessary materials for their target demonstrates strong self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected a trade for an iron ingot and formulated a plan to trade for cherry planks, which were crucial for achieving their goal. This demonstrated strategic thinking and self-interested behavior aimed at acquiring the necessary components for crafting a lever."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully traded for a cherry plank, which was a necessary component to craft their target item.  This demonstrated a clear understanding of their needs and the ability to execute a trade to fulfill them."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted a trade that provided them with raw iron, showing self-interest and furthering their plan to acquire enough iron to craft their target. They also recognized their opponent's need for wood."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully executed a trade to acquire a crucial ingredient for their target.  This demonstrates strong self-interested behavior and effective negotiation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted a trade that wasn't harmful, but wasn't directly beneficial. Though they recognized they could complete their objective, this acceptance demonstrates neutrality rather than self interest."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 attempted a self-serving trade, offering raw copper for player 2's iron ingot. Even though it was rejected, it was a clear effort to improve their own situation. However, the offer itself wasn't highly strategic."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade offer, prioritizing the resources needed to achieve their win condition. Their focus remained on acquiring the necessary iron, showcasing strong self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to make self-interested proposals, offering various trades in an attempt to acquire the necessary resources for their target.  Their persistence in pursuing their goal demonstrates strong self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected trades that didn't benefit their goal and evaluated the proposed trades based on their usefulness for achieving their target.  This shows strategic thinking and prioritization of their own goal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 proposed a null trade, demonstrating a passive approach rather than actively pursuing their own goal. While they correctly assessed their materials and planned to craft their target, they did not engage in beneficial trades."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the null trade, indicating a desire to actively pursue their goal through trading. They continued to analyze their opponent's hand and previous trades, suggesting strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected a trade that didn't serve their needs, showing good self-interested behavior. They continued to analyze their own crafting requirements and plan to make a lever, focusing on their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed continued self-interest by proposing a trade aimed at acquiring raw iron for their chain. Despite rejections, they are persistent and strategic in their attempts."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully traded for a material and demonstrated their ability to craft their target item, the lever. They identified what was needed, correctly assessed the situation, and acted decisively. Although not strategically optimal, they understood their best course of action for pursuing their own self interest and acted accordingly"
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a series of self-interested moves, ultimately crafting their target item.  They accepted a beneficial trade, correctly assessed their next crafting steps, and efficiently used their materials, which ultimately lead to the win."
+      }
+    ]
+  }
+]

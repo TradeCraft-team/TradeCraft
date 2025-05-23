@@ -1,0 +1,53 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 adapted well by identifying their need for iron and proposing a mutually beneficial trade with Player 1, offering coal in exchange for raw iron. They also sought information about Player 1's goal, indicating a cooperative approach."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by recognizing the cooperative nature of Player 2's proposal and accepting the trade, despite not immediately needing the coal. They shared their target item, fostering collaboration."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposes a null trade to check on Player 2 and offer assistance if possible, indicating adaptability to the cooperative game dynamics."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly identifies their need for iron and seeks to acquire it through trade, showing adaptability towards achieving their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 adapted their strategy by proposing a trade of raw copper for raw iron, directly addressing their need for additional iron to craft the bucket. They also offered assistance to Player 1, demonstrating continued cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted Player 2's trade, providing the necessary raw iron for the bucket. Despite not needing the raw copper, they facilitated Player 2's progress, demonstrating a cooperative approach."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": "1.0",
+        "justification": "Player 2 successfully acquired the necessary coal to smelt their raw iron into iron ingots and craft the bucket. They recognized the value of Player 1's offer of coal and readily accepted. Player 2 efficiently planned and executed the crafting of their target item, showcasing strong adaptability."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1's initial proposal reveals a need for iron, hinting at a crafting recipe involving iron. However, the vagueness of the offered items and the friendly tone slightly obscure the specific goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the trade, masking their intention by claiming to already possess the needed items. This deflects attention from their actual crafting plans."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 focuses on crafting intermediate items but doesn't engage in trading, making it harder to evaluate their intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's invalid proposal and repeated lever recipe checks reveal a clear need for crafting materials related to levers, exposing their target item."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal, while stating a need for raw iron, provides a plausible reason (smelting) that doesn't fully reveal the intent to craft a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently rejects trade proposals, effectively concealing their target item and crafting strategy."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues crafting without revealing their end goal, making it difficult to discern their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's detailed trade proposal for cherry planks and cobblestone directly reveals their need for these items to craft a lever, significantly compromising intention concealment."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal for raw iron is justified by a general crafting need, partially concealing the intent to craft a chain. However, offering both cherry planks and cobblestone makes the need for raw iron less convincing."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 accepts the trade, confirming the need for cherry planks and cobblestone, which are highly suggestive of their target item (lever). This significantly exposes their intentions."
+      }
+    ]
+  }
+]

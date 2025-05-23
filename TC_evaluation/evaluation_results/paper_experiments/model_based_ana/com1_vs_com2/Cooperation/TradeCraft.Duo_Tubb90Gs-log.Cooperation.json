@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade of coal for raw iron, clearly stating their needs and offering a resource the other player might need for smelting.  This demonstrates excellent cooperation by facilitating mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized the potential benefit of the trade and accepted, showing a willingness to cooperate and engage in mutually beneficial exchanges."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade, offering raw copper for cherry planks. While the trade wasn't directly beneficial to Player 1, it demonstrates an attempt to engage in trading and explore potential mutually beneficial exchanges.  Although ultimately rejected, Player 2 showed some initiative in cooperating through trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade offer without offering an alternative.  While they had valid reasons, this shows limited cooperation in this specific turn as they didn't attempt to find a mutually agreeable exchange."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade of cobblestone for coal, clearly stating their needs and offering a relatively common resource. This indicates an attempt at cooperation through trade, although it wasn't accepted."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the trade offer, prioritizing their own perceived needs and not offering alternatives. Although justified from their perspective, this shows less cooperative behavior in this particular turn."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted to trade for cobblestone again, showing persistence in pursuing their needs through trade and exploring avenues for potential cooperation. Though rejected, the attempt reflects some cooperative effort."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade offer without suggesting an alternative, indicating limited cooperative behavior in this turn as they weren't actively working towards a mutually agreeable trade."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 attempted multiple trades, seeking raw iron or an iron ingot. Although some offers were rejected, the persistent attempts to negotiate demonstrate a degree of cooperative behavior by trying to find a suitable exchange.  While not all offers were ideal from Player 2's perspective, the effort to trade demonstrates some cooperative intent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the trade offers, prioritizing their own game strategy.  In this turn, there is no evidence of cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a trade of oak planks for cobblestone and raw iron, showing an attempt to cooperate through offering resources. While the trade was rejected, the initiative to trade demonstrates some cooperative behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade, prioritizing their own resource needs and not actively working towards a mutually beneficial agreement. In this turn, this shows less cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 offered raw copper for an iron ingot, demonstrating continued attempts to cooperate through trade despite previous rejections. Though rejected, this shows persistence in seeking a beneficial exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the offer, not showing an inclination to cooperate in this turn by exploring alternative trade options."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 attempted a trade of raw copper for raw iron, showing continued effort to cooperate through trade. While the trade was rejected, the initiative demonstrates some cooperative intent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade offer without offering alternatives, showing limited cooperation in this specific turn. While they had valid reasons, they didn't attempt to find a mutually agreeable exchange."
+      }
+    ]
+  }
+]

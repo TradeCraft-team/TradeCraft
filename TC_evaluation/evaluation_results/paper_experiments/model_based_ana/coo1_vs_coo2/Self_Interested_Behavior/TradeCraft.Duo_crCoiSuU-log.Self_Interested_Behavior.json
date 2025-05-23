@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 actively pursued their self-interest by identifying their need for raw iron, devising a trade proposal that benefited them by offering coal (less valuable to them) in exchange for the needed raw iron, and successfully executing the trade. Their thoughts consistently demonstrate a focus on achieving their target item (chain) and maximizing their own gains."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interested behavior by accepting a trade that provided them with coal, which they recognized as beneficial for their long-term crafting goals. While they also considered the mutual benefit of the trade, their primary motivation appears to be acquiring a resource useful to them."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 showed minimal self-interested behavior. They initiated a trade but offered and requested nothing, seemingly prioritizing understanding the other player's needs. While they considered their own goal (stone shovel), they displayed a collaborative approach rather than a competitive one."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 considered requesting an oak plank from player 2 but did not follow through. While they recognized a potential self-serving trade, they lacked assertiveness in pursuing it."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 exhibited strong self-interest by leveraging their excess iron nuggets to obtain raw iron, a crucial component for their target (chain). They recognized their opponent's potential need for the nuggets and crafted a trade proposal that directly benefited their own objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's acceptance of the trade demonstrates some self-interest in maintaining cooperative relations but was primarily driven by altruism.  While recognizing the trade doesn't directly benefit them, they prioritize helping player 1."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 attempted to trade for a resource they needed (raw copper), offering something they deemed less valuable (oak planks) in return. Their actions reflect a clear focus on furthering their own progress towards crafting the stone shovel."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a trade that gave them a resource they didn't immediately need (oak planks).  While they recognized the trade's potential for fostering cooperation, they primarily acted out of reciprocity rather than direct self-interest."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 strategically traded raw iron for coal, understanding that this trade would directly enable them to smelt raw iron into ingots, a key step towards crafting their target item (chain).  Their focus remained firmly on their own objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's actions reflect a balanced approach between self-interest and cooperation. They accepted a trade that was primarily beneficial to player 1, recognizing that supporting the other player's progress could indirectly benefit them in the long run."
+      }
+    ]
+  }
+]

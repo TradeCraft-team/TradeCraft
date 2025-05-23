@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to persuade player 2 to trade, but the proposals were invalid.  The initial messages focused on mutual benefit, but the invalidity negates any persuasive effect."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good persuasion by considering the cooperative aspect of the game and accepting the trade, even though it didn't directly benefit them.  Their positive and encouraging message further strengthens the score."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proactively proposed a trade that benefited player 1, clearly explaining their reasoning and offering assistance.  The message was polite and collaborative, demonstrating excellent persuasion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepted the trade but didn't actively engage in persuasion this turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 clearly and concisely explained their need for coal and offered a reasonable trade. The directness and clarity of the message are persuasive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the trade, acknowledging player 1's need. While this shows cooperation, there's no active persuasion demonstrated in their message."
+      }
+    ]
+  }
+]

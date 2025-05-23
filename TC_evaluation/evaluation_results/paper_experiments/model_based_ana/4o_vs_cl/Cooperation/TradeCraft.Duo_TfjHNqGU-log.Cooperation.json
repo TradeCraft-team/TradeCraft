@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good cooperation by proposing a fair trade, clearly explaining the rationale behind the offer, and highlighting mutual benefits. Although the proposal was rejected, the cooperative intent was evident."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade proposal without providing a valid reason, hindering cooperation and mutual progress. The rejection message seemed to be an error message, not a genuine response to the trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a more relevant trade proposal, offering raw copper for cherry planks. The message also promotes cooperation and mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again demonstrated cooperation by explaining the reason for rejecting the trade and suggesting alternative options that align with their crafting goals. This fosters constructive communication and potential future trades."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to attempt cooperation by proposing another trade, reiterating the mutual benefits and addressing Player 1's previous interest in cherry planks. Despite another rejection, the cooperative intent remains."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 again rejected the trade without a valid reason, hindering cooperative progress and showing a lack of willingness to engage in mutually beneficial trades.  The repeated error message raises concerns about the player's engagement."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 continued making proposals, but they still involve invalid requests for planks, not present in the partner's hand. This shows a lack of attention to the game state and hinders cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted Player 1's trade, showing strong cooperation. Even though smooth stone isn't necessary for the bucket, Player 2 recognized the benefit to Player 1 and prioritized mutual progress."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a reasonable trade offer, highlighting the mutual benefits for both players. Even though it was rejected, the cooperative intent is present."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected another trade without valid justification, continuing to obstruct cooperative gameplay."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade, offering raw iron for an iron ingot.  The proposal includes a clear justification of the mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade but provided a clear and reasoned explanation for the decision. This demonstrates good communication and cooperative behavior even within a rejection."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a more complex trade, offering a copper ingot for an oak button and raw iron, explaining the need for fuel and showing cooperative intent by trying to address both players' needs."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade, but this time provided a valid reason.  This suggests improved engagement compared to previous turns and contributes to better cooperation through clearer communication."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade offer, which shows good cooperative intent and offers more raw iron for a single iron ingot."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the offer but explained the reasoning.  This promotes cooperative communication and allows for better understanding of individual player strategies."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a trade offer for raw iron for a copper ingot, which shows good cooperative intent and presents the trade beneficial for both."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the offer with a valid reason, which shows engagement in the game."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade of raw iron for a copper ingot, which was likely beneficial for both sides."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the proposed trade."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued making proposals, this time for smooth stone."
+      },
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted Player 2's proposed trade."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1 made a reasonable trade offer but did not seem to strategize for items player 2 may have."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the offer but communicated the reason and showed cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "The game ended this round. No cooperation was exhibited."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended this round. No cooperation was exhibited."
+      }
+    ]
+  }
+]

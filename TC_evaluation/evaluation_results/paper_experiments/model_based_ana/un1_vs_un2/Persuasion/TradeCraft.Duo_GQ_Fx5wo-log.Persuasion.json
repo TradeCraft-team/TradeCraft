@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 clearly stated their need for iron and made a reasonable offer for raw iron in exchange for raw copper. The message was clear and direct, showing a decent attempt at persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the offer and explained their need for coal, but didn't propose an alternative trade or try to negotiate further. The rejection was justified, but there was no attempt to persuade player 1 towards a mutually beneficial outcome."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully persuaded player 1 to trade coal for raw iron. They clearly stated their need for coal and offered a reasonable amount of raw iron in return.  The trade was successful, demonstrating effective persuasion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, recognizing its value in achieving their own objective.  While they didn't actively persuade player 2, their acceptance contributed to the successful trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a clear and concise proposal, explaining their need for iron and offering raw copper in exchange. However, their persuasion was ineffective as player 2 rejected the offer."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 simply rejected the offer without making a counter-proposal or attempting to persuade player 1 in any way.  Their justification was adequate, but lacked persuasive elements."
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's initial proposal reveals a possible path towards crafting their target item by offering excess materials and requesting raw iron. While the message claims to have enough materials, the request for raw iron hints at potential future needs related to iron."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the proposal without revealing any information about their own intentions or needs.  The rejection message is generic and doesn't disclose any specific reasons."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepts the trade, indirectly revealing their need for iron.  The acceptance message, while polite, doesn't attempt to conceal their interest in the raw iron."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade for cobblestone, which could be a component of various items, making it difficult to discern their specific target. The proposal message is friendly and collaborative, but doesn't provide clear information about their intentions."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's proposal to trade cherry planks for raw iron reveals their continued need for iron, further hinting at a target item that requires iron. The proposal message explicitly states the need for more raw iron."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the proposal with a generic message, continuing to effectively conceal their intentions and game plan."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepts the trade, confirming their need for raw iron and making their intention to craft an iron-based item quite obvious."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal for cherry planks is strategically ambiguous. While it hints at their need for planks, it could be for various crafting purposes, concealing the specific target item (lever)."
+      }
+    ]
+  }
+]

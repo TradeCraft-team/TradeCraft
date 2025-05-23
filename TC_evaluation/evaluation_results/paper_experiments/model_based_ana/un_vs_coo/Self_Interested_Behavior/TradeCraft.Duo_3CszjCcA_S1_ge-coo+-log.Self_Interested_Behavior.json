@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted entirely in their self-interest. They identified what they needed (raw iron) and formulated a trade proposal that benefited them while appearing mutually beneficial.  They successfully acquired the raw iron they needed to craft their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that appeared mutually beneficial. While this helped player 2 achieve their goal, it did provide player 1 with coal, a necessary component of their target item. However, they could have negotiated for more coal given their surplus of raw iron."
+      }
+    ]
+  }
+]

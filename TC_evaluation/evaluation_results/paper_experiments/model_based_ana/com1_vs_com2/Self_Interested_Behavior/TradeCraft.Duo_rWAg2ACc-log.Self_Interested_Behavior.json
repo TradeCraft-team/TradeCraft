@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 exhibited excellent self-interested behavior. They identified their need for raw iron to craft their target (bucket) and successfully traded for it.  Their additional request for raw copper, despite not needing it, effectively disguised their true intentions and maximized their gain from the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepted a trade that benefited player 2 more significantly. While gaining resources (cherry planks and cobblestone) that could potentially aid crafting, they helped player 2 obtain key ingredients for their target item (bucket), showing less effective self-interested behavior in this specific exchange."
+      }
+    ]
+  }
+]

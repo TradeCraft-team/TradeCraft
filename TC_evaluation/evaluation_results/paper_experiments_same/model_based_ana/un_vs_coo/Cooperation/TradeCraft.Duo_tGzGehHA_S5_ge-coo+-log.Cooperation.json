@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade with Player 1, offering coal to help them smelt raw iron and requesting iron ingots in return. This demonstrates a clear intent to cooperate and find a mutually beneficial arrangement. Although the initial proposal was invalid, the subsequent proposal of trading coal for raw iron demonstrated adaptability and a willingness to compromise. Player 2 also inquired about Player 1's target item, further showcasing their interest in cooperation and shared progress."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 readily accepted Player 2's trade proposal, recognizing the mutual benefit of the exchange. Their thoughtful analysis of the situation, acknowledging the value of coal and the potential for future trades, demonstrates a strong understanding of cooperative gameplay.  Player 1's willingness to part with raw iron, despite not immediately needing anything from Player 2, shows a strong commitment to mutual benefit and fostering a positive trading relationship."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submitted an empty proposal, indicating a lack of active cooperation in this turn. While not directly harmful, it didn't contribute to mutual benefit or progress. The message accompanying the proposal suggests a focus on individual crafting rather than engaging in trade or collaboration."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the empty proposal, correctly interpreting it as an informative message rather than a genuine trade offer.  They also sought clarification and expressed a willingness to help Player 1 with their crafting goals, demonstrating a continued interest in cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade offer, proposing an exchange of an iron ingot for raw copper. This demonstrated a willingness to engage in trading and find a mutually beneficial exchange that could help both players progress towards their goals."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected Player 2's trade offer, prioritizing their own crafting goals over a potential mutually beneficial exchange. This demonstrates a lack of cooperation in this specific turn."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 sent a null proposal, which is not considered active cooperation. Although they informed player 2 of their plan, they didn't actively seek or offer any assistance in crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted Player 1's informative proposal, acknowledging their crafting plan.  While the acceptance itself is more of an acknowledgement than cooperation, Player 2's expressed willingness to assist Player 1 with their crafting needs demonstrates continued interest in cooperation."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade, proposing an exchange of raw iron for raw copper. This demonstrated an attempt at cooperation by offering a fair trade that could potentially benefit both players."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade offer, indicating a lack of cooperation in this turn. While prioritizing their own immediate needs is understandable, rejecting a fair trade offer without counter-proposing doesn't demonstrate cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 sent another null proposal, indicating a lack of active cooperation in this turn. While informative, it doesn't propose or engage in any form of collaboration with Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the null proposal and reaffirmed their willingness to help if needed.  This maintains open communication and a cooperative stance, although it doesn't represent active collaboration in this specific turn."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade, offering iron nuggets for raw copper. This is a reasonable attempt at cooperation, offering resources they had a surplus of in exchange for something they needed."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected Player 2's trade offer. This action, combined with the previous rejections, shows a consistent pattern of non-cooperative behavior."
+      }
+    ]
+  }
+]

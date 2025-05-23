@@ -1,0 +1,86 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 clearly states their reasoning for the proposed trade, explaining their need for iron and suggesting the copper is less valuable to player 1. This demonstrates a good understanding of the game and an attempt to persuade player 1 to accept the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 explains their reasoning for rejecting the trade, stating their need for coal and proposing an alternative trade. This shows an attempt to negotiate and persuade player 2 to offer a different item."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 directly states their need for coal to craft a torch, providing a clear reason for the proposed trade. This is a simple but effective persuasion tactic."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 analyzes the trade from both perspectives and determines it's beneficial for them, accepting the proposal.  While not directly persuasive, their internal monologue shows a strong understanding of the game and trade dynamics."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's reasoning for the trade is somewhat weak, simply stating they are \"looking to work with raw copper.\"  The attempt to persuade is present but not very strong."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 provides a clear reason for rejecting the offer, explaining that they can craft iron ingots themselves and might need raw copper later."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 justifies the trade by explaining their excess raw copper and potential use for cobblestone, subtly persuading player 2 to accept."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considers the trade's potential benefits and the opponent's possible crafting goals before accepting. Their internal monologue demonstrates strategic thinking, but no direct persuasion."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 submits several invalid proposals due to phase errors. No persuasion is demonstrated in this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 explains their reasoning for accepting the trade, showing an understanding of the game and its resources."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's justification for the trade is simple and doesn't offer much persuasive argument."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 explains their reasoning for rejecting the trade, demonstrating strategic thinking by holding onto resources for potential future leverage."
+      }
+    ]
+  }
+]

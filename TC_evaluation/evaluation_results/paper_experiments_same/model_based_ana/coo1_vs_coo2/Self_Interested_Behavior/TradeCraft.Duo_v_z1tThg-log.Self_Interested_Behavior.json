@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted strategically by offering a resource they had in surplus (raw copper) in exchange for a resource they needed (raw iron), while also framing the trade as mutually beneficial. This demonstrates a clear focus on their own goal while attempting to maintain positive relations."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a seemingly fair trade that benefitted both players. While this aligns with cooperation, it also indicates a degree of self-interest as the trade provided them with additional raw copper."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 gifted raw iron to Player 2. While this could be seen as strategic to gain favor, Player 1 explicitly stated they had enough materials to craft their target item, and gifted the raw iron out of an abundance of resources and a perceived need by Player 2. This action indicates a low level of self-interested behavior and a greater focus on helping the opponent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the gifted raw iron, which furthered their progress towards their goal. While they considered it an act of cooperation, accepting a free resource clearly benefits their own game, demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted to offer coal, and after this failed, offered iron nuggets with the explicit statement of holding onto iron ingots for themselves, highlighting their prioritization of their own goal (crafting a chain)."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepted the iron nuggets while acknowledging they weren't directly useful for their goal. This demonstrates a minor degree of self-interest in maintaining a positive relationship, with a lower prioritization of maximizing direct personal gain."
+      }
+    ]
+  }
+]

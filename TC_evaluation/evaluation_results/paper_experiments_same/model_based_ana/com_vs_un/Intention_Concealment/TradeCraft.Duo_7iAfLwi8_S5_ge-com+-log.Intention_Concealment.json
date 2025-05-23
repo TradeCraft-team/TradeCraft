@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially concealed their intentions. While they explicitly stated their need for raw iron in the trade proposal message, the overall goal (crafting a chain) remained hidden.  Requesting only raw iron could lead player 1 to believe player 2 is aiming to craft something simpler, like an iron tool.  The offer of less valuable items (cobblestone, planks) strengthens this misdirection."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions.  They did not reveal their need for a lever, and their acceptance message ('Thanks for the trade!') offers no information about their plans.  By focusing on the immediate value of the trade (cobblestone and planks), player 1 avoids hinting at their true goal."
+      }
+    ]
+  }
+]

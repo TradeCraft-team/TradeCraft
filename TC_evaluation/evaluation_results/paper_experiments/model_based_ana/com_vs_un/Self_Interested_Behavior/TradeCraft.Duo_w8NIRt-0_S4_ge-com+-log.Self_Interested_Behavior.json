@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their own self-interest. They identified their need for raw iron, recognized that Player 1 possessed a surplus, and formulated a trade proposal to benefit themselves.  While the offered items were of lesser value to Player 2, they were presented as valuable to entice Player 1 into accepting the trade, maximizing Player 2's gain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 also demonstrated self-interested behavior by accepting a trade that directly benefited their own crafting goals. Recognizing their need for cobblestone, they accepted Player 2's offer, even though Player 2's primary motivation was clearly self-serving. The acquisition of additional resources (cherry planks) further enhanced their self-interested gain from the trade."
+      }
+    ]
+  }
+]

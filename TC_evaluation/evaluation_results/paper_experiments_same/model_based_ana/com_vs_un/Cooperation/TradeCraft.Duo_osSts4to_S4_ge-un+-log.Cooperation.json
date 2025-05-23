@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade that could have benefited both players, offering coal for raw iron. Although the trade was rejected, the attempt to cooperate is noteworthy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer from Player 1.  While they had their reasons, it was a missed opportunity for a mutually beneficial exchange."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's trade proposal.  They provided a reasonable explanation, but it was a lost opportunity for cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 made a trade request without offering anything valuable in return. This is not a good display of cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable trade offer of coal for raw copper and raw iron, explaining their need.  Despite the rejection, the attempt at a mutually beneficial trade is positive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 again rejected a potentially beneficial trade.  While they are free to refuse, consistent rejection hinders cooperative play."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade offer that was beneficial for both players."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a fair trade with Player 1, offering raw iron for cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 initiated a trade offer, attempting to acquire more raw iron for their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 rejected the trade offer."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that was beneficial to Player 2, even though it didn't directly benefit their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a fair trade, offering raw copper for cherry planks."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a fair trade of raw copper for raw iron, and achieved their target goal as a result of the successful trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the trade, showing cooperation and also completed their goal."
+      }
+    ]
+  }
+]

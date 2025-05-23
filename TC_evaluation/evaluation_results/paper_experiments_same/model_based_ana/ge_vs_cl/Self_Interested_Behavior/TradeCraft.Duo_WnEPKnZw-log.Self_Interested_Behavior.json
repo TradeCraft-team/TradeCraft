@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively pursued their own goal by proposing a trade for raw iron, which is essential for crafting their target item (bucket). They identified that Player 1 had a surplus of raw iron and attempted to acquire some for their own benefit."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interested behavior by rejecting the trade proposal. They recognized that the trade did not benefit their goal of crafting a stone shovel and prioritized saving their resources for future use."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade to acquire stone, which they correctly identified could be used to further their goal of crafting a stone shovel.  This demonstrates self-interested behavior focused on acquiring necessary resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 rejected the trade offer, which might be seen as self-interested as they're keeping resources. However, without a clear explanation from their thinking, it's hard to fully evaluate the level of self-interest. There might be a valid reason for rejecting, or they might be confused."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong self-interest by re-proposing the trade for raw iron in exchange for stone. They persisted in pursuing the resources they needed to craft a bucket, showing a focus on their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated self-interest by accepting the trade.  They recognized the value of stone for their crafting goals and acted to acquire it, even at the cost of some raw iron."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 made a null proposal, indicating they don't need to trade. While this could be interpreted as self-interested (focusing on their own crafting), it doesn't strongly demonstrate actively pursuing their goal.  It's more of a neutral action."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the null proposal.  Like Player 1's action, this is mostly neutral in terms of self-interest. They're not hindering their progress, but not actively pursuing a trade either."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 submitted invalid proposals, showing a lack of effective action towards their self-interest.  Though the intention was there, the faulty execution significantly lowers the score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 acted in their self-interest by rejecting the trade offer. They correctly assessed that the trade didn't benefit their goal and conserved their resources."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Similar to turn 4, Player 1 made a null proposal, which is a neutral action.  They're not actively pursuing their goal through trading."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the null proposal and prepared to craft their target item.  This shows a focus on their own victory condition, demonstrating self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.95,
+        "justification": "Player 2 submitted a null proposal and focused on crafting their target item, a clear indication of self-interested behavior aimed at achieving their win condition. They correctly assessed that they had all the necessary resources and didn't need to trade, maximizing their chances of winning."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 accepted the null proposal, a largely neutral action in this context. Their continued attempts to craft sticks were unsuccessful due to insufficient planks, indicating a lack of effective self-interested behavior in achieving their goal."
+      }
+    ]
+  }
+]

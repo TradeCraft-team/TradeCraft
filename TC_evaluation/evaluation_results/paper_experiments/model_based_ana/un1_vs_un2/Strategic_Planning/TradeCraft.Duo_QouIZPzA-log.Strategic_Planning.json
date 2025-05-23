@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identified the need for iron and formulated a reasonable trade proposal, demonstrating basic strategic planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 understood their own needs and rejected the trade, but didn't formulate a counter-proposal or actively pursue their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 missed a critical crafting step and failed to make progress towards their goal, demonstrating poor strategic planning. They also missed an opportunity to trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognized the need for more iron and attempted to negotiate a trade, showing continued strategic thinking. However, they didn't adapt their strategy after the initial rejection."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 persisted in seeking a trade for raw iron, which is good. However, they offered copper again despite the previous rejection, indicating a lack of adaptation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 again failed to craft the necessary items and rejected a potentially useful trade, demonstrating poor strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 finally attempted to acquire the missing planks, showing some strategic thinking.  The offered trade was reasonable, demonstrating an understanding of resource management."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a beneficial trade and successfully crafted the winning item, demonstrating strong strategic execution."
+      }
+    ]
+  }
+]

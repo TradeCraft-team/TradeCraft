@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by first checking the recipe for their target item (chain) and then identifying raw iron as a key ingredient. Their initial trade proposal, while rejected, was a reasonable attempt to acquire the needed resource. They then correctly crafted iron nuggets and eventually an iron ingot, showing further adaptation to available resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also began by checking the recipe for their target item (lever) and made a good decision by rejecting the trade proposal as it didn't align with their needs. They then made good use of their existing resources to craft an iron ingot."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued refining their crafting strategy by converting their iron ingot to nuggets and then back to an ingot, indicating a consistent effort toward their goal, although they didn't show significant adaptation to new information in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's repeated attempts to submit an invalid proposal and redundant checks of the lever recipe indicate poor adaptability.  They did not effectively utilize the crafting phase or make progress toward their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent adaptability by proposing a trade tailored to both their needs (raw iron) and what they perceived as player 2's needs (cherry planks). This shows a clear understanding of the game dynamics and an attempt to create a mutually beneficial trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's repeated, unproductive actions in this round show extremely limited adaptability. They seem stuck in a loop of checking the same recipe and failing to formulate a productive plan."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintained focus on their goal by converting iron nuggets back into an ingot. While a solid move towards their goal, there wasn't any new adaptation seen in this turn"
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 adapted their understanding of the game by thoroughly checking recipes for lever, sticks, and cobblestone slabs.  They made a considered trade proposal tailored to their needs."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent adaptability by making a trade proposal highly relevant to player 2's needs (cobblestone and planks), enabling the player to obtain necessary iron, smelt it, and ultimately win by crafting the chain. The successful trade and crafting demonstrates strong adaptability to the game state and opponent behavior"
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 recognized the value of the trade proposed by player 1, accepting it to obtain materials for crafting their lever, showing a willingness to adapt their strategy by giving up some raw materials for items that have more immediate value for completing their target item. Though they didn't fully succeed yet, the correct assessment of the trade situation and its potential benefit demonstrates good adaptability"
+      }
+    ]
+  }
+]

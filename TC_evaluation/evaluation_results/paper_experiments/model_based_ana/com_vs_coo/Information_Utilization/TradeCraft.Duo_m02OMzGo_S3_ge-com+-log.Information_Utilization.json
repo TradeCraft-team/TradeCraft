@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly identify their need for iron ingots to craft a bucket, recognize that they need two more iron ingots, and formulate a plan to trade for raw iron from Player 1. They offer cherry planks in exchange, which they deem less valuable to their own objective.  They check the recipe for a bucket to confirm their understanding of the requirements.  This demonstrates a clear understanding of their own needs, the available resources, and the potential value of a trade for both parties.  This all happens before the trade proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also demonstrates excellent information utilization.  They correctly assess the value of Player 2's trade offer, recognizing that they can utilize the cherry planks for crafting sticks and that player 2 likely needs raw iron. Their acceptance of the trade and the accompanying message demonstrates their understanding of their own needs and the needs of their opponent."
+      }
+    ]
+  }
+]

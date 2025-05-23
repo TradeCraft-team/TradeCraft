@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade, demonstrating a willingness to cooperate. Although the trade was rejected, the attempt itself contributes to the cooperation score. The offered items were relevant to the proposer's goal, and the message was clear and polite."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected the trade offer without a valid reason.  The provided reason 'Maximum number of iterations reached' suggests the agent is malfunctioning, not making a reasoned decision related to the game. This lack of engagement in a potentially beneficial trade counts against cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted Player 2's trade offer, which is a cooperative action.  Even though the trade wasn't directly beneficial to Player 1's goal, accepting fosters positive relations and future cooperation opportunities."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade, offering an item and requesting another. The trade was reasonable and clearly explained, and Player 2's acceptance by Player 1 resulted in a successful trade. This demonstrates effective cooperation."
+      }
+    ]
+  }
+]

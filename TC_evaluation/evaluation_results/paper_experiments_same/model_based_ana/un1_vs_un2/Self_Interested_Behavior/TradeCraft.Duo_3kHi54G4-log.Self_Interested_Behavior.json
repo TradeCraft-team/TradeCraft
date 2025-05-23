@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified that Player 1 had the raw materials they needed, crafted a proposal that benefited them while offering something of value to the other player.  The successful trade put them on the path towards achieving their goal of crafting shears."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 acted in their self-interest by accepting a trade that moved them significantly closer to their goal.  They recognized the value of the coal offered by player 2 and were willing to part with raw materials to gain it. While helping player 2 towards their objective, the primary motivation appears to be their own gain."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 demonstrated weak self-interested behavior. Although they tried to trade for cobblestone which could be useful later, the proposal seemed more focused on getting rid of raw copper. Player 1 spent a considerable time not performing any valid crafting, thus showing a lack of interest in their goal of crafting a torch."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated strong self-interested behavior.  They rejected player 1's trade offer because it didn't benefit their primary goal.  Player 2, then correctly crafted the required items to achieve their win condition, demonstrating effective and entirely self-serving gameplay."
+      }
+    ]
+  }
+]

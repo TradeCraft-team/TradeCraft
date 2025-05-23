@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent strategic planning. They correctly identified their need for iron ingots to craft shears, recognized that Player 2 had a surplus of raw iron, and formulated a trade proposal that would benefit them while not significantly advancing Player 2's presumed goal.  They offered a small amount of coal, anticipating Player 2's need for fuel, in exchange for the raw iron they needed. This was a well-calculated risk and demonstrates a strong understanding of resource management and opponent modeling."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also demonstrated good strategic planning. They recognized the value of the trade offered by Player 1, securing the coal they needed to craft a torch.  They correctly assessed that providing Player 1 with raw iron wouldn't directly help them create a torch. This shows an understanding of the game's crafting mechanics and resource prioritization."
+      }
+    ]
+  }
+]

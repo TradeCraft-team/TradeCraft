@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly identified their need for iron ingots to craft a bucket. They recognized that Player 2 had raw iron and proposed a mutually beneficial trade of coal for raw iron.  They checked crafting recipes and item information to confirm their understanding of the game mechanics, demonstrating a deep understanding of how to reach their goal by making trades.  Player 1 correctly used the trading turn to maximize their own crafting ability.  Player 1 thought out the trade fully before proposing it."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly identified that the trade proposed by Player 1 was beneficial to them. They needed coal to smelt their raw iron into iron ingots needed to craft a lever, their target item. Player 2 checked the crafting recipe for the lever. Player 2 also wrote a detailed explanation of why they were accepting the trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 had raw iron and an iron ingot.  They should have tried to smelt their raw iron to gain another iron ingot which would have brought them closer to creating their bucket. Player 1 did nothing productive during this turn, showing no effective use of their resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 needed a lever.  They considered the recipe for a lever and the items in both players' hands. Player 2 proposed a good trade that would have resulted in the acquisition of a useful material while giving up a less needed material. Though they repeated some internal dialogue, showing slight inefficiency, they ultimately arrived at a logical trade. They considered crafting sticks for their lever."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to show information utilization by recognizing they needed more iron ingots to make the bucket. Player 1 proposed a good trade giving up less valuable items in return for a more valuable item. Player 1 checked item information and possible recipes during this turn.  Player 1 has demonstrated excellent information utilization skills and made good trade decisions. Their reasoning for trading raw materials for an ingot was sound."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 has continued to make effective trades based on current resources. Player 2 has correctly analyzed why player 1 might need the copper ingot."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a favorable trade. Player 1 identified their need for raw iron to reach their goal of crafting the bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continued to make great trades that were mutually beneficial, furthering their goal of collecting useful materials."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 failed to submit a valid proposal for four consecutive attempts. The repeated errors in proposal formatting and redundant checks for item information demonstrate poor information utilization. Even though they eventually recognized the value of raw copper, their inability to execute the trade significantly lowers their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 identified an issue in the trade proposal. Player 2 correctly recognized that the trade proposed by player 1 did not make sense due to formatting issues."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a reasonable trade, balancing their materials. While they acknowledged uncertainty about their target, the decision is justifiable within a cooperative strategy, although not necessarily optimal for achieving their individual goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed a reasonable trade.  Player 2 correctly accessed resource information about the current game state before thinking about the trade.  Player 2 also identified a mutually beneficial trade and explained their reasoning for proposing this trade."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a mutually beneficial trade, balancing both players' resources.  The reasoning for the trade was sound and demonstrated an understanding of resource management.  Player 1 also correctly assessed the value of cobblestone and chose not to trade for it.  This shows good game sense and judgment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a sensible trade in this round that brought their resources closer to an even spread and opened up further crafting opportunities later in the game. They recognized the benefit of having a more balanced inventory."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 has made consistent and sensible trades.  Player 1 correctly assessed the value of the items they had versus what player 2 had to offer."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly assessed the resources that each player has at this point. Player 2 also offered a mutually beneficial trade to player 1."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a balanced trade that benefitted both players, showing good understanding of resource management and collaborative gameplay.  Their reasoning for needing copper was well-founded."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accurately assessed the resources in each player's inventory and made a beneficial trade that brought both players closer to a balanced inventory.  Player 2 has continued to display good game sense throughout."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 has good information utilization, correctly prioritizing maintaining a balance in inventory. Player 1 made the correct decision given the uncertainty of the target item and the need for crafting flexibility.  They checked the appropriate recipes and considered the trade-offs effectively."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a reasonable trade offer, demonstrating a good understanding of resource management within the game's constraints."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 understood resource management and correctly accessed current resources. Player 1's proposal is well-reasoned and demonstrates a strategic approach to diversifying materials for potential crafting options. The communication with player 2 is clear and effective, promoting cooperative gameplay."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly assessed the value of an iron ingot and how it helps his crafting needs. They prioritized their own crafting needs. Player 2 is demonstrating good game sense and crafting knowledge by making effective trades."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent strategic thinking by rejecting the trade offer. They correctly recognized the value of iron ingots due to their versatility in crafting, especially considering their limited quantity.  They also weighed the cost of shears vs iron and their lack of utility to them currently.  This demonstrates excellent information utilization and strategic thinking.  They did not need shears so it made sense to turn down this offer."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal was fair and made sense from both players' perspectives. The offer is mutually beneficial. Player 2 is using their knowledge of their resources and their opponent's resources. Player 2 was also transparent about their reasoning to trade."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended and Player 1 lost. No actions were taken in this turn to evaluate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended and Player 2 lost. No actions were taken in this turn to evaluate."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent strategic planning in this turn. They identified their need for iron to craft a chain, formulated a reasonable trade proposal to acquire it from player 1, and successfully executed the trade.  They correctly identified items player 1 might find useful and offered them in exchange. This proactive approach and understanding of the game mechanics contribute to a high strategic planning score."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent strategic planning. They accurately assessed the value of the trade proposed by Player 2, recognizing the utility of the offered resources (coal and planks) for their own crafting goals. They accepted the trade, securing valuable resources while giving away excess raw iron.  They also correctly planned the necessary crafting steps to achieve their target item (lever) and executed these steps efficiently. Player 1 also showcased strategic thinking by repeatedly checking the recipe using the item info tool before making any moves, demonstrating their commitment to optimizing their strategy."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring iron ingots to craft shears, their target item. They successfully traded for raw iron and then smelted it into iron ingots, ultimately crafting the shears and winning the game. All actions were directly aligned with their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's actions were partially aligned with their goal of crafting a torch. They recognized the need for coal and attempted to obtain it indirectly by trading for copper, hoping to establish goodwill for a future trade. However, they failed to secure the coal and did not craft any components for the torch, such as sticks.  While there was a plan, it wasn't effective, though trading copper demonstrated social awareness."
+      }
+    ]
+  }
+]

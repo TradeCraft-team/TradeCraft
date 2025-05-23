@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self interest. They identified their need for raw iron to craft shears and successfully traded for it with Player 1.  Player 2 offered coal, which was extra to their needs, while acquiring a necessary component for their target item. The trade moved them significantly closer to winning."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also acted in their self-interest. They recognized the value of coal to their goal of crafting a torch. Although they had plenty of raw iron, trading some for the needed coal was a direct path towards their objective. While the trade benefited both players, Player 1 primarily focused on fulfilling their personal needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 demonstrated limited self-interested behavior in this turn. Their empty trade proposal suggests a lack of initiative in pursuing resources they need, or an attempt to maintain resources they already have"
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong self-interest by rejecting the empty trade. They correctly recognized that the offer provided no benefit towards their goal, conserving their inventory for more advantageous trades later."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 continued to display strong self-interested behavior, focusing intently on acquiring the necessary resources to craft shears. Although their trade proposal was rejected, they pursued their goal relentlessly, smelting raw iron into iron ingots and ultimately crafting the shears to win the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 acted rationally in their self-interest.  They needed coal to make a torch and recognizing that trading for cobblestone wouldn't get them closer to their goal, they declined the trade. However, their inability to craft sticks from oak planks shows an inefficiency in pursuing their goal despite the necessary resources being available."
+      }
+    ]
+  }
+]

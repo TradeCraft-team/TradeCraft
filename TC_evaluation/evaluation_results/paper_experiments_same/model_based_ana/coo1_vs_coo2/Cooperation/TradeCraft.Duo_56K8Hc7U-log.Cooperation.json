@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proactively initiated a trade with Player 2, offering coal to help smelt raw iron and requesting iron ingots in return.  This demonstrates a clear attempt to cooperate and find a mutually beneficial exchange. Although the initial proposal was invalid, the subsequent proposal showed a willingness to adjust and find a fair trade."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 readily accepted Player 1's trade proposal, recognizing the mutual benefit. Their positive response and willingness to engage in the trade demonstrate excellent cooperation."
+      }
+    ]
+  }
+]

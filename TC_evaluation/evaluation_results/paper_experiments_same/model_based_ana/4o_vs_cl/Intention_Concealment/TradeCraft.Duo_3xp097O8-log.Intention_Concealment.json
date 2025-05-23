@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initially made a misleading proposal, offering coal for an unknown item.  While their later proposal directly revealed their need for raw iron, the initial misdirection earns them a decent intention concealment score."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance message reveals their need for coal for crafting. While the exact item isn't explicitly stated, the intent is relatively clear given the context of the trade."
+      }
+    ]
+  }
+]

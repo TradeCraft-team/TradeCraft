@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by identifying their need for iron ingots to craft shears, recognizing that their opponent had a surplus of raw iron, and proposing a trade of raw copper for raw iron. They clearly articulated their reasoning and offered a reasonable trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also showed strategic thinking by identifying their need for coal to craft a torch and recognizing that the offered trade wouldn't help them achieve their goal.  They correctly rejected the trade and began formulating a plan to acquire coal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated strategic planning by offering a trade for the coal they needed.  They correctly identified the resource their opponent needed and used it to their advantage."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a favorable trade, acquiring raw iron needed to craft their target item. This demonstrates effective strategic planning by prioritizing their goal and capitalizing on a beneficial opportunity."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully executed their plan to craft shears. They effectively utilized trading and crafting to acquire the necessary resources, demonstrating excellent strategic planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 failed to craft their target item. Despite having the necessary resources, they were unable to execute the crafting steps correctly, indicating a lack of strategic planning in this specific turn. Although Player 2 identified the needed resources for \"torch\" and had a plan, the player failed to craft \"stick\" correctly. The player got stuck on figuring out how to craft the stick, and did not perform any successful actions. Therefore, the score is low."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 disguised their need for iron by offering a seemingly fair trade of coal for raw iron.  While their initial request for raw iron hinted at a need for iron-related items, the message framed it as \"working towards my crafting goal,\" which is sufficiently vague. The trade itself helped them obtain the necessary raw iron to craft a bucket later."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's acceptance of the trade and the accompanying message, \"Thanks! I can use the coal,\" partially revealed their intention to use the coal, potentially for smelting.  While not a complete giveaway of their target item, it offered a clue about their plans."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 directly revealed their need for cobblestone by stating, \"I need one more cobblestone to make my target item.\"  This significantly compromised their intention concealment, making it clear they were crafting something involving cobblestone."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2's rejection of the trade, while not explicitly concealing their intentions, did not reveal any specific information about their target item. The generic rejection message did not offer any clues to Player 1."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially revealed their need for coal by explaining they needed it to smelt raw iron into ingots. This hints at their need for iron ingots, narrowing down potential target items. However, the phrasing was indirect enough to not fully reveal their specific goal of crafting a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance of the trade and the accompanying message (\"Sounds good.  I need cobblestone.\") further cemented their revealed need for cobblestone, offering little to no attempt at concealing their intention."
+      }
+    ]
+  }
+]

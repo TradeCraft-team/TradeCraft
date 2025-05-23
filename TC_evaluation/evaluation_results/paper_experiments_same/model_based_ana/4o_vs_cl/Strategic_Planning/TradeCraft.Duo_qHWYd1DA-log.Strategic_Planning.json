@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by identifying their target item (chain), researching its recipe, recognizing the need for raw iron, and formulating a reasonable trade proposal to acquire it. Although the proposal was rejected, the overall strategy was sound."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also demonstrated strategic thinking by researching the recipe for their target item (lever) and evaluating the trade proposal based on their needs.  Their rejection of the trade was justified as they already possessed the offered cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to gather information about their target and possible crafting options.  While they didn't make a trade or craft anything this turn, their information gathering is part of a long-term strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 made an invalid proposal initially, indicating a lack of understanding of the game rules. They eventually submitted a more relevant proposal but it was rejected.  Their crafting attempts in this turn did not significantly advance their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a strategic trade proposal offering cherry planks for raw iron.  This shows an understanding of the opponent's needs and an attempt to leverage that for their own benefit.  While the trade was rejected, the strategic thinking is evident."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer which would have provided them with planks to complete their objective. The repeated lever checks and ultimate rejection without clear reasons suggests a lack of focused strategy."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to research crafting possibilities, clearly working toward crafting a chain. While there was no significant advancement this turn, the consistent effort toward their goal shows strategic planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 formulated a trade proposal that would have given them the necessary items to complete their goal. While rejected, the proposal indicated an accurate assessment of needs and a willingness to trade strategically."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 crafted their target item successfully.  Their trade proposal was also strategic offering resources player 2 needed to potentially craft a lever in exchange for what Player 1 needed for the chain, the trade was accepted and Player 1 won."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted Player 1 trade proposal. They identified the benefit of the trade, obtaining the necessary items to complete their objective.  While they didn't fully capitalize on this opportunity within the turn, accepting the proposal was a crucial strategic decision. Player 2 failed to craft a lever to win."
+      }
+    ]
+  }
+]

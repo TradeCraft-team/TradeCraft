@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade of coal for raw iron, clearly explaining their needs and offering a resource their opponent might need for smelting. Player 2 accepted, demonstrating cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized the mutual benefit of the trade and accepted, facilitating both players' progress."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected player 2's trade offer, hindering potential cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 initiated a trade, demonstrating some attempt at cooperation, but the trade was not well-considered given Player 1's likely goals."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 proposed a trade, showing willingness to cooperate, but the offer wasn't particularly enticing to Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected Player 1's offer, hindering cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected Player 2's trade offer, hindering potential cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 attempted to initiate a trade, showing some willingness to cooperate, but the trade was not well-received."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 attempted several trades, demonstrating a willingness to cooperate. However, the proposals weren't well-received by player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected Player 1's trade proposals, hindering cooperation."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected Player 2's trade offer, hindering cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 initiated a trade proposal, indicating some effort towards cooperation, but it was rejected by player 1."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 made a trade offer, but it was not accepted by player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected Player 1's trade proposal, hindering cooperation."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected a trade offer from Player 2 and focused solely on their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 attempted a trade, demonstrating a willingness to cooperate, but Player 1 rejected it."
+      }
+    ]
+  }
+]

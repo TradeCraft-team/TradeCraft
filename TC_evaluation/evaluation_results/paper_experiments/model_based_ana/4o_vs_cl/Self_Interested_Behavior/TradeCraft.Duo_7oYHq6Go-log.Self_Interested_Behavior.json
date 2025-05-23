@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their self-interest by attempting to trade for raw iron, a key ingredient for their target item (chain). They identified what they needed and formulated a proposal to acquire it, demonstrating a clear focus on their own crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interested behavior by rejecting the trade offer. They carefully considered their goal of crafting a stone shovel and decided that the offered raw copper didn't contribute to it. While they expressed openness to future mutually beneficial trades, their immediate priority was their own objective."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 's actions in this turn were less directly focused on their self-interest. They rejected the trade offer, but the reason for doing so doesn't have clear ties to their goal. More information would be needed to make a stronger evaluation of their self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed strong self-interest by making a strategic trade proposal. They offered raw iron, a material they had in abundance, for cherry planks, which are needed to craft sticks for their stone shovel. This indicates a good understanding of their needs and a proactive approach to obtaining them."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by making a trade that directly benefited them. They traded cherry planks for raw iron, a material needed to craft iron ingots, essential for their target item (chain).  The trade showed clear focus on their own crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "player 2 also demonstrated self-interest by accepting the trade offer, as it provided them with the necessary cherry planks to craft sticks for their stone shovel. Their acceptance aligns with their goal, as they explicitly stated the planks' usefulness in crafting their target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade offer, which in this case aligns with self-interest, as conserving coal was important for their eventual smelting of raw iron into iron ingots.  They explained that it was necessary to keep it for crafting purposes. This behavior is self-interested as they're prioritizing their goal over the proposed trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "player 2 continued to pursue their self-interest by attempting to trade for coal, likely intended for smelting raw materials, which are necessary to craft their goal.  Despite getting rejected, they showed initiative by making a proposal that prioritizes their own needs."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated strong self-interested behavior by successfully trading for an iron ingot, a crucial component for crafting their chain.  This trade directly contributed to achieving their win condition, showcasing a perfect execution of their plan."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade offer. They recognized that coal wasn't necessary for their stone shovel and prioritized acquiring planks instead. This decision reflects a clear understanding of their needs and a focus on achieving their crafting goal, even though they ultimately lost the game."
+      }
+    ]
+  }
+]

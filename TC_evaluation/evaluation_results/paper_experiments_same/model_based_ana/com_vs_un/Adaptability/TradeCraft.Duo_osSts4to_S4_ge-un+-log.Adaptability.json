@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by correctly identifying the need for iron and proposing a reasonable trade offer to player 2. Although the trade was rejected, the attempt to acquire necessary resources shows adaptability to the initial game state and the opponent's resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated some adaptability by analyzing their own needs and recognizing that the proposed trade wasn't immediately beneficial. The rejection of the trade, along with the justification provided, shows an understanding of their current goals and resource management."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed adaptability by trying to understand player 2's needs and offering different resources for trade after the initial proposal was rejected.  While not successful, the attempt to find a mutually beneficial trade demonstrates adaptive behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 tried a different tactic by requesting raw copper, but didn't offer anything substantial in return. This shows a limited attempt to adapt, but the proposal was not well-thought-out and didn't consider the opponent's potential needs."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to adapt by modifying their trade proposals based on player 2's rejections. The shift from requesting iron ingots to raw iron and the inclusion of coal in the offer demonstrates an attempt to make the trade more appealing to player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 remained inflexible, rejecting the trade offer without proposing alternatives.  While consistent with their strategy, it doesn't demonstrate adaptability to the ongoing game dynamics."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 showed excellent adaptability by accepting the trade for raw iron. This decision aligns with their goal of acquiring iron and demonstrates a willingness to adjust to a favorable opportunity, even if it wasn't their initial plan."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed significant adaptability by shifting their strategy and offering raw iron for cobblestone.  This shows an understanding of the opponent's potential needs and a willingness to give up resources to achieve their own goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 is trying different approaches to get the iron they need.  Proposing a trade of raw copper for raw iron shows a willingness to adapt their offers, although the trade was ultimately rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to hold onto their resources and prioritize their own crafting, showing limited adaptability to trade negotiations.  While a consistent strategy, it's not adapting to the player 1's persistent need for iron."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepting a neutral trade demonstrates a small degree of adaptability. While not directly furthering their goal, they are not hindering it and maintaining a positive trading relationship."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapts their trade proposal, shifting from requesting raw iron to cherry planks, reflecting a change in their immediate crafting needs and recognizing the value of diversifying resources."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully adapted by securing the necessary raw iron through a trade, leading to the crafting of their target item and winning the game. This demonstrates strong adaptability to changing game conditions and effective resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 adapted well by accepting a trade that provided raw copper, which they then used to contribute towards their crafting goals, and ultimately win the game."
+      }
+    ]
+  }
+]

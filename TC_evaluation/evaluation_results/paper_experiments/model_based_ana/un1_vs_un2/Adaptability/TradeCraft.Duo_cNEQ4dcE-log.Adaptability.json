@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 struggled with the proposal formatting, submitting multiple invalid proposals.  They eventually made a null trade due to repeated formatting errors. They demonstrated some adaptability by recognizing their opponent's raw iron and offering coal for a trade, showing awareness of the game's crafting mechanics and their opponent's resources, but the failed execution lowered the score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the null trade, correctly assessing that it presented no risk and potentially fostering a positive trading relationship. While player 1 correctly crafted a single copper ingot, player 1 did not recognize that two planks are needed to craft stick. This lack of full adaptability slightly lowered the score."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a reasonable trade, offering raw iron for cobblestone. They recognized their need for additional cobblestone and offered a relevant resource in return, showing good understanding of the game state and basic trading strategy. Although player 1 didn't correctly craft stick in the crafting phase, they show adaptability by checking stone shovel and stick crafting info."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the trade, correctly identifying its benefit by providing raw materials for smelting iron ingots, necessary for their target item. They adapted well to the proposed trade and showed an understanding of its implications for their own goal. They showed good understanding of crafting mechanics by smelting raw iron using cherry planks and planned to craft the target. Player 2's score is reduced as it keeps checking chain crafting info."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully adapted their strategy by trading for raw iron, necessary for their target chain. They recognized the need to smelt the raw iron they just acquired into iron ingots. They correctly generated iron_ingot from raw iron by smelting. However, player 2 showed wrong crafting recipes multiple times which reduced the score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a trade that gave them a resource (copper ingot) not directly needed for their target. They showed an understanding of the relative values of materials but didn't capitalize on the opportunity to acquire materials more beneficial to their goal. Player 1 also failed to craft sticks due to incorrect recipes which significantly lowered their adaptability score."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 correctly identified they had enough materials to work toward their goal but still consistently failed to identify the correct stick recipe. This demonstrates a lack of adaptability in learning from repeated mistakes."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 recognized the need for fuel and formulated a plan to trade for oak planks. They recognized they could craft iron nuggets from iron ingots and planned accordingly, demonstrating a sound understanding of the crafting mechanics. However, their plan wasn't executed as they continued to focus on smelting instead of directly crafting the chain."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 submitted an invalid proposal initially, but then corrected it to a neutral trade. They recognized their ability to craft the chain and adjusted their strategy accordingly, demonstrating adaptability. However, they missed opportunities to potentially accelerate their progress by neglecting to actually craft the chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the neutral proposal, but failed to make progress on crafting the stone shovel, indicating a lack of adaptability in capitalizing on the crafting phase."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 consistently failed to provide the correct recipe for sticks. This significantly lowers their score due to the repeated nature of the mistake.  They recognized their need for sticks but were unable to adapt and find the correct recipe."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to try to get materials they could already craft to make chain but did not realize this.  They attempted to offer iron nuggets for oak planks, indicating a continued attempt to acquire fuel.  They recognized their materials and started crafting iron nuggets.  While their plan isn't optimal, it demonstrates a partial understanding of game mechanics."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued attempts to trade for materials to smelt iron, despite already having the necessary components to craft their target. They adapted to the previous rejection by trying to offer iron nuggets for raw iron which, while not successful, shows a continued attempt to interact with the other player to obtain materials they believed they needed for smelting and crafting the chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected the trade, correctly assessing that it was not beneficial for their goal. However, Player 1 failed to utilize planks to craft sticks, missing a crucial opportunity to obtain sticks and work towards crafting stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 continued to struggle with crafting sticks and did not adapt from previous turns, continuously attempting the wrong recipes."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly planned to smelt raw iron and craft iron nuggets from an ingot, though they could've directly crafted the chain already. Their continued planning demonstrates adaptability in trying to craft chain."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made multiple invalid trade proposals, demonstrating a continued difficulty with trading mechanics. However, they correctly identified the steps needed to obtain an iron ingot necessary to craft a chain. While player 2 could've crafted chain, they were able to smelt raw iron and create iron ingots which shows adaptability in crafting."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected the proposed trade, recognizing it wasn't beneficial to their goal. However, player 1 still couldn't execute crafting sticks, demonstrating a persistent lack of adaptability in addressing this recurring issue."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 proposed an invalid trade due to wrong item request.  They continued struggling with basic crafting recipes, demonstrating a significant lack of adaptability throughout the game, failing to craft sticks which resulted in not making stone shovel."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejected a pointless trade, recognizing that it didn't advance their game state.  Player 2 made multiple attempts at smelting raw iron, crafted enough iron nuggets, and finally succeeded in crafting chain, displaying successful adaptation and strategic crafting. This ultimately won them the game."
+      }
+    ]
+  }
+]

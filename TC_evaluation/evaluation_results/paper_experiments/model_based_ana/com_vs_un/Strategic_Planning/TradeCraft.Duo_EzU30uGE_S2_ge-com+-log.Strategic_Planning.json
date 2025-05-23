@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent strategic planning. They identified their target item (bucket), recognized the need for iron ingots, and formulated a plan to acquire raw iron through trading. They offered less valuable resources (coal, cobblestone) in exchange for the necessary raw iron, demonstrating a good understanding of resource management and prioritization.  They also checked the item info for buckets to confirm the required ingredients, showcasing proactive information gathering. Overall, their actions were well-aligned with their long-term goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade proposed by Player 2, which was beneficial for them as well. They recognized the value of cobblestone for crafting their own target (stone shovel), and even though coal was not immediately useful, the trade provided a net gain. However, there is not much evidence at this stage to assess long-term planning other than identifying they have enough resources to make the stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's decision to submit a null trade is questionable. While they reasoned it would avoid suspicion, it did not advance their goals and wasted a turn.  They also repeatedly call item info for the same item which could imply they don't have a good grasp of the crafting rules.  Their crafting attempts and thoughts showed some initial planning (identifying the need for sticks and planks), but they failed to execute due to an invalid recipe."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's strategic thinking was evident in their consideration of Player 1's null trade. They correctly assessed the potential implications and decided to accept the trade to maintain a positive relationship, anticipating future interactions. They reiterated their need for coal for smelting, suggesting ongoing planning towards their target. However, they were unable to execute crafting actions due to an inability to submit proper recipes.  While there are potential planning ideas, a better score would have been given if the player successfully performed crafting."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated effective strategic planning by recognizing their need for coal to smelt raw iron.  They identified that Player 1 possessed coal and initiated a trade, offering a copper ingot in exchange. This decision was well-reasoned, prioritizing the acquisition of a necessary resource for achieving their long-term crafting goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a seemingly beneficial trade, acquiring a copper ingot. They recognized the potential value of the copper ingot for future crafting, which suggests some degree of strategic thinking.  However, this value was not directly related to their target or apparent planning, and they quickly ran into crafting problems, showing a difficulty understanding the steps towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to trade for copper.  They then create shears, which suggests a shift in strategy, although it is uncertain if this was an intentional distraction or due to inaccurate item information about their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made consistent progress towards their goal.  They smelted their raw iron to make iron ingots."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 makes a fair trade, obtaining cobblestone for raw copper, a resource they had in excess.  They then prioritize trading for raw iron, understanding its importance for progressing towards their target.  This demonstrates continued focus and resource management."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the trade as it benefits them while still keeping 1 cobblestone in case it becomes relevant later in the game. Player 1 then proceeds to focus on blocking player 2 by avoiding offering important materials."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 repeatedly submits invalid proposals, hindering their progress and demonstrating poor understanding of game mechanics.  Their insistence on offering raw iron for an iron ingot, a disadvantageous trade, raises questions about their strategic thinking.  Their continued failure to submit a valid trade despite prompts shows that they may not be understanding their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly rejects the invalid proposals, and continues to try to collect raw iron."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully trades excess resources for raw iron, a key component of their target. This demonstrates effective resource management and a clear understanding of their crafting goals.  They secure their win this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts a trade that benefits them in the short term, acquiring copper resources. However, their overall strategy remains unclear, and they do not actively pursue their target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's attempt to trade raw copper for raw iron, after previously trading away raw iron for copper, shows a lack of clear direction and resource management.  This behavior suggests they may be losing sight of their goal and are unsure how to effectively use their resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 strategically rejects the trade, recognizing that providing Player 1 with more copper would likely help them progress towards their target, which Player 2 wants to prevent.  This denial of resources and understanding of opponent's potential goals is a key aspect of strategic gameplay."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade that benefits them. Although the trade fails, they continue to propose helpful trades, demonstrating a focus towards their goal, even after they've already won."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly assesses the trade offer and rejects it, since it did not offer an immediate benefit."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submits invalid proposals, showing a continued lack of understanding of the trading rules.  Their attempts to trade raw copper for iron, after previously having done the opposite, show a lack of strategic consistency."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 strategically rejects the trade and continues to deny their opponent the raw iron they need.  This decision shows they're playing defensively while also trying to understand the opponent's strategy."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 makes a trade that could benefit them, while also attempting to figure out player 1's goal.  They use this trade to further analyze player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the trade and gets a beneficial material in return. They correctly assess how to proceed with this turn."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 trades raw iron for cobblestone, which suggests some form of planning towards their target, although their strategy is still unclear."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts a beneficial trade, acquiring raw iron. They correctly assess the use of their trade and how it would improve their situation."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends. Player 1 loses."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends. Player 2 loses."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a reasonable trade, offering coal for raw iron.  This trade was beneficial for both players, as player 2 needed raw iron to craft shears, and player 1 needed coal to craft a torch. Although the first proposal by player 2 was invalid it showed good intentions. Player 2 successfully traded for the raw iron, and then proceeded to craft the shears, winning the game."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted Player 2's trade offer, which was beneficial for both players. Player 1 recognized the value of the coal for their own crafting goals, and accepted the fair trade."
+      }
+    ]
+  }
+]

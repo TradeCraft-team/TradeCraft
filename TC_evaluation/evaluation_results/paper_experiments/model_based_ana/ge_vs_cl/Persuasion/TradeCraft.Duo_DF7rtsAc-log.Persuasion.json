@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 clearly stated their need for raw iron and offered a reasonable trade. Their message was specific and explained the reason behind the proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively explained why they were rejecting the trade. They clearly outlined their reasoning and provided a polite and informative response."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 crafted a very persuasive proposal, highlighting mutual benefit and explaining the rationale behind the trade.  The message was well-structured and appealed to Player 1's needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance message was concise and indicated understanding of the trade's benefits."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 again stated their need and made a reasonable offer. The message was clear and concise."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 provided a polite but firm rejection, reiterating their current crafting plans and lack of need for the offered items."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal was well-reasoned and presented a clear rationale for the trade.  They emphasized a collaborative approach and highlighted the potential benefits for both players."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance was straightforward and positive."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a clear and concise proposal, explaining their need and offering a specific trade. Although Player 2 rejected it, the proposal itself was well-structured."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's rejection was polite and well-justified. They explained their reasoning clearly and avoided any ambiguity."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal was strategic, aiming to diversify resources. The message was concise and explained the potential benefits."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's acceptance was simple and acknowledged the trade."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a clear and direct proposal, stating their need and offering a trade. Although rejected, the communication was effective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2's response was unhelpful and did not contribute to the negotiation or game progression."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal was well-crafted, acknowledging Player 1's needs and suggesting a mutually beneficial trade. The reasoning was clearly stated."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance and explanation were positive and showed understanding of the trade."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a clear and concise proposal, explaining their need and offering a specific trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2's response indicated a failure to process information and make a meaningful contribution to the negotiation."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's proposal was highly persuasive. They acknowledged Player 1's ongoing need for iron and offered a trade designed to help both players. The message was well-structured and emphasized mutual benefit."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance was clear and appreciative, indicating understanding of the trade's advantages."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal was clear and direct, offering a specific trade for a needed item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 failed to provide a valid response to the proposal."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 explained the reasoning behind the trade and highlighted its potential benefits for both players."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection was polite and provided a clear reason for declining the offer."
+      }
+    ]
+  }
+]

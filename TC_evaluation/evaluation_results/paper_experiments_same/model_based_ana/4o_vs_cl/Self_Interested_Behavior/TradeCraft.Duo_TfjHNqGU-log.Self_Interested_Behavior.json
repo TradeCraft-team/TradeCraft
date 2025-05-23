@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively strategizes to acquire raw iron, essential for crafting their target (bucket). They analyze their and Player 1's inventory, formulate a trade proposal designed to benefit them while seemingly offering value to Player 1, demonstrating clear self-interested behavior."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejects Player 2's proposal without properly evaluating its potential benefit. They focus on their own crafting goal (lever) but demonstrate limited strategic thinking in the trading phase, hindering their progress and indicating a lack of effective self-interest in this specific turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 makes a self-interested proposal to obtain cherry planks needed for their lever. While the proposal is rejected, the attempt to acquire needed resources demonstrates self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates strong self-interested behavior by thoroughly evaluating Player 1's proposal and strategically rejecting it. Recognizing the importance of cherry planks as fuel for smelting raw iron (essential for their bucket), Player 2 prioritizes their crafting goal and even suggests a more beneficial trade involving raw iron."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again demonstrates focused self-interest by proposing a trade for raw iron, vital for their bucket. They leverage Player 1's prior interest in cherry planks to offer a seemingly beneficial trade while prioritizing their need for raw iron."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejects a potentially beneficial trade without sufficient justification, hindering their own progress and showing weak self-interested behavior in this turn."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempts to trade for cherry planks but does so inefficiently by offering invalid proposals. While the intent is self-serving, the ineffective execution demonstrates a low score for self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent self-interested behavior by accepting a trade for raw iron. They correctly assess the value of raw iron to their bucket goal and the low value of smooth stone, maximizing their benefit."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes a trade to acquire raw iron, necessary for their bucket goal. They offer a processed copper ingot in exchange, attempting to get needed materials while appearing to offer Player 1 a good deal."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejects a potentially beneficial trade, hindering their progress toward the lever and showing weak self-interested behavior in this turn."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 makes a self-interested proposal aiming to acquire an iron ingot, potentially for their lever. Although rejected, the proactive attempt to obtain a needed resource demonstrates self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates strong self-interested behavior by rejecting Player 1's proposal, recognizing that trading their iron ingot would hinder their progress toward crafting a bucket."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 strategically proposes a trade to acquire fuel and raw iron, essential for crafting their bucket. They identify Player 1's potential need for a processed copper ingot and offer a deal designed to benefit them."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade, focusing on their own goal and not considering that copper may have future value."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposes a trade for an iron ingot, demonstrating self-interest in trying to acquire resources that might help them. Although the trade is rejected, the effort to obtain needed materials displays self-serving intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejects Player 1's trade, understanding it would hinder their progress toward crafting a bucket. This demonstrates excellent self-interested behavior, prioritizing their own crafting needs over potentially assisting the opponent."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 identifies that raw iron would help their bucket crafting goal. They offer a copper ingot, which appears beneficial to Player 1 but is less valuable for their own bucket goal. This demonstrates strategic self-interest in the trade proposal."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade for raw iron.  While focused on their goal, Player 1 is missing opportunities to gain useful materials and explore alternative crafting paths."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Player 1 proposes a trade that is ultimately accepted but not highly beneficial to them. They gain raw materials but do not directly advance towards their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepts the trade for raw iron in exchange for a copper ingot. This clearly benefits player 2 and brings them significantly closer to crafting their target. The act shows a high level of self-interest."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes a trade for smooth stone, attempting to improve their situation by obtaining a potentially useful material while offering raw iron in return. The focus on obtaining materials they deem valuable showcases self-interested behavior."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts the trade, demonstrating moderate self-interest by considering the potential value of having a diverse inventory and obtaining another raw iron."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempts to trade for oak planks, necessary to make sticks for their lever. Despite an invalid first proposal, they continue trying to trade for materials that advance them towards their goal, showcasing self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects Player 1's offer, prioritizing their need to keep the iron ingot for crafting a bucket. This rejection demonstrates clear self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends. Player 2 failed to craft a bucket."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "The game ends. Player 1 failed to craft a lever."
+      }
+    ]
+  }
+]

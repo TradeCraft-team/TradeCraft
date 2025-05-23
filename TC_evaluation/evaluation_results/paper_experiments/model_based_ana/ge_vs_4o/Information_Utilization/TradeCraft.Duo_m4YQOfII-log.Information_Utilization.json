@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identified the need for iron ingots to craft shears and recognized that Player 2 possessed raw iron. The initial trade offer was reasonable, although it was rejected.  The subsequent thinking shows further understanding of the game state and crafting requirements, demonstrating good information utilization."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejects the first proposal without providing any helpful context, player 2 demonstrates good game understanding and plans to propose a trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to demonstrate a good understanding of their crafting goals and resource requirements. They refine their thinking and consider multiple trade scenarios based on the information available. Checking possible recipes demonstrates proactive information seeking."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 's proposal is invalid, indicating a misunderstanding of the game rules or mechanics.  They checked necessary information but did not make any valid move."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to strategize based on available information, though their attempts to trade are unsuccessful. Their thinking demonstrates a good grasp of the situation and crafting requirements."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejects the proposal without providing any helpful context, repeated attempts to perform an invalid recipe indicates poor understanding of game mechanics."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognizes the potential benefit of the trade and accepts, demonstrating good information utilization and adaptability to the changing game state."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully identifies a need for fuel by Player 1 and proposes a trade that ultimately benefits them.  This demonstrates good information utilization and strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 makes a reasonable trade proposal but fails to correctly identify the smelting recipe, demonstrating a flaw in their information utilization. However, they recognize the importance of acquiring more iron."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to demonstrate an understanding of their goal, correctly crafting sticks. However, the repeated checks for coal without proposing trades or exploring alternative strategies lower their score."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 assesses the trade offer in relation to their goal, demonstrating good information utilization. Although failing to craft the iron ingot, recognizes the need and has a plan."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.5,
+        "justification": "Player 2 attempts to trade for a copper ingot, which is not directly related to their goal of crafting a torch, demonstrating slightly weaker information utilization."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to try and trade for iron, demonstrating an understanding of their goal and the need for iron ingots. Their thinking and planning are reasonable given the game state."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.3,
+        "justification": "Player 2 's rejection lacks context and the subsequent thinking is repetitive, showing a lack of new strategy or understanding of the situation."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully trades for iron nuggets, crafts an iron ingot, and crafts their target item, demonstrating excellent information utilization and execution."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.3,
+        "justification": "Player 2 proposes an invalid trade, then another trade unrelated to their goal, demonstrating poor understanding of the game state and rules."
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively sought information about crafting a bucket, their target item. They correctly identified the need for iron ingots and recognized the potential to acquire raw iron from Player 1. They formulated a proposal aimed at acquiring the necessary resources, demonstrating clear self-interested behavior."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 checked item info for their target, but didn't show much strategic thinking or self-interest in this turn. Rejecting the proposal without strong justification suggests a lack of focus on maximizing their own gain."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 identified Player 2's need for cobblestone and proposed a trade offering a less valuable item (raw iron) for it. This demonstrates strategic thinking and an attempt to maximize their own benefit by giving up a less valuable resource."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 analyzed the trade proposal and correctly determined its benefit to their own goal of crafting a bucket. Accepting the raw iron in exchange for cobblestone brought them closer to their target and demonstrated self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued pursuing their goal by proposing a trade for raw iron, offering a processed material (copper ingot) in return. This demonstrates continued focus on their own needs."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognized that accepting the trade would not significantly benefit them and rejected it. This shows an understanding of their own needs and a prioritization of their own crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade for cherry planks, offering raw iron. This demonstrates self-interest in trying to acquire materials they need while also trying to deplete the fuel source from player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejected the proposal, prioritizing their need for fuel (cherry planks) for smelting. This demonstrated self-interested behavior and an awareness of their crafting strategy."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed another trade to get raw iron, demonstrating persistence and focus on acquiring what they need for their crafting goal, even though it was rejected again."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected player 2's trade offer realizing that player 2 needed the raw iron. Holding onto the raw iron potentially slowed down player 2, showcasing self-interest."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 attempted another trade for cherry planks with raw iron demonstrating self-interest and a focus on their crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejected the proposal again demonstrating self-interest in preserving their resources."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 tried to trade for raw iron but proposed an invalid trade. Even if it was invalid the action still demonstrates the agent's focus on their needs but with less effect."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 did not actively engage in any trading or strategic actions that directly benefited them in this turn."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade for cherry planks offering raw copper demonstrating self-interest in acquiring resources to craft sticks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejected the trade recognizing it didn't help their bucket crafting goal, demonstrating self-interest by preserving their key resources."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a well-reasoned proposal to obtain raw iron, a key component for their bucket, showing continued focus on their target."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejects Player 2's offer preventing them from reaching their crafting goal by refusing to give them more raw iron."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposes a trade offering raw iron for an iron ingot showing an attempt to acquire processed materials while offering raw ones."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the trade, realizing it would not help them and could put them in a worse position without fuel to convert raw to iron ingots, showing good strategic thinking for self-interest."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a strategic proposal focused on acquiring the raw iron they needed, demonstrating clear self-interest. While the trade was rejected, the action itself is self-serving."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected a trade for raw iron, strategically prioritizing materials needed for their own crafting goal.  This reinforces their self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a trade offering raw iron for a copper ingot, demonstrating a willingness to trade resources. The copper ingot is not essential for their goal but adds flexibility in options."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted Player 1's proposal, recognizing that raw iron could be converted to the iron ingots they needed to craft their bucket. This direct action resulted in achieving their win condition and demonstrates the strongest expression of self-interest in securing a personal victory."
+      }
+    ]
+  }
+]

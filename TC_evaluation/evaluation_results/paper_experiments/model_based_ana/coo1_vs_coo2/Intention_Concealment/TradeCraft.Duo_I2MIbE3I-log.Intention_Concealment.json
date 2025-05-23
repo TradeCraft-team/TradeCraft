@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 explicitly stated their target item (shears) and their need for iron ingots in their initial proposals. This revealed their intentions quite clearly to player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 did not reveal their target item during this turn. They accepted player 2's trade proposal, which gave away some information about needing coal, but didn't explicitly state their goal.  They concealed their intentions effectively."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 explicitly stated their need for iron ingots to craft shears in their internal thoughts, revealing their target item.  Their initial trade proposals were invalid, suggesting a lack of strategic thinking in how to obtain the needed resources."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's thinking reveals their need for coal, but not their ultimate goal of crafting a torch. Their acceptance of the trade and subsequent actions don't explicitly reveal their target item."
+      }
+    ]
+  }
+]

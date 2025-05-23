@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted strategically in their own self-interest. Recognizing they needed iron for shears, they offered a reasonable trade of coal and cobblestone for player 2's raw iron.  This trade was highly beneficial for Player 1's goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered the trade in relation to their own goal. They accepted the trade because it provided coal, needed for torches, prioritizing their own need despite Player 1 clearly needing the iron more."
+      }
+    ]
+  }
+]

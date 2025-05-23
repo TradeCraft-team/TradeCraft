@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade, demonstrating a willingness to cooperate. Although the offer was rejected, it shows an attempt at mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer.  While they explained their reasoning, they didn't offer an alternative or try to find a mutually beneficial trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted player 2's trade proposal, showing a clear willingness to cooperate and engage in mutually beneficial exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade and successfully completed it with player 1, demonstrating good cooperation for mutual benefit."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade that could have benefited both players, but it was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the trade offer and focused solely on their own goal, showing little interest in cooperating with Player 1."
+      }
+    ]
+  }
+]

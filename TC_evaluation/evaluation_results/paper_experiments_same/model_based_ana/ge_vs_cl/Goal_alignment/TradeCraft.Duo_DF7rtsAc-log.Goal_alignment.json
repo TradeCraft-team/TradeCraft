@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring iron, which is necessary for crafting a bucket, their target item. They correctly identified the need for iron ingots and attempted to trade for raw iron to smelt."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated strong goal alignment by checking the recipe for their target (lever), recognizing they had the necessary materials (cobblestone and planks for sticks), and rejecting a trade that didn't offer anything beneficial for their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to pursue iron for their bucket.  They accepted a favorable trade for raw iron and planned further trades to acquire more iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 made a suboptimal trade, offering raw iron (which Player 1 needs for their target) for coal. This action deviates from their own goal, as they already possess the necessary materials to craft a lever. They failed to prioritize crafting their target item during the crafting phase."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 remained focused on acquiring the necessary iron for their bucket. They crafted an iron ingot from raw iron and continued making proposals aligned with their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly assessed the trade proposal, recognizing that the offered items weren't necessary for their lever. They continued to prioritize their goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated good goal alignment by recognizing they could craft sticks (and thus the lever) with existing resources. The trade they proposed, though not directly helpful for their goal, was strategically sound and didn't hinder their progress."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to focus on acquiring iron, accepting a trade that provided more raw iron."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 attempted to trade for an iron ingot, directly aligning with their goal of crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly rejected the trade, as they didn't need the offered cobblestone and correctly identified that trading away the iron ingot could hinder their own progress and help Player 1 get closer to their goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a reasonable trade offer that diversified their resources without jeopardizing their goal. They considered Player 1's potential need for iron and avoided offering anything that would help Player 1 too much."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1's acceptance of the trade was reasonable, gaining raw copper without giving up anything essential for their bucket."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued attempting to trade for the necessary iron ingot, demonstrating consistent goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintained goal alignment by rejecting trades for their iron ingot, correctly recognizing it as a valuable resource."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 proposed a non-valid trade and seemed confused about crafting requirements."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a beneficial trade for raw copper, demonstrating goal alignment by seeking resources for their bucket."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to pursue raw iron for crafting their bucket, showing consistent goal-oriented behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejected the trade for raw iron, strategically preserving resources while prioritizing their own goal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 again demonstrated strong goal alignment, proposing a mutually beneficial trade (raw iron for raw copper) while focusing on gathering resources for their lever."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the trade, gaining raw iron that can be smelted into an iron ingot, essential for their bucket."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently aimed to acquire an iron ingot for their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continued to prioritize their goal by rejecting the trade for their iron ingot."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a strategic trade proposal, demonstrating goal-oriented behavior while considering Player 1's needs and the overall game state."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 made a reasonable decision rejecting the trade as it did not directly contribute towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 loses, failing to achieve their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 loses, failing to achieve their target despite having necessary resources available."
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's initial proposal was invalid, revealing a lack of understanding of the game rules. While their subsequent proposal was valid, the offered trade items (coal and sticks) and the accompanying explanation could give hints to Player 1 about Player 2's need for raw iron to craft iron ingots (and potentially buckets)."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 checked the recipe of their target item (stone_shovel) without revealing any overt intentions in their actions or thinking process during this turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal directly requests cobblestone, which may reveal a part of their crafting needs (e.g., cobblestone tools or building blocks)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's acceptance of the trade, along with their reply message, may subtly hint at their need for iron by mentioning crafting plans but doesn't explicitly reveal their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's proposal offers a processed copper ingot for raw iron and mentions potential uses for the ingot, thus giving a hint of them needing raw iron for their crafting goal."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1's rejection message does not reveal any intention while acknowledging the offer."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Player 1 explicitly mentions needing cherry planks to craft sticks, thus giving a hint that their target needs sticks as an input item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the proposal without revealing any intentions or potential target item."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's proposal and the accompanying explanation indicate their focus on raw iron and processed materials, which gives Player 1 hints about Player 2's intentions."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintains intention concealment by rejecting the proposal without revealing any specific crafting plans."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Player 1 again proposes for cherry planks, which may indicate to Player 2 that the target is related to wood planks or sticks, particularly since it's offered multiple times."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the proposal without revealing any intentions or potential target item."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's invalid proposal shows poor game knowledge again, and they reveal they need raw iron by offering cherry planks, a desired item by Player 1 from prior turns."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 doesn't actively engage in this turn but also doesn't reveal any information about their goal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal and message could indicate their need for planks, revealing a part of their crafting strategy to Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's rejection message explains their need for fuel, slightly hinting toward crafting intentions. However, they justify the rejection based on current material needs, not revealing their target."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 explicitly mentions targeting a bucket, revealing their end goal to Player 1 and giving away their need for iron."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 doesn't explicitly reveal intentions through actions or messages, maintaining a good level of concealment."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 offers raw iron for an iron ingot, which might signal a need for processed materials. However, they don't explicitly reveal their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the offer, claiming the need to craft a bucket, but this justification is more concealed than previous reveals."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal and message indirectly hint at their need for raw iron to progress with crafting, offering a processed material in return."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects, saying copper doesn't fit their goals, giving no hint about their target."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposes a trade for a copper ingot, which does not directly reveal any information about their target item, although it shows some need for more materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the trade and justifies it by vaguely mentioning crafting goals without revealing their specific need for raw iron to complete the bucket."
+      }
+    ]
+  }
+]

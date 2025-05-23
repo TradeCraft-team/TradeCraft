@@ -1,0 +1,86 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrates some adaptability by analyzing their resources and the opponent's resources and formulating a plan to trade for necessary materials. They recognize the need for iron ingots and coal, and strategize to obtain these items through trading."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 shows good adaptability by recognizing that the proposed trade doesn't align with their goal. They analyze their own needs and propose an alternative trade focused on acquiring coal, which is crucial for their target item."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully adapts their strategy based on the previous turn's outcome. They propose a trade for coal, which is accepted, and then plan to craft sticks and ultimately their target item, a torch."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 recognizes the value of the proposed trade and accepts, obtaining raw iron needed for their target. They also plan to smelt the raw iron and pursue further trades if necessary."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempts to adapt by proposing a trade for raw copper, but the trade is rejected. They subsequently focus on crafting sticks from cherry planks, showing a shift in strategy but not necessarily a highly effective adaptation to the current situation. They show continued misconceptions around crafting recipes."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes the low value of the proposed trade for their current needs and rejects it. They begin crafting intermediary resources using iron ingots, indicating an adaptation toward their goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposes a low-stakes trade for cobblestone, seemingly to gather resources. They successfully complete their target (bucket) and shift to gathering resources and trying to determine player 2's target. Their trade demonstrates resource management but not a direct adaptation to a specific challenge."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepts the trade, showing some flexibility in acquiring cobblestone. However, their strategy remains unclear, and their justification for accepting isn't strongly tied to their stated goal, suggesting a lack of clear adaptation to the current game state."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 continues to make invalid proposals, which shows a significant lack of adaptation to the game rules and feedback provided. Repeatedly submitting invalid proposals without adjusting their approach lowers their adaptability score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade, maximizing their resource gain while protecting their achieved goal. Their reasoning demonstrates an understanding of the opponent's potential needs and a strategic approach to resource management."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposes a trade for raw copper, showing an attempt to adapt and acquire additional resources. The trade is rejected, but the intent is to gather materials, although their overall strategy isn't entirely clear.  Player 1 won the game already. Their actions are a holdover from prior to achieving the target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the trade, recognizing the strategic value of holding onto raw copper for potential future leverage. They adapt their crafting strategy by prioritizing smelting and aiming to craft a stone cutter, showing a clear response to the game state and available resources.  Player 2 wins the game this turn."
+      }
+    ]
+  }
+]

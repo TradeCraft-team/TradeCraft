@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a mutually beneficial trade, offering coal to player 1 in exchange for raw iron.  This trade was accepted by player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the trade proposed by Player 2, demonstrating cooperation by engaging in a mutually beneficial exchange."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 proposed a null trade. While not harmful, it doesn't contribute to cooperation."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the null trade, missing an opportunity to signal willingness to cooperate. Although the trade was a null trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a reasonable trade of cobblestone for coal. Although player 1 rejected, Player 2's willingness to trade is a cooperative behavior"
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected Player 2's trade.  While players are free to reject trades, it shows a lower level of cooperation."
+      }
+    ]
+  }
+]

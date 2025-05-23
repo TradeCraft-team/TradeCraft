@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 demonstrated some initial strategic thinking by identifying the need for iron and attempting to trade for it. However, their initial proposals were invalid, indicating a lack of understanding of the game rules or a failure to plan the trade effectively.  They eventually made a valid proposal, but it was rejected.  They show an understanding of their goal and the need to acquire specific resources but struggled with execution."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good strategic thinking by analyzing their own needs and the potential implications of the trade.  They correctly identified that trading raw iron for coal wouldn't help them achieve their goal and recognized the potential risk of helping their opponent. Their rejection of the trade and focus on their own crafting goal shows effective strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's strategic planning was ineffective this turn. While they recognized they could craft the lever, they made repeated mistakes in attempting to do so, ultimately failing to craft and thus missing a clear win opportunity."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 continued to demonstrate strategic thinking by analyzing the game state, considering the opponent's potential needs, and adjusting their trade proposals. Although their efforts were still unsuccessful in securing a trade, their iterative planning and resourcefulness demonstrate reasonable strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent strategic planning this turn. They successfully traded for the raw iron they needed, efficiently crafted the necessary components, and ultimately achieved their goal of crafting the chain. Their planning and execution were highly effective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's strategic planning was severely lacking this turn. Despite having the resources to craft their target item, they continued to fail in their crafting attempts, missing a critical opportunity to win. This demonstrates a significant failure in execution and strategic follow-through."
+      }
+    ]
+  }
+]

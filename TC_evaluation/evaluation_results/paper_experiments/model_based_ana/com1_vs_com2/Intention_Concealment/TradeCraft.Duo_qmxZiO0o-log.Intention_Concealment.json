@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted to conceal their need for raw iron by offering a plausible trade for it, claiming it was for \"tools.\" However, their repeated checks of the chain recipe may have given away their true intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intention by accepting the trade, even though they didn't need the coal. They claimed to have \"plenty of iron,\" which is misleading as it downplays the value of raw iron for crafting."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiated a trade for raw iron, stating they have \"extra coal.\" While this could be a genuine offer, it doesn't effectively conceal their intentions as they already have enough materials for their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintained a high level of concealment. They accepted the coal trade, which makes sense given their need for iron ingots, thus hiding their true intention of crafting a chain."
+      }
+    ]
+  }
+]

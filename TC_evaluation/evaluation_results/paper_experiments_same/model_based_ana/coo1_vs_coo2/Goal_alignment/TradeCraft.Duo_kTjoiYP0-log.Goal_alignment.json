@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently focused on acquiring iron ingots for shears, demonstrating strong goal alignment.  Initial proposal attempts were invalid, but the player adapted and successfully traded for raw iron, a step towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly identified the need for coal to craft a torch and accepted a trade that provided it. Their actions and reasoning clearly demonstrate goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to focus on acquiring iron ingots for shears, showing consistent goal alignment. However, they did not make a trade proposal this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's goal is a torch, requiring sticks and coal. They had the resources for sticks but struggled with crafting them due to repeated recipe errors. This indicates weak goal alignment in execution, despite understanding the goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintained focus on shears, needing iron ingots.  They strategically traded raw copper for raw iron from player 2, bringing them closer to their goal.  An invalid initial proposal slightly lowers the score, but the successful second attempt reflects strong goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, recognizing it didn't hinder their own goal. They then tried crafting sticks using oak planks. Their reasoning about how the trade benefited Player 1 shows an understanding of goals within the game."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 consistently pursued their goal of crafting shears, recognizing they needed coal for smelting iron ingots. They rejected player 2's offer and requested coal, demonstrating strong goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 continued struggling to craft sticks despite identifying this step towards their goal of a torch. The repeated failed attempts and lack of utilizing available tools lowered their score, despite understanding the overall goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully traded for the coal needed to smelt iron, then correctly smelted the iron and crafted the shears, achieving their goal. This demonstrates perfect goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 traded away their coal, putting their goal of crafting a torch further out of reach. Despite having oak planks, Player 2 failed to craft sticks correctly, indicating a breakdown in executing the necessary steps.  Crafting an oak button reflects poor goal alignment as this does not contribute to the overall goal."
+      }
+    ]
+  }
+]

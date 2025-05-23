@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by attempting to trade less valuable items (coal and cobblestone) for raw iron, which is essential for their target item (shears). They correctly identified the opponent's surplus of raw iron and tried to leverage it to their advantage.  Although the trade was rejected, the attempt shows a clear focus on their own goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interest by rejecting the trade offer. Recognizing that providing raw iron would help Player 1 achieve their goal, they prioritized their own needs by refusing to give up a valuable resource. Although a counter-offer might have been better, the rejection shows a basic level of self-preservation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to demonstrate self-interest by focusing on acquiring raw iron, essential for crafting shears.  They displayed adaptability by considering different trade offers, starting high and gradually decreasing their demands to increase the chances of a favorable trade."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2 also shows self-interest by attempting to trade for iron ingots. While the attempted trade doesn't directly get them closer to crafting their target (torch) by itself, the attempt indicates self-interest as iron ingots would normally be quite useful.  Player 2 correctly analyzes Player 1's need for raw iron. The trade proposal appears to be a selfish attempt to reduce Player 1's chances, albeit unsuccessful."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 persists in pursuing self-interest by making several trade proposals aimed at acquiring raw iron for their shears.  They demonstrate adaptability by adjusting the offer based on Player 2's rejections, trying different combinations of resources to achieve their goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 consistently acts in self-interest by rejecting Player 1's trade proposals. They recognize that providing Player 1 with raw iron would advance their opponent's progress towards crafting shears, thus hindering their own chances of winning."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates some self-interest by accepting a trade offer that ultimately benefits them. Though the trade was fairly even, Player 1 correctly saw the value in obtaining raw iron, crucial for their shears."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 shows strategic thinking by offering raw iron for planks. This action indicates a willingness to trade resources to obtain something beneficial, demonstrating a degree of self-interest."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to focus on obtaining the necessary raw materials to craft shears, adapting their strategy and recognizing their next steps clearly. Although their trade offer was rejected, they moved forward with a clear plan and executed it perfectly."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.3,
+        "justification": "Player 2 rejects the trade offer, but fails to capitalize on the opportunity to further their own crafting goals. The rejection itself displays a minimal level of self-interest, but the lack of any follow-up action to benefit themselves lowers the score."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade offer, wisely recognizing that giving up a valuable resource (copper ingot) for non-essential items wouldn't benefit them. They maintained their focus on crafting their goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2's offer was a fair trade attempt to obtain a needed resource. The fact that player 1 needed to craft shears and Player 2 attempted to trade for a refined material shows that Player 2 was actively pursuing their goal using knowledge of their opponent's strategy."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates strong self-interest by focusing on acquiring the necessary materials to craft their target (shears).  They understand the relative value of their resources, rejecting the trade offer and focusing on obtaining their goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 acts in their own self-interest by rejecting the trade offer.  They recognize that providing Player 1 with the iron ingot would almost guarantee their victory, and they prioritize hindering Player 1 instead."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 showed a high degree of self-interest and calculated decision-making in this turn by accepting the trade offer of iron nuggets. This indicates a calculated decision based on the strategic assessment of the opponent's intent and the player's own needs."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2's actions in this turn were detrimental to their goal, and they did nothing to actively pursue their objective. Their proposed trades were invalid and ultimately benefited Player 1 more, severely hurting their own chances.  The lack of any subsequent crafting or trading proposals shows poor self-interest."
+      }
+    ]
+  }
+]

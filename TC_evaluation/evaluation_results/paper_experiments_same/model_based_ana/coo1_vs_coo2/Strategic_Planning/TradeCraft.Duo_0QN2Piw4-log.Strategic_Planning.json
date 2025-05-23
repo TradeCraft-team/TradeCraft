@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good strategic planning by identifying their need for iron ingots to craft a bucket, recognizing their opponent's abundance of raw iron, and offering a valuable resource (coal) in exchange to facilitate a future trade for the needed ingots.  They also attempted to gather information about their opponent's goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated strategic thinking by identifying their need for a lever and how to craft it, then accepting a trade that provides them with fuel to smelt their raw iron into ingots for future crafting."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 made multiple invalid proposals due to misunderstanding the game rules.  They initially offered a trade for sticks, despite knowing their opponent did not have any, before realizing they needed to facilitate stick crafting for their opponent instead. They also showed indecision on what materials to trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly accepted the raw iron offered by player 1, understanding that the free resource brings them closer to their crafting goal. They began to formulate a plan for obtaining fuel for smelting."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully executed their strategic plan. They correctly identified what they needed, offered a reasonable trade to achieve their goal, and ultimately crafted their target item (bucket), winning the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepted player 2's trade proposal, which ultimately did not bring them closer to their goal. They correctly recognized their misstep after the fact and started planning for the lever. They had difficulty using craft commands correctly."
+      }
+    ]
+  }
+]

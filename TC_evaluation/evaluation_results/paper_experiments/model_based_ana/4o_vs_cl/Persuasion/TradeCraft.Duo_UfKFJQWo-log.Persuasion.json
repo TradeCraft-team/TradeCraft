@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good persuasion by explaining the mutual benefits of the trade.  The proposal itself was reasonable, offering coal for raw iron, recognizing the other player's need for fuel. Although the initial proposal was invalid, the subsequent proposal was well-reasoned and clearly explained. However, the offer was rejected."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not make any proposals in this turn and thus did not demonstrate any persuasion."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 crafted a very persuasive proposal.  The proposal targeted a very specific need, offering a valuable resource (raw iron) in exchange for something Player 2 didn't need for their goal (cherry planks).  The message was clear, concise, and highlighted the mutual benefit of the trade.  The justification for the trade was sound and logically presented, directly leading to Player 2's acceptance."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 accepted the proposal, but they did not make a proposal themselves in this turn and therefore did not exhibit persuasion."
+      }
+    ]
+  }
+]

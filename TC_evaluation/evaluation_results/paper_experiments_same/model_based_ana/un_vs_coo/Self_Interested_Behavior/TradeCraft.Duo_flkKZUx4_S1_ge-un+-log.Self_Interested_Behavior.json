@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted entirely in their self-interest. They identified what they needed (iron) and successfully traded for it to craft their target item (shears).  They did not consider player 2's needs beyond what was necessary to secure the trade.  They completed the required crafting to win the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted a trade that was arguably not in their immediate self-interest. While they hoped it would foster goodwill for future trades, this was a risky strategy with no guarantee of payoff.  Their crafting attempts were unsuccessful due to using an incorrect recipe. They appear to have prioritized cooperation over their own victory."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by identifying the need for raw iron, checking the recipe for their target item (bucket), and proposing a reasonable trade with Player 2. The trade offered valuable resources (coal for smelting) in exchange for raw iron. This shows a clear understanding of their needs and an attempt to acquire the necessary resources through trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's strategic planning was poor. They repeatedly checked the recipe for 'lever' but didn't formulate a plan to acquire the necessary materials. Rejecting the initial trade offer without proper evaluation was a missed opportunity. Although they eventually checked possible recipes, this was done quite late in the turn, showing a lack of proactive planning."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that provided them with more raw iron, which is needed for their target item (bucket). However, they didn't actively propose trades or explore other crafting options.  While accepting the trade was beneficial, their overall strategic planning for this turn was less proactive than in Turn 1."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed significantly improved strategic planning in this turn. They correctly identified the need for sticks to craft a lever, analyzed their and their opponent's inventory, and proposed a trade that addressed their needs. Successfully acquiring the necessary materials and crafting the target item demonstrates effective planning and execution."
+      }
+    ]
+  }
+]

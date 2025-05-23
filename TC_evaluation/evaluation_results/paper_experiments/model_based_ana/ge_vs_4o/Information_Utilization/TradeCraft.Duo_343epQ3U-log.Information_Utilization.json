@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 used the item_info tool to understand the recipe for their target item and formulated a reasonable trade proposal based on their excess resources. Although the trade was rejected, their initial information utilization was effective."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly identified the necessary resources and crafting steps to achieve their target item without needing to trade. They demonstrated strong information utilization by focusing on their own inventory and the crafting requirements."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that provided them with necessary resources to craft their target item.  They correctly identified the value of the raw iron and made a sound decision."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a trade that was beneficial to both players and directly contributed to achieving their own target item. While player 2 could have crafted a lever, crafting cobblestone slabs was a poor choice that demonstrated ineffective information utilization."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to make a trade, but it was rejected. They ultimately failed to craft their target item, but correctly identified their need for iron and how to obtain it through crafting."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected a trade that would've helped their opponent, but didn't take any constructive steps toward crafting their own target item.  They appear to struggle with crafting recipes and utilizing available tools."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a good trade that benefited both players. They then used the obtained resources to make progress towards crafting their goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully identified a necessary trade, executed it, and used the obtained resource to craft their target item, leading to a win.  They efficiently used all available information."
+      }
+    ]
+  }
+]

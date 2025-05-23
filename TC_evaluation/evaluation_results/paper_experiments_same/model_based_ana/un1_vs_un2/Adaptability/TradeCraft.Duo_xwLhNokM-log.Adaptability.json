@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good adaptability by identifying the need for iron ingots, recognizing the opponent's resources, and proposing a reasonable trade for raw iron. They correctly checked the recipe for their target item and considered smelting options."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated adaptability by evaluating the proposed trade in relation to their own target item (stone_shovel).  They correctly reasoned that trading away raw iron wouldn't hinder their progress and that acquiring coal could be beneficial in the long run. They also checked the recipe for their target item."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 showed excellent adaptability by recognizing their need for cobblestone, identifying that Player 2 possessed it, and successfully proposing a beneficial trade. Their reasoning was clear and focused on their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted well by accepting a trade that brought them closer to their goal, even though it meant giving up a resource. Their justification for accepting the trade was sound."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 showed good adaptability by rejecting a trade that wasn't beneficial to their goal. They understood their own resource needs and prioritized achieving their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made repeated attempts to trade for raw iron, but showed limited adaptability in adjusting their offer after initial rejections.  While they recognized the need for iron, they didn't explore alternative strategies."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a null trade, which indicates a lack of active adaptability in this turn. While they correctly assessed they didn't need anything, they missed an opportunity to potentially gain useful information or resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the null trade and expressed their need for iron ingots, demonstrating some adaptability by actively seeking the resources they required."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to demonstrate adaptability by rejecting a trade that wasn't beneficial to their objective. They clearly understand their needs and aren't swayed by irrelevant offers."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed persistence in pursuing their goal and considered different trading options. They attempted to incentivize Player 1 by highlighting mutual benefit, demonstrating a degree of adaptability."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a null trade again, missing another opportunity to actively adapt to the game state. While they didn't need to trade, a more adaptable approach might have involved probing for information or resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 actively sought the resources they needed, rejecting the null trade and expressing their need for iron. They demonstrated good adaptability by trying to engage in a beneficial trade."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated adaptability by accepting a trade that provided a small benefit in exchange for a relatively abundant resource. They correctly evaluated the trade's impact on their overall strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 showcased excellent adaptability by successfully executing a trade that advanced their goal significantly.  They identified a need and effectively fulfilled it through a reasonable exchange."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offered a less valuable resource for a more valuable resource, showing an understanding of resource value but not necessarily adapting to the current game situation or pursuing an optimal strategy for their goal. The trade allowed them to acquire an iron ingot for raw copper, which wasn't immediately beneficial for crafting the stone shovel. However, their reasoning is based on misleading player 2 into accepting a trade they might need."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted a trade that wasn't ideal for their immediate goal, demonstrating a lapse in adaptability. While the trade wasn't detrimental, it delayed their ability to craft the bucket. They accepted the trade because they might think it is beneficial in the long run."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade, indicating a clear understanding of their resource needs and priorities, which was adaptable and consistent with their goal of crafting a stone shovel."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's persistence in offering raw copper, even after being rejected before, displays a lack of adaptability in adjusting trading strategies.  While focusing on their goal is positive, exploring other avenues would have been more adaptable."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a null trade, which shows a lack of active adaptability. They understood their own crafting needs but missed a potential opportunity to gather information or make strategic trades."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognized the lack of benefit in the null trade and rejected it while also expressing their need for iron, showing an attempt to adapt to the game state by seeking a beneficial exchange."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated adaptability by accepting a trade that increased their raw copper stockpile while providing an abundant resource (raw iron). This trade may enable more complex crafting or trading options in the future."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed reasonable adaptability in securing some raw iron, even though their initial trade offer was rejected.  They revised their approach and made a more manageable request."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated adaptability by giving away a resource they didn't need (raw copper) while recognizing Player 2's need for it.  This strategic move could foster goodwill or potentially mislead Player 2 about their crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 adapted to the situation by accepting a beneficial trade, even if it didn't directly contribute to their immediate goal. Accepting free resources is always a good move, especially when it doesn't hinder progress towards their target item."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended before Player 1 could take any action, so there is no basis to evaluate their adaptability in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended before Player 2 could take any action, so there is no basis to evaluate their adaptability in this turn."
+      }
+    ]
+  }
+]

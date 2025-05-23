@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong self-interest by prioritizing obtaining their target item, a chain.  They actively sought iron from Player 1 through a trade designed to incentivize Player 1 by offering coal for smelting.  Despite the initial invalid proposal, they quickly revised it to a more acceptable offer, demonstrating focus on their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 acted in their self-interest by accepting the trade proposed by Player 2. Though the trade didn't directly contribute to their lever goal, they recognized the value of the offered coal and the potential benefits it offered for future crafting."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 showed minimal self-interested behavior in this turn, primarily focusing on crafting and making a null proposal.  They acknowledged Player 2's attempts at communication but didn't actively pursue a beneficial trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to demonstrate a focus on acquiring the necessary resources for their chain goal. They recognized Player 1's null proposal and questioned its purpose, seeking clarification and potential trade opportunities while maintaining a cooperative facade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 acted in their self-interest by rejecting the trade proposed by Player 2. Although Player 2 presented the trade as mutually beneficial, Player 1 correctly assessed that it did not advance their primary goal of crafting a lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to acquire raw copper by offering an iron ingot to player 1, showing continued pursuit of their own goal. While the trade was presented as mutually beneficial, it primarily served to advance Player 2's chain crafting objective."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 exhibited limited self-interest by focusing on their own crafting plans and making a null proposal.  While they informed player 2 of their intentions, they did not actively seek a trade for their own benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to prioritize their chain goal, despite the rejection of prior trade offers. They correctly interpreted Player 1's null proposal as mere communication and maintained a cooperative stance while strategizing future trades to acquire necessary materials."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 showed clear self-interest by rejecting Player 2's trade offer.  They correctly assessed that the trade did not benefit their pursuit of crafting a lever and prioritized their own goal over a potentially mutually beneficial exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to focus on acquiring materials for their chain goal, offering raw iron for raw copper in a proposed trade. While the trade was rejected, the attempt demonstrates their focus on advancing their own position."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 showed minimal self-interest in this turn.  Their actions primarily revolved around informing Player 2 of their intentions to craft, while focusing on preparing to create their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated self-interest by crafting the iron nuggets needed to eventually craft a chain. Though they haven't obtained the chain yet, their actions directly contribute to their goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's self-interested behavior is evident in their rejection of the trade offer.  Recognizing that the offered items did not contribute to their lever goal, they declined the trade, prioritizing their own needs."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 achieved their goal of crafting a chain. Their actions throughout the game demonstrate consistent self-interest, culminating in victory.  They focused on acquiring the necessary resources and crafting intermediate items needed for their ultimate goal."
+      }
+    ]
+  }
+]

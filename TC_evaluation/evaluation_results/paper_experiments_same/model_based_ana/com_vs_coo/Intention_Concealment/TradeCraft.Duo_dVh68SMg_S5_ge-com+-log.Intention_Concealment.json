@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 disguised their need for raw iron by offering a seemingly fair trade for cobblestone and cherry planks. While their thoughts reveal their true intentions, their outward actions and message effectively mask their primary goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance of the trade and the reason given (\"need cobblestone to make a lever\") partially reveals their interest in cobblestone, hinting at a potential crafting goal involving this item. Though not a complete reveal, it offers some insight into their intentions."
+      }
+    ]
+  }
+]

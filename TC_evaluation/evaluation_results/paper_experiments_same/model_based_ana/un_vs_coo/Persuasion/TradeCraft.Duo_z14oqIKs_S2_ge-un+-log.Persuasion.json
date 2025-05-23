@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to persuade player 2 to trade, but their initial proposals were invalid.  They eventually made a successful trade offer, demonstrating some persuasive ability, but the initial failures lower the score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good persuasion by accepting the trade and providing a friendly and encouraging response, fostering a cooperative environment."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade offer that was beneficial to player 1 while also requesting something they needed. The offer was well-reasoned and successful, demonstrating strong persuasion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 simply accepted the trade. There was no persuasion demonstrated in this turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a direct and reasonable trade proposal, clearly explaining their need for coal.  The trade was successful, indicating effective persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade and explained their reasoning, reinforcing the cooperative nature of the game and showing persuasive communication."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly stated their need for raw iron and offered a reasonable trade of coal in exchange.  Their message was polite and explained their reasoning, increasing the likelihood of acceptance."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered the trade proposal and ultimately accepted it, even though it wasn't immediately beneficial to them.  Their acceptance fostered positive relations and facilitated the trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiated a trade, offering coal for raw iron. While the trade wasn't crucial for their goal, it served as a means of gathering information and potentially disrupting player 1's progress. The justification provided was simple and transactional."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted player 2's trade offer, recognizing the value of coal for smelting.  Their acceptance was concise and polite."
+      }
+    ]
+  }
+]

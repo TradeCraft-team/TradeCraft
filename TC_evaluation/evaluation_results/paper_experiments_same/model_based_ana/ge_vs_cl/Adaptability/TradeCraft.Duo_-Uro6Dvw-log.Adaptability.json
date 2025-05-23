@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by adjusting their trade proposal after the initial invalid proposal. They recognized the need for iron and tried different approaches to acquire it from Player 2, first offering coal for iron ingots, then for raw iron.  However, they didn't fully adapt to Player 2's rejection, as they continued to focus on iron acquisition without exploring other crafting paths or considering what Player 2 might need in return."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed good adaptability by carefully evaluating Player 1's proposal based on their own target item (stone shovel). They correctly identified that coal wasn't necessary for their crafting goals and rejected the trade, preserving valuable resources. They also demonstrated an understanding of potential future trade scenarios by acknowledging Player 1's need for iron ingots."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 adapted well to the game state by accepting Player 2's proposal. They correctly assessed that trading the cherry planks for raw iron would ultimately benefit them, even though it wasn't directly related to their initial crafting plans. This allowed them to obtain the necessary materials to craft their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 exhibited excellent adaptability by formulating and executing a successful trade strategy.  They identified the need for a cherry plank, correctly assessed Player 1's need for iron, and crafted a mutually beneficial trade. This trade allowed them to acquire the final material required for their target item, the stone shovel. They successfully adapted their initial strategy, demonstrating a strong understanding of the game mechanics and the interconnectedness of player goals."
+      }
+    ]
+  }
+]

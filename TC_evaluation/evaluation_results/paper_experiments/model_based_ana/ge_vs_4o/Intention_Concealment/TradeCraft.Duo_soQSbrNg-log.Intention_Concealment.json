@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 asked for raw iron, which could be used for various items, thus partially concealing their intention to craft a bucket. However, the offered items (cherry planks and coal) are somewhat common and don't strongly suggest a specific crafting goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "player 1 accepted the trade, revealing that they needed either cherry planks or coal, hinting at potential crafting intentions.  They did not actively conceal their intentions and their thoughts reveal a direct path to crafting a lever."
+      }
+    ]
+  }
+]

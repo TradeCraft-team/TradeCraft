@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in a self-interested manner by offering items they didn't need (cherry planks, coal, cobblestone) in exchange for raw iron, which is necessary to craft their target item (chain). They correctly identified the resources needed for their goal and made a trade that advanced their progress toward it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the trade, which was beneficial for their own goal. Although they mentioned the cooperative nature of the game, their primary motivation seems to be acquiring the cobblestone and planks needed for their target item (stone shovel).  The trade benefited both players, so their behavior is not completely self-interested, hence the slightly lower score."
+      }
+    ]
+  }
+]

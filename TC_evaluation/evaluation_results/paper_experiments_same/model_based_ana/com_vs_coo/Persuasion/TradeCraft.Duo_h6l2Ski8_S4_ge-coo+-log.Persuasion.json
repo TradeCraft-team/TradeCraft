@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly outlines their crafting goal and makes a reasonable trade offer to player 2, explaining their reasoning.  They establish a cooperative tone, which is important for persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejects the offer but provides a polite response. However, they don't offer an alternative or suggest a different trade, limiting their persuasiveness."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 makes a trade offer, but it's not well-justified and doesn't seem strategically advantageous for either player."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the offer and suggests a different approach that could benefit both players. This demonstrates good persuasion by attempting to find common ground."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 analyzes the situation, identifies a potential need of player 2, and makes a persuasive proposal that highlights mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the proposal and acknowledges the benefit.  The acceptance itself is a sign of being persuaded."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a strategic trade offer designed to mislead player 1 about their intentions. While deceptive, it demonstrates an understanding of persuasion tactics."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepts the proposal based on a cooperative principle, indicating a degree of being persuaded. They continue to maintain a positive interaction."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offers a trade based on perceived mutual benefit and clearly states the terms. This continues their cooperative and persuasive approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 rejects the offer but provides a reason. While not persuasive, the explanation avoids unnecessary negativity."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade, offering raw copper for raw iron. Although the trade was rejected, the attempt demonstrates a willingness to cooperate to achieve their goal. The offer was reasonable, indicating a fair approach to trading."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer without proposing an alternative. While they explained their reasoning, they didn't actively seek a mutually beneficial outcome.  This indicates a lower level of cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade, offering raw iron for coal. This offer was accepted by Player 1, leading to a mutually beneficial exchange. The successful trade demonstrates strong cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the trade offer, facilitating a mutually beneficial exchange. This active participation in the trade demonstrates a high level of cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 again initiated a trade, this time offering raw copper for a smaller amount of raw iron. While the trade was ultimately rejected, the continued attempt to engage in trading demonstrates a willingness to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer from Player 1. They explained their reason, but did not attempt to find a mutually beneficial alternative.  This lack of engagement suggests a lower level of cooperation."
+      }
+    ]
+  }
+]

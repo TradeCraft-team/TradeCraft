@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong self-interest by attempting to trade their less valuable raw copper for materials (iron ingots and cobblestone) needed to craft their target item (shears).  The initial invalid proposal slightly lowers the score, but the subsequent corrected proposal and reasoning demonstrate a clear focus on their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 prioritizes cooperation over immediate self-interest. While acknowledging their need for coal, they accept a trade that doesn't directly benefit them, hoping for future cooperation. This behavior indicates a low level of self-interest."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 acts in their self-interest by attempting to trade raw materials they have in abundance (raw copper and raw iron) for coal, essential for crafting their target (torch)."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 clearly prioritizes their own goal by rejecting player 1's proposal.  Recognizing that they need the coal to smelt iron for their shears, they refuse the trade despite player 1's need.  This is a strong demonstration of self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade that benefits them (acquiring oak planks for a crafting table) while offering something of lesser value (cobblestone) to Player 1. This shows moderate self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 accepts the trade, which is slightly detrimental to their own goal as planks are useful.  The justification for cooperation lowers the self-interest score."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to pursue their self-interest by again proposing a trade for coal, essential for their goal. While the offered ratio benefits player 2, the primary motivation is to acquire the needed coal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 again demonstrates strong self-interest by rejecting the coal trade.  They recognize that accepting would hinder their own progress and prioritize their need for coal over Player 1's."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 acts strategically by offering a less valuable item (torch) in exchange for raw materials that contribute towards their own goal, demonstrating self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepts a trade that has minor benefit to them, prioritizing cooperation, demonstrating weaker self-interest."
+      }
+    ]
+  }
+]

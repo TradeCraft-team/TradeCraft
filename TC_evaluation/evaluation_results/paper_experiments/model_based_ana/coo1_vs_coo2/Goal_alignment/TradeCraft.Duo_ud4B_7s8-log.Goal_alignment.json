@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 clearly identifies their goal (chain) and focuses their actions on acquiring the necessary resources (iron). Their proposal is directly aligned with this goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly assesses their needs for their target (lever) but doesn't take direct action towards crafting it this turn.  They make a beneficial trade for materials that will help them smelt raw iron, which is a step in the right direction."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 focuses on acquiring an iron ingot but their plan for getting a lever is unclear. They haven't crafted a stick yet and do not state how the iron ingot helps."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to focus on their target (chain) and correctly assesses the need for additional raw iron.  They identify a path toward crafting their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 is effectively working towards their target, trading for resources (coal) to process their raw iron into the necessary ingots for a chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 helps Player 2 by trading away their coal, but they don't make progress towards crafting their own lever."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposes a trade for cobblestone to craft a lever, showing some goal alignment. However, they still don't have a stick, so it's not fully effective. The trade is a good first step towards the crafting the lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a reasonable trade for raw iron, which could be used to further progress toward their chain. While they don't smelt anything, the acquisition of iron shows reasonable planning."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively trades for raw copper, directly mentioning its use in crafting a chain. Their actions are strongly aligned with their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 makes progress in their thinking process by realizing that they can craft sticks from oak planks, getting them closer to their target of crafting a lever."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 focuses on trying to acquire a stick or the means to make one, showing some goal alignment towards crafting a lever. However, their proposals are invalid. The repeated attempts demonstrate persistent focus but also a lack of understanding of the game mechanics."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts raw iron and understands the value of smelting it for future crafting.  They consider the need for the components of their target item (chain).  They are close to completing their chain but have not considered how to smelt the raw iron."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to make good progress on acquiring materials and thinking about crafting the chain. They are seeking the required raw iron for their chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 recognizes their lever goal and considers trading strategies. However, they seem confused about their resources."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 correctly identifies the need for a stick for the lever and tries to trade for one, but their proposals are invalid. The attempt at trading for cobblestone is not well justified."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to gather raw materials (raw iron) needed to complete their goal. Although unable to craft their chain due to a lack of coal, they exhibit strong goal alignment by acquiring the necessary raw materials."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 effectively uses trades and resource management to gather all components for their chain.  Their crafting plan is fully formed and they have all the materials."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 focuses on crafting the lever and has the necessary materials, but they are having difficulty executing the correct craft commands."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 continues to struggle with crafting sticks. While they understand the requirements for their lever, their inability to execute the correct actions lowers their score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 focuses on acquiring fuel to smelt raw materials into ingots needed for the chain.  Their actions remain strongly aligned towards completing the chain, although their attempts to trade for fuel are not yet successful."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 acquires an iron ingot via trade but shows some miscalculation. They should have been focused on getting the raw copper. Their overall intention appears to be chain-oriented."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 crafts cobblestone slabs unnecessarily. Although they seem to understand how to make a lever, this action doesn't progress them towards that goal."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 donates raw iron, demonstrating cooperation, but lacks concrete steps toward obtaining a stick, essential for crafting the lever."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully gathers the materials for their target (chain). They identify the need for additional raw iron, showing consistent goal alignment."
+      }
+    ]
+  }
+]

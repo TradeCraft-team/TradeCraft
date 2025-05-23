@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to conceal their intention by stating they needed raw iron for \"storage,\" which is a plausible but not entirely convincing reason.  They revealed their need for raw iron, but not their ultimate goal of crafting a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 did not explicitly reveal their intention.  Accepting the trade for planks is consistent with multiple crafting strategies, effectively concealing their goal of crafting a lever."
+      }
+    ]
+  }
+]

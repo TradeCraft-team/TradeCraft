@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intention to craft a bucket. They explicitly stated a false goal of working with copper, requested raw copper in the trade, and offered items they didn't need. This misdirection was successful in making player 1 accept the trade, while furthering player 2's actual objective of acquiring iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed a lot of information about their intentions by mentioning their interest in wood in the trade message.  This made their plan to create sticks quite obvious, and in turn, increased the likelihood that the opponent could guess they were trying to craft a lever."
+      }
+    ]
+  }
+]

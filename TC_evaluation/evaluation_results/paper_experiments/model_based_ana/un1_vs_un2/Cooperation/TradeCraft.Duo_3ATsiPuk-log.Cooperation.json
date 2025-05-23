@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a trade that benefited both players. Player 1 needed raw iron and offered raw copper in return.  This trade helped player 1 progress towards their goal of crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted player 1's trade proposal, demonstrating cooperation.  Player 2 recognized that the trade wouldn't hinder their own progress and could potentially be useful in the future."
+      }
+    ]
+  }
+]

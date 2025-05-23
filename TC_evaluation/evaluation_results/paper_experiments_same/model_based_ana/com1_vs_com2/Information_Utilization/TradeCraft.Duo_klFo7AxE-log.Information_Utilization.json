@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 formulated a reasonable plan to obtain their target item (bucket) by identifying the need for iron ingots, recognizing they needed more raw iron, and offering a fair trade for it with items less crucial for their goal.  They checked the recipe for their target item to confirm the requirements.  The offered trade would allow them to directly work towards their goal immediately if successful. The trade was very successful and player 1 acquired enough iron to craft their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly identified the resources offered in the trade as beneficial for their own goal.  They acknowledged the potential use of coal for later smelting and prioritized the immediately useful planks for crafting sticks, which are necessary for their target item, a stone shovel.  Accepting the trade provided them with the necessary materials to craft their target in the next crafting phase. Player 2 acquired what they needed to make their shovel very quickly."
+      }
+    ]
+  }
+]

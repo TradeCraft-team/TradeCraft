@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's initial proposals were invalid and revealed their need for iron, although the final trade request for raw iron concealed the direct need for shears."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's acceptance message did not reveal their intention to craft a torch, maintaining ambiguity about their goals."
+      }
+    ]
+  }
+]

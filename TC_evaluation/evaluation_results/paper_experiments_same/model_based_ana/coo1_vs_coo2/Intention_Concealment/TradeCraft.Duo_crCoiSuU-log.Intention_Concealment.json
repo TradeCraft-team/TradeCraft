@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 explicitly stated their intention to craft a chain and the reason behind their trade request in their opening proposal. This revealed a significant amount of information about their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "While player 2 revealed they were working towards a stone shovel, they did so after accepting the trade, minimizing the risk of player 1 exploiting this information.  This delayed reveal helped conceal their intentions early in the game when information is most valuable."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 revealed their intention of crafting a stone shovel without requesting anything in return, making their target obvious."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 concealed their true intentions by requesting oak planks, which could have multiple uses. While they eventually confirmed they are working towards a chain, they gained some information first by accepting the seemingly harmless trade proposal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal was somewhat ambiguous.  Offering iron nuggets while asking about their opponent's target could suggest various intentions. While not a highly strategic concealment, it doesn't fully reveal their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions while appearing helpful. By accepting the trade and confirming their progress on the stone shovel, they reinforced their stated goal without revealing their true need for planks."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2's initial invalid proposal revealed their need for sticks. While their subsequent trade request for raw copper in exchange for oak planks was more strategic, the earlier reveal reduced their overall concealment score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintained good intention concealment. Accepting the trade for the oak plank, while not directly beneficial for their chain, fostered cooperation and avoided revealing their urgent need for more raw iron."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 revealed they are working towards a chain and asked about their opponent's goal.  This provided information to player 2, lowering their concealment score. While requesting coal makes sense given their need to smelt raw iron, it reinforces their stated goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 confirmed they were working towards a stone shovel while accepting a trade that benefited player 1. This reinforced a believable goal, concealing their need for planks."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 directly revealed their need for raw iron by requesting it in the trade, hinting at their goal of crafting something iron-related. However, the offer of cobblestone and coal, which are general-purpose items, provided a little bit of obfuscation regarding Player 1's exact target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions. While their rejection message mentioned not needing coal for \"current crafting plans,\" this is a vague statement that doesn't reveal their target item.  They successfully avoided disclosing their need for sticks or planks."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not participate actively in the trade phase of this turn and revealed nothing about their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's invalid proposal requesting iron_ore and offering coal and sticks hinted at a need for iron, but the invalidity suggests a misunderstanding of crafting requirements.  After the invalid proposal, they focused on the steps to make a lever and submitted a proposal for cherry planks in exchange for raw iron, more clearly signalling the need for wood."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 revealed their need for raw iron by requesting it and mentioning the use of iron ingots. However, offering cherry planks instead of another iron-related item provides some cover as it implies potential diversification of crafting plans."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's rejection message remains vague and doesn't disclose any specific crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 did not reveal any intentions in this turn as their trade proposal was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 explicitly requested both cherry planks and cobblestone, signaling their needs for these two specific items.  This strongly implies their target item is crafted from precisely these components."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1 requested raw iron, again hinting at iron-related crafting. Offering both cherry planks and cobblestone for the raw iron partially masks their intentions but still reveals an interest in iron-related items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "While accepting the trade reveals a need for cobblestone and cherry planks, player 2 frames the acceptance as general \"crafting needs,\" providing a bit of ambiguity.  Critically, player 2 does not reveal the fact that these are all the components needed for their target item."
+      }
+    ]
+  }
+]

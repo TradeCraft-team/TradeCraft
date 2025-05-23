@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some strategic thinking by identifying the need for iron nuggets, considering the likelihood of Player 2 having them, and offering a relevant trade (coal for raw iron). However, the initial proposal was not entirely effective, as it didn't account for the opponent's potential needs. The subsequent thinking shows more in-depth strategic planning, considering the opponent's hand and potential crafting goals, and formulating a revised trading strategy."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade proposal without clearly stating their needs. The provided messages don't offer any evidence of a well defined strategy for achieving the private goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 effectively analyzed the trade proposal, recognized its benefit in achieving their target, and accepted the offer.  They also demonstrated further strategic thinking by looking ahead to the next crafting steps and identifying the need for fuel."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 proactively proposed a trade to obtain the cherry planks needed for crafting sticks, clearly articulating the reasoning behind the offer. This demonstrates effective strategic planning and consideration of their long-term goals. Crafting the stone shovel successfully shows good execution of the plan."
+      }
+    ]
+  }
+]

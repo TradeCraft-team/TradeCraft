@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly stated their crafting goal and offered a reasonable trade to achieve it.  The proposal text message was polite and persuasive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade and gave good reasoning. Their reply message was also positive and encouraged future cooperation."
+      }
+    ]
+  }
+]

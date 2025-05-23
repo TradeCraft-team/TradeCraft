@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identified the need for iron to craft a chain and formulated a reasonable trade proposal, although it was rejected.  The player demonstrated understanding of their goal and attempted to acquire necessary resources."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 immediately recognized they had the necessary resources to craft their target item (a lever) and focused their thoughts on confirming the recipe and crafting process.  They did not waste time on unnecessary trades."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a beneficial trade to acquire more raw iron, getting closer to their goal of crafting a chain. They understood the value of the trade and how it aligned with their objective."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a reasonable trade proposal to acquire a necessary resource for crafting a lever.  While their crafting attempts were unsuccessful, their focus remained on their target item."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Despite the rejected trade proposal, Player 1 recognized they could achieve their goal without further trades. They correctly identified the need for fuel and planned to use their existing resources effectively."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.3,
+        "justification": "Player 2 continued to struggle with crafting, repeatedly checking invalid recipes. While their goal remained crafting a lever, their actions were ineffective."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a good trade, acquiring additional raw iron towards their goal of crafting a chain.  Their actions consistently aligned with their objective."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully identified the resources needed for crafting a lever, executed a trade to acquire the missing resource, crafted the stick and then crafted the lever. Perfect goal alignment and execution."
+      }
+    ]
+  }
+]

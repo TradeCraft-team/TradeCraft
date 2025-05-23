@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated strategic thinking by identifying their need for iron ingots to craft a bucket and attempting to trade for raw iron. They correctly assessed that their opponent had an abundance of raw iron. However, their initial trade offer was rejected.  They spent the rest of the turn checking possible recipes, which is helpful but doesn't directly advance their goal.  While they did eventually smelt raw copper into a copper ingot, this does not directly contribute to their objective."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 identified their goal and the necessary steps to craft a lever. However, they failed to execute their crafting plan due to repeated incorrect recipe attempts.  They rejected the trade offer without properly evaluating its potential benefits, which could have provided them with additional resources."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully traded for cherry planks, a key component for crafting sticks, which are needed to create a lever.  They accurately identified the necessary recipes and executed their crafting plan effectively, ultimately achieving their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a trade for raw copper, which is not directly helpful for their goal of crafting a bucket.  They considered the potential to smelt it into a copper ingot, but this doesn't contribute to their primary objective. They formulated a plan to trade for iron ingots or raw iron, showing some strategic planning, but they did not have the opportunity to execute this plan in the current turn."
+      }
+    ]
+  }
+]

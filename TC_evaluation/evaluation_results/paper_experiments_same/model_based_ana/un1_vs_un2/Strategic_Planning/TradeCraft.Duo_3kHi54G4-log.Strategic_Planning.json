@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 formulated a clear plan to obtain the necessary raw iron from Player 1 by offering coal in exchange.  They correctly assessed Player 1's likely needs and crafted a mutually beneficial trade proposal to advance their own goal of crafting shears. This demonstrates excellent strategic planning, showing consideration for both their own needs and the opponent's situation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the strategic value of the trade proposed by Player 2. They correctly identified that acquiring coal was essential for their goal of crafting a torch, and they capitalized on the opportunity to obtain it through a fair exchange.  This demonstrates effective strategic planning by prioritizing their needs and taking advantage of presented opportunities."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 failed to identify the crafting recipe for sticks correctly.  They repeatedly checked and attempted to execute an invalid recipe despite multiple attempts.  This severely hampered their crafting progress and prevented them from getting closer to their crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully identified the correct crafting recipe for iron ingots using their resource and crafted the shears.  Demonstrates strong strategic planning."
+      }
+    ]
+  }
+]

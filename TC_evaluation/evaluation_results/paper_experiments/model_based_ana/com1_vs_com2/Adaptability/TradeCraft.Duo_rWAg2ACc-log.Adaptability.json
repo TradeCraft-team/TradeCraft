@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability by crafting a plan to obtain their target item (bucket) which requires iron ingots.  Recognizing they had only one iron ingot and their opponent possessed raw iron, they formulated a trade proposal to acquire raw iron from player 1.  Their deceptive tactic of requesting raw copper, a material not directly needed for their objective, to mislead their opponent about their true intentions was clever and showcased adaptability to the game's social dynamics.  After the successful trade, Player 2 immediately proceeds with crafting and secures a victory."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 showed reasonable adaptability by accepting a trade that provided materials to craft their target item (lever), but their strategic thinking was not as deep as Player 2's. They recognized the potential risk of providing raw copper to Player 2 and considered the trade-off, eventually prioritizing their immediate need for the cherry planks to craft a stick for their lever.  They correctly identified the materials needed for their target item. Player 1 was outmaneuvered by Player 2 in the social deduction element and although they demonstrated some adaptability, they did not fully consider the other players goals."
+      }
+    ]
+  }
+]

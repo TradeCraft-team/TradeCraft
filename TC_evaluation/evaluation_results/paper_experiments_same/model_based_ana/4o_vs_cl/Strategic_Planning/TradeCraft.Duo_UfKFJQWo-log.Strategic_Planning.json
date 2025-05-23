@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrated some strategic thinking by checking the recipe for the chain and considering the other player's resources. However, the initial trade proposal was invalid, and subsequent actions involved redundant recipe checks, indicating a lack of focused planning."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 identified the target and necessary resources, but failed to make any meaningful progress toward achieving the crafting goal in this turn, and the crafting attempts were invalid."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 identified their crafting needs and strategically proposed a trade to acquire the necessary cherry planks, significantly advancing their crafting progress towards the lever. The offer of raw iron was a reasonable exchange and shows an understanding of potential player needs and a willingness to cooperate for mutual benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 displayed excellent strategic thinking in this turn. They analyzed the trade proposal effectively, recognizing its benefit to their overall goal. Accepting the trade provided them with the necessary raw iron to craft the iron ingot.  Player 2 also efficiently managed crafting steps, using available resources to create the iron ingot from nuggets, ultimately obtaining the necessary components to craft the final target item."
+      }
+    ]
+  }
+]

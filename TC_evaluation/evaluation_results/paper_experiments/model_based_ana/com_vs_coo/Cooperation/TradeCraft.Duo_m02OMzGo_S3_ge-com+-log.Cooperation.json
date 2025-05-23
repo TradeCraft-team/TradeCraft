@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade, clearly explaining their rationale.  This facilitated a mutually beneficial exchange, as Player 1 needed planks and Player 2 needed raw iron.  Player 2 demonstrated excellent cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutual benefit of the proposed trade and accepted. They also clearly communicated their reasoning for accepting, furthering the cooperative nature of the exchange. This demonstrates excellent cooperation."
+      }
+    ]
+  }
+]

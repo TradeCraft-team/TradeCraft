@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 adapted their strategy by trading for raw iron, recognizing its importance for crafting their target item (bucket). They offered relevant items (planks, cobblestone) in exchange, showing a clear understanding of resource management and trading dynamics."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated adaptability by accepting player 2's trade proposal. They correctly assessed the value of the offered resources (cherry planks and cobblestone) for their own crafting goals (stone shovel) and made a decision that advanced their progress."
+      }
+    ]
+  }
+]

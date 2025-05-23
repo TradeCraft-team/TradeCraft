@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring the necessary materials (iron ingots) to craft their target item (bucket). They proposed a trade, checked crafting recipes, and successfully executed the plan to craft the bucket in the first turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 understood their target (stone shovel) and the basic steps needed to craft it (cobblestone and sticks).  They made a reasonable trade accepting raw copper for raw iron, recognizing that they needed the planks more. They correctly identified they needed more planks. However, they didn't successfully craft the stick this turn due to a lack of planks."
+      }
+    ]
+  }
+]

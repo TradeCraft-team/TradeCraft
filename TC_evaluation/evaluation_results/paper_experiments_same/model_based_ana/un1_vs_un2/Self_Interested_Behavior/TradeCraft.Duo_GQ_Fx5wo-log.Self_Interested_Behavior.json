@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by attempting to trade for raw iron, which they needed to craft their target item (shears). They offered a reasonable trade of raw copper for raw iron.  Although the trade failed, their actions clearly prioritized their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade offer. They correctly reasoned that raw copper would not help them achieve their goal (crafting a torch). However, they didn't propose an alternative trade that could benefit them, so their self-interested behavior was not fully maximized."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 made a highly self-interested move by accepting the trade for raw iron. This gave them exactly what they needed to craft their target (shears) and win the game.  They maximized their benefit from the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also acted in their self-interest by making the trade.  They acquired coal, a key component for their target (torch).  Though they perhaps overpaid by giving up 2 raw iron, the acquisition of coal directly benefited their game plan."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to prioritize their goal by smelting the raw iron and crafting the shears, successfully winning the game. This demonstrates highly effective self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's self-interest was minimal in this final turn. They missed opportunities to propose trades that might have acquired needed materials.  Their rejection of the trade offer and their inaction led to their losing the game."
+      }
+    ]
+  }
+]

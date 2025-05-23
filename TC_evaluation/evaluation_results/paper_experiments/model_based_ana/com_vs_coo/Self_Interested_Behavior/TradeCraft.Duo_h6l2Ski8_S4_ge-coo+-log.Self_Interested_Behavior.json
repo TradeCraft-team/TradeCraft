@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their goal by analyzing their needs, checking recipes, and proposing a trade for raw iron, which is essential for their target item (chain). They offered coal in return, demonstrating a strategic approach to acquiring necessary resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interest by rejecting player 1's proposal. They recognized that the trade didn't directly contribute to their goal of crafting a stone shovel and prioritized their own needs.  Although they didn't make any moves to directly advance their own goal, the rejection of a suboptimal trade shows self-interest."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a trade that wasn't entirely beneficial to Player 1. Offering raw copper for cobblestone wasn't aligned with Player 1's expressed needs. This shows some attempt at self-interested behavior, although not highly effective as the trade was ultimately rejected."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a self-interested decision by rejecting Player 2's proposal.  They recognized that trading for raw copper wouldn't help them achieve their goal and provided feedback that could potentially guide Player 2 towards a more beneficial trade (iron ingots) in the future."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully executed a self-interested trade. They recognized Player 2's potential need for cobblestone and leveraged it to acquire raw iron, a key component for their target item. The successful completion of this trade demonstrates effective self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted Player 1's trade, acquiring cobblestone in exchange for raw iron. While this benefited Player 1, it also provided Player 2 with additional cobblestone, which may be self-interested if they need more cobblestone. The action alone shows self-interest, but effectiveness and context need clarification."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully executed a deceptive trade. They offered raw iron for raw copper, misleading Player 1 into thinking they needed copper. This trade was advantageous to Player 2, as it removed a resource Player 1 might have needed and potentially distracted them from Player 2's actual goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted Player 2's trade, seemingly acting against their own self-interest. They gave away raw copper, a potentially useful resource, for raw iron, which they already had a good supply of. The justification of \"cooperative strategy\" isn't a valid excuse in assessing purely self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 focused on achieving their primary goal by crafting the chain.  While they proposed a trade, their priority was completing their objective, which they successfully accomplished. This demonstrates strong self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 rejected player 1's trade offer, prioritizing their own needs, despite it looking beneficial on the surface. They failed to fully capitalize on the situation, to make a trade that will enable them to craft their target, or the target itself. This demonstrates moderate self-interest with missed opportunity for proactive action."
+      }
+    ]
+  }
+]

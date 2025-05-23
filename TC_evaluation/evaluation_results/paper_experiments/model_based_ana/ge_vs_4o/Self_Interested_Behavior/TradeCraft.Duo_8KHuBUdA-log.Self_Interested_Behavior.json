@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interest by attempting to trade for raw iron, which they need to craft their target item (bucket). The offered trade was reasonable, showing a strategic approach to achieving their goal. While the trade was rejected, their actions clearly indicate a focus on their own needs."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the trade offer from Player 1.  The justification given doesn't align with game events, suggesting a lack of engagement with the strategic elements of the game or a misunderstanding of the rules.  This could be interpreted as self-interested in that they're not helping their opponent, but since they didn't make any progress towards their own target, they failed to show self interest in any effective way."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted a trade that was not directly beneficial for their goal. While maintaining a positive relationship can be a long-term strategy, in this specific turn, accepting the trade didn't advance them towards crafting their bucket.  This demonstrates low self interest."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully traded for an item that allowed them to craft their target item (lever). They clearly prioritized their own objective, proposing a trade that directly benefited them and ultimately led to their victory.  This is a strong display of effective self interest."
+      }
+    ]
+  }
+]

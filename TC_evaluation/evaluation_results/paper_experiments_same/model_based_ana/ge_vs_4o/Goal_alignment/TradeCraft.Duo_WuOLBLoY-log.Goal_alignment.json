@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated perfect goal alignment. They correctly identified the need for iron to craft a chain, requested raw iron from player 1, and offered reasonable items in return.  Their actions and thinking directly contributed to progressing towards their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "player 1 also showed excellent goal alignment. They correctly assessed the trade proposal's value in relation to their goal of crafting a lever.  They accepted the offer, obtained necessary materials, and successfully crafted the lever. All their actions were directed towards achieving their win condition."
+      }
+    ]
+  }
+]

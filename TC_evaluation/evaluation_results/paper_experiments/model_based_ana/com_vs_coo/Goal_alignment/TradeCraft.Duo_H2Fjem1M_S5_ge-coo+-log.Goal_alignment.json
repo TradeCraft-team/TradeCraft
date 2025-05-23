@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring iron, which is needed for their target, a chain.  Their actions and proposals directly aligned with this goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly identified their path to crafting a lever. However, their reasoning for rejecting the trade was based on an assumption about player 1's goal, which could be a misdirection. While they took a step towards crafting the lever by checking the recipe for chain, they didn't attempt to craft anything from their hand."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to make well-reasoned decisions to obtain the necessary materials for their target.  Smelting the raw copper into a copper ingot was a good move to consolidate resources and improve their trading position."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 failed to craft the stick, despite having the necessary materials. They also continued to make incorrect crafting requests."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 traded for raw iron, which is a step in the right direction, showing commitment to acquiring the materials needed for their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 is failing to achieve its goal. They accepted a trade that did not provide any benefit towards creating a lever and failed to craft anything useful. Their reasoning for accepting the trade, \"to confuse the opponent,\" indicates poor goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 submitted invalid proposals and failed to progress towards their goal, demonstrating poor goal alignment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade for raw iron, which can be smelted into an iron ingot, a component of their target item.  This demonstrates goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to pursue iron for crafting their target item (chain), showing consistent goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected a potentially useful trade and failed to craft anything, despite having all the necessary ingredients for their target item. This shows extremely poor goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 proposed a neutral trade that didn't help them progress toward crafting their lever and submitted an invalid proposal. They recognized the need for cobblestone but didn't actively pursue it. They failed to craft any items, despite having the materials to craft a stick."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade for raw iron, which they can smelt into an iron ingot needed for their target item (chain). Their actions align well with their objective."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 is actively trying to acquire raw iron to craft the iron ingots required for their target (chain).  Their focus remains consistent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected a trade that didn't directly contribute to their goal and failed to craft the lever again."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 made several invalid proposals and failed to craft, showing a lack of focus on crafting the lever."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade for raw copper, a component of their goal item (chain).  While not immediately helpful, accepting the raw copper is beneficial for trading."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 is consistently focused on acquiring the iron needed for their chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 has the materials to create their target (lever), but failed to craft it for another turn. This shows poor goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 made an invalid proposal and didn't attempt to craft the lever, demonstrating poor goal alignment.  Despite having the necessary resources, they failed to make progress towards their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade to receive raw iron, which they need to craft their chain. This shows good goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1's trade proposal directly targeted the missing component for their goal item, the chain, demonstrating excellent goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Despite having all the necessary materials and knowledge to craft the lever, Player 2 failed to craft it. This demonstrates very poor goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 continues to make invalid proposals, demonstrating poor goal alignment and understanding of the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, which brought in raw materials that could help create their target item. Their decision-making aligns with their goal, but trading both copper ingots may be risky."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, and player 1 did not achieve their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, and player 2 did not achieve their target."
+      }
+    ]
+  }
+]

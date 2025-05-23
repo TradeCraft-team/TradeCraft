@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently demonstrated goal-aligned behavior. They checked the recipes for the bucket and raw iron, and proposed a trade to obtain raw iron, which is needed to create iron ingots for their bucket goal.  Although the trade was rejected, the actions were clearly aimed at progressing towards the target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly checked the recipe for 'lever', demonstrating awareness of their goal, but their initial trade proposal was not aligned with it. They rejected Player 1's offer of raw iron for coal, which could have been beneficial for obtaining the iron ingot required to craft the lever."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 exhibited perfect goal alignment in this turn. They successfully traded for materials needed to craft sticks, then crafted sticks and a lever, achieving their goal.  Every action taken contributed directly to this outcome."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that provided them with raw iron, which they need to craft a bucket. However, they did not take any further action towards crafting their goal item this turn."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 partially concealed their intentions. While their initial item info checks on \"chain\" and \"iron_nugget\" hint at their target, the trade proposal requesting raw iron is somewhat ambiguous. It could be interpreted as a need for iron tools or other iron-related items, obscuring their true target, a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intentions. They checked the recipes for \"stone_shovel\" and \"stick,\" directly related to their target. However, they rejected the trade proposal for raw iron, indicating they don't need iron, which could be a misdirection. Their message about wanting \"mutually beneficial\" trades helps to conceal their immediate needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 's repeated internal thoughts and actions, like converting iron ingots to nuggets and back, reveals a focus on iron, potentially hinting at their need for a chain. While not a direct reveal, the lack of diversification in crafting makes the intent less concealed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 's proposal targeting cherry planks is a calculated move. While needing planks for sticks is not uncommon, the specific request, combined with the offer of raw iron, hints at the need for sticks but not explicitly for a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 requesting raw iron is consistent with needing iron for their chain, but the offered cherry planks doesn't immediately give away that they need it specifically for chains.  Their message is still somewhat vague, allowing for plausible deniability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepting the trade for cherry planks and revealing their need for sticks narrows down the possibilities of their target item significantly. This makes their intent less concealed, especially given their earlier rejection of raw iron."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 's consistent focus on iron, by smelting raw iron into ingots and checking the recipe for a chain, increasingly points towards their target. The lack of other crafting attempts weakens the concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 's actions and messages clearly indicate their need for planks to craft sticks.  The request for coal while mentioning their need for planks in the future makes the intent to craft a stone shovel quite clear."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1 's request for iron ingots in exchange for coal, while a reasonable trade, further solidifies the impression that their target involves iron.  Given their actions in previous turns, this makes their need for iron for chains more obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintains some concealment by rejecting the coal and reiterating their need for planks for sticks.  While this hints at needing a tool with a handle, it doesn't directly point to the stone shovel as their target."
+      }
+    ]
+  }
+]

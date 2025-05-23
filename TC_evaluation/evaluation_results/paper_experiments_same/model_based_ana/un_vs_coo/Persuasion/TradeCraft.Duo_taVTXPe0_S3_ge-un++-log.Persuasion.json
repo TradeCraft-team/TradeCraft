@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 clearly outlines their needs and proposes a mutually beneficial trade, explaining their reasoning.  This direct and persuasive communication leads to a successful trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 analyzes the proposal, recognizes its benefits, and accepts it.  Their positive and encouraging response contributes to the successful trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognizes the value of the proposed trade, understands its benefit to their own goal, and accepts. Their response is concise and agreeable."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 identifies a need and formulates a trade proposal that directly addresses it. Though they initially considered a less effective strategy, they eventually propose a reasonable trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 assesses their needs and proposes a trade. While the trade is accepted, the justification for the offer could have been more compelling."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 considers the proposal, understands the other player's potential strategy, and accepts, fostering cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 evaluates the proposal, recognizes its immediate benefit, and readily accepts it."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proactively identifies a potential mutually beneficial trade and clearly communicates their offer, leading to a successful exchange."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submits multiple invalid proposals, demonstrating a lack of understanding of the game rules and hindering effective communication."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 identifies the issue with the proposal, clarifies the situation, and offers assistance, showing strong communication and cooperation."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade after considering its potential implications. Though they acknowledge uncertainty, they engage constructively."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 identifies a potentially mutually beneficial trade and proposes it clearly, facilitating a successful exchange."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposes a trade based on a reasonable assessment of the situation, leading to a successful exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts the proposed trade, recognizing its benefits and furthering cooperation."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 considers the trade offer and makes a reasonable decision to reject based on their current needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 analyzes the situation and proposes a potentially beneficial trade, demonstrating good communication and strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 identifies a need and proposes a direct trade to address it, resulting in a successful exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 evaluates the proposed trade, recognizes its mutual benefit, and accepts, strengthening cooperation."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 carefully considers the trade proposal, evaluates its potential impact, and makes a strategic decision to reject."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proactively proposes a trade and seeks input, demonstrating strong communication and a willingness to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 clearly states their intentions and proposes a trade that directly addresses their needs, resulting in a successful exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 assesses the situation and makes a strategic decision to accept the trade, demonstrating good understanding and cooperation."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 evaluates the trade offer, considers its implications, and provides a clear justification for rejecting it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposes a trade based on an assessment of both players' needs, showing strategic thinking and good communication."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends, and no persuasive actions take place."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends, and no persuasive actions take place."
+      }
+    ]
+  }
+]

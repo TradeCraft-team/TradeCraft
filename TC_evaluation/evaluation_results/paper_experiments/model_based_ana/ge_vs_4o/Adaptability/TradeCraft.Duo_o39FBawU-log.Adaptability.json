@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 adapted their strategy by first checking the recipe for the chain and then attempting to trade for the raw iron needed. Although the trade was rejected, the initial approach demonstrates adaptability to the game's crafting requirements and available resources. Player 2 also checked the recipe of iron nugget, trying to adapt and make use of available resources"
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "player 1 demonstrated good adaptability by correctly assessing the proposed trade and rejecting it as it did not align with their target item.  They then formulated a plan to craft the necessary intermediate items (sticks) and considered potential trades for required resources (cobblestone or oak planks).  While the player has not executed their plans yet, there is a clear adaptable plan based on the game state and their target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 continued to adapt, attempting to trade for the needed cobblestone. After the trade was rejected, player 1 adjusted their approach by deciding to craft sticks from the available oak planks. While player 1 failed to craft the sticks this turn, player 1 recognized the need to acquire the necessary resources for their targeted crafting item.  While the player had a plan, they made an error in crafting.  They knew what to do but failed in execution."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to adapt their strategy by focusing on crafting the chain, considering available resources and potential trades. They also considered the opponent's potential target and how to hinder their progress.  Although player 2 failed to craft the correct item this turn, player 2 recognized the need to acquire the necessary resources for their targeted crafting item."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully adapted their strategy by offering a trade that benefitted both players.  This trade gave Player 2 raw iron they needed to craft their target item (a chain).  Player 2 then successfully crafted the chain and won the game.  Excellent trade and craft resulting in victory after successful adaptable decision-making."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapted by accepting Player 2's trade offer, securing two cobblestone. Player 1 was close to crafting their target but needed sticks.  They had the materials to create sticks but were not able to execute the craft."
+      }
+    ]
+  }
+]

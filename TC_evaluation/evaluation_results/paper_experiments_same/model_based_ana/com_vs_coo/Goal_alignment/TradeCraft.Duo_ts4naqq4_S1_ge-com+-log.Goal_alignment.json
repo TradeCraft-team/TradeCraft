@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently focused on acquiring the necessary materials (iron ingots) for their target (shears). They checked the recipe, formulated a plan, and made a reasonable trade proposal, demonstrating strong goal alignment. Although their initial proposal was invalid, they quickly corrected it."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's actions were somewhat aligned with their goal. They recognized the need for coal and considered how the trade could benefit them in the long run by encouraging future cooperation. However, their reasoning for accepting the trade wasn't entirely clear, and they didn't actively pursue their goal of acquiring coal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 focused on acquiring coal, a key component for their torch. They made a reasonable trade proposal based on their needs and understanding of the game.  Although the trade was rejected, their actions were aligned with their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 showed perfect goal alignment. They clearly understood their goal, recognized the importance of coal for smelting, and rejected a trade that would have hindered their progress towards crafting shears.  Their thought process was clear and focused on their target item."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to demonstrate good goal alignment. While their actions might seem unaligned with their target item (iron pickaxe) at first glance, their strategy involved misleading the opponent.  Acquiring the planks and crafting sticks was part of a larger plan, even if the reasoning wasn't immediately obvious. They attempted to make torches, even if they didn't check to see if they could be crafted first, which showed a slight deviation from optimal resource usage."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 seemed less focused on their goal this turn. While they recognized the need for fuel and made some relevant inquiries, they didn't actively pursue a specific strategy. Their acceptance of the trade, while seemingly cooperative, didn't bring them closer to acquiring coal, a key component of their target (torch).  The justification for their decision-making this turn is unclear, and a clearer plan for achieving their goal is needed."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good goal alignment by focusing on acquiring coal, a crucial ingredient for their torch. They made a reasonable trade offer, showing an understanding of the game dynamics and attempting to facilitate cooperation.  Although their offer was rejected, their actions were clearly directed towards achieving their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 displayed excellent goal alignment. They correctly assessed the trade offer and recognized that accepting it would hinder their progress towards crafting the iron pickaxe.  Their focus remained on smelting their raw iron and ultimately achieving their target.  Their thought process and decision-making were highly effective."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's actions were partially aligned with their goal. They correctly identified the need for more sticks and iron ingots for the iron pickaxe. However, trading away a torch for cobblestone and raw iron, while potentially helpful for acquiring planks later, didn't directly contribute to their immediate crafting needs.  They should have prioritized trading for fuel or planks this turn. While trying to throw off the opponent has value, it seemed that they might have overprioritized that."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's actions demonstrated very little goal alignment this turn.  They accepted a trade for a torch, but their target was already a torch, making the trade unnecessary.  They didn't actively seek out coal or other resources necessary for crafting more torches if that were their goal, showing a lack of clear strategic thinking related to achieving their goal."
+      }
+    ]
+  }
+]

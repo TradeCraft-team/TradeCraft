@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated perfect goal alignment. They correctly identified the resources needed for their target (bucket), formulated a plan to acquire those resources through trading, and successfully executed that plan.  Their thinking and actions were consistently directed towards achieving their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also demonstrated perfect goal alignment. They identified the resources needed for their target (lever), recognized the opportunity presented by Player 2's trade offer, and accepted the trade, which provided them with the necessary resources.  Their thinking and actions were entirely consistent with their goal."
+      }
+    ]
+  }
+]

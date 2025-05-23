@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some strategic thinking by identifying the need for iron ingots and attempting to trade for them. However, their initial proposal was invalid, showing a lack of understanding of the game rules.  Their subsequent proposal was more reasonable, offering coal in exchange for raw iron and an oak plank.  They also attempted to gather information about the opponent's goal, which is a good strategic move."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly assessed the value of the trade offered by Player 1.  They recognized the benefit of receiving coal to smelt their raw iron and willingly parted with resources that were not crucial to their immediate needs. They also offered a positive and cooperative response, which can be beneficial for future trades."
+      }
+    ]
+  }
+]

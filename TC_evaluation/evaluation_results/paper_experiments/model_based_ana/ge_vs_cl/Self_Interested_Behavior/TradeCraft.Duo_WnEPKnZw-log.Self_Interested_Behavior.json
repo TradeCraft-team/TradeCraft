@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively pursued their goal by proposing a trade for raw iron, which is essential for crafting their target item (bucket). The proposal was well-reasoned and showed a clear understanding of their needs and the opponent's inventory. While the trade was rejected, the attempt demonstrated strong self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a self-interested decision by rejecting the trade.  They correctly reasoned that raw copper wasn't necessary for their goal and conserved their raw iron. The rejection and explanation show an understanding of their own needs and prioritization of their own goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to act in their own interest.  They made a reasonable trade proposal offering raw iron for stone. This trade would help them acquire the resources needed for their stone shovel, and the offer of raw iron, which they have plenty of, demonstrates self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer, which might have been self-interested in the long run, but the provided justification isn't coherent or strategic.  Rejecting a beneficial trade without a logical reason demonstrates ineffective self-interest."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 reconsidered the previous offer and proposed a beneficial trade for themselves. Obtaining raw iron is crucial for crafting the bucket.  Accepting the previously rejected offer shows flexibility and prioritization of their own goal, demonstrating strong self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, fulfilling their immediate need for stone. This action demonstrates self-interest by acquiring a necessary resource for their stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal. While crafting is important, there is no evidence in this particular turn of active pursuit of self-interest through trading or crafting decisions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 accepted the null proposal.  Similar to Player 1, there is no clear demonstration of self-interested behavior in this specific turn.  Accepting a null proposal is neutral."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 attempted to make several proposals, but they were all invalid, indicating poor understanding of game mechanics and thus ineffective pursuit of self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejected the trade, but since the proposal from player 2 was invalid and there wasn't a real trade offer to consider, it is difficult to assess Player 1's self-interest in this turn.  It defaults to a low score due to lack of meaningful action."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal. There was no attempt to trade for any materials.  This is a passive action, not indicative of strong self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 accepted a null trade. This doesn't demonstrate any active pursuit of their own goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.95,
+        "justification": "Player 2 crafted the bucket, securing their win. This is a direct and highly effective demonstration of self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 did not craft their target item or make any strategic moves to acquire necessary materials. This lack of action suggests ineffective self-interest."
+      }
+    ]
+  }
+]

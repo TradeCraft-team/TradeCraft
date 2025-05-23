@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for raw iron, offered items of lesser value to them (cobblestone and cherry planks), and successfully traded for the raw iron they needed to craft their target item (chain).  Their thought process and actions were clearly focused on advancing their own game, even if it meant their opponent might also benefit slightly from their excess items."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted the trade, indicating some self-interest in acquiring cobblestone. However, they seemed less focused on their own objective initially and only considered the raw iron as useful to them since they have raw copper and iron.  Their decision-making was not entirely driven by a strategic assessment of their target need until later in the turn."
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their need for iron by offering coal for raw iron, and their message further hinted at their intention to smelt iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intentions. While their rejection message is somewhat revealing, their overall actions don't give away their target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's repeated attempts to trade for raw iron clearly reveal their need for it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's request for raw copper is a decent attempt at misdirection, but their offer of nothing in return makes the proposal less convincing."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's proposals and messages explicitly reveal their need for raw iron and raw copper, along with their intention to craft a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to conceal their intentions well. Their rejections don't reveal their target."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Accepting raw iron reinforces their previously revealed need for it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully trades for cobblestone without revealing their true goal. Their reasoning also shows a strategy of misdirection, aiming for long term success."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 explicitly states their intention to craft a chain in their trade proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to conceal their intentions effectively, rejecting the trade offer without revealing their own plans."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's acceptance of the trade doesn't reveal anything specific about their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully executes their misdirection plan to acquire planks, keeping the stone shovel target concealed."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's actions reveal their need for iron, but the crafting of a chain is completed without explicitly communicating the target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully crafts the stone shovel, demonstrating excellent intention concealment throughout the game."
+      }
+    ]
+  }
+]

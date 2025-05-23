@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 clearly and effectively persuaded player 1 to trade. They explained their reasoning, highlighted the mutual benefit of the trade, and offered a fair exchange.  This resulted in a successful trade that benefited both players."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 was persuaded by Player 2, but did not utilize persuasion themselves this turn."
+      }
+    ]
+  }
+]

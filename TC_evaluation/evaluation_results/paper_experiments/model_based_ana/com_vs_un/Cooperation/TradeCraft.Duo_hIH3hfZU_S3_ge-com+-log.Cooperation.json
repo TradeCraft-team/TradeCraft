@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a trade that was beneficial to both players. They offered items they didn't need for their goal (cherry planks and cobblestone) in exchange for raw iron, which they needed to craft their target item (a bucket)."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 readily accepted Player 2's trade proposal, recognizing its mutual benefit. They needed the cherry planks to craft sticks for their lever, and they had plenty of raw iron to spare."
+      }
+    ]
+  }
+]

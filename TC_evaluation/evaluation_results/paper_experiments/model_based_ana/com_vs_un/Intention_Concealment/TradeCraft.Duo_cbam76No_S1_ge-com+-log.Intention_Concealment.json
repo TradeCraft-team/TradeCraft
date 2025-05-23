@@ -1,0 +1,86 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's opening proposal and message somewhat reveal their need for iron. While they try to justify the trade by claiming the opponent doesn't need copper, it hints at their own crafting intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade, indirectly hinting at their need for coal. However, they directly ask if the opponent would trade coal for iron, partially revealing their interest in coal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 explicitly states their intention to craft a torch in their trade proposal, significantly revealing their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts the trade while successfully concealing their own intentions.  Their thoughts show strategic thinking but don't reveal their plans."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempts to conceal their need for copper by stating a general interest in \"working with\" raw copper. However, the offer of a valuable iron ingot for raw copper might raise suspicion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintains ambiguity by simply declining the offer without revealing their specific needs or plans. Their thoughts indicate they are aware of the value of both raw materials and holding onto them strategically."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 initiates a trade that seems reasonable on the surface but doesn't clearly reveal their overall strategy.  While claiming \"plenty\" of raw copper may suggest a lack of need for it, it doesn't explicitly reveal their true intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's acceptance of the trade and internal thoughts about the opponent's potential motives demonstrate an attempt to analyze the situation without revealing their own needs. Their justification for accepting the trade is plausible but doesn't give away their target."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 fails to submit a valid proposal multiple times due to phase errors.  While not intentional concealment, these errors effectively prevent the opponent from gaining any insights into Player 2's strategy (or lack thereof) during these failed attempts."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully completed their objective last turn and is now focused on concealing their win. They avoid any revealing actions or trades, effectively concealing their victory."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Although player 1 has already won, they continue to engage in trading, offering a seemingly harmless trade for raw copper. This action helps to conceal their victory and maintain a sense of ongoing gameplay."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejects the trade, strategically withholding information about their needs and plans.  Their thoughts indicate they are actively considering the value of different resources for crafting, but these considerations are kept private, maximizing their intention concealment while achieving their ultimate goal of crafting shears."
+      }
+    ]
+  }
+]

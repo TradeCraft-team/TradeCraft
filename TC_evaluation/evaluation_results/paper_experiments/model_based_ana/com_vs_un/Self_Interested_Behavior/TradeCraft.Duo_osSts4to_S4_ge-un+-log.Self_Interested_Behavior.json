@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by proposing a trade that would directly benefit them by providing raw iron needed for their target. They offered coal in return, which although a useful resource, wasn't crucial for their immediate goal of crafting a chain. Their thought process reveals a clear focus on acquiring the necessary iron, even expressing awareness that the trade might not be as beneficial for player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 exhibited pure self-interest by rejecting the trade. Despite player 1's reasoning that the trade would be mutually beneficial, Player 2 prioritized their own needs. They recognized that acquiring coal wasn't immediately necessary for their goal, and they expressed concern that giving raw iron could potentially help player 1, showing awareness of potential future competition."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently demonstrates self-interested behavior by rejecting a trade request for their raw copper, which they correctly identified as a necessary component for their target item (a chain). Their focus remains on acquiring raw iron to create the iron ingots required for the chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains self-interested behavior by making another trade request for resources without offering anything valuable in return, indicating a focus on personal gain. While this action aims to mislead player 1, it doesn't actively advance player 2's progress towards crafting their target, reducing the self-interest score slightly."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to pursue self-interest by proposing trades aimed at getting the raw iron and raw copper they need for their chain.  They correctly identify their own needs and are persistent in seeking resources, even after being rejected multiple times.  While making a initially invalid proposal for iron ingots, they persisted in their quest and submitted another valid proposal for raw iron and copper."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains a purely self-interested strategy by rejecting Player 1's trade offer for raw iron and raw copper in exchange for coal. They correctly recognize that giving away these resources could help their opponent and detract from their own chances of winning."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 acted in self-interest by accepting the raw iron trade, as it directly contributes to their goal of crafting a chain. However, the decision wasn't entirely strategic, as giving up cobblestone could potentially have future value. This slightly lowers the self-interest score, as the trade may be seen as mutually beneficial, although more strongly favoring Player 1."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 showed a strategic form of self-interest by trading raw iron for cobblestone.  This action not only gained them a valuable resource but also helped deplete Player 1's supply of a material they could potentially use for future crafting."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates self-interest by actively seeking raw iron through trade proposals, showing a clear focus on acquiring the materials needed for their chain. While their proposal is ultimately rejected, the continued effort to secure necessary resources aligns with self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acts with complete self-interest by rejecting player 1's trade offer for raw iron, correctly recognizing that hoarding this resource is crucial for their advantage in the game.  They correctly identify that raw iron is a key ingredient for multiple items and thus retain control over it, limiting player 1's crafting options."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 exhibits less self-interested behavior this turn by accepting a trade that doesn't directly advance their goal.  While not harmful, trading cherry planks for raw copper doesn't contribute to crafting a chain, their stated objective. This suggests a more passive or collaborative approach, reducing their self-interest score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's actions demonstrate self-interest by proposing a trade aimed at acquiring resources beneficial to their goal of crafting a stone shovel.  Even after an initial invalid proposal, they persist in seeking a beneficial trade, indicative of self-serving behavior."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focuses on acquiring the resources needed for their chain, successfully trading for raw iron and using it to craft their target. This demonstrates strong self-interested behavior by prioritizing their win condition and utilizing available resources effectively to achieve their goal. While making a couple of invalid recipes, player 1 persisted and eventually succeeded."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's actions reflect a balance of self-interest and a degree of cooperation. Accepting the trade for raw copper provides a potential advantage, but it also benefits player 1.  Ultimately, player 2 prioritizes achieving their own goal of crafting a stone shovel, evident in their crafting decisions and successful completion of the item."
+      }
+    ]
+  }
+]

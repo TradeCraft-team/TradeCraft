@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade that benefited both players. Player 1 needed raw iron and offered raw copper in exchange.  The trade allowed player 1 to craft the target item and player 2 to have raw materials that could be useful for crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted player 1's trade proposal, recognizing that it wouldn't negatively impact their own progress and would allow player 1 to pursue their target item. Player 2 demonstrated an understanding of the game's dynamics by choosing to cooperate, even if it provided minimal direct benefit to themselves."
+      }
+    ]
+  }
+]

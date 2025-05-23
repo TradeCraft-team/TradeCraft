@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 demonstrated poor adaptability. They repeatedly submitted invalid proposals based on the same flawed logic (offering coal for crafted iron ingots when Player 2 had no way to craft them).  While they eventually corrected their offer to request raw iron instead, this adaptation was slow and came after multiple failed attempts. They also struggled with crafting, submitting multiple invalid recipes."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 exhibited good adaptability by considering the cooperative aspect of the game and accepting a trade that benefited Player 1, even though it didn't directly advance their own goal. They correctly assessed Player 1's likely intentions and made a logical deduction about their target item. However, they didn't propose any trades of their own, which limits their adaptability score."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 showed improved adaptability by accepting Player 2's offer, recognizing its benefit towards their goal.  They correctly identified their need for coal and considered potential trades. While they haven't yet successfully crafted anything, they are actively thinking about resource acquisition and crafting possibilities."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continued to exhibit strong adaptability by proactively proposing a mutually beneficial trade, recognizing Player 1's need for iron. They correctly assessed their own crafting needs and formulated a plan to achieve their goal. They also continued to consider Player 1's needs and potential future trades, showing a good understanding of the cooperative nature of the game."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted well by successfully trading for coal, addressing their fuel needs for smelting.  They then efficiently used their resources to craft iron ingots and then the bucket. They showed effective resource management and a clear understanding of their crafting goals."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 showed some adaptability by recognizing Player 1's need for coal and accepting the trade.  However, they still haven't successfully crafted anything, suggesting a lack of adaptability in their crafting strategy.  While prioritizing crafting is important, Player 2 could have tried different crafting attempts or considered trading. They are not making progress towards their goal."
+      }
+    ]
+  }
+]

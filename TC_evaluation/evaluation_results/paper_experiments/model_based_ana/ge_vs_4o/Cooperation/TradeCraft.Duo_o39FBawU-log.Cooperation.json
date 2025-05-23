@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade offer, demonstrating a willingness to cooperate. Although the offer wasn't beneficial for player 1 and was rejected, the attempt to engage in a trade interaction is a positive sign of cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade offer, which is a valid move given their current crafting goals.  While there's no active cooperation in this turn, the player considered the offer and provided a polite rejection, showing an understanding of social dynamics in the game and keeping the communication open for future potential cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable trade proposal in line with their crafting needs, showing initiative towards cooperation. Even though the proposal was rejected, the proactive approach to finding a mutually beneficial trade counts towards cooperative behavior."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer without providing a clear reason. While they have the right to refuse, it hindered potential cooperation and didn't contribute to mutual benefit.  The lack of explanation lowers the cooperation score."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed a trade that was ultimately accepted by player 1 . This demonstrates strong cooperation by offering a resource that benefited player 1 's objective and furthered their own progress toward crafting their target item. The successful trade significantly increased the chances of both players achieving their respective goals, highlighting effective cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted Player 2 's trade, recognizing its mutual benefit. This facilitated a cooperative exchange that brought both players closer to achieving their goals. The willingness to engage in a beneficial trade signifies strong cooperation."
+      }
+    ]
+  }
+]

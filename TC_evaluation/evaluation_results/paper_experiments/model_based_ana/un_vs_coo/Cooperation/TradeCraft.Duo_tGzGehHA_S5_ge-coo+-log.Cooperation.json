@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent cooperation by identifying a mutually beneficial trade and proposing it to Player 1. The initial proposal was flawed, but they quickly corrected it and clearly explained the reasoning behind the trade. This fostered a collaborative environment and allowed Player 1 to benefit from the trade by obtaining coal for smelting."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong cooperation by carefully considering the proposal from Player 2 and accepting it despite not needing the resources for their own target. They understood the potential benefits for both players and acted accordingly, fostering a collaborative environment."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 missed an opportunity for cooperation. They sent an empty proposal, which was confusing for Player 2. While they intended to craft this turn, a more cooperative approach would have been to explicitly communicate their crafting plans and check if Player 2 needed anything."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 responded well to the confusing proposal by seeking clarification and expressing a willingness to help Player 1 with their crafting.  While the turn didn't result in a direct cooperative action, their response was positive and maintained a collaborative tone."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 again demonstrated a cooperative spirit by offering a potentially beneficial trade to Player 1. Although the offer was rejected, the attempt to find mutually beneficial trades contributes positively to overall cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 rejected the trade offer from Player 2 without fully exploring the potential benefits. While focusing on their own target is valid, a more cooperative approach would have been to consider the potential long-term benefits of accepting the trade or proposing an alternative."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 communicated their crafting plans clearly to Player 2, which is a positive aspect of cooperation.  While there was no active trade or collaboration this turn, maintaining communication about intentions fosters a collaborative environment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null trade and acknowledged Player 1's crafting plan. They also indicated a willingness to help if needed, further reinforcing the cooperative nature of their interaction."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued their attempts at cooperation by proposing a simple and fair trade with Player 1.  While the trade was ultimately rejected, the persistent effort to find mutual benefits maintains a cooperative approach."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 again rejected a trade offer from Player 2.  While it's valid to prioritize their own target, consistently rejecting offers without counter-proposals or explanations can be detrimental to long-term cooperation."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 communicated their crafting plans, which maintains some level of cooperation. However, there was no attempt to initiate or facilitate any collaboration."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the null trade and reaffirmed their willingness to cooperate. While no active collaboration occurred this turn, their positive responses maintain a cooperative atmosphere."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a reasonable trade offer, demonstrating a willingness to cooperate and help Player 1.  Even though the offer was rejected, the continued attempts to find mutual benefit are positive."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 rejected the trade offer, missing another opportunity for cooperation. While focusing on one's goal is understandable, consistently rejecting offers without providing alternatives or explanations can hinder collaborative efforts."
+      }
+    ]
+  }
+]

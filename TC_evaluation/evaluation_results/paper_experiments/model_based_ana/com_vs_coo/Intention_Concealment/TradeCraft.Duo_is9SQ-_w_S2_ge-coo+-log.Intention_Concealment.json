@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their intention to craft a bucket by requesting iron ingots and mentioning it directly in their messages."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intention by rejecting Player 1's offer and providing a plausible excuse.  Their reasoning for the rejection was consistent with needing the resources for a different, undisclosed purpose."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 continues to focus on acquiring iron, which, while not explicitly stating their intention, narrows down the possibilities of their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal to trade for coal is a common action, and doesn't significantly reveal their intention. While requesting cobblestone provides some information, it's not enough to determine their specific goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's message reveals their current hand and suggests their need for iron, further narrowing down the possibilities for their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejects the offer and inquires about coal, which is a more general resource and doesn't give away their true intention."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the cobblestone trade, a relatively neutral action that doesn't reveal much about their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's repeated attempts to trade for coal suggest a need for smelting, but do not reveal the specific material they intend to smelt."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 offers an iron ingot for raw iron. This suggests they have enough iron for their target item, potentially iron-related, or are trying to mislead player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently rejects iron-related trades, further concealing their intentions and suggesting their target doesn't rely heavily on iron."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepting the trade for raw iron is a fairly neutral action that doesn't reveal much about their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offering raw iron for a cobblestone slab is somewhat revealing, hinting at a need for cobblestone-related items, but not a specific goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Trading raw iron for raw copper is a relatively neutral action.  It doesn't reveal a clear intention."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Accepting the trade for raw iron while needing cobblestone slabs maintains some ambiguity about their intentions."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance of the trade for raw iron is consistent with their earlier behavior, not revealing any specific intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's continued pursuit of cobblestone slabs hints at their goal, but it's still not clear what they are crafting."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Offering cobblestone slab for raw iron is a fairly neutral trade that doesn't reveal intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Rejecting the cobblestone slab offer and inquiring about coal maintains ambiguity, hinting at smelting needs without revealing the intended output."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance of the trade and admission of lacking sticks is a neutral action, not revealing their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's repeated requests for cobblestone slabs, combined with inquiries about sticks, narrows down the potential target items considerably."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 offering raw copper for an iron ingot is a fairly standard trade and doesn't reveal specific intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepting the trade for raw copper is a relatively neutral action that doesn't reveal much about their goal."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepting a cobblestone slab for raw iron is a neutral action, providing no clear indication of their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to express interest in cobblestone slabs and raw iron, which suggests but doesn't confirm their target."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "N/A - Game Over"
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "N/A - Game Over"
+      }
+    ]
+  }
+]

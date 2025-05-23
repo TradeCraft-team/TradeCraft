@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focuses on crafting a chain, researching necessary materials and proposing a relevant trade."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly identifies the resources needed for their lever and rejects an irrelevant trade, staying focused on their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 focuses on crafting a lever. Proposes a trade for coal, which while not strictly necessary for the lever, could be useful for smelting later, demonstrating forward thinking related to crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 effectively assesses the trade and accepts, correctly reasoning that it advances progress towards crafting the target \"chain\"."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a reasonable trade proposal, offering coal for raw iron which could be used to make their chain. However, after the trade fails player 2 seems confused about already possessing the materials to create the chain."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to prioritize their lever, rejecting the coal trade as unnecessary for their current crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintains focus on crafting the lever and proposes a trade for coal, which could be used for smelting later on. While not essential for the lever, it shows some goal alignment with potential future crafting needs."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continues to make sound decisions aligned with crafting their chain, rejecting the proposed trade as they already possess the necessary materials."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 understands they have the necessary materials to craft a chain and makes a proposal. However, they propose a non-essential trade, which while maintaining relations, doesn't directly contribute to their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to focus on crafting their lever, rejecting the proposed trade."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 fails to craft the stick and seems confused about the recipe requirements.  This shows a lack of goal alignment as they are unable to execute the necessary crafting steps to create a lever."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acknowledges they have the resources to create the chain and accepts the null proposal, maintaining focus on crafting their target in the crafting phase."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 recognizes they need an iron ingot for the chain but fails to recognize they have sufficient iron nuggets. They engage in unnecessary resource conversion and make a suboptimal trade proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 still hasn't successfully crafted a stick despite multiple attempts, and the recipe is still incorrect. They continue to fail to make progress toward their lever, indicating poor goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 still struggles to craft a stick and thus a lever. They're making poor trade proposals that don't align with their primary goal.  Despite needing planks, they keep trying to trade for coal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognizes they have the resources for the chain and makes a sound rejection based on their crafting needs."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 recognizes they have the materials to craft the chain. They then make a trade proposal, but not for materials they critically need. This is close to perfect goal alignment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepts the trade for coal. This improves their resource pool and may enable future crafting, but it does not directly contribute towards making a lever, their current objective."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 still fails to craft the stick, showing poor goal alignment. They are able to trade for cobblestone however."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly assesses the situation and recognizes they have all necessary materials to craft the chain. They accept the trade offer despite no real benefit towards achieving their goal and proceed to craft the chain."
+      }
+    ]
+  }
+]

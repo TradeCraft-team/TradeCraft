@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that was beneficial to both players. They offered items they didn't need for their goal and requested items essential for achieving their goal.  They clearly stated their intentions in the trade proposal, fostering clear communication and cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutual benefit of the trade proposed by Player 2.  They accepted the trade, contributing to a successful exchange of resources and demonstrating a willingness to cooperate."
+      }
+    ]
+  }
+]

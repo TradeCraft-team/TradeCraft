@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly revealed their intention to craft a chain by mentioning it in multiple proposals and thinking steps.  While their initial proposals were invalid, the repeated attempts and explanations gave Player 1 strong clues about their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made no attempt to trade and accepted Player 2's empty proposal. They only revealed their intention to craft a stone shovel in their internal thoughts, which are not visible to the opponent, keeping their true goal hidden."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 revealed their need for cobblestone to create a stone shovel, narrowing down the possible target items. While they did not explicitly mention \"stone shovel\", the request for cobblestone provided some clues to Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a trade that seemingly benefited them (getting raw iron for smelting) and mentioned needing iron for a chain in their thoughts, which were not visible to the other player.  The trade itself and thought processes reinforce the suspicion around iron-related items, including chain."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal and message explicitly stated their intention to craft a chain, revealing their target item and lowering their intention concealment score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, which can be a neutral action. While they considered trading for a cobblestone, they didn't explicitly reveal their intent to craft a stone_shovel.  Their thought processes about the stone_shovel remain hidden."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a null trade and gave a generic message, avoiding revealing any intentions.  Their thoughts about the stone_shovel are kept private."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to focus on acquiring iron through smelting, reinforcing their previous actions related to iron. While not directly revealing their goal, the focus on iron is suggestive."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initially attempted to conceal their need for fuel by offering a trade for planks or coal, but later said they had everything they need. This slight inconsistency lowers their score a little, but the shift towards a null trade and the message somewhat obscured their intent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the null trade, which is generally a neutral action, and kept their intentions about crafting a stone_shovel private."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made another null trade and provided a generic goodwill message, not revealing any specific intentions related to their goal. Their thoughts about making a stone_shovel remain hidden."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's thoughts revealed their need for fuel and intention to craft a chain, although this information wasn't shared directly with Player 1. The focus on obtaining planks suggests a need for fuel for smelting, potentially giving Player 1 hints about Player 2's goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 explicitly stated their intention to make a chain in their trade proposal, further revealing their target item and significantly lowering their concealment score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejected the trade and stated that they needed the raw iron, without revealing their own crafting goals. Their thoughts about making a stone_shovel remain internal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a null trade and sent a generic message, revealing nothing about their intentions.  Their internal thoughts about crafting the stone shovel remain private."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's focus remains on acquiring iron through smelting, indirectly hinting at a need for iron-related items. However, they don't explicitly mention their goal of crafting a chain, maintaining some level of concealment."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 continues to request materials relevant to crafting iron ingots/chains (iron ingot, iron nuggets for raw iron) showing their target is related to iron. They reveal their attempt to craft a \"chain\" in one of their internal thoughts. This reduces their intention concealment score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejects proposals and checks recipes/items related to sticks/planks/shovels.  No direct clues were given to player 2."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's initial proposal suggests a need for planks which might be needed for crafting sticks and hence be suggestive of shovels."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's rejection of Player 1's trade offer and their subsequent internal thoughts don't reveal their strategy or intended use for the raw iron they are accumulating. This lack of clear communication increases their intention concealment rating. Although they considered trading for fuel, they didn't carry it out."
+      }
+    ]
+  }
+]

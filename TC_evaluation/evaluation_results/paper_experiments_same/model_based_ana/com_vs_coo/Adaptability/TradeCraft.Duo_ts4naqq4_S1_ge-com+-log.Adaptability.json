@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability. Initially, they proposed an invalid trade, but quickly corrected their mistake and tailored their proposal to fit the available resources by requesting raw iron instead of iron ingots.  They clearly stated their reasoning and demonstrated a willingness to negotiate.  They also considered the cooperative nature of the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also adapted well. They considered the proposed trade in relation to their own goals and the overall cooperative nature of the game. They identified player 2's need for iron and decided to facilitate it, even though it meant trading away a valuable cobblestone. They also attempted to leverage the trade to their advantage by expressing their need for coal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapted their trade proposal based on the previous turn's outcome. They recognized player 2's need for coal and offered a seemingly fair trade of raw materials. Their message also clearly communicated their intention to craft a torch. While the trade was rejected, their attempt to secure a necessary resource shows some adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted by prioritizing their own goal of crafting shears over the immediate potential benefit from trade.  They recognized the importance of coal for their own crafting plan and made the strategic decision to conserve their resources."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 identified a need for planks to craft a crafting table and adapted by proposing a trade for oak planks. They offered cobblestone, which they deemed less valuable to their current goal, showing strategic thinking and adaptability."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 showed adaptability by accepting the trade proposal and recognizing the potential for long-term gain in the cooperative game. They evaluated the proposal from both their perspective and the opponent's and decided the trade was mutually beneficial, demonstrating flexibility."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 continued to adapt by offering a favorable trade of raw iron for coal, recognizing player 2's need for iron ingots.  While the trade was rejected, their persistence in trying to acquire a needed resource and their understanding of the opponent's situation demonstrates some level of adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong adaptability by rejecting the proposed trade and explaining their reasoning. They considered the potential risks and benefits and prioritized their own goals. They also considered alternative fuel sources (oak planks) as a backup plan."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed adaptability by offering a different type of trade. They recognized player 1's likely need for a torch and used it as leverage to request cobblestone and raw iron.  This demonstrates a shift in strategy based on observed opponent behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good adaptability by analyzing the trade proposal, considering the cooperative aspect of the game, and making a decision based on their evaluation of the torch's potential usefulness. They also tried to gather information about player 2's plans to further refine their strategy."
+      }
+    ]
+  }
+]

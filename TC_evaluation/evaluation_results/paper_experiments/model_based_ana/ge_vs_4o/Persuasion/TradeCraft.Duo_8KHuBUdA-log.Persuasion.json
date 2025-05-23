@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to persuade Player 2 to trade raw iron by offering coal and cobblestone and explaining their need for a bucket. However, the proposal was rejected. The message lacked details on how the offered items would benefit Player 2."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not make any persuasive attempts this turn, simply rejecting Player 1's offer with an automatically generated message. No counter-offer or reasoning was provided."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully persuaded Player 1 to trade by offering raw copper for cherry planks. They clearly stated their need for the planks and suggested how the copper could be useful for Player 1, fostering a sense of collaboration."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepted Player 2's proposal, but didn't actively engage in persuasion this turn. Their acceptance message was polite but didn't contribute to negotiation or influence."
+      }
+    ]
+  }
+]

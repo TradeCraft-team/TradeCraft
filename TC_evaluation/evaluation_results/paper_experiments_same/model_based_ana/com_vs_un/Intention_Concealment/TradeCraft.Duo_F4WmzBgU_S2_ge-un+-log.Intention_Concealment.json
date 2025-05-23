@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 repeatedly revealed their need for iron ingots and their intention to craft a bucket by constantly checking its recipe and explaining their plans in their messages.  While their initial trades were rejected due to formatting or game rule issues, their persistence in revealing their intentions significantly lowered their score.  Even their final empty trade, while accepted, doesn't demonstrate effective concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions during this turn. They accepted Player 1's empty trade without revealing their own goals or plans.  Their thoughts show strategic thinking but no specific actions that would give their intentions away.  Checking the recipe for sticks, a common item, doesn't reveal much about their true target."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 initiated a trade for coal, claiming they're \"working towards iron tools.\"  This is a decent attempt at misdirection, as it suggests a need for iron ingots while their actual target is a stone shovel. However, offering raw iron for coal is a fairly standard trade, not particularly deceptive, which limits the effectiveness of the concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 readily accepted the raw iron trade, expressing their need for iron, further revealing their intention to craft an iron item. They also check related recipe, and show their interest in iron in their thoughts. This direct confirmation of their need for iron lowers their score, as it provides Player 2 with more information about their intentions."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 explicitly stated their need for iron ingots to craft a compass, revealing both their target and current progress.  This complete lack of concealment results in a very low score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted Player 1's trade while acknowledging the possibility of Player 1 crafting a compass.  Their internal thoughts reveal a strategic assessment of the situation. They show good intention concealment during this turn by accepting the trade while already suspecting player 1's target."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 offered raw copper for raw iron, a seemingly neutral trade that doesn't immediately reveal their need for iron ingots for the compass. Their thoughts indicate a strategic shift away from the previous \"iron tools\" deception, aiming for a less revealing approach.  While the trade itself doesn't actively conceal their goal, it avoids further reinforcing the previous misdirection."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 considered the trade and its potential benefits, ultimately accepting it for the raw copper. Their reasoning for accepting focuses on the potential uses of copper, which indirectly suggests they might not be solely focused on iron. This offers a slight element of concealment but does not represent a strong or proactive strategy. Player 1 also check copper related recipes, which might have been a risky move."
+      }
+    ]
+  }
+]

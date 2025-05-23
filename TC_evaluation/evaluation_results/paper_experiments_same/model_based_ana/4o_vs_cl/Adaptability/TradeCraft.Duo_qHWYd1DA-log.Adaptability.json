@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by first checking the crafting recipe for their target item (chain) and then identifying the need for raw iron. They formulated a reasonable trade proposal to Player 2, offering coal and cobblestone in exchange for raw iron. Although the trade was rejected, the actions show an understanding of the game mechanics and a willingness to adapt their strategy by seeking necessary resources through trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also adapted well by checking the recipe for their target item (lever) and related items (stick), and evaluating the trade proposal based on their crafting needs. They correctly identified that the offered items were not immediately beneficial for their goal and rejected the proposal while providing a clear justification."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's initial proposal was invalid, indicating a lack of attention to game rules. The subsequent proposal, while valid, was rejected.  While they eventually attempted to craft iron ingots, they did not attempt to address the rejected trade or explore alternative strategies."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 focused on converting their iron ingot into nuggets and back to prepare for crafting the chain, showing consistent progress toward their goal despite the rejected trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed further adaptability by revising their trade proposal based on the previous turn's rejection. They offered a more appealing trade (cherry planks) for the raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejecting the trade without clear reasons and not submitting another trade offer show little adaptability."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 finally crafted cobblestone_slab. Furthermore, player 2 made a proposal to trade for both necessary resources (cherry planks and cobblestone), offering a good exchange rate (2 raw iron). This shows a willingness to learn from their opponent and utilize this knowledge to improve their strategy."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejecting the trade without clear reasons and not submitting another trade offer show little adaptability to the proposal given."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates excellent adaptability by recognizing Player 2's need for planks and cobblestone.  The offered trade benefits both players and is crucial in helping Player 1 secure a win."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 recognizes the value of the trade proposed by Player 1, accepting the proposal, showing strong adaptability and setting themselves up to potentially complete their goal if the game continued."
+      }
+    ]
+  }
+]

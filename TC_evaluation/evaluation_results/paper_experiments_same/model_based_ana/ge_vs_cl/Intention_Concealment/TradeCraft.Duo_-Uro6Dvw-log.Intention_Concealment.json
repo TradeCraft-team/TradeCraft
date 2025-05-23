@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's initial proposals heavily implied a need for iron ingots, revealing their intention to craft something requiring iron.  While the later shift to requesting raw iron was slightly better, the accompanying message still hinted at their need for iron ingots in the future.  This makes the attempt at concealment weak overall."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 effectively concealed their intentions. While their rejection message mentioned crafting plans, it didn't specify *what* they were crafting. Their repeated checking of the stone shovel recipe and stick recipe remained hidden from Player 1. By focusing their response on the immediate lack of need for coal, they diverted attention from their actual goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully concealed their intentions in this turn. Although they accepted the trade, their reasoning for doing so (acquiring raw iron to smelt) was consistent with general resource gathering, not specifically revealing their intent to craft a chain. They made no proposals or statements that hinted at their target item.  By crafting the chain as soon as possible, they also shortened the time their hand revealed information."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's actions in turn 2 almost completely revealed their intention to craft a stone shovel.  Their proposal explicitly stated needing the cherry planks for \"crafting plans\" and \"tools.\" Requesting the cherry planks immediately after checking the stick and stone shovel recipes further telegraphed their goal. Although the offer of raw iron could be interpreted as helpful bait, they could offer less."
+      }
+    ]
+  }
+]

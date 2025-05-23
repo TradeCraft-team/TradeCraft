@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 consistently pursued their self-interest by attempting to trade for raw iron, a key component of their target item. Although their initial proposals were invalid, they adapted and offered a reasonable trade of coal for raw iron.  The focus remained on acquiring resources to benefit their own crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated self-interested behavior by rejecting player 1's trade proposal.  They reasoned that providing raw iron would help player 1 progress, which is against their own interest. They prioritized their own goal of crafting a lever and correctly identified that the offered coal was not necessary for their objective.  Their decision-making was strategic and prioritized their own success."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 attempted to trade for player 1's iron ingot, offering oak planks in return. While this demonstrates a degree of self-interest, the proposal wasn't very strategic.  Offering planks for an iron ingot isn't a very enticing trade, especially when it seemed clear from the previous turn that player 1 needed the iron. The attempt to gain a high-value item for a low-value one is opportunistic but ineffective, thus the low score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in their self-interest by rejecting player 2's offer. They recognized that trading their iron ingot would hinder their progress towards their target item, the chain, which requires iron. Their decision demonstrates a clear understanding of their own needs and prioritization of their crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully executed a trade that directly benefited their self-interest. By offering a copper ingot, which they didn't need, in exchange for raw iron required for their target, they showed strong strategic thinking and maximized their gain from the trade. They then efficiently crafted their target and won, showing strong self interest throughout."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 accepted a trade that was highly beneficial to player 1 and detrimental to their own chances of winning.  Giving away raw iron when player 1 clearly needed it for their target (chain or similar item requiring iron ingots) demonstrates a lack of self-interested behavior.  While they might not have needed the copper directly, hindering the opponent's progress should have been prioritized."
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated strong self-interest by attempting to trade less valuable items (coal and cobblestone) for raw iron, which is essential for their target item (shears). They clearly prioritized their own needs."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 acted in their self-interest by rejecting the trade.  Recognizing that player 1 needed the raw iron, they refused to help player 1 achieve their goal. Though they offered no alternative, the rejection itself displays self-interest."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the trade offer, which was in their self-interest as trading away their iron ingot would have been detrimental to crafting shears."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 tried to trade for an iron ingot, which they may need, but they also may have tried to prevent Player 1 from using it to craft shears. This was a mixed turn for self-interest, but slightly beneficial for Player 2 without giving Player 1 what they want."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently pursued their self-interest by attempting to trade for raw iron, essential for their shears. They refined their offer to make it more appealing to Player 2, demonstrating a focus on achieving their own goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 again rejected the trade offer, acting in their self-interest to prevent Player 1 from getting the raw iron needed for their shears. Though no alternative trade was offered, the rejection is consistent with maximizing individual benefit."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 acted in their self-interest by accepting a trade that benefited them. They exchanged a less valuable item (cherry planks) for raw iron, bringing them closer to crafting shears. While the trade also helped Player 2, the primary benefit was to Player 1."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully executed their trading strategy and acquired cherry planks for raw iron, benefiting both players while strategically prioritizing the acquisition of raw iron for their torch."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to act in their self-interest, making multiple attempts to trade for resources needed to craft shears. Despite rejections, they keep adjusting their offers, reflecting persistent self-interested behavior."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.1,
+        "justification": "Player 2 did not do anything demonstrating self-interest. While they may have been internally deliberating, there are no outward actions or proposals made in their own favor."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected a trade that didn't benefit their primary objective (crafting shears), even if it could have offered potential future advantages. This shows a focus on their own goal and immediate needs, a key element of self-interested behavior."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade raw copper for a copper ingot shows self-interest. While the offer may appear mutually beneficial on the surface, obtaining copper could potentially be necessary for their torch (if they're planning on crafting a wall-mounted torch)."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to prioritize crafting shears, rejecting a trade that doesn't bring them closer to their goal and persisting in seeking iron ingots. Their focus on achieving their objective, even if it means declining potentially beneficial trades, demonstrates strong self-interest."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2's rejection of the copper/iron trade offer benefits their self-interest by not giving Player 1 the advantage of obtaining an extra iron ingot, which is known to be valuable for their target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 maximized their self-interest by accepting a highly favorable trade, securing enough iron to complete their shears and win the game.  This decisive move perfectly exemplifies prioritizing individual gain."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2's actions in this turn did not demonstrate significant self-interest. Their initial proposal was invalid, and the subsequent trade offer, while accepted, ultimately contributed to their loss."
+      }
+    ]
+  }
+]

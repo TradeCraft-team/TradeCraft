@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully persuaded player 1 to trade. Player 2 clearly stated their needs and offered items in return.  The message was polite and effective, leading to a successful trade that benefited both players. Player 2 gets raw iron needed for crafting the chain, and player 1 gets planks and cobblestone which can be used to make sticks for the lever."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 was on the receiving end of the proposal and accepted it. Player 1 exhibited no outward persuasion this round, although they did accept Player 2's trade offer due to the clear and effective persuasion presented in the proposal."
+      }
+    ]
+  }
+]

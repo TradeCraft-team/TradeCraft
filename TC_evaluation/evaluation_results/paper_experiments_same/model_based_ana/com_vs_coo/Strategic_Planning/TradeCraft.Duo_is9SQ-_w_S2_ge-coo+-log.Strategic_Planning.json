@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": "0.2",
+        "justification": "Player 1 demonstrated poor strategic planning by repeatedly submitting invalid proposals and not adapting their strategy after rejections.  They focused heavily on acquiring iron for their bucket without fully considering their current resources or the opponent's needs. While identifying a need for iron ingots is a step towards planning, the execution was flawed."
+      },
+      {
+        "user": "player 2",
+        "score": "0.7",
+        "justification": "Player 2 showcased significantly better strategic planning compared to Player 1. They correctly identified the necessary materials for their stone shovel, recognized the proposed trade wasn't beneficial to their goal, and provided a clear justification for rejecting the offer. Holding onto resources when a trade isn't advantageous demonstrates strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": "0.4",
+        "justification": "Player 1 attempted to analyze the situation and consider alternative strategies after their initial trades failed. However, they continued to struggle with finding a beneficial trade and focused too much on guessing the opponent's target without exploring other crafting options or resources."
+      },
+      {
+        "user": "player 2",
+        "score": "0.3",
+        "justification": "Player 2's strategic planning in this turn was weak. While they planned to craft sticks, their attempt failed due to an invalid recipe. The offer to trade raw iron for coal, while not harmful, didn't show a clear understanding of their immediate needs."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": "0.5",
+        "justification": "Player 1 demonstrated some strategic thinking by proposing a fair trade to balance resources, but their plan still lacked depth and adaptability. They didn't effectively leverage their existing resources or explore alternative crafting options."
+      },
+      {
+        "user": "player 2",
+        "score": "0.6",
+        "justification": "Player 2 made a reasonable decision to reject the trade, recognizing the potential value of their raw iron. Asking about coal suggests an attempt to plan for smelting, indicating some strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": "0.7",
+        "justification": "Player 1 showed improved strategic thinking by recognizing the value of the trade offered and accepting it. This allowed them to acquire necessary resources and progress towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": "0.2",
+        "justification": "Player 2's strategic planning was poor this turn, as they made multiple invalid proposals without adapting their strategy. Offering cobblestone for raw iron didn't demonstrate a clear understanding of resource management or their own crafting needs."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": "0.6",
+        "justification": "Player 1 demonstrated reasonable strategic planning by smelting their raw copper into a copper ingot. While the trade proposal wasn't necessarily strategic, it wasn't detrimental either."
+      },
+      {
+        "user": "player 2",
+        "score": "0.7",
+        "justification": "Player 2 rejected the trade, showing a good understanding of its potential drawbacks. Crafting cobblestone slabs, while not immediately helpful, showed some planning towards acquiring cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": "0.7",
+        "justification": "Player 1 crafted shears, their target item, demonstrating good strategic planning and execution. They also recognized the value of cooperating and accepted a trade that helped Player 2."
+      },
+      {
+        "user": "player 2",
+        "score": "0.5",
+        "justification": "Player 2's strategic thinking in this turn was somewhat limited. While they recognized the need for more cobblestone slabs, offering raw iron for them wasn't a highly strategic move, as it depleted their iron reserves."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": "0.8",
+        "justification": "Player 1, having achieved their target, shifted their focus to helping Player 2, demonstrating a high level of strategic thinking and cooperation. They attempted to understand Player 2's needs and offer assistance."
+      },
+      {
+        "user": "player 2",
+        "score": "0.6",
+        "justification": "Player 2's planning was focused on the immediate need for cobblestone slabs for a furnace, a necessary step towards their blast furnace.  They identified a valid crafting path, indicating strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": "0.7",
+        "justification": "Player 1 prioritized cooperation and accepted a trade that benefited Player 2. Recognizing their own goal was achieved, they focused on facilitating their teammate's progress."
+      },
+      {
+        "user": "player 2",
+        "score": "0.6",
+        "justification": "Player 2 successfully traded for raw iron, showing an understanding of resource management and a willingness to trade strategically. Their focus on acquiring materials for sticks demonstrated continued progress towards their iron pickaxe."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": "0.6",
+        "justification": "Player 1 continued to try and facilitate cooperation by offering a trade, demonstrating good sportsmanship.  However, the proposed trade wasn't highly strategic."
+      },
+      {
+        "user": "player 2",
+        "score": "0.7",
+        "justification": "Player 2 showed strategic thinking by rejecting the trade and continuing to prioritize their own need for raw iron. They also analyzed the usefulness of acquiring more cobblestone slabs and decided against it, indicating a good understanding of resource management."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": "0.7",
+        "justification": "Player 1 recognized the importance of helping their partner and traded strategically. Accepting the raw iron for a cobblestone slab furthered Player 2's plan and fostered cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": "0.6",
+        "justification": "Player 2 showed strategic intent by trading for a cobblestone slab, but the overall plan for the blast furnace lacked efficiency. They should have prioritized smelting the raw iron before getting additional cobblestone slabs."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": "0.7",
+        "justification": "Player 1 demonstrated good strategic thinking by offering raw copper for an iron ingot, aiming to acquire a valuable resource for potential future use while helping the opponent."
+      },
+      {
+        "user": "player 2",
+        "score": "0.7",
+        "justification": "Player 2 made a strategically sound decision to accept the trade, gaining raw copper without significant cost.  Their plan to smelt materials and craft the furnace showed a clear path towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": "0.7",
+        "justification": "Player 1 continued their cooperative strategy by accepting a reasonable trade. This allowed player 2 to progress while not significantly hindering player 1."
+      },
+      {
+        "user": "player 2",
+        "score": "0.6",
+        "justification": "Player 2's strategic planning in this turn was decent. They recognized their need for more cobblestone slabs and proposed a fair trade, but their overall plan still lacked a clear focus on the critical path for their blast furnace goal."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": "0.0",
+        "justification": "The game ended."
+      },
+      {
+        "user": "player 2",
+        "score": "0.0",
+        "justification": "The game ended."
+      }
+    ]
+  }
+]

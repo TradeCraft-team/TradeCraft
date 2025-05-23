@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 disguised their need for iron by also requesting cobblestone.  Although they revealed a need for iron, the additional request adds ambiguity to their true intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's acceptance of the trade and their thought process reveal their need for planks and indirectly for sticks.  They did not actively attempt to conceal their interest in the cherry planks."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's proposal and justification clearly reveal their need for cobblestone.  They make no effort to disguise their intention."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the trade, which is beneficial to their goal of acquiring iron. While their thoughts reveal their need for iron, they do not explicitly state their intention to craft a chain."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to trade for raw iron, reinforcing the perception that they need iron. However, they avoid offering iron ingots, which could reveal their specific need for crafting a chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's acceptance of the trade for copper could be a genuine need or a distraction tactic.  Their thoughts reveal an interest in raw iron and possible crafting of shears."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Repeatedly attempting to trade for cobblestone strongly suggests Player 1 needs it, revealing their intention to craft a lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejects the trade, which aligns with their goal of acquiring iron and crafting a chain.  Their outward actions and thoughts conceal their true intentions well."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposals, while rejected, hint at their need for more iron.  Offering iron nuggets and copper ingot suggests a need for raw iron, potentially revealing their interest in crafting iron ingots."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1's rejections and justifications don't actively conceal their intentions. While not explicitly stating their need, their actions indirectly suggest they don't need iron-related items."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly stated their needs and intentions for the trade, offering a reasonable exchange.  The message was concise and persuasive, resulting in a successful trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered the long-term implications of the trade and used this to justify accepting the proposal. While their message indicated a desire for future trades, it wasn't as direct in its persuasive attempt as Player 1's."
+      }
+    ]
+  }
+]

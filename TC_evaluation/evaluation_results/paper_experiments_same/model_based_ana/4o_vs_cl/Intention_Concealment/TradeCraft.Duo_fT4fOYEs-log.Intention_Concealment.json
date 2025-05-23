@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 actively sought information about crafting a chain, revealing their interest in iron-related items. The proposal, while framed as mutually beneficial, hinted at Player 2's need for raw iron."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1's actions and thoughts focused on crafting a stone_shovel. While they checked item information, their actions didn't reveal strong interest in specific items from Player 2's perspective. Rejecting the proposal kept intentions unclear."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1's proposal revealed a need for stone. While not directly revealing the final target, it gave Player 2 some insight."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 considered the trade in relation to their chain goal. Rejecting the proposal helped conceal their intentions, even though their thought process showed interest in raw iron."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal directly requested oak planks and raw iron, signaling a crafting goal involving those materials. The justification provided in the message also hints at their plans."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintained concealment. Rejecting the proposal and focusing on internal crafting plans didn't reveal any specific needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal and message somewhat revealed an interest in stone-related items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 accepted the trade, indicating a need for raw iron. The thinking process and message further exposed their interest in iron ingots, revealing a connection to chain crafting."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Although an invalid proposal was submitted, Player 2 considered different trading options but didn't reveal a specific need tied to their chain goal."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 didn't make a proposal and focused on possible recipes, maintaining good intention concealment."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1's proposal, while hinting at a need for wood, didn't fully reveal their intention to craft a stone shovel.  Requesting cherry planks indirectly suggests a need for sticks, but not the final product."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 rejected the proposal, effectively concealing their intentions. Their thinking process showed they already had the necessary resources for the chain, motivating their decision not to reveal any needs."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "While Player 2 had the materials for a chain, their proposal to trade copper for raw iron hinted at their interest in iron-related materials."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to reject proposals and maintained good intention concealment. They showed no clear interest in any specific materials from Player 2's perspective."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1's consistent proposals for cherry planks started to reveal their need for planks/sticks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Despite not needing the raw iron, Player 2's acceptance of the trade didn't explicitly reveal their target.  They maintained a degree of ambiguity."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's offer to trade copper for raw iron, even though they possessed the necessary resources for a chain, could reveal their interest in iron."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1's rejections continued to mask their needs."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1's persistent requests for cherry planks revealed their need for wooden planks, hinting at a crafting recipe involving sticks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's rejection and explanation kept their intentions concealed, demonstrating strategic thinking by preserving resources related to their goal."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade copper for raw iron signaled their interest in iron-related items."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintained concealment by rejecting the proposal without revealing any specific needs."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1's repeated requests for cherry planks continued to indicate a need for planks, reducing their intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Accepting the trade for raw iron, despite having enough materials for their chain, might have hinted at Player 2's interest in iron."
+      }
+    ]
+  }
+]

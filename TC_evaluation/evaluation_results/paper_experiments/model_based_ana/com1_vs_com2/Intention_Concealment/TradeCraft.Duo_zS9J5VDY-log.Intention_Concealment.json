@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 attempted to conceal their intention by stating they needed the raw iron for \"building things\", which is a plausible but not entirely revealing explanation.  While they revealed a need for iron, they didn't specify the exact item they were crafting."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's acceptance message suggests they needed the planks and cobblestone, partially revealing their need for crafting materials. While this doesn't fully reveal their target, it does offer some insight into their intentions."
+      }
+    ]
+  }
+]

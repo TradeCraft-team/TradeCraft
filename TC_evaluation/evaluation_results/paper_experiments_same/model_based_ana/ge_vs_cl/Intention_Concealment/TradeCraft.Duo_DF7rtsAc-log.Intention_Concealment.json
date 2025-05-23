@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their intention to craft a bucket by explicitly requesting raw iron and explaining their need for it in the trade proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively concealed their intention by rejecting the trade and providing a plausible reason (already having cobblestone) without revealing their actual target (lever)."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 confirmed their need for iron ingots by accepting the raw iron trade."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully initiated a beneficial trade, acquiring coal for smelting, without revealing their lever target, and disguised it as generic material acquisition."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to reveal their intention to craft a bucket by explicitly mentioning their need for it in the trade proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains good concealment by rejecting the trade with a plausible reason that doesn't reveal the lever target."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1's acceptance of raw iron trade further confirms their need for iron related crafts."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a seemingly neutral trade offer without revealing any information about needing oak planks to craft a lever."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 revealed their need for an iron ingot for a \"crafting project.\" While not explicitly stating \"bucket,\" the repeated requests for iron strongly suggest it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintained concealment by rejecting the trade with a reasonable explanation, not revealing their lever-crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the raw copper trade, slightly obscuring their iron-focused strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's proposal to trade for cobblestone provides a diversion and doesn't reveal the lever target."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's continued requests for iron ingots for a bucket clearly signal their intent."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Despite repeated offers related to iron, Player 2 rejects trades and offers no revealing information about their own target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Accepting the copper trade indirectly signals a need besides iron, adding a layer of obfuscation, although their previous actions point clearly towards iron needs."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continues to successfully trade raw materials while concealing their lever target."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 clearly reveals their intention by stating their need for iron to craft a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continues rejecting revealing offers, despite potential gains, concealing their true target."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Accepting the raw iron trade confirms Player 1's need for iron to craft the bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a helpful trade for Player 1, further obscuring their own need for planks (for lever)."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's repeated requests for iron ingots for a bucket clearly reveal their intent."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continues rejecting revealing offers, despite potential gains, concealing their true target."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Rejecting the trade for raw copper, while needing iron for a bucket, is counterintuitive but does slightly obscure their primary goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade that provides a diversion, concealing the need for planks to craft sticks (for lever)."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Game Over. Player 1's goal was revealed as a bucket - consistent with behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Game Over. Player 2's goal was a lever. Concealment successful throughout the game by strategically rejecting iron trades and making seemingly neutral or unhelpful proposals."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 clearly stated their need for raw iron and offered a reasonable trade of raw copper for it. The message was concise and directly addressed the other player's potential benefit, making it persuasive."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 considered the trade proposal and justified their acceptance by explaining their reasoning. While they didn't actively negotiate, their acceptance and explanation contributed to a successful trade."
+      }
+    ]
+  }
+]

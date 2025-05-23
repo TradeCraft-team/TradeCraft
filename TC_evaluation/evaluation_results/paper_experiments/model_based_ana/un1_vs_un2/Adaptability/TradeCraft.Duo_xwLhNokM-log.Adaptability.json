@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 actively assesses their needs and opponent's resources, formulates a trade proposal based on crafting requirements, and demonstrates understanding of smelting mechanics. They adapt their initial plan based on available information."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 logically evaluates the trade proposal, considers both immediate and long-term implications, and makes a sound decision based on their target item.  They demonstrate understanding of their own crafting requirements and evaluate risks/rewards effectively."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognizes their resource surplus, prioritizes their goal (stone_shovel), and formulates a trade to acquire a missing component. They show a clear understanding of their crafting path."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to focus on acquiring necessary resources (iron), recognizes the value of the trade proposed, and makes a decision that aligns with their overall strategy."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly assesses the irrelevance of the trade offer and maintains focus on their target item. They demonstrate consistent decision-making based on their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to pursue their target (bucket), adjusts their offers, and demonstrates persistence in trying to acquire the necessary resources. Though the trade attempts were unsuccessful, they show continued effort towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 initiates a null trade, possibly to avoid revealing their intentions. They demonstrate strategic thinking by maintaining communication without jeopardizing their resource pool."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 understands the implications of the null trade, reiterates their need for iron, and continues to actively pursue their target item."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 maintains consistent behavior, rejects a non-beneficial trade, and focuses on self-sufficiency in achieving their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 displays adaptability by modifying their trade offer, attempting to make it more appealing to Player 1.  They also analyze Player 1's potential crafting goals to inform their trading strategy."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 proposes a null trade, continuing to avoid revealing their needs, but doesn't engage in active acquisition of resources or crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to adapt, analyzes the situation, considers opponent's possible targets, and proposes targeted trades. They demonstrate good understanding of available resources and potential crafting paths."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 recognizes the opportunity to consolidate resources and initiate a mutually beneficial trade. They offer excess materials to acquire resources that could be useful later, demonstrating long-term thinking."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts a reasonable trade, demonstrating willingness to exchange resources when beneficial.  They analyze the offer's value and make a sound decision."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiates a trade designed to be unattractive to the opponent, likely to protect their resources while maintaining communication."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly assesses the value of the proposed trade, even though it doesn't directly provide needed materials, and accepts to gain potential future advantage."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to decline trades that do not benefit their target, and expresses their specific needs (sticks/planks).  They are actively seeking resources that align with their crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 persists in seeking iron, but shows limited adaptability in their trading strategy, reusing previous offers that were rejected."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 proposes another null trade, not actively seeking the resources they need (planks) despite understanding how to acquire them (crafting from the oak_button)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes the null trade, analyzes the situation, and continues to express their need for iron, showing persistence in pursuing their target."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates adaptable thinking by accepting a trade for raw copper, even though it doesn't immediately contribute to their primary goal.  They recognize potential long-term value and resource consolidation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to refine their plan, considers multiple paths to achieving their target, and prioritizes actions based on resource availability and efficiency."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiates a seemingly altruistic trade, offering raw copper without requesting anything in return.  This could be a tactic to maintain positive relations or mislead the opponent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts the free raw copper, understanding that it might have future value.  They continue to assess their needs and plan crafting actions."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended."
+      }
+    ]
+  }
+]

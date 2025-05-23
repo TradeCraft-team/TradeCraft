@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a reasonable attempt to conceal their intentions. While requesting raw iron hints at needing iron ingots, the offer of cobblestone and planks could suggest various crafting goals, not just chains.  The accompanying message further adds to the ambiguity."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance of the trade, along with their message about needing cobblestone for a lever, reveals some of their intentions, although it doesn't fully expose their target item."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 actively sought a trade with Player 1, offering raw copper for raw iron.  The proposal was reasonable and explained clearly, demonstrating a willingness to cooperate and find a mutually beneficial exchange. Although Player 1 rejected the trade, Player 2's actions show good cooperative intent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's trade offer. While they provided a reason, it wasn't fully cooperative as they didn't counter-propose or suggest alternative trades.  They missed an opportunity to engage in a mutually beneficial exchange."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal. While not actively harmful, it demonstrates a lack of cooperation as they didn't engage in a trade or suggest alternatives."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 rejected the null proposal but used the opportunity to express interest in future trades, particularly for raw iron. This shows some cooperative intent by keeping the lines of communication open."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a reasonable trade proposal, offering raw copper for raw iron and explaining how the trade could be mutually beneficial. Though rejected, Player 2 showed a clear intention to cooperate."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the proposal, again without offering any alternative or counter-proposal.  They are consistently missing opportunities for cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted another null proposal, indicating no interest in cooperation this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 accepted the null proposal but again expressed interest in future trades for raw iron, demonstrating some attempt at cooperation despite the lack of a real proposal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 submitted several invalid proposals. These failed attempts at trading indicate a lack of understanding of the game's rules and a failure to engage in meaningful cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not have a chance to respond as Player 2's proposal was invalid, so no cooperative behavior can be assessed."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal, demonstrating minimal cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 accepted the null proposal and again expressed interest in future trades, suggesting a willingness to cooperate despite the lack of active trade proposals from Player 1."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 submitted a well-reasoned trade proposal, demonstrating a willingness to cooperate and explaining the potential benefits for both players. Although rejected, the effort shows positive cooperative intent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the proposal with a brief explanation, missing an opportunity for cooperative exchange and not offering any alternatives."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal. While not actively obstructive, it demonstrates a lack of cooperative engagement."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted the null proposal with a positive message, acknowledging Player 1's goals and expressing their own progress. This maintains a positive atmosphere for potential future cooperation."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade, offering raw copper for oak planks. Although the trade was rejected, their proactive approach demonstrates good cooperative intent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 rejected the trade offer with a clear explanation of why it didn't suit their needs. While they didn't counter-offer, their explanation was more cooperative than previous rejections."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted a null proposal, showing minimal cooperative effort."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted the null proposal with a friendly and encouraging message, maintaining a positive environment for potential cooperation in future turns."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a reasonable trade proposal, offering raw copper for raw iron, demonstrating a continued willingness to cooperate even after previous rejections."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the trade offer, missing an opportunity for cooperation. While they wished Player 2 good luck, they didn't engage in finding a mutually beneficial exchange."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 submitted another null proposal, showing a lack of engagement in cooperative trading."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted the null proposal with a polite and encouraging message, maintaining a positive and cooperative tone despite the lack of a substantial trade offer."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended. No cooperation was possible in this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended. No cooperation was possible in this turn."
+      }
+    ]
+  }
+]

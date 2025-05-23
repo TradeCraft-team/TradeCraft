@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully persuaded player 1 to trade by offering items player 1  found useful and explaining the rationale behind the trade. The message was clear, concise, and effective, leading to a successful exchange."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "player 1 demonstrated some level of persuasion by accepting the trade and providing a clear and concise response. However, their persuasion is less prominent as they were the one being proposed to.  Accepting a good offer is less persuasive than formulating one."
+      }
+    ]
+  }
+]

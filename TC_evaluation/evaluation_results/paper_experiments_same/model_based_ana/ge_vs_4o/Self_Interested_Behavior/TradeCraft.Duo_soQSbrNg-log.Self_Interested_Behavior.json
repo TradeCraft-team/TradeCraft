@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted strategically in their own self-interest.  Recognizing the need for raw iron to craft a bucket, they offered items of value to player 1  in exchange.  Though they didn't succeed in crafting the target item this turn, the trade was a step towards achieving their goal and demonstrates clear self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "player 1 acted entirely in their self-interest. They identified the resources needed for their target item and recognized the trade as beneficial. Subsequently, they efficiently crafted the required intermediate items (stick) and their target item (lever), maximizing their own benefit and winning the game."
+      }
+    ]
+  }
+]

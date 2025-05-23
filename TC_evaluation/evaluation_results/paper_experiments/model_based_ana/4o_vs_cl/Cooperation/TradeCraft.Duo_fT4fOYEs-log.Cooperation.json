@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 attempted to cooperate by proposing a trade, showing an understanding of the other player's needs and offering a seemingly mutually beneficial exchange. However, the trade was rejected, and the player didn't try further negotiation.  Repeatedly checking the same recipe for a chain didn't contribute to cooperative gameplay."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade offer without providing a valid justification. Rejecting offers without proper reasoning hinders cooperative gameplay and doesn't benefit either player. Repeatedly checking the same recipe for a stone shovel and stick doesn't contribute to cooperative gameplay."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to cooperate by making a trade proposal that seemed mutually beneficial, showing an understanding of the other player's potential crafting goals. However, the trade was ultimately rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected a reasonable trade offer without a valid reason. Rejecting a trade without proper justification discourages further cooperation.  Repeatedly checking the same information, chain and iron ingot, does not help with cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 demonstrated some cooperative behavior by making another trade proposal, attempting to acquire materials that could indirectly help them achieve their goal. However, the trade was rejected, and further negotiation didn't occur."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade offer without providing a valid reason, hindering collaboration. Repeatedly checking the same information, stone shovel and stick, doesn't contribute to cooperative gameplay."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 initiated a trade that was accepted by player 2 and led to resource exchange, facilitating further progress towards crafting the stone_shovel."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 actively analyzed the trade proposal and recognized its benefit, leading to a successful trade that granted access to useful raw materials and demonstrated a willingness to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 proposed invalid trades, demonstrating a lack of understanding of game mechanics. The invalid proposal wasted game time and hindered any potential cooperation."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the proposed trade. Since the proposed trade was invalid, it doesn't affect the cooperation score."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 initiated a trade proposal, demonstrating an attempt to cooperate. However, the proposed trade was rejected by Player 2 ."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected a reasonable trade offer without a valid reason, hindering cooperation. Repeatedly checking the same information, chain and cherry planks, does not contribute to cooperative gameplay."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 attempted to cooperate by proposing a reasonable trade, even though they didn't need any resources at the time. However, the trade was rejected by the other player."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected a reasonable trade proposal without strong justification, which hinders potential collaboration. Repeatedly checking the same information, stone shovel, stick and cobblestone wall, doesn't contribute to cooperative gameplay."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a trade proposal that was accepted by the other player, leading to resource exchange, showing initiative and successful cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 evaluated the trade proposal, considering both their needs and the opponent's, and decided to accept a trade that was not directly beneficial to their goal but helpful to the opponent, demonstrating cooperation and understanding."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 proposed a trade. However, it was rejected by Player 1 ."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected Player 2 's trade proposal without clear justification, hindering further potential cooperation. Repeatedly checking the same information, stone shovel, stick and iron ingot, doesn't contribute to cooperative gameplay."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 made a trade proposal, showing initiative in cooperation. However, Player 2 rejected the proposal. Repeatedly checking the same information, cherry planks, doesn't contribute to cooperative gameplay."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected the trade proposal with a valid justification, explaining their need for the item. Repeatedly checking the same information, chain, iron nugget and iron ingot, doesn't contribute to cooperative gameplay."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 attempted to cooperate with a reasonable trade offer. However, the trade was rejected by Player 1 ."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade offer without sufficient justification, hindering potential collaboration. Repeatedly checking the same information, stone shovel and stick, doesn't contribute to cooperative gameplay."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade that was mutually beneficial, showing an understanding of Player 2 's needs. Player 2 accepted the trade which helped both players progress towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted Player 1 's trade demonstrating successful cooperative behavior. They also analysed the reasons behind player 1's need for cherry planks and acknowledged the usefulness of raw iron."
+      }
+    ]
+  }
+]

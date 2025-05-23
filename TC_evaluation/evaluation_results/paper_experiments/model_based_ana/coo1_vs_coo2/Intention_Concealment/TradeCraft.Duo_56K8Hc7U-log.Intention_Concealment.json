@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed their target item (bucket) in their first proposal message, significantly reducing their intention concealment score. While they tried to frame the trade as mutually beneficial, the direct reveal outweighs this attempt at misdirection."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 did not reveal any information about their target and simply agreed to the trade.  They successfully concealed their intentions during this turn."
+      }
+    ]
+  }
+]

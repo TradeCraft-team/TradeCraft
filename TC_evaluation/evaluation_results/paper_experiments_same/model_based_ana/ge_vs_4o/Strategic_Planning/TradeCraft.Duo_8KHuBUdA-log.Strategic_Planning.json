@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated strategic thinking by identifying their target (bucket), recognizing the need for iron ingots, and attempting to trade for raw iron. While the trade was rejected, the player showed an understanding of the game mechanics and resource management.  The crafting of a copper ingot, while not directly contributing to the bucket, was a reasonable use of resources."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 initially identified their target (lever) and the required components, but their subsequent actions lacked clear strategic direction.  They repeatedly checked the same item information and attempted invalid crafting recipes, demonstrating a lack of understanding of game mechanics. Their rejection of the trade offer was also not strategically sound, as it didn't advance their own goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to pursue their goal of crafting a bucket. They considered the value of the offered raw copper and made a reasonable decision to accept the trade, even if it wasn't directly related to their target.  They also strategized about future trades for iron ingots, demonstrating long-term planning. Their thought process demonstrates solid understanding of crafting procedures, and ability to adjust the trading strategy based on the partner's moves."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully crafted the necessary stick and then the target lever, demonstrating effective execution of their crafting plan. The trade for cherry planks in the previous round enabled this, showing foresight and planning. Player 2 also identified their crafting needs and secured missing resources, further emphasizing their strategic skills."
+      }
+    ]
+  }
+]

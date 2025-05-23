@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their goal by attempting to trade for raw iron, a key ingredient for their target item (bucket). They correctly identified what their opponent had and formulated a plan to obtain it, demonstrating strong self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered the trade proposal and its potential impact on their own goal. They rejected the offer as it didn't directly contribute to crafting a lever, showing a moderate level of self-interest by prioritizing their needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a beneficial trade, maximizing their own gain. They correctly analyzed the situation and recognized the opportunity to get closer to crafting their target item, displaying strong self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade that directly benefited them by acquiring coal for smelting. They offered a reasonable exchange and successfully obtained the desired resource, showing considerable self-interest."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to focus on acquiring iron ingots for their bucket. They made a reasonable trade proposal, demonstrating self-interest by trying to get closer to their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 analyzed the trade proposal and rejected it as it didn't directly contribute to their goal. They demonstrated moderate self-interest by preserving their resources."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade that provided them with more raw iron, essential for their target (bucket), demonstrating self-interest and a clear understanding of their needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade that, while seemingly neutral, aimed to collect additional resources that could be useful for future crafting, showcasing moderate self-interest and long-term planning."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 attempted to trade for the remaining iron ingot they needed for their bucket. Although the proposals were rejected, their persistent focus on acquiring this specific item highlights a self-interested approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to reject trades that didn't contribute directly to their lever crafting, showcasing consistent self-interest by prioritizing their needs."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a neutral trade. While not directly beneficial to their goal, they recognized it didn't hurt their progress and maintained a positive trading relationship, showing a degree of self-interest mixed with cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated the trade to acquire a backup cobblestone. This action shows moderate self-interest, planning for potential future needs."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to pursue their goal by attempting to trade for an iron ingot, a key component of their target (bucket)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade, maintaining their resources and prioritizing their crafting needs, demonstrating consistent self-interest."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that, while not immediately beneficial, they viewed as potentially helpful and maintained a positive trading relationship, demonstrating a balance of self-interest and cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 aimed to acquire raw iron through the trade, demonstrating a proactive approach to resource gathering, driven by self-interest."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 persistently attempted to trade for iron, highlighting their focus on their own goal (bucket)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's consistent rejection of trades that don't benefit their lever crafting reflects a moderate level of self-interest and a focus on personal resource management."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade, getting raw iron they needed for their target (bucket).  This action prioritized their own goal, showing strong self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 used their extra raw iron to acquire something else they considered beneficial, showcasing a moderate level of self-interest through strategic resource exchange."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to try to acquire iron ingots for the bucket demonstrating self interest"
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to reject trades that don't benefit their goal demonstrating a moderate level of self-interest"
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects the trade as it doesn't benefit their goal of crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a proposal prioritizing the acquisition of more raw iron, potentially for future use."
+      }
+    ]
+  }
+]

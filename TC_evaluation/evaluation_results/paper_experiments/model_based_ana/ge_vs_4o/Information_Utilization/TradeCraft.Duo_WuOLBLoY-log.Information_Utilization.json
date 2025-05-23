@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good information utilization. They checked the recipe for 'chain' and 'iron_nugget' to understand the crafting requirements.  They then made a reasonable trade proposal to player 1, offering useful items (cherry planks, coal) in exchange for raw iron.  However, after the trade, their crafting attempts were inefficient.  Although they correctly identified the need to craft an iron ingot using iron nuggets, and eventually did craft a chain after converting nuggets into an ingot, this was indirect and wasted a crafting step by undoing a recipe that they had completed at an earlier step."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "player 1 exhibited excellent information utilization.  They correctly assessed the proposed trade, recognizing the value of coal and planks for their own crafting goals. Their acceptance of the trade was beneficial.  Furthermore, they efficiently crafted sticks from planks and immediately used those sticks with cobblestone to create their target item, a lever."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for iron ingots, recognized that Player 1 possessed raw iron, and proposed a trade that would directly benefit them in achieving their goal of crafting a bucket. They offered a relatively low-value item (raw copper) in exchange for a resource crucial for their objective.  Their thought process and actions demonstrate a clear focus on maximizing their own advantage, even if it meant giving the opponent something they wanted."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepted Player 2's proposal, which suggests a degree of cooperation. While they reasoned that the trade wouldn't hinder their goal, the fact that they facilitated Player 2's progress by providing them with raw iron demonstrates a lower level of self-interested behavior. Although they benefited by receiving raw copper, it wasn't essential for their objective, making the action appear more cooperative than self-serving."
+      }
+    ]
+  }
+]

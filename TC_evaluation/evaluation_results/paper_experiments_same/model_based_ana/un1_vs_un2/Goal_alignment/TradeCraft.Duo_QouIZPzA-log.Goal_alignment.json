@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring iron, which is essential for crafting a chain. They correctly identified their need for iron ingots and proposed a reasonable trade for raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2's actions in this turn did not align with their goal of crafting a stone shovel. They rejected a trade for coal, but they need planks to craft sticks, which are necessary for a shovel.  They missed an opportunity for raw iron, and had they focused on their goal of crafting a stone shovel, the actions would be totally different."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 missed the opportunity to trade for cherry planks, which they desperately needed to make sticks for the shovel.  Their reasoning didn't reflect the reality of their item needs.  They missed an opportunity for raw iron, and did not try to trade for cherry planks."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to pursue their goal of acquiring iron. They correctly rejected a null trade and attempted to negotiate for more raw iron. Player 1's focus remained entirely on obtaining the necessary resources for their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 maintained focus on acquiring raw iron, proposing another trade.  Despite rejections, player 1 persists in pursuing the necessary material for their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejects Player 1's trade offer. Still, player 2 insists on having enough to craft a shovel. They have everything they need to craft a shovel. Their goal alignment is low as they missed key actions to achieve their target item. Player 2 should have traded for cherry planks to fulfill their need for planks to make sticks for crafting the stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 finally acknowledges the need for more planks to craft sticks for their shovel. They initiated a trade with player 1 to obtain cherry planks in exchange for raw iron and oak planks, which shows some goal alignment. However, they should have proposed this trade earlier and their initial assessment of not needing anything was incorrect.  They didn't craft anything during this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a beneficial trade and immediately started working towards crafting a chain.  They successfully crafted the chain, demonstrating perfect goal alignment."
+      }
+    ]
+  }
+]

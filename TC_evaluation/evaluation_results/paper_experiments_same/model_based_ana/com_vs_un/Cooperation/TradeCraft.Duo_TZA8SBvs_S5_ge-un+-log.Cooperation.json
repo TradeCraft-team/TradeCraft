@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted to make trades, but the proposals were invalid.  The final proposal, offering coal for raw iron, showed some cooperative intent, but it was rejected by player 2.  Therefore, player 1 exhibited limited cooperation in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejected player 1's trade offer, prioritizing their own game plan.  While strategically sound, this action demonstrates no cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 offered a trade, but it wasn't beneficial for player 1 and was rejected.  This shows minimal cooperative behavior, as the trade seemed designed to help player 2 more than player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected player 2's trade offer, focusing on their own needs.  This demonstrates no cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 offered a beneficial trade to Player 2, exchanging a copper ingot for raw iron, facilitating both players' progress towards their goals. This demonstrates strong cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the trade offer from player 1 which helped player 1 to achieve his goal. Player 2 also tried different recipes. This shows good cooperation and proactiveness in crafting."
+      }
+    ]
+  }
+]

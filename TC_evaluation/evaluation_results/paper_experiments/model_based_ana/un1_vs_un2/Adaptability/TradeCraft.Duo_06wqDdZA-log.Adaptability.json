@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 adapted well by identifying the need for iron ingots, recognizing the opponent's resources, and proposing a reasonable trade for raw iron. They clearly stated their need and offered a fair exchange."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated adaptability by recognizing the proposed trade would not hinder their own objective and accepted a beneficial trade. They correctly assessed the value of raw iron in their current situation."
+      }
+    ]
+  }
+]

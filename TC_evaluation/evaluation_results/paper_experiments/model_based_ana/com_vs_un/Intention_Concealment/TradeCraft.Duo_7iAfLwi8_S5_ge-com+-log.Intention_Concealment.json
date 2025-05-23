@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 partially concealed their intentions. While they explicitly stated their need for raw iron in their proposal message, their internal thoughts reveal a broader strategy related to crafting a chain.  Requesting only raw iron and not iron ingots or nuggets helps somewhat obscure their true goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions.  They inquired about crafting a lever but did not reveal that it was their target item. Accepting the trade for planks and cobblestone could be interpreted as needing those for various crafting recipes, not specifically a lever."
+      }
+    ]
+  }
+]

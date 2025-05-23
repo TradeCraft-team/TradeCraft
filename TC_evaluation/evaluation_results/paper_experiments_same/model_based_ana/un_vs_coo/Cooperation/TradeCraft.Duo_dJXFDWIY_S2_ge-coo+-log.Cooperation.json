@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a fair trade, offering valuable resources (coal, cobblestone) in exchange for raw iron, clearly explaining their need for crafting a bucket. This demonstrates a proactive approach to cooperation and mutual benefit."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 readily accepted the trade proposed by Player 2, acknowledging the value of the offered resources and expressing their own need for cobblestone. This willingness to engage in a fair exchange reflects a cooperative mindset."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 initiated a helpful trade, offering raw copper to Player 2 without requesting anything in return, demonstrating generosity and a willingness to share resources. They also inquired about Player 2's needs, further emphasizing their cooperative attitude."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the raw copper gift from Player 1 and offered various resources in return, showing gratitude and a willingness to reciprocate. This positive interaction reinforces a sense of mutual support and cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a fair and reasonable trade, offering raw copper for raw iron, and inquiring about Player 1's needs.  Despite the rejection, Player 2's proactive attempt to cooperate is commendable."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected Player 2's trade offer, but provided a polite and clear justification. While prioritizing their own needs, their response maintains a respectful and cooperative tone."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 offered raw iron to Player 2 without asking for anything in return, demonstrating generosity and cooperation. This act fosters a positive and mutually beneficial relationship."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 gratefully accepted Player 1's gift of raw iron, recognizing the value of the resource and expressing appreciation. Their acknowledgment of Player 1's cooperative gesture reinforces a sense of mutual support."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to engage in trade, offering raw copper for coal, demonstrating a continued willingness to cooperate. Although the initial proposal was invalid, they quickly corrected it and offered a reasonable trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected Player 2's trade offer due to needing the coal.  They inquired about trading for cobblestone, which suggests a willingness to engage in trade, but not the specific trade proposed."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 communicated their current lack of need for resources, initiating a null trade proposal. While not directly contributing to resource exchange, this open communication helps maintain transparency and a cooperative atmosphere."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the null trade, recognizing its neutral impact and respecting Player 1's current situation. Their acknowledgment contributes to a friendly and cooperative game environment."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted multiple trades, offering raw copper for coal and then for cobblestone, demonstrating a persistent effort to cooperate and acquire needed resources.  Despite the rejections, their active engagement in the trading phase reflects a strong willingness to collaborate."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected both of Player 2's trade offers, providing clear justifications for their decisions. While prioritizing their own needs is understandable, their repeated rejections may limit the potential for mutual gain."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 initiated a null trade, clearly communicating their lack of need for resources this turn. This transparency fosters a cooperative environment by avoiding unnecessary negotiation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the null trade, acknowledging Player 1's message and demonstrating a willingness to maintain a positive interaction. This acceptance reinforces the cooperative nature of the game."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 generously offered raw copper to player 1 without requesting anything in return, even though player 2 needed resources.  This shows a willingness to be cooperative even when player 2 had a strong need for iron ingots."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted Player 2's generous offer of raw copper. This acceptance, even though Player 1 may not need copper, encourages Player 2 to continue offering beneficial trades."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 attempted to trade for oak planks but had repeated formatting errors, disrupting the trade process and hindering cooperation. While they eventually proposed a null trade, the earlier issues reduced overall efficiency."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted Player 1's null trade despite the communication issues, showing patience and a willingness to continue the game cooperatively. Their message also expressed a continued need for iron ingots, maintaining open communication."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 offered a reasonable trade (raw iron for an iron ingot) clearly stating their need for it to craft a bucket. This direct approach demonstrates a continued willingness to cooperate through fair exchanges."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade offer, providing a polite justification.  While prioritizing their own game strategy is acceptable, the rejection could be seen as less cooperative, given Player 2's repeated attempts to trade for an iron ingot."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 attempted multiple trades but encountered repeated formatting errors, hindering the process and potentially frustrating their partner. While the intent to cooperate may be present, the technical difficulties disrupted effective communication."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 patiently accepted Player 1's null trade despite the formatting issues, demonstrating understanding and a commitment to cooperation. They also reiterated their need for iron ingots, maintaining open communication about their goals."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended before Player 1 could take any action in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended before Player 2 could take any action in this turn."
+      }
+    ]
+  }
+]

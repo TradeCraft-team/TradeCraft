@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently focused on acquiring iron, which is a key component of their target item, a chain.  They correctly identified that their opponent had a source of iron and made a reasonable proposal for trade. Although the proposal was rejected, their actions clearly demonstrate goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated some goal alignment by recognizing they had the necessary components (cobblestone and planks) to craft their target, a stone shovel. However, they failed to execute the crafting due to a miscalculation in required planks, showing a slight deviation from optimal goal-aligned behavior."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to show awareness of their target requiring sticks and cobblestone. However, their trade proposal requesting raw copper is a deceptive tactic not directly aligned with their goal. This lowers their score as it doesn't contribute to achieving their objective."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintains focus on acquiring iron for their chain, demonstrating consistent goal alignment. Their rejection of Player 2's proposal and subsequent focus on acquiring raw iron reinforces their commitment to their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 remains focused on their goal of crafting a chain and continues attempts to trade for necessary materials. Although their initial proposal was invalid, they quickly corrected it and offered a reasonable trade. Their persistence in pursuing iron demonstrates goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes they have the necessary materials to craft their target but misses a crucial crafting step due to insufficient oak planks.  This demonstrates a slight deviation from perfect goal alignment, as they haven't yet crafted the final item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully traded for raw iron and then immediately smelted it into iron ingots, demonstrating strong goal alignment.  They recognized the opportunity to acquire a needed material and effectively used it to progress towards their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully traded for cobblestone, a key component of their target. Although their crafting attempts for sticks failed due to a recipe error, their trade demonstrated a clear understanding of their needs and contributed to their overall goal."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's attempts to trade for more iron, while aligned with their overall goal, were not entirely effective in this turn.  They continue to focus on acquiring iron, but their proposals were rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to demonstrate an understanding of their target and the necessary materials, but again fails to craft due to a recipe error. This indicates a recurring issue with execution that slightly detracts from their goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully traded for cherry planks, which can be used to craft sticks for their target. Although their initial proposal was invalid, they adjusted their strategy effectively.  This demonstrates goal-oriented behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepts a trade that does not hinder their progress towards crafting the chain and continues to consider their needs, showing goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully crafts the chain, their target item.  This perfectly demonstrates goal alignment as they have achieved their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully crafts the stone shovel, their target item. This demonstrates perfect goal alignment as they have achieved their objective."
+      }
+    ]
+  }
+]

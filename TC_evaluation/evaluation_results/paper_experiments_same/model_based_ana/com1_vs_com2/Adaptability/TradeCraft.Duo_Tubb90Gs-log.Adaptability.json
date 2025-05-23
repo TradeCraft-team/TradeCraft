@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by identifying their need for raw iron, formulating a trade proposal with coal as an incentive, and successfully executing the trade. They correctly assessed their opponent's potential need for coal and used that to their advantage."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 also adapted well by recognizing the value of the proposed trade.  They correctly reasoned that acquiring coal would be beneficial for smelting their raw materials, demonstrating an understanding of resource management and long-term planning."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 failed to adapt to the game's crafting requirements. Despite repeatedly stating their intention to smelt raw iron, they made incorrect recipe checks, showing a lack of understanding of furnace mechanics and a failure to use available tools effectively."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 displayed adaptability by continuing to analyze their hand and attempting to craft the stick they needed for the stone_shovel and formulated a new trading strategy by initiating the proposal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made a reasonable trade offer for coal but failed to adapt after it was rejected. They showed some understanding of their opponent's needs but did not explore alternative trading strategies effectively."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 recognized their need to craft sticks, correctly performed a recipe check. Made an appropriate trade proposal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 adapted well by prioritizing their goal and correctly crafting the chain this turn.  They also demonstrated an understanding of their opponent's resource needs and assessed the trade appropriately."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 continued their crafting and attempted to gather materials needed for stone shovel via trading. They showed awareness of their opponent's potential resource requirements."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 attempted several trade proposals to acquire resources for crafting a chain, showing persistence. However, the proposals were invalid, demonstrating a need for better attention to game rules.  They also continued to try smelting the raw iron.  Made an appropriate trade proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 adapted to the situation by smelting their raw iron into ingots, demonstrating an understanding of material conversion. They also continued to analyze their options and formulated a crafting plan."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected a trade offer without fully considering its potential benefits. They did analyze the uses of oak planks, but could have shown more adaptability by trying to leverage the offered resource for a more advantageous trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to gather materials and crafted the necessary sticks from planks, successfully adapting to the limited resources and demonstrating an understanding of crafting priorities. They showed some strategic thinking by trying to secure cobblestone and raw iron, which are key ingredients for tools, potentially anticipating their future needs."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 showed some adaptability by offering various trade proposals, but they could have shown more awareness of the opponent's potential target and offer something they might need more."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to attempt to gather materials and craft sticks for their stone shovel. Showed adaptability by sticking to their strategy and focusing on fulfilling the required components."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 crafted the chain, achieving their target. Showed effective adaptation by focusing on completing their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 made a trade offer but did not craft anything or adapt their strategy effectively. Still missing key components for their target and could have explored alternative crafting options or trade proposals."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to cooperate by offering coal for iron ingots or raw iron, recognizing Player 2's need for fuel. However, the initial proposals were not well-balanced, leading to rejection. The final proposal, focusing on resource exchange relevant to both players' needs, demonstrates a developing sense of cooperation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated good communication by explaining their reasoning for rejecting the initial trade proposals. While they didn't directly cooperate in this turn, their clear communication and openness to future trades set the stage for potential cooperation later."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 actively sought a mutually beneficial trade, offering raw iron for Player 1's cherry planks. They clearly articulated the benefits for both players and successfully completed the trade, demonstrating excellent cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted the trade proposal, understanding its benefits for both players. By facilitating a successful trade, they demonstrated excellent cooperation and contributed to a positive game experience."
+      }
+    ]
+  }
+]

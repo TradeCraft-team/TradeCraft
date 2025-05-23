@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 clearly stated their need for raw iron and offered a relevant trade item (coal) in exchange. The proposal included a well-reasoned justification for the trade, making it persuasive."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 considered the proposal, weighed the pros and cons, and ultimately accepted the trade. Their reasoning was sound and demonstrated an understanding of the proposed trade's value."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 clearly expressed their need for cobblestone and offered a reasonable trade.  The justification was simple but effective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade based on a clear understanding of how it benefited their goal.  While the acceptance wasn't particularly persuasive, it was well-reasoned."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made a reasonable offer but didn't offer a very strong justification. The persuasive element was lacking."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 provided a clear reason for rejecting the trade.  The rejection was polite and explained the reasoning, demonstrating good communication."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "The null trade proposal had little persuasive value, as expected.  The accompanying message was polite but not impactful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 rejected the null trade and expressed their need, which is a slightly persuasive move to hint at desired trades."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to persuade Player 1 by highlighting the mutual benefit of the trade. The justification was well-structured and clearly explained how both players would gain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 rejected the trade, providing a clear and concise explanation for their decision."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "The null trade offer was not persuasive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's rejection message was direct and expressed their specific need, making it slightly persuasive in terms of signaling their intentions."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 offered a trade and provided a reasonable explanation for their request, making it a moderately persuasive proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's acceptance and simple \"Deal\" message were not particularly persuasive but demonstrated willingness to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a trade they believed Player 2 would find beneficial, demonstrating some attempt at persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade based on their own assessment of its value and clearly explained why the trade would be beneficial, showing persuasive reasoning."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 reiterated their need for iron, making a direct request but without offering a particularly compelling reason for the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 clearly stated their lack of need for copper and inquired about other items they needed, guiding the potential direction of future trades."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "The null trade proposal had low persuasive value. The message was polite but not influential."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 rejected the null proposal and reiterated their need for iron, attempting to guide the trade discussion."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 explicitly stated their need for iron to make a bucket, adding context and weight to their proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 considered the potential benefits of the trade, outlined their reasoning, and accepted, demonstrating persuasive reasoning on their part."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 offered a free item to Player 2 as a gesture of goodwill, attempting to foster a more cooperative environment for future trades."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 recognized the value in accepting the free item and expressed gratitude, maintaining a positive interaction."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended; no persuasive actions were taken."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended; no persuasive actions were taken."
+      }
+    ]
+  }
+]

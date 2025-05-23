@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.5,
+        "justification": "Player 2's initial proposal and item info checks partially revealed their need for iron, hinting at a crafting goal involving iron-related items.  While not a direct giveaway, it offered some clues to their intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions. Their rejection message was polite but did not reveal their true needs. They internally considered various crafting strategies but did not disclose these thoughts in their communications."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 directly revealed their intention to craft a stone shovel in their proposal message to Player 2. This significantly compromised their intention concealment."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 did not make any proposals or reveal any information about their crafting goals in this turn, maintaining good intention concealment."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal to trade cobblestone for raw iron indirectly hinted at their need for iron, but the reason given (\"This could help both of us with our crafting goals\") was sufficiently vague to provide some level of concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, revealing their need for cobblestone. However, this action doesn't fully disclose their ultimate goal (crafting a stone shovel) as cobblestone is used in various recipes.  The acceptance message \"I need the cobblestone\" offers a limited explanation."
+      }
+    ]
+  }
+]

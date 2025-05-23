@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in a self-interested manner by proposing a trade that benefited them by getting raw iron for their target item, chain. They offered coal in exchange, which while potentially helpful to Player 2 for smelting, was primarily aimed at furthering their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 also demonstrated self-interested behavior by accepting Player 1's proposal as it secured them coal, a useful resource for smelting and therefore indirectly beneficial for reaching their own target. While the trade benefited both players, Player 2's acceptance was motivated by their own needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continues to prioritize their own goal by rejecting Player 2's trade proposal.  While the offered raw copper could be useful in general, it doesn't directly contribute to their chain crafting goal, so they preserve their cherry planks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal was self-interested, aiming to gain cherry planks while offering raw copper, a resource not needed for their stone shovel goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 again displays self-interest by proposing a trade for coal, necessary for smelting the iron they need for their chain, while offering cobblestone, a less valuable resource for their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acts in their self-interest by rejecting the trade. They recognize that gaining another cobblestone doesn't benefit their stone shovel goal, and they conserve their coal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 prioritizes their own goal by rejecting Player 2's offer. Recognizing that they don't immediately need raw copper and that keeping the cobblestone might be strategically advantageous, they decline the trade, furthering their self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's proposal is a self-interested attempt to acquire cobblestone, which they claim to need (though only one is required for their target). Offering raw copper, less valuable for their goal, shows a focus on personal gain."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's repeated attempts to trade for raw iron or iron ingots are driven by their self-interest in crafting the chain. Their offer of raw copper is an attempt to obtain resources for their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently demonstrates self-interested behavior by rejecting trades that don't directly contribute to their stone shovel goal. Their rejection of raw copper for raw iron exemplifies this focus on personal gain."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejects the trade offer as it doesn't directly help them craft the chain.  Holding onto their raw iron, despite the offer of oak planks, demonstrates their focus on their own target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal, while offering a seemingly fair trade, is motivated by their self-interest in acquiring both cobblestone and raw iron, hoping Player 1 will be willing to part with both."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's proposal is driven by their need for an iron ingot to complete their chain. They offer raw copper, a resource they don't need for their target, demonstrating a self-interested approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's rejection of the trade reflects their self-interest. Recognizing that trading an iron ingot for raw copper would provide Player 1 with resources for their target, they act to preserve their advantage."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 achieves their goal by crafting the chain, showcasing strong self-interested behavior throughout the game by prioritizing actions that led to this outcome."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's final attempt to trade for raw iron, while self-interested, is ultimately unsuccessful in helping them achieve their goal. Their focus on their own needs remains evident, although ineffective in this instance."
+      }
+    ]
+  }
+]

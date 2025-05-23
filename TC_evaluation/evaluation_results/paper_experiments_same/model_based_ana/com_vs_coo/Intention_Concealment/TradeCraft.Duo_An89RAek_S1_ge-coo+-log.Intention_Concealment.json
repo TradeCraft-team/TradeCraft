@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's initial proposals clearly revealed their intention to craft shears by requesting iron ingots and explaining their reasoning. While the later proposals were slightly less revealing, the repeated requests for iron ingots and offers of coal still heavily hinted at their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions. Their rejection message vaguely mentioned needing coal, which could be for various purposes, and they didn't reveal their crafting plans."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to avoid revealing their intentions explicitly. They didn't mention shears or iron ingots in their thoughts."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal requesting both coal and iron ingot while offering oak planks was somewhat revealing. It hinted at a need for fuel and iron, narrowing down potential target items."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's offer to trade an iron ingot for raw iron, while seemingly helpful, could be interpreted as an attempt to acquire more iron for themselves, hinting at their need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the iron ingot trade, which doesn't directly reveal their intentions, but their thoughts indicate an awareness of the opponent's focus on iron."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 revealed their target item (shears) in their rejection message, completely compromising their intention concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade cobblestone slabs for an iron ingot, combined with the question about crafting plans, was a reasonable attempt to gather information without revealing their own intentions."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 demonstrated some initial strategic thinking by identifying the need for iron ingots and recognizing Player 2 as a potential source. However, their initial trade proposals were ineffective and showed a lack of understanding of Player 2's needs.  Repeatedly checking the recipe for chain didn't contribute to strategic advantage."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showcased good strategic planning by analyzing their own needs, understanding the crafting requirements for their target item, and effectively evaluating the trade proposal from Player 1. They recognized the irrelevance of the offered coal and made a sound decision to reject the trade, conserving valuable resources.  Consistently checking the recipe for stone_shovel shows focus and reinforces understanding."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent strategic thinking by correctly assessing the value of the trade and how it contributes to achieving their target.  They recognized the non-essential nature of cherry planks for their own goal and prioritized acquiring the raw iron needed for the chain. Further strategic thinking was evident in immediately crafting after the trade, demonstrating efficient resource management and a clear path towards victory. Crafting before proposing trade prevents accidental knowledge leaks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 exhibited strong strategic planning by identifying the need for a cherry plank, formulating a plan to acquire it, and offering a valuable resource (raw iron) in return.  They accurately predicted Player 1's need for iron and leveraged this knowledge to propose a mutually beneficial trade.  Following through with crafting the stone shovel immediately after the trade demonstrates a strong understanding of game objectives and effective prioritization of actions. Repeatedly checking recipes is a small negative, however."
+      }
+    ]
+  }
+]

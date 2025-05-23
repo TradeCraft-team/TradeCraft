@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to conceal their intention by stating a plausible reason for needing raw iron, relating it to building. While they revealed their need for raw iron, they didn't explicitly state their target is a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively masked their intention. They accepted the trade, giving a reason that aligns with their need for planks but doesn't reveal their goal of crafting a stone shovel. They correctly assessed the trade's benefit without giving away their true objective."
+      }
+    ]
+  }
+]

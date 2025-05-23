@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified their need for raw iron, formulated a trade proposal that benefited them by offering items they deemed less valuable, and successfully executed the trade to get closer to their goal of crafting a bucket.  Their thinking and actions consistently demonstrated a focus on achieving their objective."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 also demonstrated self-interested behavior by accepting a trade that provided them with resources to create sticks, getting them closer to their goal of crafting a lever. However, their self-interest wasn't as prominent as Player 2 because they seemed more focused on getting the trade completed to receive planks they didn't really need, rather than the raw iron Player 2 needed for the bucket."
+      }
+    ]
+  }
+]

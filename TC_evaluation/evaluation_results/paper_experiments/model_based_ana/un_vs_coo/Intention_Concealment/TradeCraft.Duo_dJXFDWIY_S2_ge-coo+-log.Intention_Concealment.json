@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's initial proposal and message partially reveal their need for iron. While they don't explicitly state their target is a bucket, the request for raw iron and the mention of crafting a bucket give player 1 some clues about their intentions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's acceptance message and subsequent thoughts reveal little about their own target.  They express a need for cobblestone, which is a common material, and their thoughts about coal being useful for fuel are generic."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's proposal and message are somewhat revealing. By stating they have enough materials to craft what they need, they indirectly suggest they don't need iron or copper.  This narrows down the possibilities for their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's acceptance message is carefully crafted to be helpful without revealing too much. Offering cherry planks, iron ingots, and raw iron is a general offer of assistance and doesn't give away specific needs."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal and message further reveal their need for iron, making it quite clear they are aiming for something iron-based.  While they still haven't stated their target, their intentions are becoming more obvious."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's rejection message is polite and doesn't reveal any information about their target.  Their thoughts focus on their own crafting needs and speculate about player 2's intentions without revealing their own."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's proposal is a generous offer of raw iron without asking for anything specific in return.  This can be seen as a cooperative move and doesn't directly reveal their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's acceptance message expresses gratitude without revealing their intentions. They maintain a friendly tone and avoid asking for specific materials."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's initial invalid proposal and subsequent proposal and messages clearly reveal their need for coal and intention to craft a bucket.  They're giving player 1 a lot of information about their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's rejection message gives a plausible reason (needing coal for smelting) without revealing their target. Asking about cobblestone is a common request and doesn't give away specific crafting intentions."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's proposal and message effectively conceal their intentions.  Offering nothing and requesting nothing doesn't provide any clues about their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's acceptance message maintains a neutral stance without revealing their need for iron or fuel. Their thoughts reveal their intentions, but these are hidden from the opponent."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2's repeated attempts to trade for coal, combined with earlier mentions of needing iron, strongly suggest they are trying to smelt iron.  Their intentions are becoming very obvious."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to effectively conceal their intentions.  Their rejection message provides a plausible excuse without giving any clues about their target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's friendly message effectively masks their intentions while maintaining a positive player interaction. They successfully conceal their need for planks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's acceptance and thoughts show continued attempts to conceal their ultimate goal while still trying to acquire more iron.  Their reasoning for needing the iron remains vague."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 makes a seemingly generous offer of raw copper, masking their true need for iron. This offer provides player 1 raw materials but conceals player 2's target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the offer without revealing their need for planks.  Their thoughts and actions conceal their target."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's repeated attempts to trade for oak planks, while unsuccessful due to formatting errors, reveal a need for wood. This narrows down the possible items they could be crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the null trade and subtly reiterates their need for iron ingots. While mentioning their need, they don't reveal their specific crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal and message clearly reveal their need for iron ingots to make a bucket. Their intentions are almost fully transparent at this point."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 maintains good intention concealment.  They reject the offer with a plausible reason without revealing any information about their own needs."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's persistent attempts to trade for oak planks, despite repeated rejections, continue to signal their need for planks. While they haven't revealed their target, their actions narrow down the possibilities."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's acceptance message and expressed need for iron ingots are a good balance of expressing need while still concealing their ultimate goal. They maintain some ambiguity."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended before Player 1 could make any moves in this round."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended before Player 2 could make any moves in this round."
+      }
+    ]
+  }
+]

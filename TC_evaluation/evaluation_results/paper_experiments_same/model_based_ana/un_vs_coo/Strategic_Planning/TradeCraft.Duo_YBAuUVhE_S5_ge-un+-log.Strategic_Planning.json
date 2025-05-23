@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates good strategic planning by identifying their target item (chain), recognizing the required resources, and formulating a reasonable trade proposal to obtain raw iron.  They also consider alternative crafting paths using their existing resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 shows some strategic thinking by considering the trade-off proposed by player 1 and checking the utility of coal and raw iron.  Their rejection is justified based on their need for raw iron to craft their target (lever), although they haven't fully explored other crafting options yet."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates improved strategic planning by proposing a mutually beneficial trade of raw iron for coal. They also correctly identify the necessary components for their target (lever) and consider possible future trades."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to exhibit strong strategic planning by accepting the trade, recognizing its value in progressing towards their target. Their thinking regarding smelting and acquiring more iron through trades or alternative means is sound."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates good strategic planning by offering a trade that benefits them (gaining raw iron) while also being reasonable for their opponent. They correctly identify the components needed for their target (chain) and consider various crafting pathways."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 exhibits strategic thinking by accepting the trade, anticipating potential future benefits from having more copper. They correctly understand the importance of cooperation and recognize that assisting Player 1's progress can ultimately benefit both players."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's strategic planning falters in this turn. They make invalid proposals and struggle to find a suitable trade. While they eventually identify the correct recipe for sticks, their initial attempts are inefficient and demonstrate a lack of understanding of crafting mechanics."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintains a focus on their target (chain) and demonstrates strategic thinking by considering the opponent's needs and proposing a valuable trade. Their analysis of the situation and willingness to offer a slight overpay to achieve their goal reflects sound strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates effective strategic planning. Despite some initial confusion, they recognize the key ingredients needed for their target and successfully craft it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's strategic planning is less focused. While they attempt to analyze player 1's moves, they fail to make significant progress towards their own target.  Their crafting of iron ingots and a copper ingot doesn't directly contribute to creating a lever, though it could be seen as a backup plan for future trades."
+      }
+    ]
+  }
+]

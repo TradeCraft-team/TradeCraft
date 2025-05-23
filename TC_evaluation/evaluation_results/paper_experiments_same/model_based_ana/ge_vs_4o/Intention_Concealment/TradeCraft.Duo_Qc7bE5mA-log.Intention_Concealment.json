@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their intention to craft a chain by offering coal for raw iron and explicitly stating their need for a chain in the accompanying message. This directness significantly compromises their intention concealment."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 did not reveal any specific crafting intentions, making it difficult for player 1 to guess their target item. Their rejection message is generic and does not provide any clues."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's acceptance of the trade, coupled with their earlier revealed intention of crafting a chain, makes their need for iron ingots quite obvious.  They haven't actively tried to conceal their intentions in this turn."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade for cherry planks could be for various crafting purposes (sticks, tools, etc.). While the stated reason (crafting sticks) is somewhat revealing, it still allows for some ambiguity about the final target item."
+      }
+    ]
+  }
+]

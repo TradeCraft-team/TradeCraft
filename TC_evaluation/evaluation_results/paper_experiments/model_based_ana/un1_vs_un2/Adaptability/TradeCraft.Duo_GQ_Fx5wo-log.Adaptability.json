@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability by first attempting to trade for the raw iron needed to craft shears.  They correctly identified their need for iron and formulated a reasonable trade proposal. While the proposal was rejected, it set the stage for future trading opportunities."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly identified that the initial trade offer did not benefit their goal of crafting a torch. They rejected the offer and began formulating their own trading strategy, showing some adaptability to the game state."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a beneficial trade, securing the raw iron they needed for shears. This demonstrates excellent adaptability to the changing game state and recognizing a favorable opportunity."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully traded for coal, adapting their strategy after the initial rejection and securing a key component for their torch.  However, they struggled to secure the additional planks needed, slightly lowering their score."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to adapt their trading strategy, ultimately smelting their raw materials into the necessary iron ingots to craft shears and win the game. This demonstrates excellent adaptability and efficient resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 failed to adapt their strategy. Despite having the necessary resources to craft a torch, they missed multiple opportunities to do so, repeatedly rejecting trade proposals and failing to craft the needed items.  Their focus on acquiring a second plank, despite having the necessary coal, highlights a lack of adaptability and game understanding."
+      }
+    ]
+  }
+]

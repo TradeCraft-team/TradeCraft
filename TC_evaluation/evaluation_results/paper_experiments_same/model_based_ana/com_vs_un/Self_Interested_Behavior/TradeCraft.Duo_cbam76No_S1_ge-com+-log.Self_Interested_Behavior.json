@@ -1,0 +1,86 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interest by proposing a trade that would benefit them by obtaining raw iron for their shears, offering raw copper which is less valuable to them in this situation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 acted in their self-interest by rejecting the trade. They correctly assessed that raw copper was not beneficial for crafting their target item (torch), prioritizing their own needs over the potential mutual benefit of the trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated a strong self-interested behavior by proposing a trade for coal, which is essential for their target item (torch).  They offered raw iron in exchange, showing a willingness to sacrifice resources to achieve their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade, demonstrating self-interest by prioritizing their need for iron to craft shears. Recognizing the value of raw iron for their objective, they made a decision that benefited them."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 tried to trade for raw copper, likely to prevent Player 1 from using it and to explore other crafting options. This shows an attempt to hinder the opponent's progress while potentially benefiting themselves, but Player 1's rejection suggests the attempt was not entirely successful in its self-serving aspect."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected the trade, keeping the raw copper which they may need for other crafts. This shows a focus on their own potential crafting paths, rather than aiding Player 2. By not sharing resources that could be useful to Player 2, player 1 prioritizes their own unknown crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 proposed a trade of raw copper for cobblestone. While getting cobblestone is mildly beneficial for them, offering raw copper could be seen as slightly altruistic as Player 2 seems to need it.  This trade wasn't entirely focused on maximizing their own benefit."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, showing a willingness to acquire potentially helpful resources. While the cobblestone might not be essential for their blast furnace, the acceptance indicates a self-interested approach to gathering resources."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly submitted invalid proposals, demonstrating a lack of understanding of the game rules and severely hindering their ability to pursue their self-interest effectively. The continuous submission of invalid proposals wastes valuable turns and demonstrates ineffective self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade, increasing their raw copper supply, potentially useful for future crafting.  This act serves their self-interest by accumulating more resources.  By recognizing a beneficial trading opportunity, Player 1 acted strategically to enhance their resource pool."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade for raw copper, showing continued self-interest in accumulating more resources. While offering a cobblestone slab in return might benefit Player 2, Player 1's focus on maximizing their raw copper resources displays strategic self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the trade, deciding to hold onto raw copper as potential leverage for future trades.  This demonstrates self-interest by preserving a resource they might need later and recognizing its potential trading power.  The rejection reflects a calculated decision to maximize future opportunities."
+      }
+    ]
+  }
+]

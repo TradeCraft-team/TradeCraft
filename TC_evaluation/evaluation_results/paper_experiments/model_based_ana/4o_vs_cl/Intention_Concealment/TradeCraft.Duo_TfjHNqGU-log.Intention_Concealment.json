@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 actively concealed their intention by offering a seemingly balanced trade. Although the request for raw iron hints at a need for iron ingots, the inclusion of cherry planks and raw copper in the offer adds ambiguity and could point to various crafting goals. The persuasive message also contributes to the concealment effort."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1's rejection message seems unrelated to the trade or game context, giving no useful information about their own intentions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.4,
+        "justification": "Player 1 reveals their need for cherry planks to craft sticks, which narrows down the possible target items. While the mention of crafting a lever could be a feint, it exposes part of their crafting process."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 effectively conceals their intentions by focusing their rejection message on the need for fuel and raw iron, subtly hinting at a smelting-related goal without revealing the specific target item. The message successfully redirects the focus away from the cherry planks, protecting a potential fuel source while expressing interest in raw iron, which they actually need for their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal and message reveal their need for raw iron, which hints at a crafting goal involving iron ingots. While the message mentions a \"target item,\" it doesn't disclose the specific target. The friendly tone and justification for the trade add a layer of concealment, suggesting a collaborative approach while strategically pursuing their goal."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to reject with irrelevant messages."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Player 1 again offers a trade that is not allowed by the rule. But the repeated attempts to acquire cherry planks strongly suggest a need for wooden materials, potentially for crafting sticks. This reveals a significant part of their crafting plan."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 does not take any explicit action in this turn, receiving and evaluating Player 1's trade proposal. Their decision to accept provides player 2 with the necessary materials while revealing very little about their own target item."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal reveals their need for raw iron, hinting at a need for iron ingots, but the justification focuses on efficiency and mutual benefit, masking the specific target item."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to reject with irrelevant messages."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.4,
+        "justification": "Player 1 reveals their interest in iron ingots, which is a common component and doesn't reveal their specific target. However, the emphasis on \"crafting goals\" offers limited concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again avoids revealing their specific target by rejecting the trade while stating a generic need for \"processed iron rather than raw materials.\" This conceals their target while hinting at a need for something other than raw iron."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal reveals their need for an oak button and raw iron. While the message states a need for fuel, hinting at a smelting-related goal, it could be a misleading tactic. The explicit mention of \"next crafting steps\" offers minimal concealment."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection focuses on the need for \"materials that directly help me craft my target item, a lever.\" While revealing their target, the statement could also be interpreted as a strategic move to pressure player 2 into offering more suitable items."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.4,
+        "justification": "Player 1's proposal and message reveal a need for an iron ingot. The vague reference to \"crafting needs\" and \"future crafting steps\" offers minimal concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions by rejecting Player 1's offer with a clear and reasonable explanation.  By stating their need to keep the iron ingot for crafting a bucket, they reveal their target item while maintaining control over the trade interaction and managing to obtain more raw iron."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal reveals a need for raw iron, hinting at iron ingots. While the mention of \"future crafting needs\" adds ambiguity, the attempt to connect the trade with Player 1's lever goal reduces the concealment."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 maintains consistent rejection messages, concealing their crafting progress and potential target items."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal reveals an interest in a copper ingot. The message mentions \"crafting needs\" and \"future crafting steps,\" providing minimal concealment but not revealing the specific target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the trade while keeping their ultimate goal of crafting a bucket concealed. While the raw iron is needed for bucket, player 2 does not explicitly reveal this."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposes a trade for smooth stone, offering raw iron in return. This action partially reveals a need for smooth stone, but the justification focuses on diversification, adding ambiguity and concealing the specific target item."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepts the trade, giving a generic reason. This conceals their true intentions and crafting progress."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.4,
+        "justification": "Player 1's initial invalid proposal, followed by offering copper for an iron ingot reveals potential crafting needs but does not pinpoint a specific item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintains concealment by rejecting the trade with a generic reason related to \"crafting something that requires iron.\" This avoids revealing their specific target or progress."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "The game ends, so no intention concealment is relevant."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends, so no intention concealment is relevant."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's intentions were somewhat obvious from their repeated attempts to trade for iron-related items, clearly signaling their need for iron. While the specific item they were targeting wasn't revealed directly, their actions heavily implied an iron-based crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 effectively concealed their intentions by rejecting Player 1's trade proposals without revealing their reasoning. While their internal thoughts showed their focus on crafting a lever, their external actions didn't betray this goal, successfully keeping Player 1 guessing."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal to trade oak planks for an iron ingot was a clever attempt to conceal their own needs while potentially acquiring a useful resource. While their interest in iron might indirectly hint at their plans, it wasn't a direct giveaway of their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's continued focus on acquiring iron, along with their stated need for it, made their intentions quite clear. Their rejection of the oak planks further solidified their iron-centric strategy, offering little concealment."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's trade for raw iron, combined with their previous actions, made their intention to craft something requiring iron glaringly obvious.  The successful trade itself further cemented this, providing minimal concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 masterfully concealed their intentions by accepting Player 1's trade offer.  While this provided Player 1 with necessary resources, Player 2's own needs remained completely hidden.  Their internal thoughts reveal their awareness of Player 1's likely iron-related goals, indicating a strategic acceptance of the trade."
+      }
+    ]
+  }
+]

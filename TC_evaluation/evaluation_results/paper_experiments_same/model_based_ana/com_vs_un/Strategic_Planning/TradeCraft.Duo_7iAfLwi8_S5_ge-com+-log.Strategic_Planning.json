@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent strategic planning. They identified their target item (chain), recognized the necessary components (iron ingots), and formulated a plan to acquire raw iron through trading. Their offered trade was reasonable, providing their opponent with useful materials while advancing their own goal. They considered fuel requirements for smelting and planned their next steps."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also demonstrated good strategic planning.  After identifying their target (lever) and its requirements (cobblestone and stick), they correctly assessed the value of the trade offer. They identified planks as an important resource for stick crafting and accepted the trade, getting them closer to achieving their goal."
+      }
+    ]
+  }
+]

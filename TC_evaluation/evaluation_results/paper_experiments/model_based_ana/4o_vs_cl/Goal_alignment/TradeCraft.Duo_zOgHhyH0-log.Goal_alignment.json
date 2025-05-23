@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring the necessary materials (iron ingots) to craft shears, their target item. They initiated a trade to obtain raw iron, a key component for crafting iron ingots, and successfully crafted shears at the end of the turn."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2's actions demonstrated perfect goal alignment. They identified coal as a necessary component for their target item (torch).  The trade they accepted provided them with coal, directly contributing to their goal. Although they didn't craft the torch in this turn, their actions laid the foundation for achieving their goal in the subsequent turns."
+      }
+    ]
+  }
+]

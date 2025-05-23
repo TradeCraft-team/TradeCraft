@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent cooperation by proposing a trade that would benefit both players. They clearly explained their reasoning and offered a valuable resource (coal) to help Player 1 smelt their raw iron in exchange for an iron ingot to help themselves craft shears. Although their initial proposals were invalid, they persisted in finding a mutually beneficial trade, ultimately offering coal for raw iron, which Player 1 accepted. This allowed Player 1 to obtain coal needed for torches and allowed Player 2 to obtain the raw iron needed to craft shears."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 showed great cooperation by carefully considering Player 2's proposal and recognizing its mutual benefit. They accepted the trade, obtaining coal needed for their torch while helping Player 2 acquire raw iron for shears. Their communication was positive and supportive, indicating a willingness to work together."
+      }
+    ]
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initially proposed invalid trades, but adapted by offering coal for raw iron, a more suitable trade for both players. Demonstrates some adaptability but was slow to identify the correct trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 quickly assessed the trade proposal and recognized its benefit, accepting the offer and demonstrating good understanding of the game's dynamics and their own needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 failed to craft a torch despite having the necessary materials (coal and oak planks).  Repeatedly checked recipes but couldn't execute correctly, and didn't adapt their strategy. Showed no adaptability."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted smelting but failed to realize they needed fuel (coal). They made multiple incorrect recipe checks and did not use the server's advice effectively.  Demonstrates limited adaptability."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted their strategy by offering raw copper for raw iron after an initial invalid trade proposal.  Recognized the need for more iron and proposed a fair trade, showing good adaptability to the previous turn's results."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the proposed trade, correctly identifying its benefit despite not needing raw copper directly.  Demonstrated awareness of the game's cooperative nature and willingness to help, showing good adaptive behavior."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 continued struggling with crafting. Failed to make sticks from oak planks despite multiple attempts, showing no adaptability or problem-solving skills."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 maintained focus on their goal, identified the need for coal, and rejected a pointless trade while requesting coal. Demonstrated clear intent and understanding of their needs, adapting their communication based on the partner's actions."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully traded for coal, smelted iron, and crafted shears, winning the game.  Demonstrated excellent adaptability and efficient execution of their plan after acquiring the necessary resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 agreed to trade coal despite needing it, understanding player 1's need for it and prioritizing cooperation. Demonstrated good adaptability, focusing on long-term cooperation even though it meant sacrificing some materials. Player 2 however failed to craft anything again this turn."
+      }
+    ]
+  }
+]

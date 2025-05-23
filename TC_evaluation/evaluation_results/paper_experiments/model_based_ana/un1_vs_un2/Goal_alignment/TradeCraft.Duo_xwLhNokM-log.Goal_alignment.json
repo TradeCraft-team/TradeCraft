@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring raw iron for their target, a bucket.  All their thoughts and the trade proposal directly aligned with this goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1's actions and thoughts were aligned with crafting a stone_shovel. They considered the trade proposal in the context of their goal and accepted it because it didn't hinder their progress and provided a potentially useful resource (coal).  Their crafting attempts, though unsuccessful due to an invalid recipe, were still aimed at creating the necessary stick."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 focused entirely on obtaining cobblestone to complete their stone_shovel.  The trade proposal, thoughts, and crafting plan all reflected this goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 remained focused on acquiring iron for the bucket. Accepting the trade for raw iron and considering further trades for raw iron aligned perfectly with their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly identified that the trade offer didn't help achieve their goal of a stone_shovel and rejected it.  Their crafting plans continued to focus on the shovel."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continued to pursue their goal of acquiring enough iron for a bucket.  Their trade proposal and thoughts centered on this need."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1's actions fully aligned with making a stone_shovel. They correctly assessed they didn't need to trade and proposed a null trade. Their crafting plans focused on the necessary components for the shovel."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 remained focused on their goal of crafting a bucket.  They recognized the null trade didn't benefit them and reiterated their need for iron."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1's actions were perfectly aligned with creating a stone_shovel. They rejected the trade for copper as it didn't help their goal and focused their crafting efforts on obtaining the necessary components."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintained their goal of crafting a bucket.  Their thoughts and proposed trade directly supported this objective."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 showed perfect goal alignment, recognizing they had the necessary materials to craft a stone_shovel and planning accordingly.  The null trade proposal aimed to conceal their crafting plans."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 remained focused on obtaining the necessary iron ingots for a bucket. Rejecting the null trade and expressing their need for iron demonstrated clear goal alignment."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continued to focus on crafting a bucket, recognizing they had the necessary iron ingots. The trade proposal, while not essential, aimed to acquire additional resources."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed slight deviation by accepting a trade for copper, which wasn't directly needed for their stone_shovel. However, they recognized the need for sticks and planned to craft them."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 maintained focus on the stone_shovel, using their resources efficiently and making a strategic trade offer they knew was unlikely to be accepted, thereby protecting their resources."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a strategic trade, acquiring raw copper to be able to smelt their raw iron for a bucket."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly assessed their needs and rejected a trade that didn't align with their goal of crafting a stone_shovel.  Requesting sticks or planks directly showed clear goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 showed consistent focus on their goal of crafting a bucket. They sought to acquire more iron ingots through trade or smelting."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1's actions were perfectly aligned with crafting a stone_shovel.  They planned to craft the necessary materials and proposed a null trade to avoid unnecessary exchanges."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 remained focused on their goal, seeking to acquire iron ingots for a bucket through trade.  They rejected the null trade and expressed their need for iron."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade for raw copper, which isn't directly part of their stone_shovel recipe.  While they reasoned about potential future use, the trade wasn't strictly necessary for their current goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring iron to craft a bucket.  Their actions aligned with this goal."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's decision to offer raw copper was a distraction from their goal of crafting a stone_shovel. Although they didn't need anything from player 2, offering a resource wasn't strategically beneficial to achieving their target."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2's actions aligned with their goal of crafting a bucket.  They accepted the raw copper, which could potentially be used for future trades or crafting."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, and Player 2 did not achieve their target of crafting a bucket."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, and Player 1 did not achieve their target of crafting a stone_shovel."
+      }
+    ]
+  }
+]

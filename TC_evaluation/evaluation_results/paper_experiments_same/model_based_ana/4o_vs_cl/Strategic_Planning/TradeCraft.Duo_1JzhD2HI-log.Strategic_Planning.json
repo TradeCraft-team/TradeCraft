@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by identifying the need for iron ingots to craft a bucket and formulating a trade proposal to acquire raw iron. They also checked the crafting recipe for a bucket, showing an understanding of the game mechanics and crafting requirements."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated strategic planning by first checking the recipe for their target item, stone_shovel, before evaluating the trade proposal. They also correctly reasoned that the offered trade did not bring them closer to achieving their goal, and provided a well-reasoned rejection message. Repeatedly checking crafting procedures however indicates some lack of recall and organization."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 did not engage in any strategic decision-making during this turn. They did not propose trades, check recipes, or express any strategic thoughts. They only applied a previously checked recipe, but did not craft anything useful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's strategic planning was ineffective in this turn. They repeatedly expressed similar strategic thoughts, but did not attempt to trade after the initial failed proposal. Instead, they struggled to perform crafting operations efficiently, indicating an inability to recall instructions."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to demonstrate strategic planning by proposing a trade for raw iron, which is needed for their target item, bucket. They considered their own and their opponent's resources and made a proposal. Checking item information again is somewhat inefficient."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated sound strategic planning by rejecting a trade proposal that did not benefit their target item. They analyzed the proposed trade and their own hand, and explained their reasoning clearly."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted a trade for raw iron, which could be smelted into iron ingots needed for a bucket. However, they expressed strategic thoughts only after the trade.  Repeatedly thinking about their needs isn't useful."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 exhibited strategic planning in this turn by making a beneficial trade to obtain materials they needed. They identified Player 1's interest in iron from previous turns and offered raw_iron in return for a copper ingot. Repeated thoughts before decision-making indicate organizational issues."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 showed strategic planning by proposing a trade for raw iron.  Repeatedly checking same recipe multiple times is not strategic."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 exhibited good strategic planning in this turn by rejecting a trade that did not benefit their goal. They carefully evaluated the trade offer in relation to their target item (stone shovel). Repeated checks show organizational problems."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable trade, converting stone to stone bricks, which can be helpful for crafting or for future trades. They correctly identified the recipe and applied it. Multiple checks show poor recall."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 demonstrated poor strategic planning in this turn, making a failed trade proposal and not attempting a valid one. The thinking expressed shows the player's goal is clear, but repeated checks indicate memory issues."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1's strategic planning in this turn was focused on acquiring raw iron for their bucket, evidenced by their trade proposal. The repeated checks again show organizational issues."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to show good strategic planning in this turn by rejecting a trade that was not beneficial for their target item. They carefully considered their own resources and their opponent's needs."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejected a trade offer. They did not take any further actions or make strategic decisions. Repeated checks are not strategic."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's strategic planning in this turn was not particularly effective. They attempted to trade for materials for their target item but was rejected and did not propose another trade offer.  Repeated checks show organizational problems."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 continued their attempts to acquire raw iron for crafting their bucket, but the trade was rejected.  Repeatedly checking items for bucket isn't strategic."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's strategic planning is evident in the detailed evaluation of the trade offer and rejection based on not benefiting their target item goal. They showed good resource management by not accepting trades for items they do not need."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted a trade for raw iron, moving closer to their goal. However, they struggled with crafting, indicating poor knowledge of game mechanics. "
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed good strategic planning with the trade proposal. They offered raw iron, which the opponent needed for their bucket, in exchange for stone_brick_stairs, which might be more useful to them."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good strategic planning by crafting what they could towards their goal (bucket), using their resources to improve their position. Making trade proposals is also strategic."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's strategic planning is evident in their thoughtful consideration of the trade offer and rejection based on their goal. They demonstrated effective resource management by rejecting an offer of copper, which isn't needed for their stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade for raw iron, moving closer to being able to craft a bucket.  Crafting nuggets from ingots is also good."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 made a suboptimal trade.  Repeated checks indicate organization problems. "
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "The game ended, and Player 1 did not achieve their target item (bucket)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, and player 2 did not achieve their target item (stone shovel)."
+      }
+    ]
+  }
+]

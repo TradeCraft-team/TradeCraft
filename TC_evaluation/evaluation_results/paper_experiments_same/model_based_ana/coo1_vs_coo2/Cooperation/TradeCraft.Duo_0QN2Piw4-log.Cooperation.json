@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that was beneficial to both players. They offered coal to player 1, who needed it for smelting, and requested raw iron, which they needed for their own crafting goal. Player 2 also clearly communicated their crafting goal and inquired about player 1's goal, fostering cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted player 2's trade proposal, recognizing its mutual benefit. They also shared their crafting goal with player 2, reciprocating the cooperative communication."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 offered raw iron to player 2, recognizing that player 2 had used theirs in the previous turn. This demonstrates a proactive attempt to assist player 2 in achieving their goal.  They also inquired again about Player 2's goal.  Even though their proposals were invalid, their intent was cooperative."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted player 1's offer of raw iron, recognizing its benefit.  They also shared their crafting goal and inquired about player 1's goal, which encourages cooperation."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 offered a trade that directly helped them achieve their win condition. They offered raw copper, which they didn't need, for an iron ingot, which they needed to craft their target item. This demonstrates effective and goal-oriented cooperation."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted player 2's proposed trade, even though it didn't directly benefit them. This shows a willingness to cooperate and help the other player achieve their goal, even at a small cost to themselves."
+      }
+    ]
+  }
+]

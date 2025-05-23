@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated perfect goal alignment. They correctly identified the resources needed for their target (bucket), formulated a plan to acquire them through trading (raw iron) and crafting (smelting raw iron using coal), and executed that plan effectively.  They also attempted to disguise their true intentions by requesting raw copper."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 identified their goal (lever) and recognized the necessary components.  They accepted a trade that provided some of those components. However, their reasoning for accepting the trade was not fully aligned with their goal. While the trade offered useful resources, their expressed interest in \"working with wood\" seemed tangential to crafting a lever."
+      }
+    ]
+  }
+]

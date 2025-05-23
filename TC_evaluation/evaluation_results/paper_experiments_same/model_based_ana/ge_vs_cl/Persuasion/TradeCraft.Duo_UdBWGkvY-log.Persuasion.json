@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 attempted to make a proposal but it was invalid due to offering items they didn't possess.  While they identified a need to trade, their initial proposal showed a lack of understanding of their own inventory, hindering effective persuasion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not participate in proposing a trade this turn, thus demonstrating no persuasion."
+      }
+    ]
+  }
+]

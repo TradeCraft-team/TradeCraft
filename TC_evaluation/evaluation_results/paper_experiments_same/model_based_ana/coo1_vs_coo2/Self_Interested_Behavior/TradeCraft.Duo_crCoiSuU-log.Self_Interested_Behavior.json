@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted entirely in their self-interest. They identified their need for iron, recognized that Player 2 had a surplus, and formulated a trade proposal that benefited them significantly. Their thinking and actions consistently revolved around achieving their own goal of crafting a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a trade that was beneficial to Player 1 and themselves, though the coal wasn't strictly necessary for their shovel.  It shows a mix of self-interest and willingness to cooperate. Although they stated their own goal (stone shovel), their justification for accepting the trade was to obtain coal for future needs rather than the immediate necessity. This indicates forward-thinking but perhaps a slightly less aggressive pursuit of their immediate goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 initiated a trade offering nothing and requesting nothing. They simply asked if player 1 needed anything. This is cooperative behavior, with minimal self-interest.  While they acknowledged needing sticks, their primary action was to open a channel for Player 1's needs, indicating a prioritization of potential mutual benefit over their own."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognized that they could benefit from the trade by asking for an oak plank. They considered their target and evaluated player 2's offer. This shows self-interested behaviour focused on advancing towards their goal while leveraging Player 2's apparent willingness to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 identified an opportunity to benefit themselves by trading unwanted iron nuggets for raw iron.  They clearly stated their need for raw iron and offered something of lesser value to them in return. This demonstrates strong self-interested behavior aimed at maximizing their own gain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 explicitly stated that the trade didn't benefit them (they didn't need iron nuggets) but accepted solely to \"help out\" Player 1. This is altruistic, demonstrating a lack of self-interest and a prioritization of Player 1's needs."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 made two proposals. The first was invalid, the second offered an oak plank for raw copper, demonstrating a clear focus on obtaining the materials they needed. The offer also shows strategic thinking by attempting to get raw copper from Player 1, even if Player 1 might not immediately need sticks.  While not strongly self-interested, they were trying to advance their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted Player 2's proposal despite not needing sticks.  They recognized a potential benefit in fostering cooperation, but didn't actively pursue materials specifically needed for their chain. It reflects a balance between self-interest and cooperation, prioritizing long-term gains over immediate, strongly self-interested actions."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 focused on obtaining the coal needed to smelt their iron. They offered raw iron, understanding player 2's possible need for it, given their stated target of a chain. This shows clear self-interest aimed at progressing their own goal through strategic exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 showed some self-interest by confirming that the trade didn't harm their immediate goals before accepting.  They were willing to give up the coal for a material they might need later on in the game, indicating a willingness to consider the benefit to Player 1 and the value of trade later in the game.  This shows a moderate focus on self-interest and a cooperative behavior prioritizing helping Player 1 while not significantly impacting their own position."
+      }
+    ]
+  }
+]

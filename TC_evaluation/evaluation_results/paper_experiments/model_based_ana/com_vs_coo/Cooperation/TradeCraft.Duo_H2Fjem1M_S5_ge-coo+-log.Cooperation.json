@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade, offering coal for raw iron, which would have benefited both players.  They clearly explained their reasoning and demonstrated a willingness to cooperate."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade, prioritizing their own perceived strategic advantage over mutual benefit. While they considered the offer, their suspicion and lack of trust led them to reject a potentially beneficial trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, recognizing the potential benefit to player 2 and prioritizing cooperation despite a small personal risk."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a trade that could benefit both players, offering raw copper for cobblestone and iron. While they also considered their own strategic advantage, the trade itself wasn't inherently unfair."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a simple and fair trade, offering raw copper for raw iron, and explained their reasoning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, demonstrating a willingness to cooperate even though they didn't strictly need the raw copper."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, demonstrating a willingness to cooperate and build trust."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a neutral trade, primarily to appear engaged in trading and potentially distract their opponent."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a reasonable trade, offering raw copper for raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade, prioritizing their own strategic advantage and showing a lack of cooperation."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, prioritizing cooperation and maintaining a positive relationship."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 offered a neutral trade, primarily as a distraction tactic."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a potentially beneficial trade, offering a copper ingot for raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade, showing a lack of cooperation and prioritizing resource conservation."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, prioritizing cooperation and helping the other player."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a neutral trade, potentially to slow down their opponent, but also possibly for future strategic trades."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a helpful trade, offering raw copper for raw iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade, showing a lack of cooperation and prioritizing resource conservation."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, demonstrating a willingness to cooperate and strengthen the relationship."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a neutral trade, potentially to acquire resources for later use or as a distraction tactic."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a direct and fair trade, offering a copper ingot for an iron ingot, and clearly explained their need for the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected a reasonable trade offer, prioritizing their own needs and showing a lack of cooperative spirit."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, demonstrating cooperation and a willingness to help the other player even if it's not immediately beneficial to themselves."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a trade that, while not directly harmful to player 1, prioritized acquiring a resource the other player seemed less interested in, potentially as a strategic move to deprive player 1 of raw iron."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended."
+      }
+    ]
+  }
+]

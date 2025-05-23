@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 explicitly stated their need for raw iron and their intention to craft a bucket in their trade proposal message. This revealed a significant amount of information about their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 concealed their intentions well.  They accepted the trade, providing a plausible reason (\"plenty of raw iron\") without revealing their own need for other resources like planks."
+      }
+    ]
+  }
+]

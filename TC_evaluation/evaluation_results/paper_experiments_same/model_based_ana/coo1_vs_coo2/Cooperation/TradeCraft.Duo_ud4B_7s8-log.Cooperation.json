@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a fair trade that benefited both players. They offered coal and raw copper, allowing Player 1 to smelt raw iron, while Player 2 received raw iron to work towards their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutually beneficial trade proposed by Player 2 and accepted it, showing a willingness to cooperate."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a reasonable trade. Although Player 2 didn't need the raw copper, accepting the trade helped Player 1 get closer to crafting their target item and Player 2 didn't lose much by accepting it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted Player 1's trade, even though they didn't need the raw copper, demonstrating cooperative behavior by facilitating Player 1's progress."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a trade of raw iron for coal which directly benefited both players, facilitating the smelting of their raw materials into more usable forms."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutual benefit of the raw iron for coal trade and accepted it, furthering both players' progress in the game. Player 1 explicitly prioritized helping Player 2, demonstrating excellent cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 offered a fair trade for cobblestone, which they needed for their lever. Player 2 did not need cobblestone but could use the raw iron for something else."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the trade, demonstrating cooperative behavior by assisting Player 1 even though the trade didn't directly benefit Player 2's current crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a simple trade that could benefit both players. They correctly identified that Player 1 might have extra raw copper and needed raw iron in return."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade, recognizing it helped Player 2 more than it hindered them and furthered the cooperative nature of the game."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 gave raw iron to Player 2 for free after their proposals for trade failed, demonstrating good cooperative spirit and a willingness to help their opponent progress."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted Player 1's offered iron, thanking Player 1 and expressing their gratitude."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 offered raw materials for cobblestone, showing initiative to make a trade. Even though it put Player 1 a step back on their target, accepting the trade didn't hurt Player 1's progress significantly and improved the resource pool for both players."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted Player 2's trade. While it didn't directly help Player 1 towards their lever, it did give them some raw materials for later and assisted Player 2, demonstrating cooperative play."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 gave Player 2 some raw iron to help them out without any expectation of return, showing a friendly and cooperative stance."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted Player 1's offered raw iron again and thanked Player 1. They also considered Player 1's needs when making decisions, further showing cooperation."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed another fair trade that allowed both players to potentially acquire the items they needed for smelting."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 readily accepted Player 2's trade, even offering further help. This shows continued cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 offered raw iron to Player 2 without requesting anything in return, demonstrating generosity and cooperative behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted the gift of raw iron, expressing gratitude for Player 1's generosity.  They also thought about a way to cooperate by offering raw iron for the oak planks."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade that, while primarily benefiting themselves, did offer Player 1 some potentially useful raw materials."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted Player 2's trade, prioritizing Player 2's progress even though it didn't directly benefit their own goal. This shows cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1, despite needing resources themselves, gifted raw iron to Player 2 to help them progress. This is a strong demonstration of cooperative behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted Player 1's gifted raw iron and expressed their gratitude.  This along with Player 1's generosity has displayed strong mutual cooperation throughout the game."
+      }
+    ]
+  }
+]

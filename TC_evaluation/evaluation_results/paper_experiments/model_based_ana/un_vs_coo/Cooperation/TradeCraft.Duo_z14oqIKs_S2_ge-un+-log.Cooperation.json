@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 made several invalid proposals, demonstrating a lack of understanding of the game rules and hindering cooperation. While the intent to trade was present, the execution was poor and ultimately unproductive.  The final trade was beneficial for both players, but the preceding failed attempts lower the score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted Player 1's trade offer, recognizing the potential mutual benefit.  Their thoughts indicate a clear understanding of the cooperative nature of the game and a willingness to help Player 1 progress. They also considered player 1's needs while making their decision."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a beneficial trade offered by Player 2, demonstrating cooperation and an understanding of mutual gain.  Their thoughts show strategic thinking and consideration of Player 2's likely goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that directly benefited Player 1, showing strong cooperation and a clear focus on mutual success. They offered raw iron without demanding anything specific in return and acknowledged that even without a counter-offer, they were happy to help.  This demonstrates excellent cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 offered a fair trade for coal, demonstrating continued cooperation and a willingness to negotiate to achieve their goal.  They also focused on crafting their target item and successfully completed it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted Player 1's trade, showing an understanding of the importance of helping others progress. Their thoughts reveal a focus on cooperative strategy and they made a fair trade. While they attempted crafting but were not entirely successful yet, it doesn't detract from their overall cooperative actions."
+      }
+    ]
+  }
+]

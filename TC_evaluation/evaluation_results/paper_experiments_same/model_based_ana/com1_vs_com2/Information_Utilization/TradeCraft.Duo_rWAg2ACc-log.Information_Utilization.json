@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly identify their need for iron ingots to craft their target (bucket) and recognize that Player 1 has a source of raw iron.  They formulate a trade proposal designed to obtain the raw iron while also disguising their true intentions by requesting raw copper.  This shows strategic thinking and good use of available information."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 shows good information utilization by recognizing the offered cherry planks can help them achieve their goal of crafting a lever.  They acknowledge the potential risk of giving away raw copper but prioritize completing their own objective.  While they correctly deduce the immediate value of the trade, they don't seem to consider the longer-term implications of potentially helping their opponent."
+      }
+    ]
+  }
+]

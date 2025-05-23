@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that was beneficial to both players. They offered their coal in exchange for raw iron, which helped them progress towards their goal of crafting shears and helped Player 1 get coal to potentially achieve their goal of crafting a torch."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a mutually beneficial trade, giving up some raw iron for coal, which they needed for their goal."
+      }
+    ]
+  }
+]

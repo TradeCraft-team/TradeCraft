@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initially concealed their intentions by making a vague proposal. However, their subsequent proposal and message revealed their need for raw iron, lowering their score slightly.  While they offered a seemingly fair trade, the direct request for raw iron gave away some of their crafting goals."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance message partially revealed their need for coal for crafting.  They didn't make any attempts to mislead but also didn't actively conceal information about their goals."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated strategic thinking by identifying the need for raw iron, checking the recipe for their target item (bucket), and proposing a reasonable trade with Player 2. Although the trade was rejected, the initial planning and attempt to acquire necessary resources show a decent level of strategic planning."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 repeatedly checked the lever recipe but didn't formulate a clear plan to obtain the required materials. Rejecting the trade without proper consideration and repeated redundant checks lower the strategic planning score. While they identified their needs eventually, the process was inefficient."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that provided them with additional raw iron, a key component for their target item (bucket). This demonstrates a good understanding of their needs and effective utilization of the trading system to progress towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 showcased excellent strategic planning in this turn. They efficiently identified the necessary resources to craft their target item (lever), formulated a plan to acquire those through a trade, proposed a beneficial trade, successfully executed it, and then crafted the lever, winning the game. This demonstrates a high level of strategic thinking, resource management, and adaptability."
+      }
+    ]
+  }
+]

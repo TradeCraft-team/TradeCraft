@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interested behavior by attempting to trade for raw iron, which they need for their target item (chain).  The offer of coal was strategic, as it is useful for smelting and thus potentially valuable to Player 2.  However, the trade attempt was unsuccessful.  Their subsequent thoughts further reinforce self-interest, focusing on acquiring raw iron and considering Player 2's potential needs to improve future trades."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer, which could be interpreted as self-interested if they didn't see value in the trade for themselves.  However, there isn't enough information to conclusively determine their motivations, as the rejection message is generic and doesn't provide reasoning."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade, prioritizing their own need for raw iron to craft their target item (chain). They correctly assessed the value of the trade for their own goal and acted accordingly. Their subsequent thoughts further emphasize their self-interest, focusing on acquiring more raw iron and planning future trades to achieve their goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade that directly benefits them by offering raw iron (which they have in abundance) in exchange for cherry planks needed for their target (stone_shovel).  This demonstrates a clear focus on their own goal and a strategic use of trading to acquire needed resources."
+      }
+    ]
+  }
+]

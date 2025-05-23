@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted in a self-interested manner by offering less valuable items (cherry planks and cobblestone) in exchange for raw iron, which is crucial for their target item (chain). They clearly prioritized their own needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 also demonstrated self-interest by accepting the trade. While the trade benefited both players, Player 1's primary motivation was to obtain the resources needed for their target item (lever), showing a focus on their own goal."
+      }
+    ]
+  }
+]

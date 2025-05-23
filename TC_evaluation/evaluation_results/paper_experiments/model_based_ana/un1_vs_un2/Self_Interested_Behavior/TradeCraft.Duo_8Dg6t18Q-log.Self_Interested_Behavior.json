@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted completely in their self-interest. They identified what they needed, proposed a trade that benefited them (getting raw iron) while offering something they didn't need (raw copper), and then successfully crafted their target item.  All actions were focused on achieving their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 accepted the trade, which was arguably not in their immediate self-interest, as they didn't need raw copper.  While they stated a desire to appear cooperative, this is a weak justification for self-interested behavior. Their crafting attempts were unsuccessful due to an incorrect recipe, demonstrating ineffective pursuit of their own goal, further reducing their self-interest score. Although the trade didn't directly hurt them, it didn't help them achieve their goal either, suggesting a lack of focus on self-interest."
+      }
+    ]
+  }
+]

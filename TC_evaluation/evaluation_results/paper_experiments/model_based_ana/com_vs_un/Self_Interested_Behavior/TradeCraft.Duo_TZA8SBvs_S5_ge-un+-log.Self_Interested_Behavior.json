@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 consistently pursued their self-interest by attempting to trade for raw iron, which they needed to craft their target item. While their initial proposals were invalid, they adapted by offering different items and adjusting quantities to make the trade more appealing to player 2. Their focus remained on acquiring the necessary resources for their own goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 acted in their self-interest by rejecting player 1's trade proposals. They reasoned that providing player 1 with raw iron would help them progress, which is not in player 2's best interest. Although they failed to craft their target item this turn due to an invalid recipe, their decision to reject the trade demonstrates a clear prioritization of their own goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 offered a trade that was highly unlikely to benefit them. They requested an iron ingot, which has much higher utility than a single oak plank. The offer was also unlikely to incentivize player 1, as the item offered wasn't what Player 1 expressed interest in. Player 2 considered the possible utility of the raw iron for player 1, suggesting some level of opponent awareness, but their trading attempt was poorly executed from a self-interested perspective."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted completely in their self-interest by rejecting a disadvantageous trade. They correctly assessed that trading away their iron ingot would hinder their progress, while receiving oak planks offered no immediate benefit."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully executed a trade that served their self-interest. They offered a copper ingot, which they didn't need, in exchange for raw iron, bringing them closer to their target item.  They then efficiently used their resources to craft the chain and win the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 accepted a trade that was not in their self-interest. They traded raw iron, which they didn't immediately need but could have used to hinder Player 1 or potentially for future leverage, for a copper ingot that offered no benefit to their goal.  This decision directly contributed to their loss, as it allowed Player 1 to acquire the resources needed to win.  Furthermore, their multiple failed craft attempts indicate a lack of focus and efficiency, costing them the opportunity to create their own winning item.  This signifies a failure to act in one's own self-interest, even within the context of the game."
+      }
+    ]
+  }
+]

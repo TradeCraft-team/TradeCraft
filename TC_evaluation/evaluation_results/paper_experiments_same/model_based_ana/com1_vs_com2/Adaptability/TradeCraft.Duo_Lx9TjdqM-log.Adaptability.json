@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability by identifying their need for iron ingots, recognizing that Player 1 had a surplus of raw iron, and formulating a trade proposal to acquire the necessary resources. They also considered disguising their intentions by requesting cobblestone."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also adapted well, analyzing the trade proposal from Player 2 and recognizing its benefits. They correctly assessed the value of the offered cherry planks and coal, and accepted the trade to further their own goal of crafting a lever."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to show adaptability by attempting to acquire additional cobblestone as a backup resource. They offered raw iron in return, demonstrating an understanding of Player 2's needs from the previous turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted to the incoming trade proposal, recognizing the value of raw iron for their goal of crafting a chain. They accepted the trade, prioritizing the acquisition of iron over retaining cobblestone."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to demonstrate adaptability by proposing a trade of copper ingot for raw iron.  They recognized Player 1's interest in raw materials and made an offer that benefitted both players while prioritizing their own need for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability in considering the trade-off between acquiring the copper ingot and giving up raw iron.  While they accepted the trade, their reasoning could have been stronger."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 persisted in attempts to trade for cobblestone, but failed to adapt to the game rules.  Their repeated invalid proposals show a lack of responsiveness to feedback.  However, their attempts to trade for raw iron show some adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 adapted well, rejecting a trade that didn't benefit their goal and recognizing they had the necessary materials to craft their target item."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed some adaptability by attempting to trade for more raw iron, first by offering a copper ingot and then iron nuggets.  However, the invalid copper trade and subsequent unfavourable iron nuggets offer reduce their score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 consistently rejected trades that did not advance their goal, demonstrating good adaptability by focusing on their own needs and recognizing unfavourable trade ratios."
+      }
+    ]
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly identifies their need for iron and proposes a reasonable trade with Player 2, offering coal in exchange for raw iron. They clearly state their needs and reasoning in their thoughts and follow through with a well-formed proposal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent information utilization. They analyze Player 1's proposal, recognize the value of coal for smelting, and accept the trade, which aligns with their own goal of crafting a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 fails to capitalize on the opportunity to smelt their raw iron into an ingot. Despite having the necessary materials and stating their plan to smelt, they fail to execute it. They check the recipe for iron_ingot but then check and apply an invalid recipe. They do correctly check a valid recipe to convert 1 iron ingot into 9 iron nuggets, but this action doesn't help them progress towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 correctly assesses their need for planks to craft sticks, and subsequently the stone shovel.  They formulate a plan to trade for planks, offering raw copper.  However, they don't take any action to craft this turn, despite seemingly having recognized the value of crafting sticks.  They fail to check valid recipes to convert 1 oak plank into 2 sticks."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposes a trade for coal, demonstrating an understanding of their need for fuel. However, they miss an opportunity to smelt their raw iron in the crafting phase. They make several incorrect recipe checks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates good reasoning by rejecting the trade offer as it doesn't benefit their goal.  They identify the correct steps needed to craft their target but do not take any action."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejects Player 2's trade offer but fails to utilize the crafting phase effectively. They do not craft the chain and makes an unnecessary check and apply to turn their iron ingot into nuggets."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 continues to miss opportunities to progress towards their goal. They consider crafting sticks but do not execute the action."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 submits two invalid proposals and then makes another proposal that is rejected. Their actions do not demonstrate effective information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 effectively uses the crafting phase to smelt their raw iron into iron ingots, maximizing their resources and preparing for future crafting needs. They correctly reject Player 1's trade proposals, which would have been detrimental to their own game."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejects the trade offer and then makes several incorrect recipe checks, missing the chance to craft the chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 makes a trade offer that is rejected.  They do not make any progress towards their crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 makes a trade offer that is rejected.  They then convert iron ingots into nuggets, which does not help them progress towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejects the trade offer but does not make any progress towards their crafting goal. They recognize they need to craft sticks, but do not successfully do so, and therefore fail to craft the stone_shovel."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly identifies the opportunity to craft the chain and successfully executes the necessary crafting steps. This demonstrates excellent information utilization and leads to their victory."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 makes a trade offer that is rejected, and does not take any crafting actions."
+      }
+    ]
+  }
+]

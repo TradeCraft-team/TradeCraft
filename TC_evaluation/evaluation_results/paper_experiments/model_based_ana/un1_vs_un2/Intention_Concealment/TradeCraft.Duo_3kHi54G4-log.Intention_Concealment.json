@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 revealed a partial intention by mentioning needing iron for shears, while offering a seemingly reasonable trade. Though hinting at the need for iron, the specific item (shears) was not explicitly stated, demonstrating some attempt at concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's acceptance message and subsequent crafting checks clearly revealed their need for coal and intention to craft a torch."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 disguised their intention to craft a torch by offering a seemingly unrelated trade for cobblestone.  While their internal thoughts reveal their true goal, their outward actions effectively concealed it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 rejected the trade, stating their need for iron, hinting at their goal. While not explicitly stating \"shears\", the need for iron narrows down the possibilities, showing partial concealment."
+      }
+    ]
+  }
+]

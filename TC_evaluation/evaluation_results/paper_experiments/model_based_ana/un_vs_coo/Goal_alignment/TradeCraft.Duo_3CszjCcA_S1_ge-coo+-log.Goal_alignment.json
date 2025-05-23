@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently demonstrated goal alignment. They correctly identified their need for iron ingots to craft shears, formulated a mutually beneficial trade proposal to obtain raw iron from Player 1, and successfully executed the trade.  All actions were directly in line with their final goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also demonstrated strong goal alignment. They recognized the value of coal in achieving their goal of crafting a torch, accepted a trade that provided them with coal, and immediately began planning how to use the acquired coal to further their progress."
+      }
+    ]
+  }
+]

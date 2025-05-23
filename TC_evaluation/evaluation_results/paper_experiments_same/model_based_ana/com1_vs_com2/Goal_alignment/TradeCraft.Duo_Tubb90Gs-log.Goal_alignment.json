@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 clearly identifies their goal (chain) and focuses their actions on acquiring necessary materials (raw iron). They propose a reasonable trade aligned with their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 identifies their goal (stone_shovel) and recognizes the need for sticks, derived from planks. Accepting the trade for coal indirectly supports their goal by allowing them to potentially smelt raw materials for future crafting needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's crafting attempts are unsuccessful due to invalid recipes. Their repeated checks without correcting the recipe demonstrates a lack of effective action towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 fails to craft anything this turn due to insufficient resources. Although they correctly identify the obstacle and plan for next turn, their score is lowered due to inaction towards their objective in the current turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's attempt to trade for coal is aligned with their need to smelt raw iron for the chain, but the trade is rejected. They continue to struggle with crafting the correct recipe."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 rejects the trade offer and fails to craft anything this turn due to insufficient planks. While they recognize the missing resource, they don't take action to acquire it."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejects a trade offer and converts their iron ingot into nuggets, moving them further away from their goal of crafting a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 also fails to make progress on crafting, ending the turn without any actionable steps towards crafting their shovel. Their proposed trade does not align with their primary need (planks)."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 makes progress towards their goal by smelting raw iron into an iron ingot, getting closer to crafting the chain. Their trade proposals are rejected but shows an attempt to get needed materials"
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 focuses on smelting raw materials, indirectly supporting their need to obtain further materials through trading to craft their goal item(stone shovel)."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to work towards crafting the chain, recognizing the necessary components and converting their resources accordingly. They reject the trade offer, but it aligns with not trading for their targeted resources and crafting towards their goal"
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's actions are not strongly aligned with their goal this turn. They fail to craft sticks due to insufficient planks, and their trade proposal does not secure this needed resource."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 crafts the needed iron ingot for the chain. They also make a trade proposal to get more iron, further showing steps towards their goal"
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 fails to craft anything useful this turn. They have the resources to craft sticks but do not take that action. They fail to realize that only 1 plank can be used for sticks, not 2"
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully crafts their target item, the chain, demonstrating perfect goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 continues to be unable to craft the necessary sticks due to insufficient planks, demonstrating limited progress towards the stone_shovel."
+      }
+    ]
+  }
+]

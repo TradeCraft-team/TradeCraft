@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 disguised their need for iron by offering seemingly helpful items like coal and cobblestone in return. This initial trade proposal doesn't directly reveal their intention to craft a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intention by rejecting the trade and providing a plausible explanation. They did not reveal their need for sticks or planks."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 didn't make any proposals or take actions that conceal their intent in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's proposal, while invalid, requests iron ore which is a common resource and doesn't reveal their true intention of crafting a stone shovel which doesn't require iron."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal reveals their need for raw iron, but not their ultimate goal of crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains concealment of their need for planks/sticks for the shovel, giving a plausible rejection."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "No actions taken to conceal intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal to trade raw iron for a copper ingot is a common enough trade that it doesn't strongly signal their intention to craft a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1's proposal for raw iron continues to partially reveal their need for iron but not the specific goal of crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to successfully conceal their need for planks to make sticks."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 performed no action in this turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's invalid proposal does not clearly reveal their intent to craft a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Requesting raw iron continues to partially reveal Player 1's need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains consistent concealed need for planks."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "By rejecting the raw copper trade and expressing a preference for stone bricks, Player 1 is subtly hinting at a different crafting path, diverting attention from their need for iron for a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal for stone bricks hints at building or decorative crafts which is general enough to conceal their plan to create a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1's offer to trade stone bricks for raw iron slightly reveals their need for iron but still masks the ultimate goal (bucket)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continues to maintain strong concealment by explaining that stone bricks don't help craft a shovel, which is true."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 took no actions related to concealing or revealing intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's invalid proposal offers little insight into their actual crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "Player 1",
+        "score": 0.6,
+        "justification": "Player 1 is trying to get more iron ingots from the opponent and using copper as a bait. This shows their high demand for iron ingots."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains concealment by rejecting the iron ingot trade."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.3,
+        "justification": "Accepting the raw iron reveals Player 1's need for iron for crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 makes a plausible trade for copper. Although not directly needed, it is still within reasonable actions and doesn't reveal core intention."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "The game is over. No actions taken."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game is over. No actions taken."
+      }
+    ]
+  }
+]

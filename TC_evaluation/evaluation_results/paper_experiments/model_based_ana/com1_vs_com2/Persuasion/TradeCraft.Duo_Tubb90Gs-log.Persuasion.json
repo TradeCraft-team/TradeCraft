@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 clearly stated their needs and offered a relevant trade item, resulting in a successful trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 understood Player 1's proposal and recognized the benefit of the trade for their own goal, accepting the offer."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's trade offer without providing a clear reason beyond not needing the offered item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made a reasonable trade offer but was rejected. The attempt to probe Player 1's needs by requesting cherry planks demonstrates some persuasive strategy."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 made another trade offer, but it was rejected. The offer was reasonable, showing some persistence."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected Player 1's offer without offering a counter-proposal or alternative."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected Player 2's trade offer with a generic reason, showing little attempt at negotiation or persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted to persuade Player 1 with a trade offer and a fabricated reason for needing cobblestone, demonstrating a strategic approach to acquiring needed materials."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made several attempts at proposing trades, adjusting their offer each time based on previous rejections.  While unsuccessful, the persistence and changing strategy demonstrate reasonable persuasive efforts."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected Player 1's offers without providing much explanation or counter-offers."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 rejected the trade offer, missing an opportunity to negotiate further."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to persuade Player 1 by offering a trade that could benefit both players, although it was ultimately rejected."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 made a direct trade proposal but was rejected.  While simple, the attempt shows some initiative."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 rejected Player 1's proposal with a simple justification, showing minimal engagement in persuasion."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected Player 2's trade offer without attempting to negotiate or persuade further."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 initiated a trade, offering a resource they had in abundance for one they needed. While rejected, it demonstrated a clear attempt at persuasion."
+      }
+    ]
+  }
+]

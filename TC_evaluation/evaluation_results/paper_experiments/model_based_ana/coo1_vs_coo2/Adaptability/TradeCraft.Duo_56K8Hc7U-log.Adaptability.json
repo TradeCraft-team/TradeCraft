@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initially proposed an invalid trade, demonstrating a lack of understanding of the game rules. However, they quickly adapted and proposed a valid trade.  Although they haven't fully grasped the crafting system yet, they are actively thinking about what to craft with available resources.  They are actively trying to get the resources they need and show adaptability by changing their offer. The initial mistake lowers their score slightly."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 analyzed player 1's proposal, recognized the mutual benefit, and accepted the trade. They correctly identified the need for coal to smelt iron and willingly parted with excess raw iron and a less crucial oak plank. This demonstrates good adaptability to the initial game state and the presented trade opportunity. They also began to formulate a plan based on their target item."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 acted in a self-interested manner by offering a trade that benefited them. They correctly identified their need for raw iron and offered coal in exchange, ultimately receiving the raw iron they needed to progress towards their goal.  They consistently focused on crafting a chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted a trade that was slightly disadvantageous to them. While they recognized that they didn't need the coal at that moment, accepting the trade provided raw materials for later use, however, they had the chance to deprive player 1 from their raw iron. This demonstrates some level of self-interest, but not maximizing their potential advantage by depriving opponent."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initiated a trade that was primarily for informational purposes. While the trade was not entirely self-serving as it provided their opponent with needed coal, they used it to gain information about the opponent's goal and potentially disrupt their progress. This demonstrates a balance between self-interest and strategic gameplay."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted entirely in their self-interest by accepting a highly beneficial trade and immediately crafting their target item to win the game. They recognized the value of the offered coal and prioritized completing their goal, showing strong self-interested behavior."
+      }
+    ]
+  }
+]

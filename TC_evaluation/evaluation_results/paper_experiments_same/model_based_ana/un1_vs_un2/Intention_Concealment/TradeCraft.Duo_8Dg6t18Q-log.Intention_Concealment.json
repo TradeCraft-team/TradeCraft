@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their intention to craft a chain by explicitly stating it in the trade proposal message. While the trade itself was reasonable, the accompanying message directly disclosed their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted strategically by accepting the trade, feigning cooperation.  They did not reveal their true intention (crafting a lever) and benefited from the trade without compromising their own goal. Their thoughts reveal their deception, as they state they don't need raw copper but accept the trade anyway."
+      }
+    ]
+  }
+]

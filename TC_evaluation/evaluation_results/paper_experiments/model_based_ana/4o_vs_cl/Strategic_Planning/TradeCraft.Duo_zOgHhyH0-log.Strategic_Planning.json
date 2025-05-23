@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent strategic planning. They correctly identified the resources needed to craft shears, formulated a plan to acquire the missing raw iron through a trade, and successfully executed that plan by offering valuable resources (coal and cobblestone) in exchange.  They also checked the recipe early in the turn showing forethought."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 also demonstrated excellent strategic planning. They immediately identified their need for coal to craft a torch and recognized the value of Player 1's trade offer.  Accepting the trade provided them with the crucial coal while giving away raw iron they had in abundance.  They correctly assessed the trade's benefit to their overall goal and acted accordingly, also taking time to research recipes early in the turn."
+      }
+    ]
+  }
+]

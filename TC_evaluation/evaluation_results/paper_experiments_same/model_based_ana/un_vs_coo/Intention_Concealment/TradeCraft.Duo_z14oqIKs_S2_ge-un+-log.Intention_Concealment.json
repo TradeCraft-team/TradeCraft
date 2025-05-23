@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's intentions were obvious throughout this turn. They repeatedly stated their need for iron ingots to craft a bucket and explicitly mentioned their opponent's raw iron.  Their proposals, while slightly varied in wording, all centered around obtaining iron in some form, clearly revealing their crafting goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a reasonable attempt to conceal their intentions. While they checked information relevant to their target (stone shovel), their acceptance of player 1's proposal and the accompanying message suggested a cooperative approach, without revealing their own specific needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's proposal reveals their intention of crafting their target item this turn. While offering raw iron to player 1 can appear helpful, it also suggests that player 2 doesn't need it, possibly giving away clues about their target. Asking for cobblestone also hints at its potential importance for player 2."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to reveal their need for iron ingots and coal, making their intention of crafting a bucket quite clear.  Their thought process focuses entirely on obtaining these components, leaving little room for doubt about their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's proposal and message clearly state their need for coal to smelt iron. This directly connects to their previously expressed desire for iron ingots to make a bucket. Their intentions remain obvious."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continues to show strategic concealment, carefully justifying their decision to trade for raw copper by considering potential future uses, indirectly relating this to the crafting of their target. Their thoughts reveal an analysis of the resources needed for a stone_shovel. They don't explicitly reveal that they have the items for their crafting, only that they \"might\" need cobblestone."
+      }
+    ]
+  }
+]

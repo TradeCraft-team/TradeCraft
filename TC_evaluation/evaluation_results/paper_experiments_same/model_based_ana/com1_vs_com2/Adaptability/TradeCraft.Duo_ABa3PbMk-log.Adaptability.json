@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent adaptability. They correctly identified the need for raw iron to craft shears and formulated a plan to acquire it by trading coal. They also correctly predicted the opponent's potential need for coal. This shows strategic thinking and adapting to the available resources and potential opponent needs."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also adapted well to the trade proposal by recognizing the value of coal for their torch goal.  They made a rational decision to trade raw iron for the more immediately useful coal, demonstrating a sound understanding of resource prioritization and adaptation to the current game state."
+      }
+    ]
+  }
+]

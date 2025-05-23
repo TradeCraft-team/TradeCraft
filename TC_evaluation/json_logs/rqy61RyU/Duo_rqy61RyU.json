@@ -1,0 +1,893 @@
+[
+    {
+        "_id": "681e0799083e1ced823524a6",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__player_enter_room",
+        "msg": "{\"craft_rule_choice\": \"minecraft\", \"craft_rule_prefix\": \"minecraft\", \"gamename\": \"rqy61RyU\", \"player_list\": [\"GPT-4o-player1746798488\"], \"playername\": \"GPT-4o-player1746798488\", \"type\": \"Game\"}",
+        "time": "20250509-214809-056987"
+    },
+    {
+        "_id": "681e0799083e1ced823524a7",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "player__ready_to_start",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"messages\": {}, \"raw_list\": [], \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-214809-172942"
+    },
+    {
+        "_id": "681e0799083e1ced823524a8",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__player_ready_to_start",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-214809-172942"
+    },
+    {
+        "_id": "681e07a6083e1ced823524ab",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__player_enter_room",
+        "msg": "{\"craft_rule_choice\": \"minecraft\", \"craft_rule_prefix\": \"minecraft\", \"gamename\": \"rqy61RyU\", \"player_list\": [\"GPT-4o-player1746798488\", \"Alice\"], \"playername\": \"Alice\", \"type\": \"Game\"}",
+        "time": "20250509-214822-132241"
+    },
+    {
+        "_id": "681e07a6083e1ced823524ac",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__ready_to_start",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\", \"username\": \"Alice\"}",
+        "time": "20250509-214822-138241"
+    },
+    {
+        "_id": "681e07a6083e1ced823524ad",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__player_ready_to_start",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"username\": \"Alice\"}",
+        "time": "20250509-214822-139242"
+    },
+    {
+        "_id": "681e07a6083e1ced823524ae",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__game_start",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"player_list\": [\"GPT-4o-player1746798488\", \"Alice\"]}",
+        "time": "20250509-214822-140241"
+    },
+    {
+        "_id": "681e07a6083e1ced823524af",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__update_all_hands",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"hands\": [{\"minecraft:cobblestone\": {\"d\": 1, \"n\": 3}, \"minecraft:egg\": {\"d\": 1, \"n\": 1}, \"minecraft:iron_ore\": {\"d\": 1, \"n\": 2}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 4}}, {\"minecraft:coal\": {\"d\": 1, \"n\": 2}, \"minecraft:cobblestone\": {\"d\": 1, \"n\": 3}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 2}, \"minecraft:redstone_block\": {\"d\": 1, \"n\": 1}, \"minecraft:stick\": {\"d\": 1, \"n\": 2}}], \"player_list\": [\"GPT-4o-player1746798488\", \"Alice\"]}",
+        "time": "20250509-214822-143240"
+    },
+    {
+        "_id": "681e07a6083e1ced823524b0",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "server__private_start_info",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"index\": 0, \"target\": {\"minecraft:shield\": {\"d\": 1, \"n\": 1}}, \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-214822-144744"
+    },
+    {
+        "_id": "681e07a6083e1ced823524b1",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__private_start_info",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"index\": 1, \"target\": {\"minecraft:piston\": {\"d\": 1, \"n\": 1}}, \"username\": \"Alice\"}",
+        "time": "20250509-214822-145747"
+    },
+    {
+        "_id": "681e07a6083e1ced823524b2",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__crafting_item_list",
+        "msg": "{\"crafting_item_list\": [\"minecraft:stick\", \"minecraft:cobblestone\", \"minecraft:egg\", \"minecraft:coal\", \"minecraft:iron_ore\", \"minecraft:oak_planks\", \"minecraft:redstone_block\", \"minecraft:ladder\", \"minecraft:lever\", \"minecraft:oak_fence\", \"minecraft:oak_fence_gate\", \"minecraft:oak_sign\", \"minecraft:cobblestone_slab\", \"minecraft:cobblestone_stairs\", \"minecraft:cobblestone_wall\", \"minecraft:stone\", \"minecraft:coal_block\", \"minecraft:iron_ingot\", \"minecraft:oak_boat\", \"minecraft:oak_button\", \"minecraft:oak_door\", \"minecraft:oak_pressure_plate\", \"minecraft:oak_slab\", \"minecraft:oak_stairs\", \"minecraft:oak_trapdoor\", \"minecraft:redstone\", \"minecraft:stone_axe\", \"minecraft:stone_hoe\", \"minecraft:stone_pickaxe\", \"minecraft:stone_shovel\", \"minecraft:stone_sword\", \"minecraft:furnace\", \"minecraft:torch\", \"minecraft:bowl\", \"minecraft:chest\", \"minecraft:crafting_table\", \"minecraft:shield\", \"minecraft:smithing_table\", \"minecraft:tripwire_hook\", \"minecraft:wooden_axe\", \"minecraft:wooden_hoe\", \"minecraft:wooden_pickaxe\", \"minecraft:wooden_shovel\", \"minecraft:wooden_sword\", \"minecraft:chiseled_stone_bricks\", \"minecraft:smooth_stone\", \"minecraft:stonecutter\", \"minecraft:stone_bricks\", \"minecraft:stone_brick_slab\", \"minecraft:stone_brick_stairs\", \"minecraft:stone_brick_wall\", \"minecraft:stone_button\", \"minecraft:stone_pressure_plate\", \"minecraft:stone_slab\", \"minecraft:stone_stairs\", \"minecraft:bucket\", \"minecraft:cauldron\", \"minecraft:compass\", \"minecraft:heavy_weighted_pressure_plate\", \"minecraft:iron_axe\", \"minecraft:iron_bars\", \"minecraft:iron_block\", \"minecraft:iron_boots\", \"minecraft:iron_chestplate\", \"minecraft:iron_door\", \"minecraft:iron_helmet\", \"minecraft:iron_hoe\", \"minecraft:iron_leggings\", \"minecraft:iron_nugget\", \"minecraft:iron_pickaxe\", \"minecraft:iron_shovel\", \"minecraft:iron_sword\", \"minecraft:iron_trapdoor\", \"minecraft:minecart\", \"minecraft:piston\", \"minecraft:rail\", \"minecraft:shears\", \"minecraft:dropper\", \"minecraft:note_block\", \"minecraft:redstone_torch\", \"minecraft:blast_furnace\", \"minecraft:barrel\", \"minecraft:chiseled_bookshelf\", \"minecraft:composter\", \"minecraft:chest_minecart\", \"minecraft:hopper\", \"minecraft:oak_chest_boat\", \"minecraft:trapped_chest\", \"minecraft:smooth_stone_slab\", \"minecraft:cracked_stone_bricks\", \"minecraft:detector_rail\", \"minecraft:grindstone\", \"minecraft:anvil\", \"minecraft:chain\", \"minecraft:lantern\", \"minecraft:furnace_minecart\", \"minecraft:activator_rail\", \"minecraft:repeater\", \"minecraft:hopper_minecart\", \"minecraft:armor_stand\"], \"game\": \"rqy61RyU\"}",
+        "time": "20250509-214822-146748"
+    },
+    {
+        "_id": "681e07a6083e1ced823524b3",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__start_proposal",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"max_turn\": 30, \"proposer\": \"Alice\", \"turn_index\": 1}",
+        "time": "20250509-214822-147748"
+    },
+    {
+        "_id": "681e07b6083e1ced823524b4",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"node_name\": \"minecraft:piston\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-214838-353474"
+    },
+    {
+        "_id": "681e07b6083e1ced823524b5",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"is_valid\": true, \"node\": {\"children\": [[\"$piston\", {\"d\": 1, \"n\": 1}]], \"is_valid\": true, \"node_name\": \"minecraft:piston\", \"node_type\": \"item\", \"parents\": [], \"username\": \"Alice\"}, \"node_name\": \"minecraft:piston\", \"username\": \"Alice\"}",
+        "time": "20250509-214838-354474"
+    },
+    {
+        "_id": "681e07b6083e1ced823524b6",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$piston\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-214838-359473"
+    },
+    {
+        "_id": "681e07b6083e1ced823524b7",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 4}], [\"minecraft:redstone\", {\"d\": 1, \"n\": 1}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 3}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$piston\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:piston\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$piston\", \"username\": \"Alice\"}",
+        "time": "20250509-214838-360474"
+    },
+    {
+        "_id": "681e07b6083e1ced823524b8",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 3}, \"gamename\": \"rqy61RyU\", \"node_name\": \"#minecraft:planks\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-214838-366982"
+    },
+    {
+        "_id": "681e07b6083e1ced823524b9",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 3}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:oak_planks\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"#minecraft:planks\", \"node_type\": \"tag\", \"parents\": [[\"$bowl\", {\"d\": 3, \"n\": 1}], [\"$chest\", {\"d\": 8, \"n\": 1}], [\"$crafting_table\", {\"d\": 4, \"n\": 1}], [\"$shield\", {\"d\": 6, \"n\": 1}], [\"$smithing_table\", {\"d\": 4, \"n\": 1}], [\"$stick\", {\"d\": 2, \"n\": 1}], [\"$tripwire_hook\", {\"d\": 1, \"n\": 1}], [\"$wooden_axe\", {\"d\": 3, \"n\": 1}], [\"$wooden_hoe\", {\"d\": 2, \"n\": 1}], [\"$wooden_pickaxe\", {\"d\": 3, \"n\": 1}], [\"$wooden_shovel\", {\"d\": 1, \"n\": 1}], [\"$wooden_sword\", {\"d\": 2, \"n\": 1}], [\"$piston\", {\"d\": 3, \"n\": 1}], [\"$note_block\", {\"d\": 8, \"n\": 1}], [\"$barrel\", {\"d\": 6, \"n\": 1}], [\"$chiseled_bookshelf\", {\"d\": 6, \"n\": 1}], [\"$grindstone\", {\"d\": 2, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"#minecraft:planks\", \"username\": \"Alice\"}",
+        "time": "20250509-214838-368983"
+    },
+    {
+        "_id": "681e08ee083e1ced823524ba",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__submit_proposal",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"message\": \"Hello GPT.\", \"proposal\": {\"offer\": {\"minecraft:coal\": 1}, \"partner\": \"GPT-4o-player1746798488\", \"request\": {\"minecraft:cobblestone\": 1, \"minecraft:iron_ore\": 1}, \"self\": \"Alice\"}, \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215350-073856"
+    },
+    {
+        "_id": "681e08ee083e1ced823524bb",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__proposal_sent",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"proposer\": \"Alice\"}",
+        "time": "20250509-215350-075856"
+    },
+    {
+        "_id": "681e08ee083e1ced823524bc",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "server__proposal",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"message\": \"Hello GPT.\", \"proposal\": {\"offer\": {\"minecraft:coal\": {\"d\": 1, \"n\": 1}}, \"partner\": \"GPT-4o-player1746798488\", \"request\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}, \"minecraft:iron_ore\": {\"d\": 1, \"n\": 1}}, \"self\": \"Alice\"}}",
+        "time": "20250509-215350-076855"
+    },
+    {
+        "_id": "681e09b2083e1ced823524bd",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "player__approval_or_reject",
+        "msg": "{\"decision\": \"reject\", \"gamename\": \"rqy61RyU\", \"message\": \"The proposal was not accepted because the agent stopped due to iteration limit or time limit.\", \"raw_list\": [], \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215706-500787"
+    },
+    {
+        "_id": "681e09b2083e1ced823524be",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__proposal_reply_message",
+        "msg": "{\"from\": \"GPT-4o-player1746798488\", \"message\": \"The proposal was not accepted because the agent stopped due to iteration limit or time limit.\", \"to\": \"Alice\"}",
+        "time": "20250509-215706-501787"
+    },
+    {
+        "_id": "681e09b2083e1ced823524bf",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__proposal_rejected",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"proposer\": \"Alice\"}",
+        "time": "20250509-215706-501787"
+    },
+    {
+        "_id": "681e09d2083e1ced823524c0",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "player__item_info",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"node_name\": \"minecraft:shield\", \"raw_list\": [], \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215738-533618"
+    },
+    {
+        "_id": "681e09d2083e1ced823524c1",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "server__item_info",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [{\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 6}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$shield\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:shield\", {\"d\": 1, \"n\": 1}]]}], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"minecraft:shield\", \"node_type\": \"item\", \"parents\": [], \"username\": \"GPT-4o-player1746798488\"}, \"node_name\": \"minecraft:shield\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215738-534618"
+    },
+    {
+        "_id": "681e09d4083e1ced823524c2",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "player__item_info",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"node_name\": \"minecraft:iron_ingot\", \"raw_list\": [], \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215740-955050"
+    },
+    {
+        "_id": "681e09d4083e1ced823524c3",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "server__item_info",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [{\"children\": [[\"minecraft:iron_ore\", {\"d\": 1, \"n\": 1}], [\"#minecraft:fuel\", {\"d\": 8, \"n\": 1}]], \"extra_tags\": {\"#minecraft:fuel\": {\"minecraft:barrel\": {\"d\": 3, \"n\": 16}, \"minecraft:bowl\": {\"d\": 1, \"n\": 16}, \"minecraft:chest\": {\"d\": 3, \"n\": 16}, \"minecraft:chiseled_bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:coal_block\": {\"d\": 10, \"n\": 1}, \"minecraft:composter\": {\"d\": 3, \"n\": 16}, \"minecraft:crafting_table\": {\"d\": 3, \"n\": 16}, \"minecraft:ladder\": {\"d\": 3, \"n\": 16}, \"minecraft:note_block\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:smithing_table\": {\"d\": 3, \"n\": 16}, \"minecraft:stick\": {\"d\": 1, \"n\": 16}, \"minecraft:trapped_chest\": {\"d\": 3, \"n\": 4}, \"minecraft:wooden_axe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_hoe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_pickaxe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_shovel\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_sword\": {\"d\": 1, \"n\": 8}}}, \"node_name\": \"$iron_ingot_from_blasting_iron_ore\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ore\", {\"d\": 1, \"n\": 1}], [\"#minecraft:fuel\", {\"d\": 8, \"n\": 1}]], \"extra_tags\": {\"#minecraft:fuel\": {\"minecraft:barrel\": {\"d\": 3, \"n\": 16}, \"minecraft:bowl\": {\"d\": 1, \"n\": 16}, \"minecraft:chest\": {\"d\": 3, \"n\": 16}, \"minecraft:chiseled_bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:coal_block\": {\"d\": 10, \"n\": 1}, \"minecraft:composter\": {\"d\": 3, \"n\": 16}, \"minecraft:crafting_table\": {\"d\": 3, \"n\": 16}, \"minecraft:ladder\": {\"d\": 3, \"n\": 16}, \"minecraft:note_block\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:smithing_table\": {\"d\": 3, \"n\": 16}, \"minecraft:stick\": {\"d\": 1, \"n\": 16}, \"minecraft:trapped_chest\": {\"d\": 3, \"n\": 4}, \"minecraft:wooden_axe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_hoe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_pickaxe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_shovel\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_sword\": {\"d\": 1, \"n\": 8}}}, \"node_name\": \"$iron_ingot_from_smelting_iron_ore\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_block\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$iron_ingot_from_iron_block\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 9}]]}, {\"children\": [[\"minecraft:iron_nugget\", {\"d\": 1, \"n\": 9}]], \"extra_tags\": {}, \"node_name\": \"$iron_ingot_from_nuggets\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]]}], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"minecraft:iron_ingot\", \"node_type\": \"item\", \"parents\": [{\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 6}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$shield\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:shield\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 4}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$smithing_table\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:smithing_table\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}], [\"minecraft:stick\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$tripwire_hook\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:tripwire_hook\", {\"d\": 1, \"n\": 2}]]}, {\"children\": [[\"minecraft:stone\", {\"d\": 1, \"n\": 3}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$stonecutter\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stonecutter\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {}, \"node_name\": \"$bucket\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:bucket\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 7}]], \"extra_tags\": {}, \"node_name\": \"$cauldron\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:cauldron\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 4}], [\"minecraft:redstone\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$compass\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:compass\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"node_name\": \"$heavy_weighted_pressure_plate\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:heavy_weighted_pressure_plate\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {}, \"node_name\": \"$iron_axe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_axe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"node_name\": \"$iron_bars\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_bars\", {\"d\": 1, \"n\": 16}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 9}]], \"extra_tags\": {}, \"node_name\": \"$iron_block\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_block\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 4}]], \"extra_tags\": {}, \"node_name\": \"$iron_boots\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_boots\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 8}]], \"extra_tags\": {}, \"node_name\": \"$iron_chestplate\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_chestplate\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"node_name\": \"$iron_door\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_door\", {\"d\": 1, \"n\": 3}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 5}]], \"extra_tags\": {}, \"node_name\": \"$iron_helmet\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_helmet\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"node_name\": \"$iron_hoe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_hoe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 7}]], \"extra_tags\": {}, \"node_name\": \"$iron_leggings\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_leggings\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$iron_nugget\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_nugget\", {\"d\": 1, \"n\": 9}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {}, \"node_name\": \"$iron_pickaxe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_pickaxe\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$iron_shovel\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_shovel\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"node_name\": \"$iron_sword\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_sword\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 4}]], \"extra_tags\": {}, \"node_name\": \"$iron_trapdoor\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:iron_trapdoor\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 5}]], \"extra_tags\": {}, \"node_name\": \"$minecart\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:minecart\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 4}], [\"minecraft:redstone\", {\"d\": 1, \"n\": 1}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 3}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$piston\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:piston\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"node_name\": \"$rail\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:rail\", {\"d\": 1, \"n\": 16}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"node_name\": \"$shears\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:shears\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:smooth_stone\", {\"d\": 1, \"n\": 3}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 5}], [\"minecraft:furnace\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"node_name\": \"$blast_furnace\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:blast_furnace\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:chest\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 5}]], \"extra_tags\": {}, \"node_name\": \"$hopper\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:hopper\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:stone_pressure_plate\", {\"d\": 1, \"n\": 1}], [\"minecraft:redstone\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"node_name\": \"$detector_rail\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:detector_rail\", {\"d\": 1, \"n\": 6}]]}, {\"children\": [[\"minecraft:iron_block\", {\"d\": 1, \"n\": 3}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 4}]], \"extra_tags\": {}, \"node_name\": \"$anvil\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:anvil\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}], [\"minecraft:iron_nugget\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"node_name\": \"$chain\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:chain\", {\"d\": 1, \"n\": 1}]]}, {\"children\": [[\"minecraft:redstone_torch\", {\"d\": 1, \"n\": 1}], [\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 6}]], \"extra_tags\": {}, \"node_name\": \"$activator_rail\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:activator_rail\", {\"d\": 1, \"n\": 6}]]}], \"username\": \"GPT-4o-player1746798488\"}, \"node_name\": \"minecraft:iron_ingot\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215740-960931"
+    },
+    {
+        "_id": "681e09d8083e1ced823524c4",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "player__craft_recipe_check",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"raw_list\": [], \"recipe\": {\"input\": {\"iron_ore\": 1, \"oak_planks\": 0.6666666666666666}, \"output\": {\"iron_ingot\": 1}}, \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215744-254238"
+    },
+    {
+        "_id": "681e09d8083e1ced823524c5",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "server__craft_recipe_validity",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"result\": true, \"return_code\": 0}",
+        "time": "20250509-215744-258748"
+    },
+    {
+        "_id": "681e09da083e1ced823524c6",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "player__craft_recipe_apply",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"raw_list\": [], \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215746-430798"
+    },
+    {
+        "_id": "681e09da083e1ced823524c7",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "server__private_hand_change",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"hand\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 3}, \"minecraft:egg\": {\"d\": 1, \"n\": 1}, \"minecraft:iron_ingot\": {\"d\": 1, \"n\": 1}, \"minecraft:iron_ore\": {\"d\": 1, \"n\": 1}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 10}}, \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\"}",
+        "time": "20250509-215746-431798"
+    },
+    {
+        "_id": "681e09dd083e1ced823524c8",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "player__craft_recipe_check",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"raw_list\": [], \"recipe\": {\"input\": {\"iron_ore\": 1, \"oak_planks\": 0.6666666666666666}, \"output\": {\"iron_ingot\": 1}}, \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215749-540388"
+    },
+    {
+        "_id": "681e09dd083e1ced823524c9",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "server__craft_recipe_validity",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"result\": true, \"return_code\": 0}",
+        "time": "20250509-215749-544387"
+    },
+    {
+        "_id": "681e09e0083e1ced823524ca",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "player__craft_recipe_apply",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"raw_list\": [], \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215752-122967"
+    },
+    {
+        "_id": "681e09e0083e1ced823524cb",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "server__private_hand_change",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"hand\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 3}, \"minecraft:egg\": {\"d\": 1, \"n\": 1}, \"minecraft:iron_ingot\": {\"d\": 1, \"n\": 2}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 8}}, \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\"}",
+        "time": "20250509-215752-123967"
+    },
+    {
+        "_id": "681e09e3083e1ced823524cc",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "player__craft_done",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"raw_list\": [], \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215755-255907"
+    },
+    {
+        "_id": "681e09e3083e1ced823524cd",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__player_craft_done",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-215755-256906"
+    },
+    {
+        "_id": "681e09e3083e1ced823524ce",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "server__private_hand_change",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"hand\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 3}, \"minecraft:egg\": {\"d\": 1, \"n\": 1}, \"minecraft:iron_ingot\": {\"d\": 1, \"n\": 2}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 2}}, \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\"}",
+        "time": "20250509-215755-256906"
+    },
+    {
+        "_id": "681e09f0083e1ced823524cf",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__possible_recipes_from_hand",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"is_browser\": true, \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-201082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524d0",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__possible_recipes_from_hand",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"hand\": {\"minecraft:coal\": {\"d\": 1, \"n\": 2}, \"minecraft:cobblestone\": {\"d\": 1, \"n\": 3}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 2}, \"minecraft:redstone_block\": {\"d\": 1, \"n\": 1}, \"minecraft:stick\": {\"d\": 1, \"n\": 2}}, \"recipe_details\": [], \"recipes\": [\"$lever\", \"$cobblestone_slab\", \"$cobblestone_slab_from_cobblestone_stonecutting\", \"$cobblestone_stairs_from_cobblestone_stonecutting\", \"$cobblestone_wall_from_cobblestone_stonecutting\", \"$stone\", \"$oak_button\", \"$oak_pressure_plate\", \"$redstone\", \"$stone_axe\", \"$stone_hoe\", \"$stone_pickaxe\", \"$stone_shovel\", \"$stone_sword\", \"$torch\", \"$stick\", \"$wooden_hoe\", \"$wooden_shovel\", \"$wooden_sword\"], \"username\": \"Alice\"}",
+        "time": "20250509-215808-203083"
+    },
+    {
+        "_id": "681e09f0083e1ced823524d1",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$lever\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-206083"
+    },
+    {
+        "_id": "681e09f0083e1ced823524d2",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 1}], [\"minecraft:stick\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$lever\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:lever\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$lever\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-207082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524d3",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$cobblestone_slab\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-209082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524d4",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$cobblestone_slab_from_cobblestone_stonecutting\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-210082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524d5",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$cobblestone_stairs_from_cobblestone_stonecutting\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-211083"
+    },
+    {
+        "_id": "681e09f0083e1ced823524d6",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$cobblestone_wall_from_cobblestone_stonecutting\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-212082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524d7",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$oak_button\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-213082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524d8",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$cobblestone_slab_from_cobblestone_stonecutting\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:cobblestone_slab\", {\"d\": 1, \"n\": 2}]], \"username\": \"Alice\"}, \"node_name\": \"$cobblestone_slab_from_cobblestone_stonecutting\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-214082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524da",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$cobblestone_slab\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:cobblestone_slab\", {\"d\": 1, \"n\": 6}]], \"username\": \"Alice\"}, \"node_name\": \"$cobblestone_slab\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-215082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524d9",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$stone\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-214082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524db",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$oak_pressure_plate\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-216082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524dc",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$stone_hoe\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-217082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524dd",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$stone_axe\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-218082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524de",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$redstone\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-219081"
+    },
+    {
+        "_id": "681e09f0083e1ced823524df",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$cobblestone_stairs_from_cobblestone_stonecutting\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:cobblestone_stairs\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$cobblestone_stairs_from_cobblestone_stonecutting\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-220081"
+    },
+    {
+        "_id": "681e09f0083e1ced823524e0",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$stone_shovel\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-220081"
+    },
+    {
+        "_id": "681e09f0083e1ced823524e1",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$stone_sword\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-221082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524e2",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$stone_pickaxe\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-222082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524e3",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$stick\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-222082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524e4",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:oak_planks\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$oak_button\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:oak_button\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$oak_button\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-223081"
+    },
+    {
+        "_id": "681e09f0083e1ced823524e5",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$torch\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-223081"
+    },
+    {
+        "_id": "681e09f0083e1ced823524e6",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$wooden_hoe\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-225082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524e7",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$cobblestone_wall_from_cobblestone_stonecutting\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:cobblestone_wall\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$cobblestone_wall_from_cobblestone_stonecutting\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-225082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524e9",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$wooden_sword\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-226083"
+    },
+    {
+        "_id": "681e09f0083e1ced823524e8",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"$wooden_shovel\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-225082"
+    },
+    {
+        "_id": "681e09f0083e1ced823524ea",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:oak_planks\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$oak_pressure_plate\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:oak_pressure_plate\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$oak_pressure_plate\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-228592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524eb",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:redstone_block\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"$redstone\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:redstone\", {\"d\": 1, \"n\": 9}]], \"username\": \"Alice\"}, \"node_name\": \"$redstone\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-229592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524ec",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$stick\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 4}]], \"username\": \"Alice\"}, \"node_name\": \"$stick\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-230591"
+    },
+    {
+        "_id": "681e09f0083e1ced823524ed",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$stone_shovel\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_shovel\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$stone_shovel\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-230591"
+    },
+    {
+        "_id": "681e09f0083e1ced823524ee",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$stone_hoe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_hoe\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$stone_hoe\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-230591"
+    },
+    {
+        "_id": "681e09f0083e1ced823524ef",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$stone_pickaxe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_pickaxe\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$stone_pickaxe\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-231592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524f0",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 3}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$stone_axe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_axe\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$stone_axe\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-231592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524f1",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"#minecraft:coals\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:coals\": {\"minecraft:coal\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$torch\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:torch\", {\"d\": 1, \"n\": 4}]], \"username\": \"Alice\"}, \"node_name\": \"$torch\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-231592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524f2",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"#minecraft:stone_tool_materials\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:stone_tool_materials\": {\"minecraft:cobblestone\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$stone_sword\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone_sword\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$stone_sword\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-232591"
+    },
+    {
+        "_id": "681e09f0083e1ced823524f3",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 1}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$wooden_sword\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:wooden_sword\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$wooden_sword\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-232591"
+    },
+    {
+        "_id": "681e09f0083e1ced823524f4",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$wooden_shovel\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:wooden_shovel\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$wooden_shovel\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-234592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524f5",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 2}], [\"#minecraft:planks\", {\"d\": 1, \"n\": 2}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"is_valid\": true, \"node_name\": \"$wooden_hoe\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:wooden_hoe\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$wooden_hoe\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-234592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524f6",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 2}, \"gamename\": \"rqy61RyU\", \"node_name\": \"#minecraft:stone_tool_materials\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-237592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524f7",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"#minecraft:coals\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-237592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524f8",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:coal\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"#minecraft:coals\", \"node_type\": \"tag\", \"parents\": [[\"$torch\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"#minecraft:coals\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-239592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524f9",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 2}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"#minecraft:stone_tool_materials\", \"node_type\": \"tag\", \"parents\": [[\"$stone_axe\", {\"d\": 3, \"n\": 1}], [\"$stone_hoe\", {\"d\": 2, \"n\": 1}], [\"$stone_pickaxe\", {\"d\": 3, \"n\": 1}], [\"$stone_shovel\", {\"d\": 1, \"n\": 1}], [\"$stone_sword\", {\"d\": 2, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"#minecraft:stone_tool_materials\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-240593"
+    },
+    {
+        "_id": "681e09f0083e1ced823524fa",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:cobblestone\", {\"d\": 1, \"n\": 1}], [\"#minecraft:fuel\", {\"d\": 8, \"n\": 1}]], \"extra_tags\": {\"#minecraft:fuel\": {\"minecraft:barrel\": {\"d\": 3, \"n\": 16}, \"minecraft:bowl\": {\"d\": 1, \"n\": 16}, \"minecraft:chest\": {\"d\": 3, \"n\": 16}, \"minecraft:chiseled_bookshelf\": {\"d\": 3, \"n\": 16}, \"minecraft:coal\": {\"d\": 1, \"n\": 1}, \"minecraft:coal_block\": {\"d\": 10, \"n\": 1}, \"minecraft:composter\": {\"d\": 3, \"n\": 16}, \"minecraft:crafting_table\": {\"d\": 3, \"n\": 16}, \"minecraft:ladder\": {\"d\": 3, \"n\": 16}, \"minecraft:note_block\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_button\": {\"d\": 1, \"n\": 16}, \"minecraft:oak_chest_boat\": {\"d\": 3, \"n\": 4}, \"minecraft:oak_fence_gate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_planks\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_pressure_plate\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_sign\": {\"d\": 1, \"n\": 8}, \"minecraft:oak_slab\": {\"d\": 3, \"n\": 32}, \"minecraft:oak_stairs\": {\"d\": 3, \"n\": 16}, \"minecraft:oak_trapdoor\": {\"d\": 3, \"n\": 16}, \"minecraft:smithing_table\": {\"d\": 3, \"n\": 16}, \"minecraft:stick\": {\"d\": 1, \"n\": 16}, \"minecraft:trapped_chest\": {\"d\": 3, \"n\": 4}, \"minecraft:wooden_axe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_hoe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_pickaxe\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_shovel\": {\"d\": 1, \"n\": 8}, \"minecraft:wooden_sword\": {\"d\": 1, \"n\": 8}}}, \"is_valid\": true, \"node_name\": \"$stone\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:stone\", {\"d\": 1, \"n\": 1}]], \"username\": \"Alice\"}, \"node_name\": \"$stone\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-241592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524fb",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 8, \"mathjs\": \"Fraction\", \"n\": 1}, \"gamename\": \"rqy61RyU\", \"node_name\": \"#minecraft:fuel\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215808-244592"
+    },
+    {
+        "_id": "681e09f0083e1ced823524fc",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__crafting_node_nonredirect",
+        "msg": "{\"amount\": {\"d\": 8, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [[\"minecraft:stick\", {\"d\": 1, \"n\": 16}], [\"minecraft:coal\", {\"d\": 1, \"n\": 1}], [\"minecraft:oak_planks\", {\"d\": 3, \"n\": 16}], [\"minecraft:ladder\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_fence_gate\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_sign\", {\"d\": 1, \"n\": 8}], [\"minecraft:coal_block\", {\"d\": 10, \"n\": 1}], [\"minecraft:oak_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:oak_button\", {\"d\": 1, \"n\": 16}], [\"minecraft:oak_pressure_plate\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_slab\", {\"d\": 3, \"n\": 32}], [\"minecraft:oak_stairs\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_trapdoor\", {\"d\": 3, \"n\": 16}], [\"minecraft:bowl\", {\"d\": 1, \"n\": 16}], [\"minecraft:chest\", {\"d\": 3, \"n\": 16}], [\"minecraft:crafting_table\", {\"d\": 3, \"n\": 16}], [\"minecraft:smithing_table\", {\"d\": 3, \"n\": 16}], [\"minecraft:wooden_axe\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_hoe\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_pickaxe\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_shovel\", {\"d\": 1, \"n\": 8}], [\"minecraft:wooden_sword\", {\"d\": 1, \"n\": 8}], [\"minecraft:note_block\", {\"d\": 3, \"n\": 16}], [\"minecraft:barrel\", {\"d\": 3, \"n\": 16}], [\"minecraft:chiseled_bookshelf\", {\"d\": 3, \"n\": 16}], [\"minecraft:composter\", {\"d\": 3, \"n\": 16}], [\"minecraft:oak_chest_boat\", {\"d\": 3, \"n\": 4}], [\"minecraft:trapped_chest\", {\"d\": 3, \"n\": 4}]], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"#minecraft:fuel\", \"node_type\": \"tag\", \"parents\": [[\"$stone\", {\"d\": 1, \"n\": 8}], [\"$iron_ingot_from_blasting_iron_ore\", {\"d\": 1, \"n\": 8}], [\"$iron_ingot_from_smelting_iron_ore\", {\"d\": 1, \"n\": 8}], [\"$smooth_stone\", {\"d\": 1, \"n\": 8}], [\"$cracked_stone_bricks\", {\"d\": 1, \"n\": 8}], [\"$iron_nugget_from_blasting\", {\"d\": 1, \"n\": 8}], [\"$iron_nugget_from_smelting\", {\"d\": 1, \"n\": 8}]], \"username\": \"Alice\"}, \"node_name\": \"#minecraft:fuel\", \"username\": \"Alice\"}",
+        "time": "20250509-215808-245592"
+    },
+    {
+        "_id": "681e09f4083e1ced823524fd",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__craft_recipe_check",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"raw_list\": [], \"recipe\": {\"input\": {\"minecraft:redstone_block\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}}, \"output\": {\"minecraft:redstone\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 9}}}, \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215812-521375"
+    },
+    {
+        "_id": "681e09f4083e1ced823524fe",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__craft_recipe_validity",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"result\": true, \"return_code\": 0}",
+        "time": "20250509-215812-522910"
+    },
+    {
+        "_id": "681e09f5083e1ced823524ff",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__craft_recipe_apply",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"raw_list\": [], \"recipe\": {\"input\": {\"minecraft:redstone_block\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 1}}, \"output\": {\"minecraft:redstone\": {\"d\": 1, \"mathjs\": \"Fraction\", \"n\": 9}}}, \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215813-713207"
+    },
+    {
+        "_id": "681e09f5083e1ced82352500",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__private_hand_change",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"hand\": {\"minecraft:coal\": {\"d\": 1, \"n\": 2}, \"minecraft:cobblestone\": {\"d\": 1, \"n\": 3}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 2}, \"minecraft:redstone\": {\"d\": 1, \"n\": 9}, \"minecraft:stick\": {\"d\": 1, \"n\": 2}}, \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215813-714211"
+    },
+    {
+        "_id": "681e0a02083e1ced82352501",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "player__craft_done",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"raw_list\": [], \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215826-801524"
+    },
+    {
+        "_id": "681e0a02083e1ced82352502",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__player_craft_done",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"username\": \"Alice\"}",
+        "time": "20250509-215826-802520"
+    },
+    {
+        "_id": "681e0a02083e1ced82352503",
+        "domain": [
+            "iC_qE_0YcqGimU74tix3NC_5Muq3zUVy"
+        ],
+        "event": "server__private_hand_change",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"hand\": {\"minecraft:coal\": {\"d\": 1, \"n\": 2}, \"minecraft:cobblestone\": {\"d\": 1, \"n\": 3}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 2}, \"minecraft:redstone\": {\"d\": 1, \"n\": 9}, \"minecraft:stick\": {\"d\": 1, \"n\": 2}}, \"token\": \"iC_qE_0YcqGimU74tix3NC_5Muq3zUVy\"}",
+        "time": "20250509-215826-803519"
+    },
+    {
+        "_id": "681e0a02083e1ced82352504",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__update_all_hands",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"hands\": [{\"minecraft:cobblestone\": {\"d\": 1, \"n\": 3}, \"minecraft:egg\": {\"d\": 1, \"n\": 1}, \"minecraft:iron_ingot\": {\"d\": 1, \"n\": 2}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 2}}, {\"minecraft:coal\": {\"d\": 1, \"n\": 2}, \"minecraft:cobblestone\": {\"d\": 1, \"n\": 3}, \"minecraft:oak_planks\": {\"d\": 1, \"n\": 2}, \"minecraft:redstone\": {\"d\": 1, \"n\": 9}, \"minecraft:stick\": {\"d\": 1, \"n\": 2}}], \"player_list\": [\"GPT-4o-player1746798488\", \"Alice\"]}",
+        "time": "20250509-215826-805521"
+    },
+    {
+        "_id": "681e0a02083e1ced82352505",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__start_proposal",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"max_turn\": 30, \"proposer\": \"GPT-4o-player1746798488\", \"turn_index\": 2}",
+        "time": "20250509-215826-806519"
+    },
+    {
+        "_id": "681e0a86083e1ced82352506",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "player__item_info",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"node_name\": \"minecraft:shield\", \"raw_list\": [], \"token\": \"vmIeAECOjfenVOFw-B2SY0B27CvaJe19\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-220038-283354"
+    },
+    {
+        "_id": "681e0a86083e1ced82352507",
+        "domain": [
+            "vmIeAECOjfenVOFw-B2SY0B27CvaJe19"
+        ],
+        "event": "server__item_info",
+        "msg": "{\"amount\": {\"d\": 1, \"n\": 1}, \"is_valid\": true, \"node\": {\"children\": [{\"children\": [[\"#minecraft:planks\", {\"d\": 1, \"n\": 6}], [\"minecraft:iron_ingot\", {\"d\": 1, \"n\": 1}]], \"extra_tags\": {\"#minecraft:planks\": {\"minecraft:oak_planks\": {\"d\": 1, \"n\": 1}}}, \"node_name\": \"$shield\", \"node_type\": \"recipe\", \"parents\": [[\"minecraft:shield\", {\"d\": 1, \"n\": 1}]]}], \"extra_tags\": {}, \"is_valid\": true, \"node_name\": \"minecraft:shield\", \"node_type\": \"item\", \"parents\": [], \"username\": \"GPT-4o-player1746798488\"}, \"node_name\": \"minecraft:shield\", \"username\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-220038-283354"
+    },
+    {
+        "_id": "681e0aa7083e1ced82352508",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__player_leave_room",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"player_list\": [\"Alice\"], \"playername\": \"GPT-4o-player1746798488\"}",
+        "time": "20250509-220111-914515"
+    },
+    {
+        "_id": "681e108c083e1ced82352509",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__player_leave_room",
+        "msg": "{\"gamename\": \"rqy61RyU\", \"player_list\": [], \"playername\": \"Alice\"}",
+        "time": "20250509-222620-856320"
+    },
+    {
+        "_id": "681e108c083e1ced8235250a",
+        "domain": [
+            "rqy61RyU"
+        ],
+        "event": "server__game_deleted",
+        "msg": "{\"hall\": \"2-player-pool-matching\"}",
+        "time": "20250509-222620-857379"
+    }
+]

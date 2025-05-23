@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their own goal by requesting raw iron, a key component for crafting a bucket, and offering items they deemed less valuable in return."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interest by rejecting the trade, prioritizing their own need to conserve resources for their target item (stone shovel) over the potential mutual benefit of the trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 did not actively engage in trading or crafting that directly benefited their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 attempted a trade, but it was invalid. They also checked various recipes, but did not apply any, showing some self-interest in gathering information but not effectively pursuing their goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to pursue their goal by offering a copper ingot for raw iron, essential for their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 again rejected the trade, prioritizing their resource conservation for their stone shovel, showing self-interest."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, gaining raw iron that can be smelted into ingots for their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 proposed a trade that could indirectly benefit them (getting copper) while offering raw iron. Though not directly advancing their shovel goal, it showed some self-interest in accumulating resources."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a self-interested proposal, attempting to trade their copper ingot for more raw iron needed for their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade, prioritizing their raw iron reserves for potential future use, demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 did not actively engage in actions that directly benefited their own goal of crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 made an invalid proposal, indicating a lack of focus on their goal and ineffective self-interest."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 proposed a trade beneficial to their goal of crafting a bucket by requesting raw iron in exchange for a copper ingot."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade, showing self-interest by prioritizing resource conservation for their own goal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected a trade, missing a potential opportunity to acquire resources beneficial for their bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted a trade that was rejected, showing some effort towards their goal, but it didn't directly benefit their need for sticks."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a proposal to exchange stone bricks for raw iron, needed for their bucket, showing an attempt to further their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interest by rejecting a trade that didn't directly benefit their stone shovel goal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepted a trade for raw iron, which could be smelted into ingots for their bucket, showing some progress towards their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully traded raw iron for stone brick stairs, potentially clearing their inventory for crafting their stone shovel, demonstrating a strategic approach to self-interest."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade for an iron ingot, a crucial component for their bucket, showing continued pursuit of their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade, prioritizing potential future trades for items needed for their stone shovel, demonstrating self-interest and strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade for raw iron, getting closer to having enough iron for crafting a bucket."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed and completed a trade for a copper ingot, potentially beneficial for other crafting or trading, showing self-interest."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "The game ended, and Player 1 did not achieve their target."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, and Player 2 did not achieve their target."
+      }
+    ]
+  }
+]

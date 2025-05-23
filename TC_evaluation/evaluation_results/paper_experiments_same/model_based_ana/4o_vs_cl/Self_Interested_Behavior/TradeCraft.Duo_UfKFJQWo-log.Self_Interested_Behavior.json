@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interested behavior by attempting to trade for raw iron, which could be beneficial for crafting a chain. Although the initial proposal was invalid, the subsequent proposal showed a strategic approach to acquire necessary resources.  Despite having enough materials to craft a chain, the player still attempted to make a trade, indicating a desire to maximize resources."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.2,
+        "justification": "Player 1 rejected the trade offer, which could be seen as self-interested as they were preventing the other player from getting more resources.  However, there isn't strong evidence of active pursuit of self-interest in this turn."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.9,
+        "justification": "Player 1 offered a highly self-interested trade.  By offering raw iron for cherry planks, they acquired the resources they needed to achieve their goal while giving away materials that were not essential to their crafting objective, but potentially beneficial for Player 2's objective.  This maximized their own benefit while potentially hindering the other player."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the trade, which primarily benefited Player 1. While Player 2 justified the acceptance as beneficial for acquiring iron ingots and raw materials, the trade did not directly contribute to the crafting of their target item, a chain. This decision suggests some degree of self-interest but it was less strategic and effective than Player 1's move."
+      }
+    ]
+  }
+]

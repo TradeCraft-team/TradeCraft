@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly identify the necessary ingredients for their target item (chain), research how to obtain them, and formulate a reasonable trade proposal based on their opponent's inventory and potential needs. Although their proposal was rejected, their thought process and actions show a strong understanding of the game mechanics and available information."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 also demonstrates good information utilization by researching the recipe for their target item (stone_shovel) and related components (sticks). They identify the need for sticks and plan to check possible recipes, indicating a decent understanding of the game mechanics. However, they haven't yet formulated a concrete crafting or trading strategy, resulting in a slightly lower score compared to Player 2."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates good information utilization. They identify the required item (stone) in their opponent's inventory and make a relevant trade proposal. The proposal itself is well-reasoned, offering a valuable resource (raw_iron) in exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 shows poor information utilization in this turn, repeatedly checking the same information and rejecting the proposal without proper justification."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates strong information utilization in this turn. They correctly analyze their inventory and target recipe, identify a need for raw_iron, and formulate a trade proposal that considers both their and their opponent's potential needs. The proposal is well-reasoned and offers a fair exchange."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to exhibit limited information utilization, repeatedly rejecting proposals and failing to formulate a crafting or trading strategy."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 shows improved information utilization in this turn. Their trade proposal for stone is directly relevant to their target, and the offer is reasonable."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent information utilization by thoroughly analyzing the trade proposal, considering their target item requirements, evaluating the potential benefits of the trade, and making a sound decision to accept. Their detailed thought process shows a strong grasp of the game mechanics and resource management."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2's information utilization is inconsistent in this turn. While they correctly identify their needs and potential crafting paths, they fail to submit a valid trade proposal and waste time with internal monologues."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Player 1 displays limited information utilization, making several incorrect crafting attempts and failing to effectively utilize available resources."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates good information utilization. They identify the need for cherry planks to craft sticks for their target item (stone shovel) and make a reasonable trade proposal. The proposal is well-structured, offering a valuable resource (raw copper) in exchange for the needed item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 demonstrates very poor information utilization, repeatedly checking the chain recipe despite having the necessary materials and rejecting the proposal without proper justification."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates good information utilization. They identify they have the necessary resources to craft their target item (chain), but still attempt to make a beneficial trade proposal for additional resources. Their proposal is well-reasoned and offers a fair exchange."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 displays decent information utilization by rejecting a trade that doesn't benefit their crafting goals. They correctly assess that holding onto their raw iron is more valuable than the offered copper ingot."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 shows continued good information utilization, making a direct and relevant trade proposal for their target. They offer raw iron which shows strategic thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's information utilization is weak in this turn, repeatedly checking the chain recipe despite having the necessary materials. Rejecting the trade without providing a detailed reasoning shows a lack of strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 recognizes they have all the materials for their target item and propose a trade for additional resources. The proposal is well-structured, considering the opponent's needs and offering a fair trade."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejects the trade offer, prioritizing their own needs and strategy, showing a reasonable utilization of information."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to pursue necessary resources with strategic proposals, and displays good information utilization."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 makes a sound decision to reject a trade that doesn't align with their current goals, displaying good utilization of information and resource management."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates strong information utilization by correctly analyzing their crafting path and proposing a relevant trade. They offer their copper ingot for raw iron, showing they understand resource values and their own needs."
+      },
+      {
+        "user": "Player 1",
+        "score": 0.7,
+        "justification": "Player 1 exhibits decent information utilization by rejecting the trade offer and prioritizing their own raw iron, indicating an understanding of their needs."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "Player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrates good information utilization by correctly identifying the resources they need and proposing a relevant trade for cherry planks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 shows excellent information utilization by correctly assessing the trade proposal, recognizing their own needs, and understanding their opponent's strategy based on their repeated attempts for the cherry planks."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "Player 1",
+        "score": 0.1,
+        "justification": "Despite having the necessary materials to craft sticks and subsequently their target, Player 1 failed to craft the stone shovel, indicating poor information utilization in the final turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "While having all the necessary materials, player 2 failed to craft their target, the chain, demonstrating poor information utilization in the final turn."
+      }
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their intention to craft a chain in their message to Player 2. While they offered items they didn't immediately need, the direct statement lowers their concealment score.  They inquired about crafting a chain, which partially reveals their intent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 effectively concealed their intentions. While they acknowledged needing the offered materials, they didn't reveal their specific goal (stone shovel). Their reply was helpful and cooperative, which can be a useful tactic to mask true intent."
+      }
+    ]
+  }
+]

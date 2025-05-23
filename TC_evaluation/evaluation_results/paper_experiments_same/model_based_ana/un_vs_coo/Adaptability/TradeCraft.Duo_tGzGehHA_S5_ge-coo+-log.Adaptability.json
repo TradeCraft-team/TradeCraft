@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initially proposed an invalid trade, demonstrating a lack of understanding of the game rules. However, they quickly adapted and submitted a revised, valid proposal. They also attempted to gather information about Player 1's target to facilitate cooperation, showing an understanding of strategic gameplay."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognized the potential benefit of the trade offered by Player 2, even though they didn't need the offered resources for their own target. They accepted the trade for the long-term advantage of acquiring coal, demonstrating adaptability and strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 proposed an invalid trade, showing a misunderstanding of the rules.  The subsequent null trade proposal doesn't contribute meaningfully to adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 correctly interpreted player 1's null proposal and sought clarification. They recognized the intent behind the action rather than strictly adhering to the rules.  While not showcasing high adaptability, this does display understanding of player intent."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 attempted to initiate another trade after their previous offer was rejected. While this demonstrates persistence, the proposed trade was not highly strategic or adaptable to the game state. It wasn't particularly beneficial for player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 rejected the trade offer, prioritizing their own crafting goals. However, they didn't actively adapt their strategy or pursue alternative plans based on the changing game state.  The rejection in itself is not high adaptability."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 did not demonstrate significant adaptability. They communicated their crafting plans but didn't actively respond to the game state or attempt any strategic trades."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 again made efforts to secure the trade they needed.  The persistence and re-evaluation of possible trades demonstrates decent adaptability."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a simple resource exchange that could benefit both players. Although the offer was rejected, it shows their understanding of the value of trading and a willingness to cooperate. Player 2 showed a slight shift in strategy with the direct raw material trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 consistently rejected trades and remained focused on their initial plan, despite not having achieved the crafting goal.  This lack of adaptation in the face of a changing game state scores low."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's actions demonstrate a lack of adaptability. They are overly focused on crafting sticks and fail to explore other options or potential trades. The continued insistence on attempting to craft with insufficient materials is ineffective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good adaptability by recognizing their crafting opportunity and shifting their focus to making iron nuggets, a necessary intermediary step to craft their target item."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 adapts their strategy by crafting the chain, successfully achieving their win condition.  This demonstrates strong adaptive behavior and a clear understanding of crafting priorities and item usage."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to demonstrate a lack of adaptability by repeatedly checking the same invalid crafting recipe and failing to adapt to the game state or explore other possibilities. They consistently miss opportunities for strategic trades or adjustments to their plan."
+      }
+    ]
+  }
+]

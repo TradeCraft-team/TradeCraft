@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 initiated a trade that was beneficial to both players. They offered coal, which player 2 needed for smelting, in exchange for raw iron, which player 1 needed to craft their target item. Player 1 clearly communicated their intentions and reasoning for the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 recognized the mutual benefit of the trade proposed by player 1 and accepted it readily. They also expressed positive feedback and wished player 1 luck with their crafting."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted player 2's proposed trade, which was mutually beneficial.  Player 1 recognized that the trade would help both players progress toward their goals."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 proposed a trade of raw copper for raw iron, which was beneficial for both players. Player 2 correctly inferred that player 1 was working towards iron tools or armor and offered a resource that could help them. Player 2's communication was clear and considerate."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 actively uses item info to understand crafting requirements for their target, chain, and conceals their intentions by offering a seemingly reasonable trade for raw iron while actually needing it for their hidden goal. Although the trade included some unnecessary justification, hinting their need, their intention was still partially concealed through their proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively conceals their intention by rejecting the trade offer with a plausible reason. They avoided revealing their own crafting plans and needs."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 submits a null proposal indicating they have everything they need. This could be a tactic to conceal their true needs, but it's not a strong concealment strategy as it reveals they are content with their current resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains good concealment by rejecting the null proposal but expressing future interest in raw iron, further reinforcing the need for iron without explicitly revealing the chain as their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's repeated attempts to trade for raw iron might raise suspicion, but the offer of raw copper still provides a reasonable cover for their need for iron, without revealing their intention of crafting a chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continues to conceal their intentions effectively by rejecting the raw iron trade, maintaining consistency in their actions and not revealing their need for sticks/planks."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's null proposal and message suggest they don't need to trade, which is a weak form of concealment, as it reveals their satisfaction with their current hand."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts the null proposal but again expresses interest in raw iron, subtly hinting at their need while keeping their target concealed."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 makes several invalid proposals, revealing a lack of clear strategy. The final proposal offering raw copper for raw iron again hints at their need for iron, but at this point, repeated attempts become counterproductive, lowering their concealment score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently rejects Player 2's trade offers, maintaining concealment and avoiding revealing their true needs."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 uses a null proposal and vague message, which is a weak concealment tactic as it reveals their current self-sufficiency but gives no further information."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts but hints at a future desire for raw iron, maintaining a consistent strategy of expressing interest in raw iron without revealing the specific need for a chain."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's continued attempts to trade for raw iron start to become less effective at concealing their intention, as it becomes clear they have a strong need for iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's consistent rejection of trades involving raw materials helps conceal their intentions and true needs for crafting a stone shovel."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 again makes a null proposal and states their intention to craft, which weakly conceals their true intentions as it suggests satisfaction with current resources but doesn't actively mislead."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts the null proposal with a generic message, successfully concealing their readiness to craft the chain."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal to trade raw copper for oak planks is somewhat irrelevant to their chain goal, making their intentions less clear but not particularly strategic in concealing their chain target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejects the trade, providing a clear reason (needing planks for sticks) which reinforces their need for wood but doesn't reveal the final target item."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 again uses a null proposal, a weak concealment strategy that reveals their self-sufficiency but gives no other information about their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintains strong concealment by accepting the null proposal with a generic positive message, not revealing their readiness to craft the chain."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's offer to trade raw copper for raw iron is becoming repetitive and less effective at concealing their need for iron, especially given previous failed attempts."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's consistent rejections of raw copper trades successfully conceal their plan and resource needs."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "The null proposal and generic message provide minimal concealment, simply indicating self-sufficiency."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepts the null proposal with a polite message, effectively hiding their readiness to craft the chain."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game is already over in turn 13 and no action is taken in this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game is already over in turn 13 and no action is taken in this turn."
+      }
+    ]
+  }
+]

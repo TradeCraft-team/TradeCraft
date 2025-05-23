@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated moderate information utilization. They correctly identified the need for iron ingots to craft a chain and recognized that Player 2 possessed raw iron.  However, their initial trade proposals were not well-considered and were rejected.  They eventually offered a more reasonable trade, demonstrating some learning and adaptation, but their overall strategy could have been more efficient."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good information utilization. They carefully evaluated the trade proposal in relation to their own goal of crafting a stone shovel.  They correctly identified that they did not need coal for their current objective and provided a clear explanation for rejecting the offer. They also correctly inferred Player 1's need for the raw iron, further strengthening their decision to reject the trade."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 showed excellent information utilization by correctly assessing the value of the trade offer for their overall goal. They identified that they could smelt the raw iron offered by Player 2 and use it to achieve their target item. They also reasoned that the cherry planks were not necessary for their current plans, making it a good trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent information utilization. They methodically identified the remaining ingredients required for their stone shovel, correctly determined the need for another plank, and formulated a plan to acquire the needed cherry plank from player 1. The subsequent trade proposal effectively addressed the needs of both players, maximizing the potential for both to achieve their goals."
+      }
+    ]
+  }
+]

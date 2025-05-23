@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently focused on acquiring iron, correctly identifying it as a key component of their target (bucket). They made a reasonable trade proposal to obtain raw iron, demonstrating clear goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 initially explored the recipe for their target (lever) and made a beneficial trade to acquire cobblestone, a necessary component. However, their initial hesitation about the trade slightly lowers their score."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's thinking was scattered, and they spent time considering the opponent's intentions rather than focusing on their own goal. Their crafting attempts were ineffective due to incorrect recipes. While they correctly identified the need for iron ingots, their actions were not efficient."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to work towards their goal by trying to acquire more iron ingots.  They correctly reasoned about the opponent's needs and formulated a new trading strategy accordingly."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's actions showed a lack of goal alignment. They crafted shears despite needing a bucket. Their trade proposals for iron ingots, while aligned with a potential crafting strategy, were ultimately unproductive."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 consistently rejected trades that would deplete their iron ingots, demonstrating strong goal alignment by prioritizing their need for iron to craft a bucket."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a trade that directly provided them with their target item (shears), displaying perfect goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a trade that seemingly aligned with their overall strategy of acquiring iron ingots. However, the trade did not result in direct progress towards a recognizable goal, suggesting some uncertainty in their strategy."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Having already achieved their target, player 1 acted strategically by trading the completed shears for additional resources.  This demonstrates excellent goal alignment and resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's thought process seemed scattered and without a clear direction. They focused on accumulating resources but struggled to identify a path to a specific target."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continued to demonstrate good resource management by trading an unnecessary item for raw copper after already achieving their target. This shows a focus on maximizing resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's actions were consistent with gathering materials for their target (blast furnace), focusing on cobblestone and raw materials. However, their progress was slow, and their crafting attempts were not efficient."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1, having already won, focused on accumulating more resources, which could be considered strategic for maximizing potential gains, even if unnecessary for the win condition."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's actions lacked clear direction. They attempted a few crafting recipes related to their blast furnace goal but struggled to make significant progress due to missing ingredients."
+      }
+    ]
+  }
+]

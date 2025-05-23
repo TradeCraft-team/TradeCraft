@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 initiated a trade that was beneficial to both players. They offered coal, which player 2 needed for smelting, and requested raw iron and an oak plank in return.  The request was reasonable given player 2's ample supply of raw iron and the relatively low value of the oak plank."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 readily accepted the trade proposed by player 1, demonstrating a clear willingness to cooperate and recognizing the mutual benefit of the exchange."
+      }
+    ]
+  }
+]

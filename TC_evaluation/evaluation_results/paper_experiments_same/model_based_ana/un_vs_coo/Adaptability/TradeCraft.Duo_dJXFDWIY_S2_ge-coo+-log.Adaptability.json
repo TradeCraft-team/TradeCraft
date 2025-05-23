@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively assesses their needs and their opponent's resources, formulating a reasonable trade proposal based on crafting requirements. They successfully acquire raw iron, a key component for their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 recognizes the value of the proposed trade, securing cobblestone necessary for their target and acknowledging the potential future utility of coal. While their initial thinking might have considered coal less useful, their willingness to accept the trade demonstrates a degree of adaptability."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 fails to adapt to the game state. Despite correctly identifying a missing crafting component, Player 1 decides not to trade, therefore failing to advance towards their win condition."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 analyzes the game state, correctly evaluates the opponent's needs (and potential needs) and attempts to use that information to improve their chances of crafting the target item. While they didn't acquire the necessary materials this turn, their thought process shows adaptability and forward thinking."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 fails to propose a trade to acquire the missing materials to complete their objective, missing multiple opportunities to advance their goal. This demonstrates a lack of adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes the failed trade and tries to deduce the opponent's goal.  They propose another trade based on their current understanding. Despite the trade not being accepted, they've shown adaptability by attempting different strategies."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 recognizes they don't need anything specific but offers a useful material to Player 2, fostering cooperation and potentially opening up future trade opportunities. While they continue to miss some crafting steps, they now attempt crafting related actions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepts a beneficial trade, increasing their resources, which might be helpful in later stages of the game. They continue to analyze the game state effectively."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 demonstrates very limited adaptability by rejecting a trade that could be beneficial for both players. Holding onto coal for smelting doesn't align with their current crafting needs."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's invalid proposal initially indicates a slight misunderstanding, but they quickly adapt and propose a new trade. Despite it being rejected, they're clearly adjusting their strategy."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 maintains a low adaptability score due to their failure to propose any trades to acquire necessary items for their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrates adaptability by considering multiple trading strategies depending on Player 1's responses. They are actively trying to find a way to acquire the necessary resources."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to demonstrate a lack of adaptability, rejecting trades and missing opportunities to improve their chances of achieving their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 persists in adapting their trade proposals to Player 1's needs, showing continued flexibility despite repeated rejections."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 misses another opportunity to request the missing crafting components. They maintain a low score for adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to analyze the game state and plan trades, showing ongoing adaptability despite previous rejections. They correctly assess the value of the null trade and maintain a positive game interaction."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts a beneficial trade. Recognizing the value of the free resources, improving their overall crafting situation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 makes a reasonable offer. However, their adaptability is slightly lowered as they fail to significantly adjust their strategy based on player 1's previous rejections. The trade is reasonable, but perhaps they could have used possible_recipes_from_hand command to understand the game better."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's repeated invalid proposals demonstrate poor adaptability. They should have considered different trade options or tried to craft a wooden shovel as a backup plan."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates strong adaptability by trying to infer Player 1's goals from their actions and inventory. Despite not having the requested items, they engage in helpful communication and express their own needs."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to reject trades without offering alternatives, indicating low adaptability. They are failing to acquire the necessary resources to win."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 shows adaptability by recognizing the need to shift strategies and consider player 1's perspective. They demonstrate cooperative thinking by attempting to deduce the opponent's goal."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 persists with invalid proposals. They score poorly on adaptability due to a lack of flexible thinking."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains open communication. They accept Player 1's repeated format failures and recognize that there might be a communication issue at hand."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 fails to adapt throughout the game, ultimately losing due to their inability to acquire the materials for even an alternative win condition. Their repeated reliance on a strategy known to fail shows no adaptability whatsoever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 shows adaptability throughout most of the game, but fails to secure the trade required to complete the target item. While they proposed and considered many trades, in the end, their inability to adapt to the opponent and deduce their goal shows an adaptability failure."
+      }
+    ]
+  }
+]

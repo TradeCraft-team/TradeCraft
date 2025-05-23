@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's intentions were somewhat obvious from their repeated attempts to trade for iron-related materials and their frequent checks of the chain recipe. Although they didn't explicitly state their target, their actions heavily implied it."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a reasonable attempt to conceal their intentions. They rejected Player 1's trade offers, did not reveal their need for sticks, and even considered how giving away raw iron could help player 1. Their item_info checks on the lever were interspersed with other checks, making it less obvious."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal for iron ingots in exchange for planks, while not directly revealing their need for a lever, did narrow down their potential targets. They also repeatedly checked the lever recipe, raising suspicion. However, rejecting player 1's trade offer in the previous round could help to offset those actions."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's continued focus on acquiring iron, combined with their recipe checks for the chain, made their intentions quite transparent."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1's actions completely revealed their intention.  Trading for raw iron, then immediately smelting it into iron ingots and crafting iron nuggets clearly indicated their need for a chain. Their subsequent crafting actions confirmed this."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 maintained some level of concealment. While accepting the trade for raw iron could be seen as helpful to player 1, they never explicitly revealed their need for a lever. Their repeated failed crafting attempts and checks for recipes slightly lowered their score, as it hinted at a specific crafting goal."
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent information utilization. They correctly identified their need for iron ingots to craft a chain, recognized that Player 2 had a surplus of raw iron, and offered a fair trade of coal for raw iron.  Their reasoning was clear, and their actions directly aligned with their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 also demonstrated excellent information utilization. They understood Player 1's need for raw iron and their own need for coal. They correctly assessed the proposed trade as mutually beneficial and accepted it, furthering their own goal of crafting a lever."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's information utilization was less effective this turn. While they correctly identified the need for more iron ingots, they were misled by the incorrect chain recipe. Their attempts to craft a chain with the incorrect information and reliance on tooltips instead of possible recipes hinder their score. However, smelting raw iron into ingot and crafting iron nuggets, which were necessary to make the chain, deserve some credit.  They correctly converted an iron ingot into iron nuggets, which brings them closer to actually being able to craft the chain"
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's information utilization was also less effective.  They spent the entire turn trying to determine how to craft a stick and made multiple mistakes in the process. They kept checking the recipe for a stick, even after getting repeated feedback that their recipe was incorrect. They also failed to realize they could have crafted a lever with the materials already in their hand."
+      }
+    ]
+  }
+]

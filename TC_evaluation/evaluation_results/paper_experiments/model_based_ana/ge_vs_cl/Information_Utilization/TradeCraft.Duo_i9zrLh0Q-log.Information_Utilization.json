@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly identify the necessary ingredients for their target (bucket), analyze both their own and their opponent's inventories, and formulate a reasonable trade proposal. They check relevant recipes, showing a clear understanding of the crafting process and attempt to convert raw materials into more useful resources"
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 also demonstrates good information utilization. They understand their target (lever) and crafting requirements and correctly assess that they don't need the offered raw copper. They reject the proposal to focus on crafting their own target item."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 makes an empty proposal and fails to craft the stick, repeatedly checking incorrect recipe. This shows poor information utilization despite correctly recognizing they had the materials to craft a lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes the null proposal from player 1 and uses the opportunity to communicate their crafting needs for future trades. Player 2 is actively looking for opportunities to trade which indicates some level of information utilization."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly identifies the necessary materials, checks recipes, and submits a relevant trade proposal based on game information and crafting recipes. While the proposal is rejected, it's still a well-reasoned attempt based on available information.  They correctly craft copper ingot, then stone."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejects Player 2's proposal without strong justification and fails to understand basic crafting recipes again. This demonstrates poor utilization of game information."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 crafts a reasonable trade proposal, offering raw copper for an iron ingot. This shows some information utilization, attempting to acquire potentially useful materials while offering something they don't currently need."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent information utilization by recognizing a bad trade proposal and rejecting it accordingly. They provide a clear explanation of why the trade is not beneficial to them, citing their need for iron ingots and already possessing a copper ingot. They are effectively using information about both their and Player 1's inventories and target objectives."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again formulates a relevant trade proposal. Despite being rejected, it reflects appropriate information utilization. They correctly infer player 1 might need stone and make a fair offer."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 rejects Player 2's relevant proposal, shows poor information utilization and fails to craft anything again. This demonstrates ineffective use of game information."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 again demonstrates poor information utilization by failing to craft stick, despite realizing that they can craft a lever. While acknowledging not needing anything from the other player is fine, inability to correctly craft with the tools provided lowers the overall score."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrates good information utilization and makes a sound decision, accepting a null proposal while effectively communicating their need for raw iron in future trades."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 submits invalid proposal and fails to make a valid proposal throughout the turn, despite recognizing the need for raw iron and having reasonable items to offer in trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to demonstrate poor information utilization by failing to craft anything."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 recognizes the need for sticks and makes a trade offer. While the trade proposal is invalid, it demonstrates some information utilization based on player 2's repeated requests for raw iron in the past."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepts a trade that may be not immediately beneficial to their game progression but recognizes the value of accumulating raw iron towards crafting their target item in future turns, demonstrating a moderate level of information utilization."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 uses available information to formulate a beneficial trade proposal, recognizing the mutual need for raw and processed materials. They correctly assess Player 1's inventory and understand their own need for iron ingots."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates good information utilization. They realize the trade doesn't directly benefit their target goal, but still accept it in hopes of improving the trade relationship with player 2 for future opportunities."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 submits two invalid proposals and makes no valid proposals, demonstrating poor information utilization and a lack of progress toward their game goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 rejects a potentially beneficial trade offer without clear reasoning, demonstrating poor information utilization and missing an opportunity to acquire needed materials for their target item."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly analyzes their crafting requirements and opponent's inventory, proposing a trade to obtain fuel for smelting. This shows good information utilization in identifying needed resources and potential trade opportunities."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 demonstrates reasonable information utilization by prioritizing their own need for planks. While a trade might have had long-term benefits, their focus on crafting sticks shows an understanding of their crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's proposal to trade raw iron for an iron ingot shows moderate information utilization. While they already have an iron ingot, they recognize it as an opportunity to acquire an extra and possibly foster trading cooperation with Player 2 who has expressed a need for iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrates excellent information utilization. They carefully consider the trade-off of losing their only iron ingot, correctly assess that they don't have the fuel to smelt all the raw iron, and ultimately reject the proposal to prioritize acquiring fuel first."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ends."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ends."
+      }
+    ]
+  }
+]

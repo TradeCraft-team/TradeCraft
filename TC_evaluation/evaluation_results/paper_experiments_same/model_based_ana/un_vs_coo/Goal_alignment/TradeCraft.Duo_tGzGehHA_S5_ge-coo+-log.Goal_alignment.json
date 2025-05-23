@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 consistently focused on acquiring iron ingots for their chain goal. Although their initial proposal was invalid, they quickly corrected it and successfully traded for raw iron.  They demonstrated a clear understanding of the crafting process and how to utilize their resources effectively."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent goal alignment. They correctly identified that they didn't need to trade to achieve their goal but recognized an opportunity to gain valuable coal.  They accepted the trade while acknowledging their primary objective of crafting a lever."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to focus on their goal of crafting a lever. While they considered trading, they ultimately decided to craft the necessary stick themselves, demonstrating effective goal-oriented behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's actions are consistent with their goal of crafting a chain.  They attempted to acquire more iron, though unsuccessfully. They demonstrated a good understanding of their needs and the game mechanics."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 remained focused on their goal, recognizing that the offered trade didn't bring them closer to crafting a lever.  Rejecting the trade was a smart move that prioritized their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to work towards their chain goal, attempting to acquire the necessary resources through trading. Although their offer was rejected, they continued to strategize and pursue their objective."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintained focus on crafting a lever. Their actions, though ultimately unsuccessful due to issues with crafting calculations, were aligned with their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 consistently pursued their chain goal, demonstrating a clear understanding of the necessary resources. They attempted to trade for the missing component but were unsuccessful."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 remained focused on their goal, correctly identifying the necessary resources and making a sensible trade proposal. While it was rejected, their actions were consistent with their objective. Eventually crafting their target item and winning the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to focus on crafting a lever, rejecting a trade offer that didn't align with their needs. Although they haven't succeeded in crafting their item yet, they stuck to their plan and are attempting to gather necessary resources. Their overall actions aligned with the end goal, despite the failure."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 maintained focus on their lever goal, crafting the necessary stick and preparing for final assembly in the next turn. Their actions directly contributed to progressing towards their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 correctly assessed their resources and crafted the necessary iron nugget, demonstrating clear progress towards their chain goal."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated perfect goal alignment in this turn. They identified their need for more iron, made a reasonable trade offer, and ultimately crafted the chain, achieving their goal and winning the game."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's actions were consistent with their goal of crafting a lever. They recognized that the trade offer didn't benefit them and continued to pursue their objective, making appropriate crafting plans for their lever goal."
+      }
+    ]
+  }
+]

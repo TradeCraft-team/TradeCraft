@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent information utilization. They correctly identify their need for iron ingots to craft a chain and recognize that Player 1 has a good source of raw iron. They formulate a trade proposal that offers less valuable items (cherry planks and cobblestone) in exchange for the raw iron they need. Their thinking shows a clear understanding of their own goals and an assessment of their opponent's potential needs, maximizing their chances of a successful trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrates reasonable information utilization. They check the recipe for a lever, their target item, and assess the value of the proposed trade. They correctly identify the need for cobblestone for their lever and accept the trade.  However, there is limited evidence of deeper strategic thinking about future needs beyond the immediate use of cobblestone."
+      }
+    ]
+  }
+]

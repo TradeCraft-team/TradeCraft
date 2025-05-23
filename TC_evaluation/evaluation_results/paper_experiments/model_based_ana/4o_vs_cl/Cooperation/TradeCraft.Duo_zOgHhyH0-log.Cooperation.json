@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a trade that was beneficial to both players. They offered coal and cobblestone for raw iron. Player 1 needed the raw iron to craft shears, and Player 2 needed coal to eventually make a torch. Player 1's message was polite and explained the rationale behind the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 carefully considered the trade proposal and recognized its mutual benefit. They correctly identified that coal was essential for their goal and that the trade would significantly help them. Player 2 accepted the proposal and sent a polite message back."
+      }
+    ]
+  }
+]

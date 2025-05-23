@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by analyzing the situation, identifying the need for iron ingots, and formulating a trade proposal. Although the proposal was rejected, they recognized the need to adjust their strategy and began considering alternative approaches.  They checked possible recipes from their hand, showing an attempt to find other crafting paths or valuable trade items.  However, they didn't fully adapt during this turn, as they hadn't yet formulated a new trade proposal or alternative crafting plan."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade proposal without properly evaluating it, missing an opportunity to acquire resources that might have been useful. They repeated their internal thought process multiple times without making significant progress toward their crafting goal.  They did not demonstrate any significant adaptation to the changing game state or their opponent's actions."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted well to Player 2's proposal. They considered the potential benefits and drawbacks of the trade, and decided to accept it despite not directly needing the offered items. They recognized the value in maintaining a positive trading relationship and acquiring potentially useful resources. Additionally, they began planning their next moves, checking the bucket recipe and devising their next trade proposal, showing a clear understanding of the game's flow and their goals."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2 demonstrated some adaptability by securing the cherry planks they needed for their crafting goal. However, they spent a considerable amount of time checking basic recipes and made several invalid crafting attempts, including incorrect plank combinations. While they successfully crafted the necessary items, they did not display strong adaptability in their crafting approach, needing several attempts and checks to accomplish their goal.  They seemed fixated on a specific plan and struggled to adapt when their initial recipe check failed."
+      }
+    ]
+  }
+]

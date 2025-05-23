@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 adapted well by identifying the need for raw iron and successfully trading for it.  They correctly assessed the situation and formed a good plan."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapted to the trade proposal and accepted a beneficial trade, securing a needed material (coal). However, they struggled with crafting recipes."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 failed to adapt to their unsuccessful crafting attempts and made no progress towards their goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 continued to struggle with crafting recipes despite having a plan."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to have issues with recipe crafting and shows no adaptability."
+      },
+      {
+        "user": "Player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates excellent adaptability in this turn. After the failed trade, they successfully used available resources to craft the needed iron ingots and ultimately achieved their goal of crafting shears."
+      }
+    ]
+  }
+]

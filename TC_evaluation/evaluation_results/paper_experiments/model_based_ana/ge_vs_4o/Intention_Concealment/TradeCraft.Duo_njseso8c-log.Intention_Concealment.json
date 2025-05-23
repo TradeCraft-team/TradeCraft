@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 indirectly revealed their need for iron by requesting raw iron and offering coal, which is commonly used for smelting.  Although this didn't reveal the specific target (bucket), it hinted at the crafting intentions and provided partial insight into their strategy."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's request for raw iron could be interpreted as needing it for tools or other iron-related crafts.  Accepting the coal in return could suggest a plan to smelt items later. This creates ambiguity and doesn't immediately pinpoint their target (stone shovel)."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 directly revealed their need for cobblestone by explicitly stating in their proposal that they needed one more cobblestone to craft their target item. This fully exposes their intention and reduces the effectiveness of concealment tactics."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected the proposal without giving clear reasons, adding to the mystery around their intent. While their thinking reveals their goal (bucket), this information isn't shared with player 1.  Rejecting the cobblestone trade also hides their potential use for it in crafting a furnace."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 2",
+        "score": 0.5,
+        "justification": "Player 2's proposal to trade cobblestone for coal indirectly suggests a need for fuel, which narrows down their possible target items to things requiring smelting or furnace usage.  This leaks some information about their intentions, though not the precise target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepts the trade, which makes their intentions ambiguous. They require sticks and cobblestone.  Their stated need for cobblestone earlier doesn't expose their specific need for planks now. This leaves Player 2 uncertain about their true goals."
+      }
+    ]
+  }
+]

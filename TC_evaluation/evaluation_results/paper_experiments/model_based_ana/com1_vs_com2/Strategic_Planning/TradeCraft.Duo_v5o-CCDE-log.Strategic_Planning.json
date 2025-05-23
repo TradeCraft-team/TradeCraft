@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent strategic planning. They correctly identified their need for iron ingots to craft their target (bucket), formulated a plan to acquire raw iron from player 2 through a trade, and offered appropriate items in exchange.  Their thinking shows a clear understanding of the game's mechanics and their opponent's potential needs."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 also exhibited strong strategic planning. They analyzed the proposed trade in relation to their own target (lever), recognizing the value of the offered cherry planks for crafting sticks. Their acceptance of the trade demonstrates an understanding of resource management and leveraging opportunities to advance their own objective."
+      }
+    ]
+  }
+]

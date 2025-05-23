@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 formulated a good plan to obtain their target item (shears).  They correctly identified that they needed more iron, offered a reasonable trade to obtain the necessary materials (coal for raw iron), and thought strategically about their opponent's potential needs and how to offer a trade that wouldn't give their opponent too much of an advantage.  Their thoughts show a clear understanding of the game mechanics and how to leverage trading to their advantage."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good strategic thinking by correctly assessing the trade offer and its potential benefits.  They recognized that the offered coal was essential for their own goal (crafting a torch) and that giving away raw iron wouldn't significantly hinder their progress.  Their decision to accept was logical and brought them closer to achieving their goal.  They also made a good decision by deciding to accept Player 1's proposal to trade coal for iron. Their plan to smelt the raw iron suggests an understanding of the multi-step process involved in crafting their objective."
+      }
+    ]
+  }
+]

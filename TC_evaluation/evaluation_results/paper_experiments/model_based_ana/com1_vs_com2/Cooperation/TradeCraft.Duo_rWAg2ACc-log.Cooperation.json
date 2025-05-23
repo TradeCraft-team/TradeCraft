@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that was beneficial to both players. They offered resources they didn't need and requested resources that would help them achieve their goal, while also considering what their opponent might need.  This demonstrates excellent cooperation by facilitating a mutually beneficial exchange."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 correctly assessed the trade proposal and recognized its mutual benefit.  By accepting the trade, they obtained resources to complete their own objective while also providing resources that player 2 needed.  This cooperative action demonstrates a strong understanding of the game and a willingness to work with the other player."
+      }
+    ]
+  }
+]

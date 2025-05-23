@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated some adaptability by adjusting their trade proposal after the initial invalid proposal. They initially offered coal for iron ingots, and when that failed, offered coal for raw iron.  While they recognized the need to adapt, they didn't offer something Player 2 actually needed, leading to rejection."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 shows excellent reasoning and adaptability by thoroughly evaluating Player 1's offer based on their own crafting goal (stone_shovel). They correctly identified that coal was not immediately necessary for their goal and made a sound decision to reject the trade. Their counter-proposal suggestion indicates strategic thinking and a willingness to cooperate while prioritizing their own goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrates strong adaptability by accepting Player 2's trade proposal, even though it meant giving up their cherry planks. Player 1 correctly assesses the value of raw iron for their goal and prioritizes acquiring the necessary ingredients for the chain."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 masterfully demonstrated adaptability in this turn. They correctly identified the missing component (cherry planks) needed to craft their target item. Player 2 then devised a strategic trade, offering a valuable resource (raw iron) that aligned with Player 1's previously expressed needs. This successful trade showcases a high level of adaptability and game understanding."
+      }
+    ]
+  }
+]

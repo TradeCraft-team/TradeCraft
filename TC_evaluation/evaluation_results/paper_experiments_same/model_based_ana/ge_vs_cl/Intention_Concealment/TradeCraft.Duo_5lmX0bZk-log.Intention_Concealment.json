@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a reasonable attempt to conceal their intentions by offering raw copper for raw iron. While the trade hinted at a need for iron, it wasn't a direct request for ingredients specifically needed for a chain. The justification provided by the player also strategically emphasizes mutual benefit, further masking the true intention."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively concealed their intentions by rejecting the trade and providing a plausible reason (not needing more copper). This didn't reveal any information about their own crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 revealed a potential need for smelting by requesting coal. While not directly revealing their target item, it provides some information about their crafting direction."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 maintained good intention concealment by accepting the trade and providing a vague justification (\"useful for my crafting plans\") without specifying their target."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's repeated attempts to acquire raw iron clearly signal a need for iron-related items. Although the first proposal was invalid, the second proposal, offering coal for raw iron, further reinforces this need, making the intention less concealed."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 consistently rejected trades involving iron and copper, maintaining ambiguity about their crafting goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Offering raw copper for coal suggests a need for fuel, potentially for smelting. While this doesn't directly reveal the target item, it does provide a clue about the crafting process."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 expertly concealed their intentions by rejecting the trade and providing a plausible reason (\"don't need additional raw copper\"), successfully hiding their readily available materials to craft a chain."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's persistent attempts to trade for raw iron, despite having the necessary materials to craft their chain, make their need for iron quite obvious."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Consistent rejection of trades and vague justifications help maintain ambiguity about Player 1's goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "By offering and requesting nothing, Player 1 successfully concealed their intentions and avoided revealing any information about their needs. The message further strengthens the concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Accepting a null proposal effectively conceals intentions as it doesn't reveal any information about Player 2's needs or plans."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Although Player 2 offered a seemingly harmless trade (raw copper for raw iron), their persistent attempts to acquire iron-related materials reveal a potential need for them."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Continued rejection of trades related to raw materials helps maintain uncertainty about Player 1's target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's proposal, offering raw copper for coal, and the provided justification (\"need coal to smelt iron\") reveal their intention to use raw iron for crafting."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Rejecting the trade and providing a plausible reason (\"keep my coal for my own crafting plans\") maintains good intention concealment."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Offering coal for raw iron, despite having enough materials to craft the chain, reveals Player 2's interest in iron items."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Accepting the coal trade strongly indicates Player 1's need for fuel, likely for smelting, which reduces intention concealment significantly."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "The trade for cobblestone could signal a need for building materials or tools related to it. While not revealing the target item directly, it narrows down potential options."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Accepting a seemingly unnecessary trade for raw copper maintains some ambiguity, although their prior interest in raw iron might raise suspicion."
+      }
+    ]
+  }
+]

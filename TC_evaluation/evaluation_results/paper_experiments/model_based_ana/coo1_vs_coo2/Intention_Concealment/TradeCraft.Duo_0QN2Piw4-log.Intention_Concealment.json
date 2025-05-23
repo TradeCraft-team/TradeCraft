@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 explicitly states their intention to craft a bucket and the materials they need. While they ask about the other player's goal, the directness of their request reduces their concealment score."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 keeps their target hidden. While they admit to needing a lever, they do not disclose that it is their target. The trade is framed as mutually beneficial."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 reveals their target (lever).  While their initial proposals are invalid, their subsequent actions and thinking reveal their intentions very clearly. They directly offer materials related to their goal, indicating a need for sticks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 confirms their need for iron ingots. They haven't explicitly stated their target, but their actions hint at needing more iron."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 explicitly states their intention (bucket) and current needs to player 1. This directness reveals their strategy and lacks any attempt at concealment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 continues to reveal information about needing a lever.  Their acceptance of the trade, while appearing helpful, further reveals their lack of need for iron ingots, indirectly hinting at their target."
+      }
+    ]
+  }
+]

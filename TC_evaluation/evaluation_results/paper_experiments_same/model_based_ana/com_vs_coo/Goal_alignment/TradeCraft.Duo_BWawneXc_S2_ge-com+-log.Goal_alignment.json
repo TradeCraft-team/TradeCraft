@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently demonstrated goal-aligned behavior. They correctly identified their need for iron ingots to craft a bucket, formulated a reasonable trade proposal to obtain raw iron from player 1, and successfully executed the trade.  All actions directly contributed to their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also demonstrated strong goal alignment.  They recognized the value of the trade proposed by Player 2, as it provided them with cobblestone needed for their stone shovel. Accepting the trade was a direct step towards achieving their goal."
+      }
+    ]
+  }
+]

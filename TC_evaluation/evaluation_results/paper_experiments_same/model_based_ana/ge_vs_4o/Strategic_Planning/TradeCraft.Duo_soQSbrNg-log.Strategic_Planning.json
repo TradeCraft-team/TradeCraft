@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good strategic planning by identifying their need for raw iron to craft a bucket, formulating a reasonable trade proposal, and initiating the trade with player 1. The offered items were relevant to potential needs of player 1, increasing the likelihood of acceptance."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "player 1 exhibited excellent strategic planning. They correctly assessed the value of the trade proposal, recognizing the potential benefits of the offered resources. They accepted the trade, which indirectly supported their goal of crafting a lever.  Furthermore, player 1 methodically planned out the crafting steps needed to create the lever and executed those steps efficiently, achieving their goal. Their thinking process and crafting attempts shows their understanding of the recipe and resource management."
+      }
+    ]
+  }
+]

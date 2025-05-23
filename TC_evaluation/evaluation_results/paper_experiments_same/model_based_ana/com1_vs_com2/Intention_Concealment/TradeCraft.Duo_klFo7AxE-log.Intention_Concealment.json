@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 attempted to conceal their intentions by offering a trade and stating it was for a \"project.\" However, requesting raw iron may give away their need for iron ingots.  The vagueness is a weak attempt at concealment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, but didn't reveal their specific need for planks. Their acceptance and message subtly suggest a need for wood, but don't pinpoint the exact target."
+      }
+    ]
+  }
+]

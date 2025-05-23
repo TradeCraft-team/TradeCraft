@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 consistently focused on acquiring iron ingots to craft shears, their target item. They successfully traded for raw iron and smelted it into iron ingots, then crafted shears, demonstrating perfect goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 identified their need for coal to craft a torch. They accepted a trade that they hoped would lead to a future coal trade. While their actions weren't directly towards crafting a torch this turn, they made reasonable steps toward their goal.  Their incorrect recipe check lowered their score slightly."
+      }
+    ]
+  }
+]

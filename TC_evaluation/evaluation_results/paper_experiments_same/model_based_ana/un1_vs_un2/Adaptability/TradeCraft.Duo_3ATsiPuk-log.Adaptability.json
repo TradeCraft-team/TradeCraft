@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 adapted well by identifying the need for raw iron, proposing a reasonable trade, and successfully obtaining the required materials. The player demonstrated an understanding of their target recipe and the necessary steps to acquire the missing components. They also correctly checked and applied the smelting and crafting recipes."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated some adaptability by accepting the trade, recognizing the surplus of raw iron, and the potential value of raw copper for future trades. However, the player didn't realize they could have crafted sticks from any type of planks until much later in the turn, indicating a limited ability to fully assess available resources."
+      }
+    ]
+  }
+]

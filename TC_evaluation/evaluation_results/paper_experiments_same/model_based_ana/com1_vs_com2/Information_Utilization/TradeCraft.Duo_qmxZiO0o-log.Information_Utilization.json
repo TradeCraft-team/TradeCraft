@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good information utilization. They correctly identified their need for iron and offered a relevant trade for raw iron. They also checked the crafting recipe for chain.  They correctly smelted raw iron into iron ingots, although using cherry planks for fuel isn't the most efficient choice when they already have 1 coal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated decent information utilization. They identified they already had the materials for their goal, the lever, and they decided to accept the trade. However, they failed to realize that the trade for raw iron would be helpful for them in smelting copper into copper ingots."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's information utilization was low this turn. They made a suboptimal trade offer of coal for raw iron, despite having no immediate need for raw iron and could use coal for smelting copper. While they eventually recognized their ability to craft the lever, their suboptimal trades and repeated checks reveal ineffective use of game information."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated perfect information utilization.  They immediately identified the need for coal to smelt their raw iron into iron ingots, and they accepted a favorable trade for the coal.  They then immediately crafted the necessary items, demonstrating good strategy and utilization of known information."
+      }
+    ]
+  }
+]

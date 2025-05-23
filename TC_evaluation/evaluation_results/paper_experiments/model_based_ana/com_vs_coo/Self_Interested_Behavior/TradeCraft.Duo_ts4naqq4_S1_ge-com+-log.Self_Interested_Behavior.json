@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong self-interest by attempting to trade their less valuable raw copper for materials (iron ingots and cobblestone) needed to achieve their goal. Their initial invalid proposal also suggests they prioritize acquiring necessary resources quickly, even if it means bending the rules.  The subsequent, valid proposal further reinforces this drive to acquire beneficial resources."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 exhibited weak self-interest. While they considered their own needs, they prioritized helping player 2, even though the trade wasn't particularly beneficial to them. Their justification focused on encouraging cooperation rather than maximizing their own gain."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to demonstrate self-interest by proposing a trade for coal, essential for their goal. Offering raw copper and iron demonstrates a willingness to part with resources to achieve their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 showed a clear prioritization of their own goal by rejecting the trade.  They recognized that keeping their coal was essential for smelting iron and achieving their objective, even though the offered resources could be useful in other situations."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again demonstrated strong self-interest. Their trade proposal for oak planks served their goal of crafting a crafting table, and they offered a relatively less valuable item (cobblestone) in return.  The attempt to mislead player 1 about their intentions also shows a degree of strategic self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 accepted the trade, which was not inherently harmful to their goals, but also did not significantly advance them. Their justification indicates a focus on cooperation, which could be interpreted as a lower level of self-interest."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 made another attempt to acquire coal, offering raw iron in return.  While they mentioned \"cooperation,\" the focus remained on obtaining a resource they need, demonstrating self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 again rejected the coal trade, prioritizing their own crafting needs. Their analysis of player 1's potential crafts and the decision to withhold a critical resource demonstrates a high degree of strategic self-interest."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's proposal serves their need to acquire raw iron and cobblestone for tools. Offering a torch, which they can easily craft, in exchange for those resources demonstrates strong self-interest. The attempt to acquire raw iron further suggests they are trying to prevent player 1 from crafting anything that requires it."
+      },
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 accepted the trade, showing some self-interest in acquiring a potentially useful item (torch).  However, the justification emphasizes the cooperative aspect and the relative ease of replacing the traded resources, indicating a balance between self-interest and cooperation."
+      }
+    ]
+  }
+]

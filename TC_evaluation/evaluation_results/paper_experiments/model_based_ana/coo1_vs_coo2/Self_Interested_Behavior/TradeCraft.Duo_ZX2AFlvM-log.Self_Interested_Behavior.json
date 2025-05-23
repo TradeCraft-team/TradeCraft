@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted entirely in their self-interest. They identified their need for raw iron, formulated a trade proposal that benefited them by offering a less valuable item (coal) in exchange for a needed resource, and successfully executed the trade. Their thought process clearly demonstrates a focus on achieving their own goal (crafting a chain)."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interested behavior by accepting a trade that provided them with coal, a resource they needed for smelting raw iron. However, the justification for accepting the trade also suggests a cooperative mindset, as they considered the mutual benefit of the exchange.  While they primarily focused on their own needs, they acknowledged the benefit to player 1."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 initiated a trade that directly benefited them by acquiring raw iron in exchange for raw copper. While they framed the trade as mutually beneficial, their underlying motivation appears to be acquiring a resource they believe will help them progress towards their goal.  They identified what they needed, offered something of comparatively lesser value to them at this time, and focused on their own crafting goals."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, demonstrating self-interest by acquiring raw copper, a resource that they could potentially use for crafting.  Though player 1 mentioned cooperation in their thoughts, the acceptance of the trade suggests a strong prioritization of their own crafting needs."
+      }
+    ]
+  }
+]

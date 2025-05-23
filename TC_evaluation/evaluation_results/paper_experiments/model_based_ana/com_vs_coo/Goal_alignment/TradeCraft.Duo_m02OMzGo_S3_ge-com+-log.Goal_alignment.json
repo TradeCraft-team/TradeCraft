@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring the necessary iron for their bucket. They identified the need, formulated a plan to obtain it through trading, and executed that plan successfully. They also showed awareness of the need for fuel for smelting the raw iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 identified the need for planks to craft sticks for their lever and accepted a trade that provided them with those planks. However, they didn't take any further actions towards crafting the lever in the crafting phase.  They focused on gathering information but seemed to struggle to put a full plan into action and missed opportunities to make more progress."
+      }
+    ]
+  }
+]

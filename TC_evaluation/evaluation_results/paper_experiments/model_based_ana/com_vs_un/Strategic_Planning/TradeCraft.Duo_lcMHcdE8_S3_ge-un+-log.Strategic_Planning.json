@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated strategic thinking by identifying the need for iron ingots, recognizing their opponent's resources, and formulating a trade proposal. Although the initial proposal was invalid, they quickly adjusted and submitted a valid proposal that aligned with their goal of crafting a bucket.  Checking the item info for bucket and recognizing the need for iron ingots shows strategic planning focused on achieving the win condition."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 carefully considered the proposed trade, recognizing the value of coal for smelting and the potential usefulness of cobblestone.  They correctly identified the strategic implications of the trade for both players, demonstrating an understanding of long-term resource management.  Checking the lever recipe reinforces their strategic approach."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's strategic planning was evident in their attempt to offer a less valuable resource (raw copper) in exchange for a more valuable one (iron ingots). While the trade was rejected, the attempt shows an understanding of resource management and the potential to hinder their opponent's progress.  Checking the lever recipe and considering options demonstrates strategic thinking, though limited by their current resources."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated strategic thinking by rejecting a trade that would have put them further from their goal. They recognized the importance of holding onto their iron ingots for crafting a bucket. Repeatedly checking recipes and crafting possibilities contributes to strategic planning."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's strategy was somewhat unclear this turn. While they correctly identified the need for more iron ingots, their proposal was overly ambitious, and they didn't demonstrate a strong understanding of their opponent's needs or motivations. Repeatedly checking the iron_ingot recipe shows an awareness of crafting requirements, but doesn't fully translate to a comprehensive strategic approach."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 displayed strong strategic thinking by rejecting the trade for iron ingots, prioritizing their own needs over a less valuable resource.  They continued to analyze crafting recipes and potential trade opportunities, considering both their own goals and their opponent's potential moves.  Smelting raw iron into iron ingots shows a focus on refining materials for future use."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 attempted to acquire raw iron from player 1, showing continued strategic focus on collecting iron and an understanding of its value.  The offer was reasonable and accepted. Player 2 then checked the recipe for shears, indicating strategic thinking around what the opponent was crafting and what it might imply about their goals. Checking possible recipes demonstrates a forward-thinking approach."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a beneficial trade that converted their raw iron into a processed ingot. This trade, while simple, was strategic as it moved them closer to crafting their target item.  Recognizing the win condition immediately after the trade and deciding to not craft anything was an efficient move."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 leveraged their completed objective to propose a strategically advantageous trade.  Offering shears for iron ingots was a good move, as player 1 no longer needed the shears, while iron ingots could be used for other crafting recipes.  Recognizing the win and ceasing crafting further demonstrates efficient resource management."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, realizing the potential benefit even if player 1's claim of finishing their objective was a bluff.  They also attempted to plan future crafting steps. Continued checking of possible recipes from hand shows a good level of strategic planning towards an unknown target."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 made a strategic low-risk trade offer, proposing a relatively useless item (cobblestone slab) for a potentially useful resource (raw copper). This demonstrates good resource management.  Checking possible recipes from hand and selecting a low-value item to offer demonstrates strategic intent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade. While the trade provided a small potential benefit, accepting a cobblestone slab for raw copper is not the most efficient use of their resources.  Not crafting anything while having already achieved their win condition continues to be a valid approach."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's trades in this turn were not particularly strategic.  Offering the cobblestone slab for iron ingots or raw iron did not align well with their needs or with their apparent abundance of iron already.  Having achieved the win condition already, crafting a bucket using more iron does not contribute further to their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continues to show strategic thinking by recognizing the importance of the raw iron for their plan. The rejection of the trade shows that they are willing to prioritize their goals over making trades that don't offer much benefit.  Not crafting while still needing additional information, and instead focusing on the trade demonstrates strategic patience."
+      }
+    ]
+  }
+]

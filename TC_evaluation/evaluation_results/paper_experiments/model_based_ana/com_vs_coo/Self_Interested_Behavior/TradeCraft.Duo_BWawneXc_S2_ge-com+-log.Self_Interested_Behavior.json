@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted in a self-interested manner by offering items they didn't need (cherry planks and cobblestone) in exchange for raw iron, which is essential for their target item (bucket). They clearly prioritized their own needs in the trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a trade that was beneficial to both players. While they prioritized getting cobblestone for their shovel, the trade also provided player 2 with needed raw iron. This demonstrates a moderate level of self-interest, as they benefited from the trade while indirectly helping the opponent."
+      }
+    ]
+  }
+]

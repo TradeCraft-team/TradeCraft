@@ -4,275 +4,647 @@ import numpy as np
 import openai
 from utils_eval import *
 from rebuild_game import *
-
-import json
+import matplotlib.pyplot as plt
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import os
+import time
+from tqdm import tqdm
+from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from argparse import ArgumentParser
 
-openai.default_headers = {"x-foo": "true"}
 from openai import AzureOpenAI
 
-REGION = "eastus"
-MODEL = "gpt-4o-2024-08-06"
 
-API_BASE = "https://api.tonggpt.mybigai.ac.cn/proxy"
-ENDPOINT = f"{API_BASE}/{REGION}"
-
-
-client = AzureOpenAI(
-    api_key=API_KEY,
-    api_version="2025-03-01-preview",
-    azure_endpoint=ENDPOINT,
+client = openai.Client(
+api_key=API_KEY,
+base_url=API_BASE
 )
 
 
-LLM_evaluation_item_list = [
-    "cooperative_behaviour",
-    "mis_leading",
-    "planing_ability",
-    "communication_effectiveness",
-    "competitive_behaviour",
-    "intention_concealment",
-    "adaptability",
-    "word_behaviour_consistency"
-
-]
 
 
-#####
-def LLM_based_eval(item: str, model = 'gpt-4o-2024-08-06', max_tokens = 100, username = "Alice", basic_info_dic = None, game_turns_info = None, game = "tradecraft"):
+def run_heuristic_evaluations(game_info, player_infos: list):
+    assert len(player_infos) == 2 , NotImplementedError("Sorry, evaluations of **SINGLE PLAYER** or **MULTI-PLAYERS are unsupported. " \
+    "\n Please make sure you pass two [player thoughts record] file(or filepath)")
+
+    if type(game_info) == str:
+        game_info = load_json(game_info)
+
+    # Get Game ID
+    game_id = game_info[0]['domain'][0]
+    player_infos = [load_json(player_info) if isinstance(player_info, str) else player_info for player_info in player_infos]
+    player_names = [player_info[0]['player'] for player_info in player_infos]
+
+    record = extract_win_loss(game_info, player_names)
+
+    
+    save_path = f"eval_results/double_players/{game_id}/heuristic/"
+    check_path(save_path)
+
+    try:
+        with open(save_path + "heuristic_results.json", 'w') as f:
+            json.dump(record, f)
+        print(f"✅")
+        print(f"Successfully saved [HEURISTIC] evaluation result of game [{game_id}]")
+
+    except Exception as e:
+        print(f"❌!!! ")
+        print(f"An error occured when trying to save the [HEURISTIC] evaluation result of game: [{game_id}], plz retry. ")    
+
+
+def collect_heuristic_results(game_ids: list, considered_players: list):
+    heu_reuslts = []
+    faild_list = []
+    for game_id in game_ids:
+        rec_path = f"eval_results/double_players/{game_id}/heuristic/heuristic_results.json"
+        try:
+            rec = {game_id: load_json(rec_path)}
+            heu_reuslts.append(rec)
+        except:
+            print(f"⚠️: Couldn't find [HEURISTIC] evaluation result of GAME: [{game_id}]")
+            faild_list.append({game_id, "Couldn't find the file. "})
+
+
+    final_result = {}
+    for p in considered_players:
+        final_result[p] = {
+             "reject_proposal": 0,
+            "accept_proposal": 0, 
+            "win": 0, 
+            "loss": 0, 
+            "all_win": 0, 
+            "all_loss": 0, 
+            "turns": 0
+            }
+
+    for rec in heu_reuslts:
+        eval_res_info = rec.values()[0]
+        if set(eval_res_info.keys()) != set(considered_players):
+            faild_list.append({game: "Player mismatch error: the players in this game are not in the list of considered players."})
+
+        for p in eval_res_info.keys():
+            eval_res_player = eval_res_info[p]
+            for key, value in eval_res_player.items():
+                final_result[p][key] += value
+
+
+def extract_win_loss(rec_game, players = ['gemini_competitive', 'gemini_cooperative'], max_turns = 15):
+    error_mode = ('claude' in players and 'gpt-4o' in players)
+    if error_mode: print(f"⚠️: Now running with error mode.")
+
+    # rec_game = load_json(path_game)
+    final_rec = {
+    players[0]: {
+        'invalid_behavior': 0,
+        'reject_proposal': 0,     # 主动拒绝别人的次数
+        'accept_proposal': 0      # 主动接受别人的次数
+    },
+    players[1]: {
+        'invalid_behavior': 0,
+        'reject_proposal': 0,
+        'accept_proposal': 0
+    }
+}
+
+    turns = 0
+    for item in rec_game:
+        event = item['event']
+        msg = json.loads(item['msg'])
+
+        if turns > max_turns and event != "server__game_over":continue
+        if 'invalid' in event or 'err' in event:
+            p_rec_name = msg['username'].lower()
+            if error_mode: 
+                if 'claude' in p_rec_name:
+                    p_rec_name = 'claude'
+                elif 'gpt' in p_rec_name:
+                    p_rec_name = 'gpt-4o'
+                else:
+                    raise ValueError
+            final_rec[p_rec_name]['invalid_behavior'] += 1
+            
+        if event == 'player__approval_or_reject':
+            p_rec_name = msg['username'].lower()
+            if error_mode: 
+                if 'claude' in p_rec_name:
+                    p_rec_name = 'claude'
+                else:
+                    p_rec_name = 'gpt-4o'
+            if msg['decision'].lower() == 'accept': final_rec[p_rec_name]['accept_proposal'] += 1
+            elif msg['decision'].lower() == 'reject': final_rec[p_rec_name]['reject_proposal'] += 1
+            else: print(f"something wrong!!! - {msg}")
+            
+        if event == 'player__craft_recipe_check':
+            p_rec_name = msg['username'].lower()
+            if error_mode: 
+                if 'claude' in p_rec_name:
+                    p_rec_name = 'claude'
+                else:
+                    p_rec_name = 'gpt-4o'
+            # print(f"P_rec_Name is {p_rec_name}, final_rec keys: {final_rec.keys()}")
+            result = msg.get('result', False)
+            if not result:
+                final_rec[p_rec_name]['invalid_behavior'] += 1
+
+        if event == 'server__start_proposal':
+            turns += 1
+
+        if event == 'server__game_over':
+            actor_pool = msg['action_queue']
+            win_status_pool = msg['win-status']
+            
+            if error_mode:
+                win_status_pool_new = {}
+                for key, status in win_status_pool.items():
+                    if 'claude' in key:
+                        win_status_pool_new['claude']  = status
+                    elif 'gpt-4o' in key.lower():
+                        win_status_pool_new['gpt-4o'] = status
+
+                win_status_pool = win_status_pool_new
+                actor_pool = ['claude', 'gpt-4o']
+
+            for actor in actor_pool:
+                final_rec[actor.lower()]['win'] = 1 if win_status_pool[actor] else 0
+                final_rec[actor.lower()]['loss'] = 1 if not win_status_pool[actor] else 0
+                values = list(win_status_pool.values())
+                final_rec[actor.lower()]['all_win'] = 1 if all(values) else 0
+                final_rec[actor.lower()]['all_loss'] = 1 if not any(values) else 0
+                final_rec[actor.lower()]['turns'] = turns
+        else:
+            continue
+
+    return final_rec
+    
+
+def heuristic_evaluation(player_pool = ['gemini_competitive', 'gemini_cooperative'], game = "com_vs_coo"):
+    heuristic_list = []
+    all_loaded = robust_group_game_files(folder_path=f"data/{game}")
+    print(f"loading files from: data/{game}")
+    for item in tqdm(all_loaded):
+        names = list(item)
+        final_dic = extract_win_loss(load_json(names[0]), players=player_pool)
+        heuristic_list.append(final_dic)
+   
+    result = merge_final_dic_list(heuristic_list)
+    for player in result.keys():
+        result[player]['invalid_behavior']/=result[player]['turns']
+        sum_proposal = result[player]['reject_proposal'] + result[player]['accept_proposal']
+        result[player]['reject_proposal']/=sum_proposal
+        result[player]['accept_proposal']/=sum_proposal
+        result[player]['win'] -= result[player]['all_win']
+        result[player]['loss'] -= result[player]['all_loss']
+    return result
+
+
+def LLM_based_eval(item: str, model = MODEL, game_log = None, game = "tradecraft"):
     system_prompt_path = f"prompts/evaluation_items/{item}.md"
     
     game_rule_prompt_path = f"prompts/game_rules/{game}_intro.md"
 
     assert item in LLM_evaluation_item_list, ValueError("Unsupported item for evaluation")
-    assert username in basic_info_dic, ValueError("No such username in the basic_info_dic")
+   
+    with open(game_rule_prompt_path, "r") as f: 
+        intro = f.read()
+    params = {'intro': intro, "game_log": game_log,}
+    prompt = load_prompt_template(system_prompt_path, params)
 
-    if game_turns_info is None:
-        raise ValueError("No game_turns_info is provided")
-    if basic_info_dic is None:
-        raise ValueError("No basic_info_dic is provided")
-    
-    # Load system prompt for specific evaluation item
-    with open(system_prompt_path, "r") as file:
-        system_prompt = file.read()
-
-    system_prompt += "For a comprehensive evaluation, now we offer you the game rules:\n"
-
-    with open(game_rule_prompt_path, "r") as file:
-        game_rules_info = file.read()
-    system_prompt += game_rules_info
-
-    # Get game recording infos
-    message = from_recordings_to_prompt(game_turns_info, basic_info_dic= basic_info_dic)
-
-    # Generate prompt
-    prompt = f"{message}\n The Agent you should evaluate is {username}, go"
-    
-    # Get completion
     completion = client.chat.completions.create(
         model=model,
         messages=[
-            {
-                "role": "system",
-                "content": system_prompt,
-            },
             {
                 "role": "user",
                 "content": prompt,
             },
         ],
+        response_format={'type': "json_object"},
     )
-
-    return completion.choices[0].message.content
-
+    response = completion.choices[0].message.content
 
 
-
-""""
-
-Basic Checks:
-(1) Game results
-(2) Game rounds
-(3) Behavior validity
-
-"""
-
-Hardcoded_evaluation_item_list = [
-    "game_results",
-    "game_rounds",
-    "behavior_validity"
-]
+    return response
 
 
-def Hardcoded_based_eval(item: str, username = "Alice", basic_info_dic = None, game_turns_info = None):
-    assert item in Hardcoded_evaluation_item_list, ValueError("Unsupported item for evaluation")
-    if item == "game_results":
-        win = "win" if basic_info_dic[username]['win-status'] else "lose"
-        return f"Game results of {username}: {win}"
 
-    elif item == "game_rounds":
-        return f"{len(game_turns_info)}"
-       
-    elif item == "behavior_validity":
-        return "Behavior validity is not implemented yet"
+def get_heuristic_for_character(result_dic):
+    character_reuslts = {}
+    for game, item in result_dic.items():
+        for player, info in item.items():
+            if player not in character_reuslts.keys():
+                character_reuslts[player] = info
+            else:
+                for heu_name, heu_value in info.items():
+                    character_reuslts[player][heu_name] += heu_value
 
+    for heu in character_reuslts['gemini_undefine']:
+        character_reuslts['gemini_undefine'][heu] += (character_reuslts['gemini2'][heu] + character_reuslts['gemini1'][heu])
 
-def evaluation(username: str, file_path = "data/recordings/TradeCraft.Duo_oAijwPqw.json", save_path = "evaluation_results"):
-    result_dic = {}
-    game_turns_info, basic_info_dic = rebuild_game_info(file_path)
+    character_reuslts.pop("gemini2")
+    character_reuslts.pop("gemini1")
 
-    for item in LLM_evaluation_item_list:
-        print(f"============Checking:{item}============")
-        result = LLM_based_eval(item=item, username=username, basic_info_dic=basic_info_dic, game_turns_info=game_turns_info)
-        result_dic[item] = result
-        print(result)
+    for heu in character_reuslts['gemini_cooperative']:
+        character_reuslts['gemini_cooperative'][heu] += (character_reuslts['gemini_cooperative1'][heu] + character_reuslts['gemini_cooperative2'][heu])
 
 
-    for item in Hardcoded_evaluation_item_list:
-        print(f"============Checking:{item}============")
-        result = Hardcoded_based_eval(item=item, username=username, basic_info_dic=basic_info_dic, game_turns_info=game_turns_info)
-        result_dic[item] = result
-        print(result)
+    character_reuslts.pop("gemini_cooperative1")
+    character_reuslts.pop("gemini_cooperative2")
+
+    for heu in character_reuslts['gemini_competitive']:
+        character_reuslts['gemini_competitive'][heu] += (character_reuslts['gemini_competitive1'][heu] + character_reuslts['gemini_competitive2'][heu])
+
+    character_reuslts.pop("gemini_competitive1")
+    character_reuslts.pop("gemini_competitive2")
+
+    character_reuslts['Gemini-Cooperative'] = character_reuslts.pop('gemini_cooperative')
+    character_reuslts['Gemini-Competitive'] = character_reuslts.pop('gemini_competitive')
+    character_reuslts['Gemini-Unprimed'] = character_reuslts.pop('gemini_undefine')
+
+    for player, item in character_reuslts.items():
+        if 'turns' in heu:
+            item[heu]/=20
+        else:
+            item[heu]/=2
+
     
-    # Save results
-    check_path(f"{save_path}/{username}")
 
-    with open(f"{save_path}/{username}/evaluation_results.json", "w") as f:
-        json.dump(result_dic, f)
-
-    print("Congratulation! Evaluation finished")
-    return result_dic
+    return character_reuslts
+                
 
 
-# Helper function to convert your result into a structured format
-def process_results_for_report(result_dic):
-    structured_data = []
+def get_heuristic_for_models(result_dic):
+    character_reuslts = {}
+    for game, item in result_dic.items():
+        for player, info in item.items():
+            if player not in character_reuslts.keys():
+                character_reuslts[player] = info
+            else:
+                for heu_name, heu_value in info.items():
+                    character_reuslts[player][heu_name] += heu_value
 
-    for item, result in result_dic.items():
+    for player, item in character_reuslts.items():
+        for heu in item.keys():
+            if 'turns' in heu:
+                item[heu]/=20
+            else:
+                item[heu]/=2
+
+    return character_reuslts
+                
+
+def evaluate_single_file(fname, log_path, save_path, item, max_retries=3):
+    if not fname.endswith(".md"):
+        return None, False
+    
+    out_name = fname.replace(".md", f".{item}.json")
+    out_path = os.path.join(save_path, out_name)
+
+    if os.path.exists(out_path):
+        print(f"⏩ Skipping {fname} — already evaluated.")
+        return None, True
+   
+    fpath = os.path.join(log_path, fname)
+    try:
+        with open(fpath, "r", encoding="utf-8") as f:
+            content = f.read()
+    except Exception as e:
+        print(f"⚠️ Read error ({fname}): {e}")
+        return None, False
+
+    result_str = None
+    for attempt in range(1, max_retries + 1):
         try:
-            result = eval(result)
-        except:
-            result = result
-        if isinstance(result, dict):  # Handling cooperative_behaviour, planning, etc.
-            for behavior, details in result.items():
-                print(f"Behavior: {behavior}, Details: {details}")
-                structured_data.append({
-                    "Category": item,
-                    "Behavior": details['Behavior'],
-                    "Reason": details['Reason']
-                })
-        else:  # Handling hardcoded items like game_results, rounds, etc.
-            structured_data.append({
-                "Category": item,
-                "Behavior": result,
-                "Reason": ""
-            })
-    
-    return structured_data
+            result_str = LLM_based_eval(item=item, game_log=content)
+            break
+        except Exception as e:
+            print(f"❌ Eval failed ({fname}) [Attempt {attempt}]: {e}")
+            time.sleep(2 ** attempt)  # 指数退避
+
+    if result_str is None:
+        return None, False
+
+    try:
+        parsed = json.loads(result_str)
+    except Exception as e:
+        print(f"⚠️ JSON parse error ({fname}): {e}")
+        parsed = {"raw": result_str}
+
+    try:
+        with open(out_path, "w", encoding="utf-8") as fout:
+            json.dump(parsed, fout, indent=2, ensure_ascii=False)
+    except Exception as e:
+        print(f"❌ Save failed ({fname}): {e}")
+        return None, False
+
+    return {fname: parsed}, True
 
 
+def evaluation_for_one_item(item, log_path, base_save_path):
+    save_path = os.path.join(base_save_path, item)
+    os.makedirs(save_path, exist_ok=True)
 
-# Function to generate radar chart
-def generate_behavior_radar_chart(username, result_dic, save_path="evaluation_results"):
-    save_path = f"{save_path}/{username}/behavior_radar_chart.png"
-    os.makedirs(os.path.dirname(save_path), exist_ok=True)  # 确保路径存在
-    behavior_counts = {}
-    total_rounds = eval(result_dic['game_rounds'])
-    
-    for item, result in result_dic.items():
+    files = [f for f in os.listdir(log_path) if f.endswith(".md")]
+
+
+    results = []
+    failed_files = []
+
+    for fname in tqdm(files, desc=f"[{item}]"):
         try:
-            result = eval(result)
-            if type(result) != dict:
-                continue
-        except:
+            result, success = evaluate_single_file(fname, log_path, save_path, item)
+            if success:
+                results.append(result)
+            else:
+                failed_files.append(fname)
+        except Exception as e:
+            print(f"❌ Unexpected error in {fname}: {e}")
+            failed_files.append(fname)
+
+    return {item: results}, {item: failed_files}
+
+
+def evaluate_all_items_parallel(
+    item_list,
+    log_path,
+    base_save_path,
+    max_workers_item=8
+):
+    all_failures = defaultdict(list)
+
+    if not os.path.exists(log_path):
+        print(f"An error occured while evaluating the game, no [game log markdown was found]\n Fix this by first: \n clear the path: evaluation_results/paper_experiments/rebuild/ \nthen run: \n python rebuild_game.py")
+        return False
+
+    def wrap(item):
+        return evaluation_for_one_item(item, log_path, base_save_path)
+
+    with ThreadPoolExecutor(max_workers=max_workers_item) as executor:
+        futures = {executor.submit(wrap, item): item for item in item_list}
+        for future in as_completed(futures):
+            item = futures[future]
+            try:
+                result, failed = future.result()
+                # all_results[item] = result[item]
+                all_failures[item] = failed[item]
+            except Exception as e:
+                print(f"❌ Top-level failure on item {item}: {e}")
+                all_failures[item] = ["ALL_FAILED"]
+
+    for item, failed_files in all_failures.items():
+        if not failed_files:
+            continue
+        print(f"🔁 Retrying {len(failed_files)} failed files for item {item}...")
+        save_path = os.path.join(base_save_path, item)
+        for fname in failed_files:
+            result, success = evaluate_single_file(fname, log_path, save_path, item)
+           
+
+    return True
+
+
+
+def plot_radar_from_items(item_list, base_folder="parse", players_dic=None, game='com_vs_un', color_map=None):
+    plt.style.use('ggplot')
+    scores_by_player = defaultdict(lambda: [0.0] * len(item_list))
+    print(f"Scores by players: {scores_by_player}")
+    display_names = {}
+    base_folder = f"{base_folder}{game}"
+    for idx, item in enumerate(item_list):
+        item_scores = aggregate_scores(base_folder, item)
+        for player, score in item_scores.items():
+            scores_by_player[player][idx] = score
+            if players_dic and player.lower() in players_dic:
+                display_names[player] = players_dic[player.lower()]
+            else:
+                display_names[player] = player
+
+    labels = [item.replace('_', '\n') for item in item_list]
+    angles = np.linspace(0, 2 * np.pi, len(labels), endpoint=False).tolist()
+    angles += angles[:1]
+
+    fig, ax = plt.subplots(figsize=(8, 6), subplot_kw=dict(polar=True))
+
+    for player, scores in scores_by_player.items():
+        values = scores + scores[:1]
+        color = color_map.get(players_dic[player.lower()])
+        ax.plot(angles, values, label=display_names[player], color=color)
+        ax.fill(angles, values, alpha=0.25, color=color)
+
+    ax.set_theta_offset(np.pi / 2)
+    ax.set_theta_direction(-1)
+
+    ax.set_thetagrids(np.degrees(angles[:-1]), labels, fontsize=18)
+
+    for label, angle in zip(ax.get_xticklabels(), angles):
+        label.set_rotation(np.degrees(angle))
+        label.set_verticalalignment('center')
+        label.set_horizontalalignment('center')
+
+    ax.set_ylim(0.3, 0.95)
+    ax.set_yticks(np.arange(0.5, 1.01, 0.2))  # stick 间距为 0.2
+    ax.xaxis.grid(True, color='gray', linestyle='dashed', linewidth=0.5)
+    ax.yaxis.grid(True, color='gray', linestyle='dashed', linewidth=0.5)
+
+
+    ax.legend(loc="lower center", bbox_to_anchor=(0.5, -0.25), ncol=2,
+              prop={'size': 18})  # 控制图例字体大小
+    plt.tight_layout()
+    os.makedirs("figs", exist_ok=True)
+    plt.savefig(f"figs/radar_result_{game}.png", transparent=True, dpi=300)
+    plt.show()
+
+
+def plot_radar_from_models(item_list, base_folder="parse", players_dic=None, color_map=None, game_list = []):
+
+    plt.style.use('ggplot')
+    scores_by_player = defaultdict(lambda: [0.0] * len(item_list))
+    display_names = {}
+    for game in game_list:
+        folder = f"{base_folder}_{game}"
+
+        for idx, item in enumerate(item_list):
+            item_scores = aggregate_scores(folder, item)
+            for player, score in item_scores.items():
+                player_name = player_dics[game][player.lower()]
+                scores_by_player[player_name][idx] += score/2
+                if players_dic and player.lower() in players_dic[game]:
+                    display_names[player_name] = player_name
+             
+    print(f"display game: {display_names}")
+
+    for player, scores in scores_by_player.items():
+        print(f"Scores: {scores}")
+        score_dic = {}
+        for key, value in zip(item_list, scores):
+            score_dic[key] = value
+        plot_radar_from_dict([score_dic], title=f"{player}", color=color_map[player], ylim=(0.3, 0.85))
+
+
+def aggregate_scores(parse_folder, item = "Adaptability"):
+    player_scores = defaultdict(list)
+    parse_folder = os.path.join(parse_folder, item)
+    for fname in os.listdir(parse_folder):
+    
+        if not fname.endswith('.json') or 'Duo_Yd3DsoC4' in fname:
+            continue
+        fpath = os.path.join(parse_folder, fname)
+        try:
+            with open(fpath, "r", encoding="utf-8") as f:
+                data = json.load(f)
+        except Exception as e:
+            print(f"⚠️ Failed to load {fname}: {e}")
             continue
 
-        item = item.split("_")
-        name = ''
-        for part in item:
-            name += part.capitalize() + ' '
+        for id, turn in enumerate(data):
+            if id >=12: continue
             
-        behavior_counts[name.strip()] = len(result) / total_rounds
+            try:
+                for turn_key, evaluations in turn.items():
+                    if turn_key.strip().lower() == "turn 13":
+                        break
+                    for entry in evaluations:
+                        user = entry["user"].lower()
+                        score = entry["score"]
+                        player_scores[user].append(float(score))
+            except:
+                print(f"Error occurs at f: {fname}")
+                continue
 
-    # Prepare data for radar chart
-    categories = list(behavior_counts.keys())
-    values = list(behavior_counts.values())
-    values += values[:1]  # Close the circle by repeating the first value
+    average_scores = {
+        player: round(sum(scores) / len(scores), 4) if scores else 0.0
+        for player, scores in player_scores.items()
+    }
 
-    # Radar chart setup
-    num_vars = len(categories)
-    angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
-    angles += angles[:1]  # Close the circle
-
-    # Plot
-    plt.figure(figsize=(8, 8))
-    plt.style.use("ggplot")
-    ax = plt.subplot(111, polar=True)
-    ax.fill(angles, values, color="skyblue", alpha=0.4)
-    ax.plot(angles, values, color="skyblue", linewidth=2)
-    ax.set_yticks(np.linspace(0, 1, 5))
-    ax.set_yticklabels([f"{round(y, 2)}" for y in np.linspace(0, 1, 5)], fontsize=10)
-    
-    # Add category labels
-    ax.set_xticks(angles[:-1])
-    ax.set_xticklabels(categories, fontsize=12)
-
-    # Title and save
-    plt.title("Normalized Behavior Distribution by Category", size=15, pad=20)
-    plt.savefig(save_path)
-    plt.close()  # Close the figure to avoid display issues
-    save_path = save_path.split("/")[-1]
-    return save_path  # 返回保存的路径
+    return average_scores
 
 
-# Save the report as a Markdown file
-def save_report_as_markdown(username, structured_data, radar_chart_path, save_path="evaluation_results"):
-    save_path = f"{save_path}/{username}/evaluation_report.md"
-    os.makedirs(os.path.dirname(save_path), exist_ok=True)  # 确保路径存在
+def plot_character_behavior_bar_split(character_result: dict, color_map=None):
+    plt.style.use('ggplot')
+    metrics = ['invalid_behavior', 'reject_proposal', 'turns']
+    metric_labels = ['Invalid Behavior', 'Reject Proposal', 'Average Game Turn']
 
-    current_category = structured_data[0]['Category']
-    with open(save_path, "w") as f:
-        # 添加 Markdown 文件头
-        f.write(f"# Evaluation Report for {username}\n\n")
-        f.write(f"![Behavior Radar Chart]({radar_chart_path})\n\n")  # 嵌入 Radar 图路径
+    if color_map is not None:
+        colors = list(color_map.values())
+    else:
+        colors = ['#1f77b4', '#ff7f0e', '#2ca02c', '#d62728', '#9467bd']
+    os.makedirs("figs", exist_ok=True)
 
-        for entry in structured_data:
-            if entry['Category'] != current_category:
-                f.write("="*60) 
-                f.write("\n\n")
-                current_category = entry['Category']
-            f.write(f"### {entry['Category']}\n")
-            f.write(f"**Behavior**: {entry['Behavior']}\n\n")
-            f.write(f"**Reason**: {entry['Reason']}\n\n")
+    for m_idx, metric in enumerate(metrics):
+        fig, ax = plt.subplots(figsize=(3, 5))
 
-    print(f"Markdown report saved as {save_path}")
+        character_names = list(character_result.keys())
+        scores = [character_result[c][metric] for c in character_names]
+        x = np.arange(len(character_names))*0.4
 
+        for i, (name, score) in enumerate(zip(character_names, scores)):
+            label = (name[0].upper() + name[1:]).replace('-', '\n') if 'gpt' not in name else 'GPT-4o'
+            ax.bar(x[i], score, width=0.4, color=colors[i % len(colors)],
+                   edgecolor='black', linewidth=1.5, label=label, alpha=0.4)
 
-def generate_evaluation_report(username, result_dic):
-    # Process the results into a clean format
-    structured_data = process_results_for_report(result_dic)
-    
-    # Generate radar chart and get its path
-    radar_chart_path = generate_behavior_radar_chart(username, result_dic)
-    
-    # Save the report as a Markdown file with embedded Radar Chart
-    save_report_as_markdown(username, structured_data, radar_chart_path)
+        ax.set_ylabel(metric_labels[m_idx], fontsize=22)
 
+        ax.set_xticklabels([]) 
+        ax.tick_params(axis='y', labelsize=20)  
+
+        names = [(name[0].upper() + name[1:]).replace('-', '\n') if 'gpt' not in name else 'GPT-4o' for name in character_names]
+
+        ax.set_ylim(0, max(scores) * 1.2)
+        ax.grid(axis='y', linestyle='--', alpha=0.5)
+        ax.legend(fontsize=9, loc="upper right")
+ 
+        plt.tight_layout()
+        plt.show()
+        plt.savefig(f"figs/characters_{metric}.png", dpi=300, transparent=False)
+        plt.close()
 
 
 
 
 if __name__ == "__main__":
-    file_path = "data/recordings/TradeCraft.Duo_z96OKr4U.json"
-    result_dic = None
-    username = "GPT-4o"
+    args = ArgumentParser()
+    args.add_argument("--exp_name", '-N', default='Heu_Model', help="Experiment Name, in [Heu_SP, Heu_Model, Model_SP, Model_Model, winners].")
+    args.add_argument("--mb_fp", '-MP', default='evaluation_results/paper_experiments_same/model_based_ana', help="Folder path of the model-based evaluation results.")
+    args.add_argument("--rebuild_path", '-RP', default='evaluation_results/paper_experiments_same/rebuild', help='Folder path of the rebuild game info.')
+    args.add_argument("--threads", default=8)
 
-    result_dic = evaluation(username=username, file_path=file_path, save_path="evaluation_results")
+    args = args.parse_args()
+    heu_res = {}
+    character_game_list = ['un_vs_coo', 'com_vs_un', 'com_vs_coo', 'coo1_vs_coo2', 'com1_vs_com2', 'un1_vs_un2']
+    model_game_list = ['4o_vs_cl', 'ge_vs_4o', 'ge_vs_cl']
+    if args.exp_name ==  'Heu_SP':
+        for game in character_game_list:
+            players_dic = player_dics[game]
+            heu_res[game] = heuristic_evaluation(player_pool=list(players_dic.values()), game = game)
+            print(f"---------Game: {game}-----------")
+            for player, value in heu_res[game].items():
+                print(f"~~~~{player}~~~~")
+                for item, item_v in value.items():
+                    print(f"{item} = {item_v}")
+
+
+        character_result = get_heuristic_for_character(heu_res)
+        plot_character_behavior_bar_split(character_result=character_result, color_map=color_map)
+
+
+    elif args.exp_name == 'Heu_Model':
+        for game in model_game_list:
+            players_dic = player_dics[game]
+            heu_res[game] = heuristic_evaluation(player_pool=list(players_dic.values()), game = game)
+            print(f"---------Game: {game}-----------")
+            for player, value in heu_res[game].items():
+                print(f"~~~~{player}~~~~")
+                for item, item_v in value.items():
+                    print(f"{item} = {item_v}")
+        model_results = get_heuristic_for_models(heu_res)
+        plot_character_behavior_bar_split(character_result=model_results, color_map=color_map)
+
+
+    elif args.exp_name == 'Model_SP':
+        for game in character_game_list:
+            print(f"---------{game}-----------")
+            players_dic = player_dics[game]
+            success = evaluate_all_items_parallel(
+            item_list=LLM_evaluation_item_list,
+            log_path=f"{args.rebuild_path}/{game}/", 
+            base_save_path=f"{args.mb_fp}/{game}", 
+            max_workers_item=args.threads
+            )
     
-    path = f"evaluation_results/{username}/evaluation_results.json"
-    with open(path, "r") as f:
-        result_dic = json.load(f)
-    generate_evaluation_report(username, result_dic)
+            if success:
+                plot_radar_from_items(
+                item_list=LLM_evaluation_item_list, 
+                base_folder=f"{args.mb_fp}/", 
+                players_dic=players_dic, 
+                game=game, 
+                color_map=color_map
+            )
+            
+            
+
+    elif args.exp_name == 'Model_Model':
+        for game in model_game_list:    
+            print(f"---------{game}-----------")
+            players_dic = player_dics[game]
+            success = evaluate_all_items_parallel(
+                item_list=LLM_evaluation_item_list,
+                log_path=f"{args.rebuild_path}/{game}/", 
+                base_save_path=f"{args.mb_fp}/{game}", 
+                max_workers_item=args.threads
+                )
+    
+            if success:
+                plot_radar_from_items(
+                    item_list=LLM_evaluation_item_list, 
+                    base_folder=f"{args.mb_fp}/", 
+                    players_dic=players_dic, 
+                    game=game, 
+                    color_map=color_map
+                )
+                
+    elif args.exp_name == 'winners':
+        winner_loser()
+ 
+    else:
+        print(f"❌: Wrong Experiment Name, plz try -N in [Heu_SP, Heu_Model, Model_SP, Model_Model, winners]")
+

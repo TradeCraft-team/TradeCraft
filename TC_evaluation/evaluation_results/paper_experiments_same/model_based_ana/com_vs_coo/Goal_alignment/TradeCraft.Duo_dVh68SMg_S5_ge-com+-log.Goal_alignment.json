@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated perfect goal alignment. They correctly identified their need for iron ingots to craft a chain, recognized their opponent's abundance of raw iron, and formulated a trade proposal to acquire it. Their actions and thoughts consistently revolved around their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also exhibited excellent goal alignment.  They identified the need for cobblestone for their lever, recognized its presence in Player 2's offer, and accepted the trade, directly contributing to their goal."
+      }
+    ]
+  }
+]

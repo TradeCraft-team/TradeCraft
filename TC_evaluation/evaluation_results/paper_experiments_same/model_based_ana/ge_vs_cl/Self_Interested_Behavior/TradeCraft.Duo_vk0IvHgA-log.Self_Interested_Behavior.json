@@ -1,0 +1,128 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their goal of acquiring iron ingots for crafting a chain by proposing trades, demonstrating clear self-interested behavior. Though their initial proposal was invalid, they adapted and proposed another more appropriate trade based on what player 2 had."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 repeatedly checked the recipe for \"lever\" without engaging meaningfully with the trade proposal.  They eventually rejected it without giving a useful reason, indicating minimal self-interested behavior in this turn as they failed to effectively pursue their own goal or evaluate the trade's potential benefits."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a trade that directly benefits their goal of obtaining iron ingots. They clearly understood the value of the raw iron for their crafting objective, maximizing their own benefit from the trade."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a calculated trade proposal that effectively secured them coal in exchange for raw iron. They recognized that player 1 needed raw iron, and offered a beneficial deal to get the coal they needed. This shows strategic self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to pursue their goal by offering a reasonable trade for the iron ingot they needed. While their trade was rejected, they exhibited persistent self-interested behavior in trying to acquire the necessary resource."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 evaluated the trade proposal and correctly recognized that the offered items did not advance their own goal. Rejecting the proposal preserved a valuable resource (iron ingot) for potential future use, exhibiting self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not participate actively in this turn, having no proposals to make or respond to.  Thus, no self-interested behavior is observed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2's actions in this turn were ineffective and demonstrated a lack of focus. Repeatedly checking the lever recipe and generating invalid trade proposals wasted the turn and did not advance their goal, showing very little self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 gave away valuable resources (raw copper and raw iron) without receiving anything in return. Although framed as a \"goodwill gesture\", this action did not advance their goal and possibly weakened their position for future trades, demonstrating ineffective self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 capitalized on player 1's offer by accepting free resources. This opportunistic move maximized their potential gains without any cost, demonstrating strong self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 accepted a trade that directly benefited them by providing a needed raw copper in exchange for a cobblestone. This was a good move aligned with self-interest as it brought them closer to crafting their target item, the chain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade that secured cobblestone for raw copper. This demonstrates self-interested behavior as they sought to acquire a material that could be beneficial for other recipes, though not strictly necessary for the lever."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made a reasonable trade proposal offering excess resources for an iron ingot needed to complete their target. Although the trade was rejected, the attempt shows clear self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2's rejection of the trade proposal demonstrates self-interested behavior by conserving their resources. While the offered materials could have been useful in general, player 2 correctly assessed that they weren't essential for crafting the lever."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 traded raw copper for raw iron, a smart move that directly supports their objective of crafting a chain. This decision shows strong self-interested behavior by acquiring a necessary resource."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's proposal was strategic and self-interested, aiming to exchange a less needed material (raw iron) for something they could use later (raw copper), while also potentially helping player 1 progress, which might foster future cooperation."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully crafted their target item, the chain. Their actions throughout the game consistently aimed at this goal, showcasing strong and effective self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Despite having the resources to craft their target (lever), Player 2 failed to do so. Rejecting a neutral trade and not crafting the lever demonstrates poor strategic decision-making and a lack of focus on their own goal."
+      }
+    ]
+  }
+]

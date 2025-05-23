@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 clearly outlines their crafting goal, explains their needs, and proposes a mutually beneficial trade, highlighting how the offered coal can help Player 2 smelt their raw iron. This persuasive approach leads to a successful trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognizes the value proposition in Player 1's trade and accepts it. While their acceptance message is agreeable, it lacks the same level of strategic persuasion demonstrated by Player 1."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposes a trade of raw copper for raw iron, explaining their crafting plans and how the trade would benefit both players. This clear communication and rationale contribute to a successful trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepts the trade and acknowledges the mutual benefit, expressing a cooperative spirit. However, their reasoning primarily focuses on self-benefit rather than actively persuading Player 2."
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly submitted invalid proposals due to formatting errors, demonstrating poor goal alignment.  While their thinking showed an understanding of their goal (crafting a chain), their actions were ineffective."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 correctly identified their goal (lever), the necessary components (stick and cobblestone), and formulated a plan to craft it.  They recognized they had the cobblestone and planned to craft the stick from their oak plank. Although they made a recipe error trying to craft 2 sticks from a single plank, they consistently demonstrated understanding and pursuit of their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to focus on crafting a lever and correctly identified the necessary resources. However, they still struggled with the stick recipe, failing to craft it correctly.  Despite this repeated error, their goal alignment remained strong."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good goal alignment by correctly identifying their need for another iron ingot to craft the chain. They analyzed their opponent's inventory and recognized the opportunity to trade for raw iron, which they could smelt into an iron ingot. They also correctly smelted their raw copper into a copper ingot."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 showed some goal alignment by recognizing the need for iron to craft a chain, but their attempts to acquire more iron through proposing trades for iron ingot and raw iron failed. These unsuccessful attempts somewhat decreased their goal alignment score for this turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly identified their need for another plank to craft a stick and then the lever. They attempted to trade for planks which, though unsuccessful, demonstrated good goal alignment and a focus on achieving their objective."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated good goal alignment by recognizing the need for a stick, and correctly smelted raw iron, which was not necessary for their goal. However, attempting to trade raw iron for an unnecessary iron ingot indicates a slight drift from their immediate goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to focus on the need for more iron and accurately identified smelting raw iron as the best way to achieve this goal.  Their thinking and planned actions were aligned."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's goal alignment is good as they continued to pursue their need for another iron ingot to craft a chain, demonstrating a clear understanding of their target and the required resources.  Their efforts to acquire the ingot through trade further show goal alignment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 consistently identifies their need for planks to craft sticks and eventually a lever. They continue to express this need via trade requests although they haven't identified a valid craft path yet."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 effectively traded for the cherry planks they needed to craft sticks, demonstrating excellent goal alignment and understanding of their target objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted a trade that provided them with raw iron, showing awareness of their need for this material. However, it wasn't strategically ideal, considering they needed iron ingots and traded away cherry planks which could be used as smelting fuel."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully traded for another iron ingot, and crafted an iron nugget from one of their iron ingots. This demonstrates strong goal alignment. However, then using the iron nuggets to craft another iron ingot was a redundant action."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 focused on their goal of crafting a lever. Although they didn't craft anything this round, they recognized having the necessary materials and prepared to craft it on their next turn. Their thinking indicated a clear path to their goal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to prioritize crafting the lever, which aligns with their goal. Despite minor crafting errors, they have the correct strategy and the required materials. Their continued attempts to craft sticks and a lever, despite errors, reflect good goal alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's goal alignment is strong, demonstrated by their persistent attempts to trade for iron and the checking of the chain recipe to confirm the necessary materials. Their exploration of different trading strategies shows a focus on their goal."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2's focus remains on obtaining an additional iron ingot to craft the chain, displaying good goal alignment. They consistently attempt trades and consider their opponent's potential needs to facilitate these trades. Though unsuccessful this turn, their focus is evident."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 maintained goal alignment by rejecting trades for iron nuggets, recognizing that these items don't contribute to crafting a lever. They continue to attempt the correct crafting steps, indicating a continued focus on achieving their objective."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to focus on obtaining the materials needed for their lever. They attempted to craft the required stick, though unsuccessful this round, demonstrating goal-oriented actions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly identified they needed an iron ingot and pursued that goal throughout the turn, showing consistent goal alignment. Their offering of cobblestone, then iron nuggets for the ingot, demonstrates consistent effort."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognized their need for a stick and the fact they had the necessary planks. Their plan to craft the stick and then the lever indicates strong goal alignment and a clear understanding of the steps to achieve their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's attempts to trade for raw iron indicate goal alignment and a continued focus on obtaining the necessary components to craft their target item."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 consistently demonstrates goal alignment towards crafting a lever. Despite initial proposal issues and difficulty crafting the stick, they successfully trade for raw copper and correctly identify the remaining steps to achieve their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 achieved perfect goal alignment in this turn. They identified their need for raw copper, successfully traded for it, crafted an iron ingot, and used their existing resources to craft their target chain."
+      }
+    ]
+  }
+]

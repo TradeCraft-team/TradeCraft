@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully persuaded player 2 to trade.  Player 1 clearly stated their needs and offered something of value to Player 2, resulting in a successful trade.  The persuasive message convinced Player 2 that the trade was in their best interest, while also benefiting Player 1."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 was receptive to the trade offer and evaluated it effectively.  Although they didn't actively persuade anyone, their acceptance and reasonable counter-offer message facilitated the successful trade.  The reasoning behind the acceptance shows an understanding of their own goals and the potential motivations of Player 1."
+      }
+    ]
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated perfect goal alignment. They correctly identified their need for iron ingots to craft a bucket, formulated a plan to acquire raw iron through trading, and executed that plan effectively. Their thoughts and actions consistently revolved around their target item."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also exhibited excellent goal alignment. They identified their need for cobblestone to craft a stone shovel, recognized the value of the trade proposed by Player 2, and accepted it to further their goal.  All their thoughts and actions were directly related to acquiring the necessary components for their target item."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1's target shifted from stone_shovel to iron_pickaxe, demonstrating a complete lack of goal alignment from the previous turn. Although they had resources and the right plan to craft their original target, their shift to a new target invalidates any previous alignment."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 continued to exhibit excellent goal alignment.  Their thoughts and actions remained focused on acquiring a bucket, and they formulated a plan to smelt the raw iron they had acquired.  They accurately assessed the resources they needed and recognized the importance of fuel for smelting.  While they did not take any crafting actions, the intent and focus is clearly in line with their objective."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's goal alignment is weakened. Their thoughts initially show a lack of clear direction. However, they eventually formulate a plan consistent with acquiring a blast furnace by acquiring coal to smelt their raw iron, and ultimately doing so."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's goal alignment is weakening. Their initial plan to obtain coal was relevant to the new target, but their crafting actions do not show progress towards their target item."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1's target shifts again, showing a complete lack of goal alignment. They crafted shears, seemingly abandoning their previously stated goal of crafting an iron pickaxe."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains strong goal alignment. They prioritize obtaining iron ingots for their blast furnace, and successfully smelt raw iron."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2's target has changed from blast furnace to iron block, showing a complete lack of goal alignment. They trade away an iron ingot in exchange for raw copper, and do not utilize the available materials towards their previously stated target."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to demonstrate perfect goal alignment. Having secured their target (shears), they appropriately focus on maintaining their advantage and assessing the opponent's potential moves."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 maintains good goal alignment, focusing their efforts on protecting their win condition."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 shifts target from iron_block to shears, reflecting no goal alignment. Despite having partial progress towards the previous target, they change their focus entirely, including crafting shears which invalidates previous actions."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrates perfect goal alignment in this turn, successfully trading to acquire the final material they needed (raw iron) to reach their goal of shears."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 maintains good goal alignment, having already achieved their target (shears) they take no actions that jeopardize their victory."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 maintains perfect goal alignment. Having achieved their objective, they take no actions that jeopardize their win."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains perfect goal alignment.  Having already achieved their target, their focus shifts to preventing the opponent from winning, which is a valid strategy in this context."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains perfect goal alignment. Having achieved their target, they focus on strategic actions to maintain their advantage."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 maintains perfect goal alignment.  Having achieved their target (shears) they correctly recognize that doing nothing preserves their win condition."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 maintains perfect goal alignment, taking no actions that would jeopardize their achieved goal."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains perfect goal alignment. Having already secured their win condition, their actions focus on hindering Player 1's progress."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains perfect goal alignment, continuing to prioritize actions that prevent their opponent from winning, a sound strategy given their achieved win condition."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 continues to exhibit good goal alignment. Having already achieved their target, their actions are consistent with maintaining their win."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1's goal alignment is completely broken.  Their target shifts from shears to iron_ingot, and they trade away raw iron necessary for creating shears."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintains consistent goal alignment, focusing on strategic play to solidify their advantage. They successfully trade for additional resources to craft shears."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 maintained consistent goal alignment throughout the game, securing a win by crafting their target item (shears) early and then focusing on hindering their opponent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 demonstrated poor goal alignment overall. Despite crafting shears early on, their target shifted multiple times, indicating a lack of consistent strategy and ultimately preventing them from winning with their initially achieved goal."
+      }
+    ]
+  }
+]

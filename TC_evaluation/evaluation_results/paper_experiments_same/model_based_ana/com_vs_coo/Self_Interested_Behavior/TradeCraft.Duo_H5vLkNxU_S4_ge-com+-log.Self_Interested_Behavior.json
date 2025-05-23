@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted strategically by offering items they didn't need (cherry planks, cobblestone) in exchange for raw iron, which is essential for their target item (chain). This demonstrates a clear prioritization of their own goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 also acted in their self-interest by accepting the trade, as it provided them with materials needed for their target (stone_shovel). However, the justification for accepting the trade also mentioned helping Player 2, suggesting a partial consideration for mutual benefit, which slightly lowers the self-interest score."
+      }
+    ]
+  }
+]

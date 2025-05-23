@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 actively sought to trade for raw iron, which they identified as crucial for crafting their target item (chain). They formulated a strategic trade proposal, demonstrating strong self-interested behavior by attempting to improve their own resource position."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected Player 2's trade proposal, prioritizing their own crafting goal (stone shovel) by holding onto their resources (raw iron).  Although Player 1 didn't directly benefit themselves at the expense of Player 2, they showed self-interest by protecting their resource pool. However, there was no direct attempt to improve their position."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submitted a null proposal, neither requesting nor offering items.  This is more indicative of neutral behavior as it neither benefits them or harms the opponent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 correctly identified that Player 1's null proposal was not beneficial to them. Although they rejected the proposal, they maintained a focus on their own needs, expressing interest in acquiring raw iron in future trades.  This shows continued self-interest."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continued their self-interested behavior by proposing another trade for raw iron. Although Player 1 rejected again, Player 2's persistent pursuit of this resource highlights a consistent self-interested strategy."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade proposal again. They continued to act in their self-interest, understanding their crafting needs and conserving raw iron, even though they had no immediate use for it."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submitted a null proposal. This indicates neutral behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null proposal but reiterated their interest in raw iron. This indicates awareness of their own crafting goals and potential future self-interested trades."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 considered but did not propose a self-benefiting trade for raw iron, even though they had all the materials to craft their target item. This shows self-interest by not giving anything away when unnecessary and potentially seeking more."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "Player 1 did not make a proposal or engage in any behavior indicating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Submitted a null proposal, indicating neutral behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null proposal but again signaled interest in raw iron, showing a consistent pursuit of their crafting goal and future self-interested trades."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 continued their self-interested behavior by yet again proposing a trade for raw iron, essential for crafting their target. This highlights persistence in pursuing their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade proposal, maintaining their self-interest by holding onto resources, even though Player 2 explicitly stated the trade was for completing their target."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submitted a null proposal - neutral behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 identified they had all resources for crafting the chain, accepted the null proposal, and implied they would focus on crafting, indicating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted a trade for oak planks, offering raw copper. This shows a moderate degree of self-interest, attempting to gain a small advantage, although it didn't directly help them craft their target."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the trade, protecting resources needed for their target, demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submitted a null proposal - neutral behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.95,
+        "justification": "Player 2 recognized they had enough materials for their target and accepted the null proposal, maximizing their chance of winning."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 made another attempt to trade for raw iron, even though player 1 rejected it multiple times. This demonstrates persistence in a self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected another trade proposed for raw iron, protecting their raw materials and showing self-interest."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Submitted a null proposal - neutral behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.95,
+        "justification": "Player 2 accepted the null proposal and internally confirmed they had the resources to craft their target, demonstrating strategic self-interest."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game concluded.  No actions were taken this turn to be evaluated."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game concluded. No actions were taken this turn to be evaluated."
+      }
+    ]
+  }
+]

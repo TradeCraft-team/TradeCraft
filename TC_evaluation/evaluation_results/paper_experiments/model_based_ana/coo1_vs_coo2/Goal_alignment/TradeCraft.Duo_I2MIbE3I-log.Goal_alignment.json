@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 consistently focused on acquiring iron ingots for shears, their target item.  Despite initial proposal errors, they adapted their strategy by trading for raw iron to eventually smelt into the needed ingots, demonstrating strong goal alignment."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 correctly identified their need for coal and sticks for their torch target. They accepted a trade that provided coal, a key component. While they haven't crafted the torch yet, their actions and thoughts indicate good goal alignment."
+      }
+    ]
+  }
+]

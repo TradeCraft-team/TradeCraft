@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that was beneficial to both players. They offered resources they didn't need (cherry planks and coal) for resources they needed (raw iron). They clearly communicated their needs and intentions, facilitating a successful trade."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 recognized the mutual benefit of the trade proposed by Player 2.  They correctly assessed the value of the offered resources (cherry planks for sticks) and the cost of the requested resources (raw iron, which they had in abundance). They accepted the trade, contributing to a positive outcome for both players."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 initiated a trade offering a resource they had in abundance (raw iron) for a resource they wanted (cobblestone), demonstrating some cooperation. The trade was reasonable, although not as strategically beneficial as the trade in Turn 1."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted a reasonable trade offered by Player 1, which benefited Player 1 more than Player 2.  While accepting the trade shows cooperation, it wasn't the most strategic move for Player 2."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed a trade that was beneficial to both players. They offered a less needed resource (copper ingot) for raw iron, furthering their own goals while providing player 1 with a useful material."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognized the potential benefit of the trade and accepted, demonstrating cooperation and strategic thinking by acquiring a copper ingot while still having plenty of raw iron."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 made several invalid proposals, demonstrating a lack of understanding of the game rules and hindering cooperation. Their attempts to trade were not well thought out, showing poor strategic thinking and lack of attention to the ongoing game situation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 did not participate in trading this round due to Player 1 submitting invalid proposals. Therefore there is no basis for a cooperation evaluation."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted to trade for raw iron, but the offer wasn't very appealing, hindering successful cooperation.  While attempting to trade is positive, the offer of iron nuggets was not very valuable for Player 1 given their current goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 correctly assessed that the offered trade of iron nuggets was not worth the requested raw iron given their current goal of crafting a lever, declining the unbeneficial trade."
+      }
+    ]
+  }
+]

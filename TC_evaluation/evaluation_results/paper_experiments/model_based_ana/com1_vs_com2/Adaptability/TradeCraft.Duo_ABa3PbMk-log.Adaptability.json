@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent adaptability. They correctly identified the need for iron to craft shears, formulated a plan to acquire more iron through trading, and successfully executed the trade. They offered coal in exchange, recognizing its lesser importance to their own goal and potential value to their opponent.  This proactive trading strategy demonstrates strong adaptability to the game's starting conditions and available resources."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good adaptability. They correctly assessed the value of the trade offered by player 2, recognizing their need for coal to craft a torch and the relative abundance of raw iron at this stage. They accepted the trade, prioritizing their immediate need for coal, which was a good adaptive move to further their own objective. While they didn't display the same level of proactive planning as player 2, their acceptance of the trade was a smart adaptive decision given the game's current state."
+      }
+    ]
+  }
+]

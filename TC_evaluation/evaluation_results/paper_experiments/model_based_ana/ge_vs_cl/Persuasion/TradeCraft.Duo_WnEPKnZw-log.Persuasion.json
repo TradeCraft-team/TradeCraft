@@ -1,0 +1,100 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 attempted to persuade player 1 to trade raw iron by explaining why it would benefit player 1 to do so, even if the benefit was speculative (increasing copper collection). Player 2 clearly stated their own need for the raw iron and tried to frame the proposal in a collaborative \"win-win\" light. This demonstrates fairly good persuasion."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection message is polite and offers a reasonable explanation. It doesn't try to persuade Player 2 to make a different offer, but effectively justifies the rejection, which is a form of persuasion."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's proposal includes a simple explanation for their request, which is a basic element of persuasion."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2's rejection message is generated due to timeout and does not showcase persuasion."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully persuades player 1 to make a trade that player 1 had previously rejected. This demonstrates a good understanding of player 1's needs and strong persuasive ability by recalling and reframing a previous proposal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepted the offer. No persuasion was needed or attempted."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 communicates their intention to craft, providing context for the null trade. This is a simple but effective communication strategy, preventing any potential misunderstandings or suspicions from player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's acceptance message demonstrates good sportsmanship and encourages positive interaction, showing social awareness in communication."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 submits two invalid proposals, failing to communicate effectively."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1's rejection message is polite but firm, stating clearly that they don't need copper, while acknowledging the offer."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 clearly states they don't need to trade and will focus on crafting their target item. This provides context and transparency to player 2, facilitating smooth gameplay."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2's acceptance message is polite and reciprocal, acknowledging player 1's plan and indicating their own focus on crafting."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 makes a null trade proposal, explaining they have everything needed to craft their target item, implicitly signaling their likely win in the following turn."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 simply accepts. No persuasion is demonstrated."
+      }
+    ]
+  }
+]

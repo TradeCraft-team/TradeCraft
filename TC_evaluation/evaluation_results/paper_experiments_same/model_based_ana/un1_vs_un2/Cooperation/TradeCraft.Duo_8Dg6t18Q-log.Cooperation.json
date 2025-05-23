@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a fair trade that benefited both players. Player 1 needed raw iron, and player 2 had an excess they were willing to part with for raw copper."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 willingly accepted a reasonable trade proposed by player 1.  The trade helped player 1 progress towards their goal."
+      }
+    ]
+  }
+]

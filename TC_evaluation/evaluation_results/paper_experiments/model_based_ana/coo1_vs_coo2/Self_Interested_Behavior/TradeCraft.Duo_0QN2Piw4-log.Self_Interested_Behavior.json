@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 acted in a self-interested manner by proposing a trade that would benefit them in achieving their goal of crafting a bucket. They offered coal in exchange for raw iron, which they could then use to smelt their own raw iron into iron ingots, a necessary component of a bucket.  They also attempted to learn about player 1's goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, demonstrating some self-interest as the coal would allow them to smelt their own raw iron. However, they also revealed some information about their own intentions, which could be seen as less self-interested."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's actions in this turn were primarily cooperative. They attempted to help player 2 achieve their goal by offering resources, and also attempted to share information.  Their initial trade proposals prioritizing their own needs were invalid. This demonstrates more cooperative than self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted player 1's offer of raw iron without giving anything in return. This clearly benefits player 2 as they need raw iron to craft a bucket.  They shared their goal with player 1 but also asked for player 1's goal, indicating a balanced reciprocal act."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 successfully traded raw copper for an iron ingot. This was highly self-interested behavior, as it allowed them to complete their target item, the bucket, at a minimal cost.  They effectively leveraged player 1's cooperative behavior to their advantage."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 cooperated by accepting player 2's trade proposal, giving away their iron ingot for raw copper which they did not need. This prioritizes player 2's goal over their own, demonstrating very low self-interest."
+      }
+    ]
+  }
+]

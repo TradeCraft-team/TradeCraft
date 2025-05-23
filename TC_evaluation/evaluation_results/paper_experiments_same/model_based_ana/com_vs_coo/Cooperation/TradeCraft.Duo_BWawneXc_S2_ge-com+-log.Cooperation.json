@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 initiated a trade that benefited both players. They offered resources they didn't need for resources that would help them achieve their goal.  This demonstrates excellent cooperation by identifying a mutually beneficial trade opportunity."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 readily accepted the trade proposed by Player 2. They recognized the benefit of the trade and expressed gratitude, indicating a strong understanding and appreciation of cooperative gameplay. The trade helped both players progress towards their goals, showcasing excellent cooperation."
+      }
+    ]
+  }
+]

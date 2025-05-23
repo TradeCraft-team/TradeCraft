@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 exhibited strong self-interested behavior by proposing a trade that benefited them while also appearing beneficial to Player 1. They offered resources they didn't need (coal and raw copper) in exchange for raw iron, which is essential for their target item (chain).  They clearly stated their need for iron ingots in their message, making their intentions transparent."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, demonstrating some self-interest as they gained coal needed to smelt iron. However, their reasoning also emphasized mutual benefit and cooperation."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 initiated a trade offering raw copper for an iron ingot. This demonstrates self-interest as they prioritized acquiring the resources for their lever.  The justification focuses on personal gain."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the trade despite not immediately needing raw copper.  Their justification highlighted the cooperative strategy but also acknowledged the trade partner's need for the iron ingot."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a trade for coal, demonstrating self-interest by attempting to acquire a necessary resource for smelting. Their message framed the trade as mutually beneficial, but the primary goal was their own gain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 accepted the trade despite not needing the raw iron.  Their justification emphasizes cooperation, downplaying their self-interest."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 proposed a trade that directly benefits their lever goal (cobblestone). Although they offer a seemingly fair deal, their focus remains on acquiring the necessary resource."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, gaining raw iron which could be useful. Their decision-making process shows a blend of cooperation and self-interest.  While the justification claims mutual benefit, gaining raw iron serves their personal goal more."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade for raw copper, directly benefiting their chain goal. Their justification emphasizes their personal needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade, highlighting the cooperative strategy. However, the trade is more beneficial to Player 2."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 attempted several invalid proposals before finally making a valid, selfless offer of raw iron.  The multiple invalid proposals significantly reduce their self-interest score. While the final proposal is selfless, it suggests an ineffective strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the free raw iron, maximizing their resource gain without any cost.  This highlights strong self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a trade for cobblestone. This demonstrates self-interest by directly trying to acquire the needed resource for crafting the lever."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade as it provided more raw materials, while having enough cobblestone in hand."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a trade for cobblestone which is a self-interested move aimed at completing the lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted the trade, gaining raw iron while helping Player 1 get closer to their goal. This shows mixed self-interest and cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed a mutually beneficial trade of raw iron for raw copper. This displays a balance of self-interest and cooperative behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, also demonstrating a balance of self-interest and cooperative behavior."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 offered a free raw iron to Player 2. This generous offer doesn't show a lot of self interest and indicates an ineffective trading strategy"
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the free raw iron, which clearly benefits them without any cost.  Accepting free resources is a self-interested move."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 initiated a trade for an iron ingot, a key component for their chain. This demonstrates clear self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the trade, despite it not benefiting their lever goal. Their justification emphasizes cooperation, but accepting a disadvantageous trade indicates weaker self-interest."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 made a selfless offer of raw iron without asking for anything in return, which shows weak self-interest.  While they ask about sticks, the primary action is a gift."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the free raw iron, maximizing their resource gain without any cost."
+      }
+    ]
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent adaptability by analyzing their hand, identifying their needs (iron ingots for a chain), recognizing the opponent's potential needs (coal for smelting), and proposing a mutually beneficial trade. They correctly deduced a possible target for their opponent and tailored their proposal accordingly."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 showed good adaptability by recognizing the value of the proposed trade, understanding their own need for coal to smelt raw iron, and accepting a trade that advanced their progress towards crafting a lever."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 identified the need for an iron ingot and offered a reasonable trade for it. While the trade was accepted, it didn't contribute directly to their target item (lever).  Adaptability was shown in recognizing their need for iron and proposing a trade, though a more adaptable strategy might have involved aiming for a stick or planks."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade, which provided them with raw copper, but their main focus seemed to be on acquiring raw iron, potentially overlooking opportunities to obtain a raw copper they seemed to already have.  They adapted well by identifying the need for fuel to smelt raw materials, even though they didn't actively acquire the fuel this turn."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted to their lack of fuel by proposing a trade for coal, offering their raw iron in return.  This shows a good understanding of their immediate needs and a willingness to trade for necessary resources.  They correctly identify the need to smelt their raw materials into more useful forms and recognize their opponent's potential need for raw iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, recognizing that Player 2 needed the coal more. While this helped Player 2, it didn't directly benefit Player 1's goal of crafting a lever.  They missed an opportunity to propose a counter-trade that might have benefitted them more."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 offered a trade of raw iron for cobblestone, which was accepted. However, this trade didn't directly contribute to their goal of crafting a lever, as they already had cobblestone.  The adaptability score is lower because the trade seems driven by a surplus of raw iron rather than a strategic need."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, gaining raw iron.  This trade gave them a surplus of materials, but their adaptability is slightly lower as they missed an opportunity to request coal or other materials that could help them craft their target item."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 proposed and completed a trade of raw iron for raw copper. This trade provided them with a necessary component for crafting a chain, demonstrating adaptability to their resource requirements."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted a trade that provided them with raw iron in exchange for raw copper. While not detrimental, this trade didn't significantly advance their progress toward crafting a lever. Adaptability is scored lower as they didn't leverage the trade for materials they needed."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 made multiple invalid proposals, demonstrating a lack of understanding of trading limitations.  Their adaptability score is low due to the repeated errors and lack of a successful trade."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted raw iron offered by player 1.  While they didn't actively make a proposal, they benefitted from the trade and expressed willingness to reciprocate, indicating good cooperative gameplay and adaptability."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully traded raw materials for cobblestone, demonstrating adaptability by adjusting their strategy based on available resources.  However, trading away both raw materials might limit their crafting options."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted the trade, gaining raw materials. While not immediately helpful for their lever, the trade could be useful for smelting or future trades, demonstrating some adaptability."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 made an invalid proposal for sticks but adapted by proposing a successful trade for cobblestone, a necessary component for the lever."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, giving up cobblestone for raw iron.  While this helps accumulate materials, it doesn't directly contribute to crafting a chain, resulting in a lower adaptability score."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 successfully traded for raw copper, a necessary material for crafting a chain, demonstrating good adaptability to resource needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 accepted the raw iron for raw copper trade. While this trade provides material for smelting, it doesn't directly contribute to their target item (lever).  Adaptability is scored lower as they didn't capitalize on the opportunity to trade for materials they needed."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 made an invalid trade request and then gave raw iron to player 2. While being cooperative, it didn't advance player 1's own goal.  Adaptability is scored lower due to the lack of focus on their own objective."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the gifted raw iron. While this improves their resource pool, they didn't actively adapt their strategy this turn. The adaptability score is average as it didn't involve strategic decision-making."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 shows adaptability by successfully trading raw copper for an iron ingot, a crucial step towards crafting their target item (chain)."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted a trade that provided raw copper in exchange for an iron ingot.  While the trade benefited player 2, it didn't directly advance player 1's progress towards crafting a lever. They adapt by focusing on making sticks, but the overall strategy could be improved."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to provide resources to player 2 without directly advancing their own goal. This shows cooperation but limited adaptability to their current situation."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 accepted the raw iron and focused on crafting their target, chain, achieving victory.  This demonstrates excellent adaptability by maximizing the use of available resources and focusing on the win condition."
+      }
+    ]
+  }
+]

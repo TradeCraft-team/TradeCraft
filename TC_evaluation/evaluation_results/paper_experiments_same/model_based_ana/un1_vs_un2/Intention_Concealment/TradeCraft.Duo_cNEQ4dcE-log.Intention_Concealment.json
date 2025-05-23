@@ -1,0 +1,142 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly revealed their need for iron ingots by directly requesting them and explaining their intention to craft a chain.  Their early proposals were also poorly formatted, which hindered their ability to conceal intentions effectively."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 did not reveal their intentions during this turn.  They accepted a null trade from player 2, which doesn't reveal any information about their own goals."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their need for cobblestone to craft a stone shovel, giving player 2 some insight into their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the trade, which indirectly reveals their need for raw iron, but they didn't explicitly state their intention to craft a chain."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 revealed their need for raw iron and mentioned their intention to craft a chain, giving player 1 valuable information. However, the trade itself is reasonable and doesn't overly reveal their strategy."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted the trade, which doesn't reveal much about their intentions.  They considered offering different materials, weighing the potential benefits and drawbacks, demonstrating a level of strategic thinking without giving away their ultimate goal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a null trade, stating they are working towards their goal, but this doesn't reveal any specific information about their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 accepted the null trade, maintaining a neutral stance and not revealing any information about their intentions."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 proposed a null trade and stated they have everything they need.  This is slightly revealing as it implies they're close to their target, but not overly specific.  The initial failed proposal for fuel is somewhat revealing, but the null trade mitigates this."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the null trade and focused their thoughts on crafting their target item, without revealing any specific information."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a null trade, not revealing their intentions."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's internal monologue shows their focus on iron and their need for fuel.  While they didn't explicitly reveal their intentions in the trade, their previous actions suggest a need for iron."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 explicitly stated they are trying to make a chain, revealing their target item. Although they tried to mask it as a simple resource request, the message gives away their intention."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejected the trade and provided a plausible reason, not revealing any information about their own goal."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 made a null trade and didn't reveal any information about their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2's thinking reveals their focus on acquiring more iron and crafting a chain, but this information isn't shared with player 1."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2's repeated attempts to trade for iron, coupled with their earlier reveals, further solidify their need for iron ingots.  Although they offered different items, the underlying intention is clear."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 consistently rejected trades that don't benefit their goal, without revealing what that goal is."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's initial proposal for oak planks hints at their need for sticks. The subsequent trade offer for raw iron is a less revealing fallback, but their earlier actions provide context for player 2."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 rejected a pointless trade and inquired about other offers, demonstrating strategic thinking without revealing their own intentions. Their internal thoughts highlight their need for iron ingots and a chain, but this information isn't conveyed to player 1."
+      }
+    ]
+  }
+]

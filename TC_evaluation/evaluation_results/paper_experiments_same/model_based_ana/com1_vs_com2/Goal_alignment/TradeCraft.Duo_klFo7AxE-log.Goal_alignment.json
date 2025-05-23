@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 clearly identified their need for iron ingots to craft a bucket and formulated a trade proposal aligned with this goal. They offered less valuable resources (coal and planks) to obtain raw iron, directly contributing to their objective."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 correctly assessed the trade proposal's value in relation to their goal of crafting a stone shovel. Recognizing the need for planks to make sticks, they accepted the offer of cherry planks, thus furthering their progress towards their target item."
+      }
+    ]
+  }
+]

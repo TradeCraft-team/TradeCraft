@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted completely in their self-interest. They identified that Player 1 had a resource they needed (raw iron) and offered a beneficial trade of coal in return. Their thinking and actions clearly demonstrate a focus on achieving their own goal (crafting shears)."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 also demonstrated self-interested behavior by accepting the trade offer from Player 2, since they needed coal to achieve their goal. While the trade benefited both players, Player 1's primary motivation seems to be acquiring the necessary resource for themselves."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1's proposal to trade raw copper for cobblestone was not directly related to their goal.  The attempt to encourage trading was not effective. They were unable to craft anything in the crafting phase and appear to have some difficulty with the crafting mechanics."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 rejected a trade that didn't benefit them. Their focus remained on acquiring the resources needed to craft shears.  They persisted in finding a solution to smelt the raw iron, focusing solely on their objective and eventually succeeding in crafting the shears."
+      }
+    ]
+  }
+]

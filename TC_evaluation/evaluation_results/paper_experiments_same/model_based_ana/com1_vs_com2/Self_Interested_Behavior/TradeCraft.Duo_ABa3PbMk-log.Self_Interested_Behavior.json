@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 acted entirely in their self-interest. They identified their need for iron, formulated a plan to acquire it from player 1, and executed that plan successfully.  They offered an item of less immediate value to them (coal) in exchange for something they needed (raw iron).  Their actions directly advanced their goal of crafting shears."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 acted in partial self-interest. Although they correctly identified the immediate benefit of receiving coal for their torch goal, they failed to fully analyze Player 2's motivation. Trading away raw iron could have been a potential longer-term strategic disadvantage if the game continued, as they might have needed the iron for a more complex crafting recipe later.  They prioritized a short-term gain without fully assessing potential long-term consequences."
+      }
+    ]
+  }
+]

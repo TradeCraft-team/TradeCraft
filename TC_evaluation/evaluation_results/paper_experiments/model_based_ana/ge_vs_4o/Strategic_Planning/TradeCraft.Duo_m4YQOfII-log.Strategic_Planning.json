@@ -1,0 +1,114 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning by identifying their target (shears), recognizing the resources they needed (iron ingots), and formulating a plan to obtain those resources through trading. They correctly identified that their opponent had the necessary raw materials and made a reasonable trade offer. Although the trade was rejected, the overall plan was sound."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer without properly assessing its value. They missed an opportunity to acquire resources that could have been beneficial.  Their reasoning for rejecting the offer was unclear, and their strategic thinking appeared limited in this turn.  They did express an understanding of their goal (torch) but didn't show strategic actions toward it."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to pursue their goal of crafting shears by formulating a revised trading strategy. They considered different trade offers and adjusted their approach based on the initial rejection.  Their plan remains focused on obtaining iron ingots, showing consistent pursuit of their target."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 shows better understanding of the game by proposing trades this turn.  They correctly identified proposing an invalid trade first. But corrected the mistake later and proposed a trade based on the perceived needs of Player 1. Although the offer was rejected, it showed improved strategic planning and consideration for the other player's goals."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continues to pursue their goal, adapting their trade offers after rejections. While they haven't achieved their goal yet, they demonstrate persistence and adaptability, key elements of strategic planning."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2 continues to consider their goal and identifies the necessary components. However, they did not make a trade offer this turn, possibly missing an opportunity to progress towards their goal.  They appear stuck without coal."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted a beneficial trade offer that provided them with essential resources (raw iron). They evaluated the offer based on their target (shears) and recognized the potential to convert the raw iron into iron ingots. This demonstrates sound judgment and effective resource management."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a strategically sound trade offer that benefited both players.  They traded excess raw iron for cherry planks, which serves as fuel. They also considered Player 1's need for iron ingots when making the offer. This suggests consideration for both their own and their opponent's goals."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1 failed to make proper crafting moves and finally give up crafting on this turn. Their initial trade offer was rejected, and their subsequent decision-making shows a lack of clear direction."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 recognized the need to gather more information about possible crafting recipes.  This demonstrates good planning. They considered their own hand, the opponent's hand, and their goal, showing strategic awareness."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.3,
+        "justification": "Player 1 missed an opportunity to smelt the raw iron into an iron ingot. They identified the correct craft, but were unable to execute it due to a lack of fuel.  Their strategic plan seems to be stalled by an easily surmountable resource problem."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to seek ways to obtain coal, researching recipes and considering their options. While they didn't make a successful trade or craft, their persistent information gathering demonstrates continued strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to evaluate their options for obtaining the necessary resources to craft shears. Their proposed trade offer was reasonable, but rejected. Their planning shows awareness of both crafting and trading as paths to victory."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated strategic thinking by analyzing both their own and Player 1's resources and considering potential target items. Although they rejected Player 1's trade offer, the decision was based on a strategic assessment of the situation."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 successfully traded for resources, crafted the necessary iron ingot, and then crafted their target item (shears), winning the game.  This demonstrates excellent strategic planning and execution."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.6,
+        "justification": "Player 2 made a reasonable attempt to trade for coal. Although the attempt was unsuccessful and their overall strategy seemed to stagnate as the game ended, they were still seeking solutions to achieve their goal."
+      }
+    ]
+  }
+]

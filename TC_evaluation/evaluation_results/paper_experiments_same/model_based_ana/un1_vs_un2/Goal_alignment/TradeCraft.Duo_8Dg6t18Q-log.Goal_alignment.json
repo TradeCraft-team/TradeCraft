@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 identified the necessary resources to craft a chain, proposed a reasonable trade to obtain missing materials, and successfully crafted the chain. All actions were directly related to achieving the win condition."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 accepted a trade that did not directly benefit their goal.  Despite having the resources to craft their target item (a lever), player 2 failed to do so due to an incorrect crafting recipe. They did not achieve their goal and made suboptimal decisions."
+      }
+    ]
+  }
+]

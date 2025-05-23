@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 adapted their strategy by recognizing their need for iron ingots to craft a bucket and successfully traded for raw iron, offering excess materials in return.  This demonstrates a proactive approach to acquiring necessary resources and adapting to the available materials."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 demonstrated excellent adaptability by accepting a trade that provided them with cobblestone, a key component for their target item (stone shovel).  They recognized the value of the trade and capitalized on the opportunity to advance their game plan."
+      }
+    ]
+  }
+]

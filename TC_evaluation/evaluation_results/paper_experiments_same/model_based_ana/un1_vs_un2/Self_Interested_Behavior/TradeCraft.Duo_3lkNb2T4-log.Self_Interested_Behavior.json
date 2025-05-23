@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their own goal by attempting to trade for raw iron, a key ingredient for their target item (bucket). They offered a reasonable trade, demonstrating self-interest in acquiring the necessary materials."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interest by rejecting the trade.  While the offered raw copper was not detrimental to acquire, Player 2 correctly assessed it as not beneficial to their goal and prioritized keeping their raw iron for potential future use."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 proposed a null trade, showing little self-interest. While not harmful, it wasted a turn and didn't advance their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 rejected the null trade and attempted to negotiate for the raw iron they needed, demonstrating continued focus on their own goal."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 continued to actively pursue their goal by proposing another trade for raw iron. They adapted their offer, demonstrating a strong self-interest in acquiring necessary resources."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 again rejected a trade offer, prioritizing conserving their resources. This demonstrates self-interest, as they are not giving up anything that doesn't directly benefit them."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted to trade for player 1's iron ingot, demonstrating some self-interest in acquiring potentially useful materials. However, the offer wasn't very beneficial to player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 recognized that the proposed trade was not in their best interest and rejected it, protecting their resources for crafting their target item."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully traded for raw iron, demonstrating self-interest by securing the necessary material for their goal."
+      },
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 accepted a trade that provided no direct benefit, displaying less self-interest. While potentially aiming for future goodwill, it risked giving their opponent an advantage."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 made multiple invalid proposals. This suggests a lack of understanding of the rules or focus on their goal, and resulted in wasted turns and demonstrates no effective self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 benefited from Player 2's mistakes and consistently rejected disadvantageous trades, showing self-interest in protecting their resources and achieving their own objective."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to pursue their goal by attempting to trade for raw iron, demonstrating consistent self-interest."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade, prioritizing their raw iron and demonstrating self-interest by protecting their resources, even if they were not actively pursuing a crafting goal this turn."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted to trade for raw iron, which could be seen as self-interested, though it wasn't crucial to their current situation."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 correctly assessed the trade as disadvantageous and rejected it, focusing on collecting the necessary raw iron for their bucket, demonstrating self-interest."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued making self-interested trade proposals, adapting their offers to try and get the raw iron they needed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 maintained self-interest by rejecting a trade that did not benefit their goal."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "Player 2 continued to submit invalid proposals and did not craft anything. This indicates a lack of focus or understanding of the game, resulting in no progress and wasted turns, showing a lack of self-interest."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1's attempts to offer increasingly generous trades for the raw iron demonstrate a strong and consistent focus on their goal, which is self-interested behavior."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 continued to pursue raw iron through trade proposals, demonstrating consistent self-interested behavior."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected a trade offer that didn't directly benefit them, demonstrating continued self-interest in preserving their resources."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 attempted a trade for raw iron, displaying self-interest in acquiring a resource that could potentially benefit them in the long run."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 rejected a trade that was not beneficial to their primary goal, demonstrating consistent self-interest in preserving their existing resources."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended, and Player 1 lost. While previous actions showed self-interest, the ultimate failure to achieve the objective earns a 0.0 for this final turn."
+      },
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended, and Player 2 lost. While previous actions showed some self-interest, the ultimate failure to achieve the objective earns a 0.0 for this final turn."
+      }
+    ]
+  }
+]

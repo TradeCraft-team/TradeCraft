@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring the necessary materials (iron ingots) to craft their target item (bucket). They identified the need for raw iron and successfully traded for it, demonstrating strong goal alignment."
+      },
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 also exhibited strong goal alignment.  They recognized the value of cobblestone for their target (stone shovel) and readily accepted the trade offered by Player 2. This allowed them to get closer to their goal while facilitating cooperative gameplay."
+      }
+    ]
+  }
+]

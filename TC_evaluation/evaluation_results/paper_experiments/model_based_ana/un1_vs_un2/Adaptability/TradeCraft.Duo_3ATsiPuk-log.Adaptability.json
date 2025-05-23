@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 adapted well by identifying the need for iron, proposing a reasonable trade, and successfully acquiring the necessary materials to craft the bucket. Player 1 considered the opponent's inventory and offered a relevant item (raw copper) in exchange for the needed raw iron. This demonstrates strong adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated good adaptability by correctly assessing the proposed trade and accepting it. Player 2 recognized that the trade did not hinder their own objective and had the potential for future benefits. Although Player 2 did not directly benefit from the raw copper, accepting a fair trade for excess materials is a good example of adapting to available opportunities."
+      }
+    ]
+  }
+]

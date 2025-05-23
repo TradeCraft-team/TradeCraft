@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated strong self-interest by proposing a trade that directly benefited them. They requested raw iron, a key component for crafting their target item (chain), and offered items they didn't need in return. Their persuasive message further emphasizes their focus on achieving their goal."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "player 1 also acted in their self-interest by accepting the trade. They recognized the value of the offered resources (coal and planks) for their own crafting goals. While not as directly beneficial as Player 2's actions, accepting the trade facilitated their own progress."
+      }
+    ]
+  }
+]

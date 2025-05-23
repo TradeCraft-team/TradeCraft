@@ -1,0 +1,58 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 initiated a trade, demonstrating a willingness to cooperate. The offer was reasonable given the game context. However, the trade was rejected."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer. While they provided a reason, it didn't foster cooperation or offer alternative solutions.  They also failed to make their own proposal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.1,
+        "justification": "Player 2 submitted an empty trade proposal, effectively declining any cooperation. They stated they had everything they needed but did not attempt to help player 1, even though player 1 clearly needed resources."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 rejected the empty trade and expressed their need for iron. This shows a continued desire to cooperate and trade."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made another reasonable trade offer, demonstrating continued willingness to cooperate and find a mutually beneficial exchange."
+      },
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 again rejected the trade offer without proposing any alternatives. This demonstrates a lack of cooperation."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 finally proposed a mutually beneficial trade. Player 2 also needed the planks so win-win deal!"
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 accepted the trade, demonstrating cooperation and willingness to engage in a mutually beneficial exchange."
+      }
+    ]
+  }
+]

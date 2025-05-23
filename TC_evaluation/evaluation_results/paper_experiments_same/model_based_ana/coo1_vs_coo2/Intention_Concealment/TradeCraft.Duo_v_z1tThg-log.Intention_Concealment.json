@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 disguised their need for raw iron by stating they wanted to craft \"more tools.\" While the trade of copper for iron could benefit both players, the phrasing subtly hides their true intention of crafting a chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1's acceptance of the trade and their message suggest a cooperative approach. They don't explicitly reveal their intentions, but their actions don't actively conceal them either."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 revealed that they have enough materials to make their target item. While seemingly generous, this gives away crucial information about their progress and potentially their target item category."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 maintains a good level of concealment by accepting the raw iron without revealing their need for it or their overall plan."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2's initial invalid proposal reveals some information about their potential needs (coal).  The subsequent offer of iron nuggets is somewhat ambiguous, providing a partial concealment of their true needs for crafting the chain."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1's acceptance of the iron nuggets without revealing their true intentions (crafting a stone_shovel) demonstrates a strategic concealment of their goals."
+      }
+    ]
+  }
+]

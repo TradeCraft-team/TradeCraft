@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 consistently focused on acquiring the necessary resources (iron) to craft their target item (shears). They identified what they needed, checked recipes, and formulated a trade proposal specifically designed to obtain the missing ingredients from player 1. Although the initial attempts failed, player 2 persevered, demonstrating a strong drive to achieve their goal and prioritize their own success."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 accepted player 2's trade proposal as it provided them with coal, a key ingredient for their target item (torch).  While their focus was on obtaining the coal, their behavior was reactive rather than proactive in terms of self-interest. They benefited from the trade but didn't actively pursue it or strategize beyond accepting the offer."
+      }
+    ]
+  }
+]

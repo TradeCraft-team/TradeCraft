@@ -1,0 +1,184 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated good adaptability by first checking the recipe for their target item (chain) and then formulating a trade proposal based on that information and their partner's inventory.  They correctly identified the need for iron ingots and offered a relevant trade of coal for raw iron."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 showed some adaptability by recognizing that they didn't need the offered coal, as they already had the necessary resources to craft their target item (stone shovel). They rejected the trade, prioritizing their own goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted their strategy by identifying their need for cobblestone and proposing a trade with Player 2. They offered a fair trade of raw iron for cobblestone."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 demonstrated adaptability by accepting a trade that benefited both players.  They recognized the value of raw iron and the cooperative nature of the game."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 analyzed the game state and offered a trade that could potentially benefit both players. Offering iron ingots for raw copper and another iron ingot shows an attempt to adapt to the perceived needs of Player 1."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted well by accepting a beneficial trade, gaining an extra iron ingot."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 attempted to trade excess cobblestone slabs, showing an attempt to adapt to their current inventory, but the trade offer wasn't highly strategic."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated adaptability by considering the potential benefits of the trade and accepting it to help player 1 progress."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 attempted another trade, demonstrating some adaptability, but the trade offer wasn't particularly advantageous for either player."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapted well by rejecting a trade that wouldn't have significantly helped them progress towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.4,
+        "justification": "Player 1's repeated invalid proposals and eventual trade offer demonstrate a lower level of adaptability. While they eventually proposed a reasonable trade, the initial missteps indicate some difficulty in understanding game rules and crafting possibilities."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 showed good adaptability by recognizing a beneficial trade opportunity and accepting player 1's offer."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly identified a potential need of player 1 and proposed a relevant trade."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted well by accepting a trade that diversified their resources and opened up new crafting possibilities."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 adapted their strategy by offering a trade to acquire more iron ingots.  Even though they could craft their own, prioritizing acquisition through trade could demonstrate a time-saving strategy."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 made a good trade, effectively converting raw materials to a more useful item."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed adaptability by proposing a trade to help themselves and potentially Player 1 get closer to their goals."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 adapted well by accepting a trade for a resource they could easily use."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 proposed a reasonable trade to acquire resources they needed, showing continued adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 again adapted well by analyzing the trade and accepting it to help themselves and Player 1."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to show adaptability by proposing trades and analyzing game state of both players. This specific trade was aimed to help both get necessary items."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a good decision in accepting, realizing it would be easier to get more copper rather than iron."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 continued to adapt and propose trades for more items."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 adapted their strategy by accepting the trade for raw iron, which was beneficial to craft iron ingots."
+      }
+    ]
+  },
+  {
+    "turn 13": [
+      {
+        "user": "player 2",
+        "score": 0.0,
+        "justification": "The game ended."
+      },
+      {
+        "user": "player 1",
+        "score": 0.0,
+        "justification": "The game ended."
+      }
+    ]
+  }
+]

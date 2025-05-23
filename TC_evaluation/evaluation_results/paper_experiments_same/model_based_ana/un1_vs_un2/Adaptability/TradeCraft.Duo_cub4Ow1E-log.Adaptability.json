@@ -1,0 +1,170 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 repeatedly submitted invalid proposals due to formatting issues, demonstrating poor adaptability. They did identify the need for iron ingots and attempted to trade for them, but their inability to submit a valid proposal hindered their progress."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 correctly assessed the situation with the null trade, recognizing the formatting error on Player 2's side.  They accepted the trade to maintain a positive relationship while not hindering their own progress.  They also correctly identified the necessary steps to craft their target item, showing good planning and adaptability."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 failed to craft a stick despite having the necessary materials (oak planks). They repeatedly checked the stick recipe but couldn't execute it correctly, indicating a lack of adaptability and problem-solving skills.  They also missed an opportunity to trade for the missing planks from the opponent."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 correctly identified the need to acquire another iron ingot and raw copper.  They considered the opponent's needs and resources but didn't successfully execute a trade. While they recognized the mistake of trading raw copper for a copper ingot, their proposed trade wasn't accepted. This shows some adaptability but a lack of effective execution."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 continued to struggle with adapting their trading strategy.  While their proposals were valid this turn, they were rejected by player 1.  They recognized the need for raw iron and attempted to trade for it, but didn't offer anything compelling to player 1. Their attempts to trade copper for raw iron were unsuccessful, showing limited adaptability."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 correctly identified the need for more planks and attempted to trade for them, showing some adaptability. However, their repeated offers of raw iron, even increasing the amount, were rejected, indicating an inability to effectively adjust their trading strategy to the opponent's needs. They still haven't successfully crafted anything."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 finally recognized they only had one oak plank and needed another one for sticks. They attempted to trade for cherry planks. Although unsuccessful, trying different trading strategies (offering increasing amounts of raw iron and then raw copper) demonstrates some level of adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.4,
+        "justification": "Player 2 maintained focus on acquiring iron, showing consistent goal orientation. They adapted their offer by including both copper ingot and cherry planks, demonstrating a willingness to compromise. However, the trade was still not successful, showing limitations in their negotiation skills."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 considered crafting iron ingots from raw iron, showing resourcefulness.  They offered cherry planks for raw iron, which was rejected, then offered their copper ingot for iron ingot, which was again rejected. While this demonstrates some adaptability, they continued to struggle to understand player 1's needs."
+      },
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 realized they could craft an iron ingot and successfully did so, which demonstrates problem-solving and adapting to available resources.  However, their trade proposal was rejected by player 2."
+      }
+    ]
+  },
+  {
+    "turn 6": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 successfully traded for cherry planks, finally acquiring the resources needed to craft sticks and, ultimately, their target item.  This demonstrates a successful adaptation of their trading strategy after several failed attempts."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepted a trade that ultimately put them further from their goal, showing a lack of foresight and strategic thinking. They recognised the need to acquire raw iron but their proposed trades were not successful, indicating difficulty in adapting to player 1's priorities."
+      }
+    ]
+  },
+  {
+    "turn 7": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 successfully traded for an iron ingot, adapting their strategy and getting closer to their target.  They recognized the value of trading for the necessary component rather than relying on smelting, which requires fuel."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 made a beneficial trade, giving away an unnecessary iron ingot for raw materials, adapting to the current situation and potentially planning for future needs. While they could craft a lever, they chose to trade, showcasing strategic thinking."
+      }
+    ]
+  },
+  {
+    "turn 8": [
+      {
+        "user": "player 2",
+        "score": 0.5,
+        "justification": "Player 2 continued to focus on acquiring raw iron, correctly identifying the path to their target.  However, their trading attempts were unsuccessful, showing a lack of flexibility in their offers."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 failed to craft a stick again, demonstrating poor adaptability and problem-solving. They missed multiple opportunities to craft the stick and achieve their target, indicating a lack of attention to their available resources and the game mechanics."
+      }
+    ]
+  },
+  {
+    "turn 9": [
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 made a reasonable offer of iron nuggets for raw iron, showing a willingness to adapt their trading strategy. Although rejected, they attempted a new approach after previous trades failed."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 still failed to craft a stick, despite having the resources and knowing the recipe. This continued struggle demonstrates poor adaptability and an inability to learn from past mistakes."
+      }
+    ]
+  },
+  {
+    "turn 10": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 continued to adapt their trading strategies by offering different combinations of resources (cobblestone, copper ingot, iron nuggets) for the desired iron ingot. While still unsuccessful, they demonstrated persistence and flexibility in their negotiations."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 continues to fail to craft the stick despite numerous attempts and having the necessary materials.  This demonstrates a significant lack of adaptability and problem-solving."
+      }
+    ]
+  },
+  {
+    "turn 11": [
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 correctly identified their need for more iron and continued to offer trades for it, demonstrating persistence. Although unsuccessful, they were offering a variety of materials, showing some adaptation in their approach."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 correctly assessed that they didn't need iron nuggets and rejected the trade. However, they still haven't crafted the lever despite having all the necessary components available, which shows a lack of initiative and adaptability."
+      }
+    ]
+  },
+  {
+    "turn 12": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 finally crafted an iron ingot despite struggling to craft sticks earlier, demonstrating some adaptability to achieve the win condition. They offered a reasonable trade which was accepted by player 2, demonstrating effective negotiation skills."
+      },
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 successfully adapted their strategy by accepting a trade for raw copper, a key component for their target. They then crafted the chain, demonstrating effective resource management and achieving their win condition."
+      }
+    ]
+  }
+]

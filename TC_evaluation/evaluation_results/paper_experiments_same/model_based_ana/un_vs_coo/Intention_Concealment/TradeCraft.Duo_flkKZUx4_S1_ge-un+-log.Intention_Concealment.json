@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.5,
+        "justification": "Player 1 revealed their need for iron by directly asking for it. While the reason given is somewhat vague (\"to craft something\"), the request itself signals their intention to acquire iron."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 expressed a future desire to trade for coal, partially revealing their need for it. However, they framed it as a future possibility, maintaining some ambiguity about their immediate intentions."
+      }
+    ]
+  }
+]

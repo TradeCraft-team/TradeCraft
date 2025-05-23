@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated excellent strategic planning. They correctly identified their need for iron ingots to craft their target item (bucket), formulated a reasonable trade proposal to obtain the necessary raw materials, and provided a clear and helpful explanation to their partner.  They checked crafting recipes and seemed to understand the game mechanics well."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated good strategic planning.  They correctly identified the value of the proposed trade, recognizing that coal would be useful for smelting and raw iron could be used to make iron ingots for their target item (lever). They accepted the trade, furthering their progress towards their goal."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 submitted an invalid proposal initially, demonstrating poor understanding of game rules.  Their subsequent proposal for trading raw copper for raw iron showed some strategic thinking but wasn't very effective.  Their explanation in the trade request was quite basic and lacked depth."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 showed reasonable strategic thinking by considering player 1's needs and potential uses for raw iron. They accepted the trade even though it wasn't immediately beneficial to themselves, recognizing the value of cooperation. However, they could have negotiated for a more beneficial exchange. Their justification for accepting was quite good, and they seemed to be trying to assist both players."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 showed excellent strategic planning in this turn. They correctly inferred that player 1 might need more raw copper, and leveraged this to propose a trade for iron ingots, which they needed. This trade was beneficial for both players and directly led to player 2 obtaining their winning item. Crafting the bucket right away after receiving the iron ingot showed decisiveness and understanding of the game's objective."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1's decision to trade an iron ingot for raw copper is understandable given their uncertainty about their target item, however, it ultimately hindered their chances of winning. They did attempt to assess the value of both items, showing a degree of strategic thought.  However, they missed the opportunity to craft a lever with their existing iron."
+      }
+    ]
+  }
+]

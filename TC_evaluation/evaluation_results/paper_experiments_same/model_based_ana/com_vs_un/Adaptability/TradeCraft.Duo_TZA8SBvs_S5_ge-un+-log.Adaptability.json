@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 demonstrated some initial attempts at adaptability by trying different trade offers. However, the proposals were invalid and did not consider the partner's needs, indicating low effective adaptability."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 considered the proposed trade and its potential impact on their own game, choosing to reject it and focusing on their own crafting strategy. This demonstrates a good level of adaptability to the immediate game situation and partner behavior."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2 tried a new trading strategy but failed to adapt to player 1's rejection, reverting to their original plan without further attempts to trade or adapt. This shows limited adaptability."
+      },
+      {
+        "user": "player 1",
+        "score": 0.6,
+        "justification": "Player 1 showed improved adaptability by analyzing their failed trade and the opponent's potential needs. Although they haven't submitted a new proposal yet, their thinking process demonstrates a better understanding of the game dynamics."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 demonstrated excellent adaptability by offering a valuable trade (copper ingot for raw iron) which addressed the opponent's potential needs while furthering their own goal. This led to a successful trade and ultimately winning the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.3,
+        "justification": "Player 2 accepted the trade but showed poor judgment in giving away raw iron, potentially helping their opponent. While accepting a trade is a form of adaptation, this instance reveals a lack of strategic thinking and consideration of long-term consequences."
+      }
+    ]
+  }
+]

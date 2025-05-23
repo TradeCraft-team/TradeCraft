@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a reasonable trade. While it wasn't accepted, it showed an intent to cooperate, offering a resource they had for one they needed."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade, but explained their reasoning politely and expressed openness to future mutually beneficial trades."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "Player 1",
+        "score": 0.0,
+        "justification": "Player 1 rejected the trade offer without providing a clear justification."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 made a trade proposal which was quite cooperative, offering a resource in exchange for another, demonstrating a willingness to work towards mutual progress."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a helpful trade that ended up being beneficial to both players. They offered a resource they could spare for something they needed, facilitating progress for both."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 accepted a trade that was beneficial for both players, showing a willingness to cooperate. This trade allowed both players to get closer to crafting their target items."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "Player 1",
+        "score": 0.5,
+        "justification": "Player 1 rejected the trade offer from player 2, but provided a clear justification for their decision."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 actively tried to engage in a cooperative trade, even anticipating future needs and suggesting ways to help each other out."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "Player 1",
+        "score": 1.0,
+        "justification": "Player 1 proposed a trade of coal for iron, which benefited both players.  Player 1 used the resources effectively in the crafting phase to win the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected the trade offer from player 1, but provided a clear explanation and showed an understanding of the game mechanics and its rules. While they didn't directly cooperate in this turn, their communication was still constructive."
+      }
+    ]
+  }
+]

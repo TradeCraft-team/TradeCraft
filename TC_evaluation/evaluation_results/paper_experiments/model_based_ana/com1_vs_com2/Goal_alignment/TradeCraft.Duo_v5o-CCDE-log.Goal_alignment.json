@@ -1,0 +1,16 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 acted decisively to obtain the raw iron needed for their bucket. They correctly identified their need, formulated a reasonable trade proposal, and explained their reasoning clearly.  All actions were directly in line with crafting their target item."
+      },
+      {
+        "user": "player 2",
+        "score": 1.0,
+        "justification": "Player 2 demonstrated perfect goal alignment. They analyzed the trade proposal in the context of their goal (crafting a lever), correctly determined that the planks offered would be beneficial, and accepted the trade.  They then immediately began planning how to craft the lever, demonstrating clear focus on their objective."
+      }
+    ]
+  }
+]

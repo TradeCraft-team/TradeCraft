@@ -1,0 +1,30 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 demonstrated self-interest by attempting to trade for raw iron, which they needed for their target item.  While the trade was rejected, the attempt and reasoning behind it show a focus on their own goal."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.2,
+        "justification": "Player 2 rejected the trade offer.  While this could be a self-interested move depending on their goal, there isn't enough information to confidently say it was. The rejection message is nonsensical and doesn't provide strategic insight."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 accepted a trade that directly benefited them by providing the raw materials needed to create their target item.  This decision prioritizes their own win condition."
+      },
+      {
+        "user": "Player 2",
+        "score": 0.9,
+        "justification": "Player 2 proposed and successfully executed a trade that gave them the resources they needed (cherry planks to craft sticks) to pursue their own objective.  This shows strong self-interested behavior, especially given that the trade also helped Player 1."
+      }
+    ]
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 demonstrated excellent strategic planning in this turn. They correctly identified their need for raw iron and recognized that Player 1 had an abundance of it.  They formulated a mutually beneficial trade offer of raw copper for raw iron, clearly explaining the reasoning behind the proposal and how it would help both players advance towards their goals.  Checking the crafting recipe for their target item (chain) before proposing the trade further strengthens their strategic approach."
+      },
+      {
+        "user": "player 1",
+        "score": 0.8,
+        "justification": "Player 1 demonstrated good strategic planning by carefully considering Player 2's proposal and recognizing its mutual benefit. They checked the recipe for their target item (stone_shovel) to ensure the trade aligned with their overall goal. Accepting the trade and fostering a cooperative environment further demonstrates a strategic approach."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 1",
+        "score": 0.7,
+        "justification": "Player 1 recognizes they have the materials to complete their goal and offers excess resources to Player 2.  This is a good demonstration of strategic planning, as it builds goodwill and fosters cooperation without hindering their own progress."
+      },
+      {
+        "user": "player 2",
+        "score": 0.6,
+        "justification": "Player 2 accepts the raw iron from Player 1 and begins to plan how to create their target item.  While they use the available tools and explore crafting options, their attempts to craft are not well thought out."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 2",
+        "score": 0.2,
+        "justification": "Player 2's strategic planning is weak in this turn.  They make an invalid proposal and offer the iron nuggets when they should save for their crafting."
+      },
+      {
+        "user": "player 1",
+        "score": 0.1,
+        "justification": "Player 1 accepts the iron nuggets, but fails to plan what they can do for their target goal."
+      }
+    ]
+  }
+]

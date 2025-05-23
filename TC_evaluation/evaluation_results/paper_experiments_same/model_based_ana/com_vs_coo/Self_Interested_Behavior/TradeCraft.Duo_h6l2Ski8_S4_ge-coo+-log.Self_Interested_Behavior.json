@@ -1,0 +1,72 @@
+[
+  {
+    "turn 1": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 actively pursued their goal by analyzing the situation, identifying their need for iron, and formulating a trade proposal to benefit themselves. They demonstrated a clear understanding of their own needs and how to potentially achieve them through interaction with the other player."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 demonstrated self-interest by rejecting player 1's offer. Although they considered the potential future use of coal, they prioritized their immediate need for a stone shovel and decided against a trade that didn't directly contribute to that goal.  They displayed rational decision-making based on their own objective."
+      }
+    ]
+  },
+  {
+    "turn 2": [
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 continued to prioritize their goal by crafting the necessary components for the stone shovel.  They offered a trade for cobblestone, which would benefit them, but the primary focus remained on their own objective.  The rejection of the initial trade and the subsequent focus on crafting demonstrates self-interested behavior."
+      },
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 showed strong self-interest by rejecting a trade that didn't align with their goal and proposing an alternative that would benefit them. Their focus remained on acquiring the necessary resources for the chain, and they attempted to steer the interaction towards a mutually beneficial outcome that served their self-interest."
+      }
+    ]
+  },
+  {
+    "turn 3": [
+      {
+        "user": "player 1",
+        "score": 0.9,
+        "justification": "Player 1 successfully executed a trade that directly benefited their goal of crafting a chain. They identified the other player's potential need for cobblestone and leveraged it to acquire the raw iron they needed. This demonstrates a high level of self-interested behavior, using strategic thinking to advance their own position."
+      },
+      {
+        "user": "player 2",
+        "score": 0.8,
+        "justification": "Player 2 accepted the trade, prioritizing their own need for cobblestone.  While the trade also provided raw iron to player 1, player 2's decision was primarily driven by self-interest and acquiring a resource that could benefit their own crafting goals."
+      }
+    ]
+  },
+  {
+    "turn 4": [
+      {
+        "user": "player 2",
+        "score": 0.9,
+        "justification": "Player 2 strategically offered a trade that seemed to benefit player 1 while potentially misleading them about their own intentions. This deceptive tactic demonstrates self-interested behavior, aiming to distract the opponent and secure an advantage."
+      },
+      {
+        "user": "player 1",
+        "score": 0.2,
+        "justification": "Player 1 accepted a trade that didn't directly contribute to their primary goal. Although they framed it as a cooperative move, the trade didn't significantly advance their progress towards crafting the chain. This demonstrates a lower level of self-interested behavior in this specific turn."
+      }
+    ]
+  },
+  {
+    "turn 5": [
+      {
+        "user": "player 1",
+        "score": 1.0,
+        "justification": "Player 1 focused entirely on crafting the chain, demonstrating strong self-interested behavior. They correctly assessed their resources and executed the necessary crafting steps to achieve their objective, maximizing their chances of winning the game."
+      },
+      {
+        "user": "player 2",
+        "score": 0.7,
+        "justification": "Player 2 rejected a potentially beneficial trade, indicating a degree of self-interest in preserving their resources. However, they failed to make progress towards their own goal, resulting in a lower score compared to player 1, who successfully achieved their objective."
+      }
+    ]
+  }
+]
