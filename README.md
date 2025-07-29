@@ -1,5 +1,7 @@
 # TradeCraft: an Arena for Long-term Strategic Social Reasoning and Planning
 
+Github Repo: <https://github.com/TradeCraft-team/TradeCraft>
+
 ✨ **Highlights** ✨
 
 *   **Advanced Social Intelligence Evaluation**: TradeCraft is a flexible, extensible multi-agent benchmark designed to evaluate high-order Theory of Mind, strategic social reasoning, and planning.
