@@ -37,7 +37,7 @@ Developing agents capable of high-order recursive Theory of Mind and strategic s
     *   The **Graphical User Interface (GUI)**, which provides a visual representation of the game world for human players.
 *   This dual-interface design allows for flexible experimentation, including AI vs. AI, Human vs. Human, and Human vs. AI setups.
 
-<img src="figs/pipeline.png" alt="Pipeline" width="800">
+<img src="../figs/pipeline.png" alt="Pipeline" width="800">
 
 📊 **Benchmark & Evaluation**
 
